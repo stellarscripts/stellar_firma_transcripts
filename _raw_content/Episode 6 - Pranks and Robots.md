@@ -4,17 +4,13 @@ title:
 date: 
 categories: episode
 tags: 
-episode_number: 
+episode_number: 6
 
 ---
 
-# 
-__*EPISODE 6*____ -____* PRANKS AND ROBOTS*__
+# EPISODE 6 - PRANKS AND ROBOTS
 
-
-## 
-__*Transcribed 1*__0__*/1*__4__*/19 via* ____*stellarscripts*____* on tumblr*__
-
+## Transcribed 10/14/19 via stellarscripts on tumblr
 
 #### ALEX
 
@@ -608,9 +604,9 @@ I...Yes, Trexel, obviously. What if you throw something at me? What about someth
 
 Simple. Classic. Almost so classic it's unexpected and therefore originally new again-- David, shut up, I've got an incredible idea!
 
-#### DAVID [with
+#### DAVID
 
-__infinite____ patience]__ What is it, Trexel?
+[with infinite patience] What is it, Trexel?
 
 #### TREXEL
 

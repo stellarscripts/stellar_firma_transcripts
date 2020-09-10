@@ -10,14 +10,15 @@ def cleanup_all(fnames=episode_fnames)
   end
 end
 
-
 def cleanup_one(fname=episode_fnames[4])
   ep = Episode::from_file(fname)
   md = ep.md
 
   {
     '<p style="text-align:left;">' => '', 
-    '____'                         => ''
+    '____'                         => '', 
+    '__[crosstalk]__'              => '_[crosstalk]_', 
+    '__crosstalk]__'               => '_[crosstalk]_', 
   }.each {|k,v| md.gsub!(k,v)}
 
   md = replace_misformatted_speaker_labels(md)
@@ -26,6 +27,8 @@ def cleanup_one(fname=episode_fnames[4])
   ep.md = md
   ep.save
 end
+
+
 
 def replace_misformatted_speaker_labels(md)
   rx = /\n__([A-Z0-9 ]+)__:\s+/
@@ -42,6 +45,8 @@ def trim_whitespace_from_lines(md)
     line.strip.gsub(/[[:blank:]]+/, ' ')
   end.join("\n")
 end
+
+
 
 
 

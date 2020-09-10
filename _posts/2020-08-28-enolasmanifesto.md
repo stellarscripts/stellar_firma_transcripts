@@ -29,7 +29,9 @@ __[shorter version of the show theme]__
 
 __[cassette tape put in player, tape clicks on]__
 
-__ENOLA, somewhat fanatical but reverent when talking about the Board:__ This is a declaration of strong, sound *and* resolute political intent... made in the face of... a-and as a *direct result* of, the growing issues that I see as corrupting th__e [pouting] previously perfect world of Stellar Firma [normal] and warping the intent of our benevolent and all-knowing Board. Hail the Board.__
+#### ENOLA, somewhat fanatical but reverent when talking about the Board
+
+This is a declaration of strong, sound *and* resolute political intent... made in the face of... a-and as a *direct result* of, the growing issues that I see as corrupting th__e [pouting] previously perfect world of Stellar Firma [normal] and warping the intent of our benevolent and all-knowing Board. Hail the Board.__
 
 I am Enola, and I was once like you, a loyal member of the Build Team. I-I-- I rose in the morning with-- with pride to work on the wonderful worlds that we have the privilege, and indeed, the duty... to build. I was proud of my contribution to the vision of the Board. *Proud* that I could do... my part.
 

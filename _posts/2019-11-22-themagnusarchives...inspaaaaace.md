@@ -2,7 +2,7 @@
 layout: post
 title: The Magnus Archives... in SPAAAAACE
 date: 2019-11-22 16:00:00.000000000 +00:00
-categories: 
+categories: special
 episode_number: 
 episode_title: The Magnus Archives... in SPAAAAACE
 tags: []

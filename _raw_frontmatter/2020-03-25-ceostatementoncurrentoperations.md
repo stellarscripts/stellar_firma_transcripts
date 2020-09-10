@@ -14,8 +14,7 @@ formats:
 #   PDF: 
 #   Google Doc: 
 sources:
-  transcriber 1 name: homepage URL/email/whatever
-  transcriber 2 name: homepage URL/email/whatever
+  stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
 

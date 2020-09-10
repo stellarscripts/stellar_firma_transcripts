@@ -2,7 +2,7 @@
 layout: post
 title: Stellar Firma - Season 1 Q&A
 date: 2019-08-23 15:00:00.000000000 +00:00
-categories: 
+categories: special
 episode_number: 
 episode_title: Stellar Firma - Season 1 Q&A
 tags: []
@@ -2470,7 +2470,7 @@ Yeah.
 
 #### BEN
 
-And we sort of sat down and went, "Ooh, hang on a minute." [__TIM:__ Yeah, I mean...] So, this is the reason we've come up with. Again, improv is great [__TIM:__ Improv!] 'cause you can just cover your ass whenever you want and shout* improv*!
+And we sort of sat down and went, "Ooh, hang on a minute." [__TIM:__ Yeah, I mean...] So, this is the reason we've come up with. Again, improv is great [__TIM:__ Improv!] 'cause you can just cover your ass whenever you want and shout *improv*!
 
 #### TIM
 
@@ -3018,6 +3018,6 @@ __[sarcastically]__ And a small thank you from Ben Meredith. Really, I don't app
 
 He doesn't like you all. Lovely. Thank you.
 
-__BEN and TIM:__ Bye!
+#### BEN and TIM: Bye!
 
 __[short version of the outro theme; there are no credits]__

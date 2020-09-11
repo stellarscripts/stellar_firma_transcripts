@@ -26,15 +26,9 @@ def replace_all
   @updated
 end
 
-# def replace_one(new_content_fname, old_post_fname)
-#   content = File.read(new_content_fname)
-#   ep = Episode.from_file(old_post_fname)
-#   ep.md = content
-#   ep.save
-# end
-
 # Contents of folder should be named like "001.md", where the number is the 
 # ep number.
+# 
 # Files should NOT contain frontmatter.
 def recleaned_eps
   @recleaned = gather_fnames(@in_dir, "*.md").map do |fname|

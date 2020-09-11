@@ -1,6 +1,6 @@
 require_relative 'episode'
 
-@ep_dir    = '../_posts'
+@ep_dir    = '_posts'
 
 
 def cleanup_all(fnames=episode_fnames)
@@ -31,7 +31,7 @@ end
 
 
 def replace_misformatted_speaker_labels(md)
-  rx = /\n__([A-Z0-9 ]+)__:\s+/
+  rx = /\n__([A-Z0-9 ]+)__:/
 
   while m = rx.match(md)
     md.gsub!(m[0], "\n#### #{m[1]}\n\n")

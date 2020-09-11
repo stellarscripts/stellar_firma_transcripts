@@ -10,21 +10,15 @@ content_warnings: []
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/stellarfirmaseason2q-a
 summary: Stellar Firma Season 2 Q&A <br/><br/>Tim and Ben answer some of the questions that have been sent in by the fan community.
-formats:
-#   PDF: 
-#   Google Doc: 
+formats: 
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
 
-#### SEASON TWO HIATUS BONUS
-
-# __ Season 2 Q&A__
-
 ## Transcribed 7/7/20 via stellarscripts on tumblr
 
-__[shorter version of the show theme]__
+##### [shorter version of the show theme]
 
 #### TIM
 
@@ -130,7 +124,7 @@ The tan-- Sorry, I don't mean to blow your mind, but the tangents... are the sto
 
 Woah!
 
-__[Tim makes exploding noises]__
+##### [Tim makes exploding noises]
 
 #### TIM
 
@@ -576,7 +570,7 @@ You're the one who wanted to make a reference to Stalinist Russia!
 
 You always have to make it-- Well, what do you want me to make a reference to, Trotskyist Argentina? That's not a thing! He just lived there. Go on-- on you go.
 
-__[Ben snorts, Tim laughs]__
+##### [Ben snorts, Tim laughs]
 
 #### BEN
 
@@ -860,7 +854,7 @@ Oh yeah yeah yeah. Absolutely. There's just that one little bit where we did.
 
 "And do you think they would get along?" *No!* Like, two egos of that size [__BEN: [chuckling]__ Yeah, god.] would just like-- It's like when you drop a bomb to put out a fire. They both die.
 
-__[Ben laughs uproariously]__
+##### [Ben laughs uproariously]
 
 #### TIM
 
@@ -1542,15 +1536,25 @@ But we don't know what! Maybe it was just a happy little face.
 
 Maybe it was.
 
-__TIM__: Hartro, yeah, I think is a she/her. Standards I think is more specifically a they/them. And I think that was again, because-- less to be like, "Hey, look, we've got, you know, not-gender-specific characters," but more like if I'm thinking about it conceptually, they're the kind of characters who are like... "This is not a thing." You know. "This is not a concern of ours. [__BEN:__ Yep.] Thank you very much." So.
+#### TIM
 
-__BEN__: "Not important to our identities, thank you very much."
+Hartro, yeah, I think is a she/her. Standards I think is more specifically a they/them. And I think that was again, because-- less to be like, "Hey, look, we've got, you know, not-gender-specific characters," but more like if I'm thinking about it conceptually, they're the kind of characters who are like... "This is not a thing." You know. "This is not a concern of ours. [__BEN:__ Yep.] Thank you very much." So.
 
-__TIM__: Exactly. Exactly. Yeah! And--
+#### BEN
 
-__BEN__: But also, to be clear, not in like a dehumanizing way, [__TIM__: No, it's just--] 'cause obviously, like, their names-- well, 'cause their names are Number 1 and Number 48, so you can definitely, like, read it like that, [__TIM__: Yeah...] but that's definitely not the intent, so.
+"Not important to our identities, thank you very much."
 
-__TIM__: It was much more an idea of, "Would they be male? I don't know. Would it matter? Would they be female? I don't know. Would it matter? Well, shall we just avoid pronouns? Okay." [__BEN:__ Yeah.] 'Cause you know, it's like why must one assign one when it kinda doesn't matter to anything to do with the plot or story or world or character? [__BEN:__ Yeah.] So there we are. So, we're--
+#### TIM
+
+Exactly. Exactly. Yeah! And--
+
+#### BEN
+
+But also, to be clear, not in like a dehumanizing way, [__TIM__: No, it's just--] 'cause obviously, like, their names-- well, 'cause their names are Number 1 and Number 48, so you can definitely, like, read it like that, [__TIM__: Yeah...] but that's definitely not the intent, so.
+
+#### TIM
+
+It was much more an idea of, "Would they be male? I don't know. Would it matter? Would they be female? I don't know. Would it matter? Well, shall we just avoid pronouns? Okay." [__BEN:__ Yeah.] 'Cause you know, it's like why must one assign one when it kinda doesn't matter to anything to do with the plot or story or world or character? [__BEN:__ Yeah.] So there we are. So, we're--
 
 #### BEN
 
@@ -2056,7 +2060,7 @@ You're the one who set the thing up! You're-- you started doing a thing!
 
 This is over now!
 
-__[short version of the outro theme]__
+##### [short version of the outro theme]
 
 Stellar Firma is distributed under a Creative Commons Attribution Noncommercial Sharealike 4.0 International Licence.
 

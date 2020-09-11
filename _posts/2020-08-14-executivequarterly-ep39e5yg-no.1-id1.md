@@ -10,27 +10,21 @@ content_warnings: []
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/executivequarterly-ep39e5yg-no.1-id1-
 summary: Executive Quarterly - Ep 39E5YG, No. 1 (ID 1) <br/><br/>This week on Executive Quarterly With Sigmund Shankeray we have a surprise visit from No. 1, a great honour indeed and everyone was so grateful and honoured and grateful.
-formats:
-#   PDF: 
-#   Google Doc: 
+formats: 
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
 
-#### SEASON TWO HIATUS BONUS
-
-# __Executive Quarterly - Ep 39E5YG, No. 1 (ID 1)__
-
 ## Transcribed 8/14/20 via stellarscripts on tumblr
 
-__[shorter version of the show theme]__
+##### [shorter version of the show theme]
 
 #### SIGMUND
 
 These are some vocal pickups for the audio of Sigmund Shankeray. __[clears throat] [varying intonation]__ Sigmund Shankeray. Sigmund Shankeray. __[footsteps approach]__ Sigmund Shankeray.
 
-__[doors swoosh open]__
+##### [doors swoosh open]
 
 #### NUMBER 1
 
@@ -88,7 +82,7 @@ Okay. Press the record. Let's go live.
 
 L-live? Not, not a test-- No. __[stammers]__ Okay. Going live.
 
-__[turns radio switch on, upbeat radio show intro music]__
+##### [turns radio switch on, upbeat radio show intro music]
 
 #### SIGMUND
 
@@ -102,7 +96,7 @@ Thank you, Sigmund. I am, of course, as always, fine.
 
 Hmm. Fine. May-- and may I say, very fine.
 
-__[beat]__
+##### [beat]
 
 #### NUMBER 1
 
@@ -428,11 +422,11 @@ __[breathless]__ The Board. __[shifts uncomfortably in seat] [quiet nervous sigh
 
 __[pleased]__ Thank you, Sigmund! This has been most... enlightening.
 
-__[upbeat radio show music]__
+##### [upbeat radio show music]
 
-__[radio switches off, dripping water, light flickers audibly]__
+##### [radio switches off, dripping water, light flickers audibly]
 
-__[short version of the outro theme]__
+##### [short version of the outro theme]
 
 #### TIM
 

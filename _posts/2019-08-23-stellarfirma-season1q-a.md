@@ -18,10 +18,6 @@ sources:
 official: false
 ---
 
-#### SEASON ONE HIATUS BONUS
-
-# __ Season 1 Q&A__
-
 Transcribed 12/31/19 via stellarscripts on tumblr
 
 #### ALEX

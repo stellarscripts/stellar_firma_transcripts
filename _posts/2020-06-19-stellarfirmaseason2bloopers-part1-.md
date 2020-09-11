@@ -10,27 +10,21 @@ content_warnings: []
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/stellarfirmaseason2bloopers-part1-
 summary: Season 2 Bloopers (part 1) <br/><br/>Whoopsies and OH-NOs <br/><br/>CLIENT - Perfect, got it in one!
-formats:
-#   PDF: 
-#   Google Doc: 
+formats: 
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
 
-#### SEASON TWO HIATUS BONUS
-
-# __ Outtakes, Part 1__
-
 ## Transcribed 6/22/20 via stellarscripts on tumblr
 
-__[shorter version of the show theme]__
+##### [shorter version of the show theme]
 
 #### TIM
 
 Hello there! Welcome to the first part of the bloopers for Stellar Firma season 2, because, you know what, as polished as the show sounds __[chuckles]__ occasionally there's some *hilarious* mistakes and we've captured that shame and are now presenting it to you like a dog throwing up its breakfast. I hope you enjoy it!
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM [silly voice]
 
@@ -136,7 +130,7 @@ Hi. Hi David! How're you doing?
 
 Okay. David--
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -150,7 +144,7 @@ __[sings]__ ♪ "David's Flat Corner." ♫
 
 __[laughs loudly]__ Ah, first corpse of the series! Here we go! Whoo!
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -184,7 +178,7 @@ __[deep voice]__ Yes.
 
 Right.
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -254,7 +248,7 @@ You're enjoying yourself.
 
 Good.
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -304,7 +298,7 @@ Awful. __[Tim chuckles]__ Just, just awful. Like good, but awful.
 
 Okay.
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -334,7 +328,7 @@ __[nonsense noises]__ "Waffle ba baa!"
 
 "Woof." __[laughs]__ This one's really... __[both chuckle]__ I think fun but definitely got away from us. __[Tim laughs]__ Anyway!
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -384,7 +378,7 @@ __[transition beep]__
 
 "Okay. We'll just say a clock that works."
 
-__[hand clap marker]__
+##### [hand clap marker]
 
 #### BEN
 
@@ -402,7 +396,7 @@ Yeah.
 
 Yeah, okay.
 
-__[hand clap marker]__
+##### [hand clap marker]
 
 #### BEN
 
@@ -440,7 +434,7 @@ Then use it. Okay, internal cl-- __[Ben laughs]__ Yeah, okay, in which case tell
 
 I love it.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -478,7 +472,7 @@ I'm keeping it.
 
 Right.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -488,7 +482,7 @@ __[transition beep]__
 
 "Yes."
 
-__["Trexel" grunts, "David" cries out]__
+##### ["Trexel" grunts, "David" cries out]
 
 #### TIM
 
@@ -506,7 +500,7 @@ Just gonna pause that there 'cause I realised--
 
 I'm actually a muppet now.
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -532,13 +526,13 @@ I wasn't doing that! F-__[bleep]__ you!
 
 Okay.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
 "It's tricky, David, and I don't know if you'll bleab--" __[nonsense noises]__
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -552,7 +546,7 @@ I don't know if you'll be able to!
 
 One more!
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -574,7 +568,7 @@ Just... put a comma in there.
 
 Okay.
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -588,7 +582,7 @@ __[transition beep]__
 
 "Yes."
 
-__[long beat]__
+##### [long beat]
 
 #### TIM
 
@@ -598,7 +592,7 @@ __[long beat]__
 
 __[happy]__ Okay. Yeah. Run with that.
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -648,7 +642,7 @@ Wow.
 
 __[sings]__ ♪ Let's gather 'round the never-nude tree. Fun for you and fun for me. __[BEN:__ This is f*cking galaxy brain thinking.__]__ Presents underneath the never-nude tree. Be ashamed of your body. ♫
 
-__[Ben laughs]__
+##### [Ben laughs]
 
 __BEN and TIM:__ Eh!
 
@@ -668,7 +662,7 @@ Are you prov-- No. [incomprehensible]
 
 No.
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -718,15 +712,15 @@ Come on.
 
 I'm not sayin' anything. Hmm-hmm. Hee hee! Oh ho ho! I'm a-- I'm a time wasting goblin! __[laughs]__ Tick tock! D-__[bleep]__ head o' clock!
 
-__[transition beep]__
+##### [transition beep]
 
-__["David" sighs deeply, yells out when "Trexel" begins speaking]__
+##### ["David" sighs deeply, yells out when "Trexel" begins speaking]
 
 #### TIM [sings]
 
 ♪ "It's sales time! It's time to do sales. __["David" stuttered breath out]__ It's sales timem so open up your full sails. The word sales has two meanings, one is commerce, the other's a canvas thing. It's sales time!" ♫
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -764,7 +758,7 @@ Alright, let's take another--
 
 We'll use the best.
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -782,21 +776,21 @@ No. __[Tim laughs]__ No. I said it, then I was like, 'nah mate'.
 
 I'm also going to-- I'm gonna react differently to this.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
 "But maybe the god has many--" __[soft clank]__ Oh, f-__[bleep]__ me, I just hit the-- __[breaks into laughter]__ I'm waving my arms a lot in this one.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
 "But maybe this god has many aspects! You have the kindly mouse. The vengeful mouse. The mouse of infinite knowledge with only one eye because it sold one to a wise peddler in order to get... knowledge. I said that. Wait. F-__[bleep]__ you." __[laughs]__
 
-__[Ben sighs]__
+##### [Ben sighs]
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -806,9 +800,9 @@ __[transition beep]__
 
 "Why did you make a little popping noise?"
 
-__[Ben makes more popping noises with his mouth]__
+##### [Ben makes more popping noises with his mouth]
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -818,7 +812,7 @@ __[transition beep]__
 
 ♪ "Body transmorg--"♫ F-__[bleep] [bleep] [bleep]__. __[laughs]__ Body transmogrification tithe.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -848,7 +842,7 @@ Trans-resmogrification.
 
 __[laughs]__ Trans-- trans-jacob-resmogrification. __[Ben chuckles]__ Transmogrification. Transmogrification. Transmogrification.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -866,13 +860,13 @@ __[transition beep]__
 
 __[deep voice, sings]__ ♪ Body transmogrification tithe. ♫ [__TIM:__ I-- I will--] Oh yeah, try and... ba ba da bop ba. That might help.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM [sings]
 
 ♪ "Body transmogrification tithe. I transmogrify to stay alive! To become a mouse! A mouse of my god, because I've got this hot mouse bod!" ♫
 
-__[pause, Tim laughs]__
+##### [pause, Tim laughs]
 
 #### BEN
 
@@ -882,19 +876,19 @@ Sorry, I was just celebrating 'cause that was *great.* I was like yes!
 
 Yeah! We got it. Okay, right. So we're going right, right from the end of that. I'm sorry, David, for the amount of bits in this. __[laughs]__
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
 "But when we've got an idea this strong about creating a new version of a religion they already have but we're telling them is different now to-- in cost-- in-- ta baa baa baa!
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
 I'm gonna burp. __[burps, pats stomach]__ Coffee.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM [sings]
 
@@ -950,7 +944,7 @@ What is this antagonistic relationship you have with our excellent editor?
 
 I don't know. The thing is, I-- __[sighs]__ I spend a lot of time speaking to David but he only speaks to me over short... messages over Slack, really. Like, I don't think we've spoken properly in quite a while. __[Ben chuckles]__ So, I'm really, I've really got the power stance in this relationship in that I largely can't hear him __[both chuckle]__ but he has to hear me for money. So... __[chuckles]__ Which is, you know, __[stutters]__ it's height of late-stage capitalism, I'm sure, but-- __[snorts]__ You know, that's the world we live in. And let's create an even worse one together as friends.
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN [sings]
 
@@ -960,7 +954,7 @@ __[transition beep]__
 
 __[sings]__ ♪ Old Mother Brown, she f-__[bleep]__ that summer. Don't let it come around again. Old Mother Brown, she has stopped time. She is a god. Kneel to her. __[Ben snorts]__ Knees up Mother Brown. Knees up Mother Brown. Give her ya tithes! Give her ya tithes! Knees up Mother Brown. ♫ No? Okay. Nothing. It's nothing. Moving on. Moving on.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -1006,7 +1000,7 @@ Gary! __[chuckles]__ Gary, the obvious miner. __[both laugh]__
 
 __BEN and TIM:__ Oy!
 
-__[Ben chuckles]__
+##### [Ben chuckles]
 
 #### TIM
 
@@ -1068,7 +1062,7 @@ Tim!
 
 Okay. Right. Okay, fine.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -1090,7 +1084,7 @@ Okay, just-- __[breaks into laughter]__
 
 We need to have a f-__[bleep]__. __[Ben laughs]__ Uh...
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -1128,7 +1122,7 @@ __[laughing]__ No you can't.
 
 __[laughing]__ "Gun walls!"
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -1146,7 +1140,7 @@ __[transition beep]__
 
 "Yes."
 
-__[both break into laughter]__
+##### [both break into laughter]
 
 #### BEN
 
@@ -1160,7 +1154,7 @@ Ah, I thought it was gonna be Fortnite and it was Hunger Games. __[laughs]__
 
 Hee hee!
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -1174,13 +1168,13 @@ __[laughing]__ Why-- why are you-- what are you doin-- __[mimics Ben]__ "Ah da d
 
 Look, I don't know. Shut up! __[both laugh]__ I don't come here to tell *you* how to do *your* job! __[chuckles]__
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
 "Ah, Fugg Dugger! Accobalg! How are you doin'? F-__[bleep]__, that's nothing! __[both laugh in character]__ That's nothing!
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -1198,7 +1192,7 @@ __[worried]__ "Oh..."
 
 "...no."
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -1212,9 +1206,9 @@ Sweet arms, my specifically male friends!
 
 "Sweet arms, men!"
 
-__[Ben laughs]__
+##### [Ben laughs]
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -1252,7 +1246,7 @@ __[sheepish]__ "I'm David."
 
 "Do the Har--"
 
-__[Jenny and Tim join Ben singing nonsense noises]__
+##### [Jenny and Tim join Ben singing nonsense noises]
 
 #### TIM
 
@@ -1274,7 +1268,7 @@ Let's get down to business.
 
 Okay. Right.
 
-__[transition beep]__
+##### [transition beep]
 
 #### JENNY
 
@@ -1296,7 +1290,7 @@ This is progress!
 
 Blah blah blah blah blah.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -1326,13 +1320,13 @@ I'm so sorry!
 
 __[slurring]__ Jenny, Jenny is very funny.
 
-__[Tim mimics Ben slurring words, Ben chuckles]__
+##### [Tim mimics Ben slurring words, Ben chuckles]
 
 #### TIM
 
 Okay. Right.
 
-__[transition beep]__
+##### [transition beep]
 
 #### JENNY
 
@@ -1346,7 +1340,7 @@ __[transition beep]__
 
 "--in front of Trexel."
 
-__[Ben and Tim break into laughter]__
+##### [Ben and Tim break into laughter]
 
 #### BEN
 
@@ -1380,7 +1374,7 @@ I know you are!
 
 Okay.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -1410,9 +1404,9 @@ Okay!
 
 Come on! __[laughs]__
 
-__[hand clap marker]__
+##### [hand clap marker]
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -1430,7 +1424,7 @@ __[transition beep]__
 
 Leave a little more to the imagination. You just, just *flashed* us all with your emotional baggage.
 
-__[transition beep]__
+##### [transition beep]
 
 #### JENNY
 
@@ -1448,7 +1442,7 @@ Hee hee hee.
 
 Right.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -1470,7 +1464,7 @@ __[Alan Bennett voice]__ Why is Alan Bennett doing, uh...?
 
 Satan would visit me often as a boy. I'd sit in church; he'd sit in a pew not two and a half ahead of me. He'd hover in the air. He'd turn to mother and flick boiled sweets at her eyes. She wouldn't notice. Then again, she was drinking.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -1484,13 +1478,13 @@ You said, "You put your sunglasses off."
 
 "You j-- you put 'em off! You don't agr-- [__BEN:__ Especially 'cause the--] Look, just delay their plans until it gets awkward."
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
 "And then we cover our mouths __[muffled]__ as we talk __[normal]__ to them, but not in front of the microphone, Tim, __[muffled]__ because that actually affects the audio in some way." __[chuckles]__
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -1548,7 +1542,7 @@ I don't want-- I don't want his filthy fingers in my show. __[chuckles]__ Get ou
 
 __[imitating Noel]__ It's me, I'm Noel Edmonds.
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -1558,7 +1552,7 @@ __[transition beep]__
 
 "You're not covered in anything edible. Stop rubbing yourself so audibly! That's so weird! __[Ben laughs]__ Okay, right." Okay. You do your lines again when you feel you're kind of. __[Ben continues laughing]__ I'm gonna stop the timer now.
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -1580,7 +1574,7 @@ Yeah, coast for the next 13 minutes.
 
 Sure. So...
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -1650,13 +1644,13 @@ So there was a 60 year old song that we both know from our childhood. __[Tim lau
 
 __[laughing]__ I listened to it not that long ago. __[Ben laughs]__ I remembered it and looked it up again.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
 "Now I've got the Victoria Cross."
 
-__[pause, Ben laughs, hand clap marker]__
+##### [pause, Ben laughs, hand clap marker]
 
 #### BEN
 
@@ -1670,7 +1664,7 @@ Make up a Cross.
 
 __[laughing]__ Alright. You're like, "Think of a bull-__[bleep]__ medal. Victoria-- Nah, damn it." __[chuckles]__
 
-__[hand clap marker]__
+##### [hand clap marker]
 
 #### TIM
 
@@ -1684,7 +1678,7 @@ That was silently. That was silently. Be a professional, damn it!
 
 Right. Okay. Victorious Cross. Okay.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -1722,7 +1716,7 @@ But we can't *just* be Matt Berry.
 
 Okay.
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -1768,7 +1762,7 @@ It's not scripted but I expect you to remember your lines, Ben.
 
 Yeah! __[both laugh]__
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -1790,7 +1784,7 @@ You say, 'Okay,' and then move on. __[laughs]__
 
 Yeah, okay. Sure.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -1828,7 +1822,7 @@ No. That's not a-- Hi, I'm Sigmund Shankeray and that's not a thing.
 
 __[Trexel voice]__ "Back in Trexel!"
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -1842,7 +1836,7 @@ Cool. Dark.
 
 Dark. It's a dark. Dah-rk, dah-rk. __[sings]__ ♪ Dun duh dun dun dun dun. It's a sad, sad, sad, everybody's getting real sad. ♫
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -1868,7 +1862,7 @@ F-__[bleep]__-ing hell!
 
 Okay. I'm sorry.
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -1958,7 +1952,7 @@ __[laughing]__ "Yes. 'Cause it's over the weekend."
 
 __[coughs]__ "Okay."
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -1996,7 +1990,7 @@ Okay. Right.
 
 I couldn't even contain my 'what?'
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -2046,7 +2040,7 @@ Wah!
 
 Right.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -2080,7 +2074,7 @@ Wait, hang on. We've established there's only slurry as food. There can't sudden
 
 Reconstituted dried up slurry.
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -2118,19 +2112,19 @@ __[transition beep]__
 
 "Yes."
 
-__[pause]__
+##### [pause]
 
 #### TIM
 
 "Trexel Geistman."
 
-__[long beat]__
+##### [long beat]
 
 #### BEN
 
 "Who."
 
-__[both laugh]__
+##### [both laugh]
 
 #### TIM
 
@@ -2164,9 +2158,9 @@ Alright. Keep going.
 
 Is it the best thing we've ever done?
 
-__[both make 'maybe/maybe not' noises]__
+##### [both make 'maybe/maybe not' noises]
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -2182,7 +2176,7 @@ Baa! Boof!
 
 Bumph! __[laughs]__ Baaing at more than the speed of sound!
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -2208,7 +2202,7 @@ __[transition beep]__
 
 "Land-tis Shrimp."
 
-__[long beat]__
+##### [long beat]
 
 #### BEN
 
@@ -2218,7 +2212,7 @@ __[takes a breath in to speak then pauses]__ I should probably finish this befor
 
 "Okay, if you wanna finish the brief before I..." __[takes a breath, softly chuckles]__
 
-__[hand clap marker]__
+##### [hand clap marker]
 
 #### BEN
 
@@ -2236,7 +2230,7 @@ Tim, I'm gonna be honest, it was not better.
 
 __[disappointed]__ "Okay." __[laughs]__
 
-__[hand clap marker]__
+##### [hand clap marker]
 
 #### BEN
 
@@ -2250,9 +2244,9 @@ __[laughing]__ There are many fine portmanteaus and that was not one of them.
 
 F-__[bleep]__-ing... __[Tim laughs]__ Do a clap.
 
-__[hand clap marker]__
+##### [hand clap marker]
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -2322,7 +2316,7 @@ __[laughs]__ I love that. Yes.
 
 Okay. Okay.
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -2336,7 +2330,7 @@ Dying witch?
 
 "It's a dying witch."
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
@@ -2354,13 +2348,13 @@ It's in my head now!
 
 And it's never gonna leave! Like a witch!
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
 "Lesson six: Trex-- Of Tre--" a f-__[bleep] [nonsense noises]__
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
@@ -2370,15 +2364,15 @@ __[transition beep]__
 
 Baa la ba da!
 
-__[both continue making nonsense noises, Ben laughs]__
+##### [both continue making nonsense noises, Ben laughs]
 
-__[transition beep]__
+##### [transition beep]
 
 #### BEN
 
 "Right. Hello, Stefan the Mantis Shrimp. I'm Trexel Geist-- I'm David 7!"
 
-__[pause]__
+##### [pause]
 
 #### TIM
 
@@ -2392,13 +2386,13 @@ David, save us!
 
 __[desperate]__ David! David, you have to end it with sound effects because we don't have anything at all! __[Ben laughs]__ And we built it so it's always very unsatisfying at the end!
 
-__[transition beep]__
+##### [transition beep]
 
 #### TIM
 
 I hope you enjoyed the first part of the season 2 bloopers for Stellar Firma. This is the first release in our inter-season programming schedule. We will be receiving an episode every 2 weeks until the season 3 premiere on the 4th of December. As you may have guessed, there will be a part 2 to the bloopers but that's not coming out next episode! No, it'll be something different and you'll just have to live with it!
 
-__[short version of the outro theme]__
+##### [short version of the outro theme]
 
 Stellar Firma is distributed under a Creative Commons Attribution Noncommercial Sharealike 4.0 International Licence.
 

@@ -18,10 +18,6 @@ sources:
 official: false
 ---
 
-#### SEASON ONE HIATUS BONUS
-
-# __ Tim & Ben do SCIENCE__
-
 Transcribed 12/30/19 via stellarscripts on tumblr
 
 #### ALEX

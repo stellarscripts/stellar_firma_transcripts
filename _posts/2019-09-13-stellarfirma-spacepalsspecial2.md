@@ -10,49 +10,63 @@ content_warnings: []
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/stellarfirma-spacepalsspecial2
 summary: Tim and Ben are joined by Rusty Quill Gaming regulars, Alex, Helen and Lydia, for the conclusion of our a special crossover! <br/><br/>This week Shmerr makes some observations and things get Hot as the crew tries to solve their fuel crisis.
-formats:
-#   PDF: 
-#   Google Doc: 
+formats: 
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
 
-#### SEASON ONE HIATUS BONUS
-
-# 
-
-# __ Space Pals Special 2__
-
 Transcribed 2/8/20 via stellarscripts on tumblr
 
-__Alex:__ Hi everyone, Alex here. I'd just like to take a moment to thank some of our patrons: Fast or Write, Capricious Cacti, C. X. Lu, Stick in Hand, Margaery Clare, Cora, aritchie, Brian Greenwald, Elita Grunde, majesticrhyhorn, Jon Williams, Sigma Bunny, Jack, Rainny Q, Charlotte Ballantyne, Kerry Cobey, Roseann White, Bennett Burns, Anna Veltkamp, Theora Rice. Thank you all. We really appreciate your support. If you'd like to join them, go to www.patreon.com/rustyquill and take a look at our rewards.
+#### ALEX
 
-__[Rusty Quill Gaming podcast theme]__
+Hi everyone, Alex here. I'd just like to take a moment to thank some of our patrons: Fast or Write, Capricious Cacti, C. X. Lu, Stick in Hand, Margaery Clare, Cora, aritchie, Brian Greenwald, Elita Grunde, majesticrhyhorn, Jon Williams, Sigma Bunny, Jack, Rainny Q, Charlotte Ballantyne, Kerry Cobey, Roseann White, Bennett Burns, Anna Veltkamp, Theora Rice. Thank you all. We really appreciate your support. If you'd like to join them, go to www.patreon.com/rustyquill and take a look at our rewards.
 
-__Helen:__ Hello and welcome to the Rusty Quill Gaming Podcast. It is I, Helen Gould, being poured into your ear holes right now. You are--
+##### [Rusty Quill Gaming podcast theme]
 
-__[Lydia laughs]__
+#### HELEN
 
-__Tim:__ Into your ear cups!
+Hello and welcome to the Rusty Quill Gaming Podcast. It is I, Helen Gould, being poured into your ear holes right now. You are--
 
-__Helen:__ Oh, yes!
+##### [Lydia laughs]
 
-__Lydia:__ Cup your ears!
+#### TIM
 
-__[Helen laughs]__
+Into your ear cups!
 
-__Ben:__ Well, I'm Ben Meredith.
+#### HELEN
 
-__Alex:__ I'm Alex Newall.
+Oh, yes!
 
-__Lydia:__ I'm Lydia Nicholas.
+#### LYDIA
 
-__Tim:__ And I'm Tim Callum Tyler Meredith.
+Cup your ears!
 
-__Alex:__ And I'm noticing we're all close to the mic now.
+##### [Helen laughs]
 
-__Tim:__ Mm.
+#### BEN
+
+Well, I'm Ben Meredith.
+
+#### ALEX
+
+I'm Alex Newall.
+
+#### LYDIA
+
+I'm Lydia Nicholas.
+
+#### TIM
+
+And I'm Tim Callum Tyler Meredith.
+
+#### ALEX
+
+And I'm noticing we're all close to the mic now.
+
+#### TIM
+
+Mm.
 
 __Helen: (simult.)__ Oh, we're so close... Yes.
 
@@ -64,1971 +78,3609 @@ __Alex: (simult.)__ This is going to be so unpleasant.
 
 __Ben: (simult.)__ I am so fluid.
 
-__[laughter]__
+##### [laughter]
 
-__Lydia:__ Oh, no!
+#### LYDIA
 
-__Helen:__ Speaking of fluid, that is the main goal of what we're trying to do.
+Oh, no!
 
-__Tim:__ Oh yeah!
+#### HELEN
 
-__Lydia:__ Yay!
+Speaking of fluid, that is the main goal of what we're trying to do.
 
-__Ben:__ But not blood!
+#### TIM
 
-__Tim:__ Not blood! __[laughs]__
+Oh yeah!
 
-__Lydia:__ Yeah.
+#### LYDIA
 
-__Helen:__ Hopefully not blood. We are playing Vast & Starlit by Epidiah Ravachol. We are about to have a team meeting possibly? We do not know.
+Yay!
 
-__[Lydia laughs]__
+#### BEN
 
-__Ben:__ Well, Alex gets to define a scene.
+But not blood!
 
-__Lydia:__ The stakes are admin.
+#### TIM
 
-__Tim:__ Yes.
+Not blood! __[laughs]__
 
-__Alex:__ No, no, I haven't been in a scene. It's passed from whoever's in a scene I thought.
+#### LYDIA
 
-__Ben:__ Ah, no, It's-- you go around in a circle.
+Yeah.
 
-__Alex:__ Oh, do I get to define a scene?
+#### HELEN
 
-__Tim:__ You're round the horn.
+Hopefully not blood. We are playing Vast & Starlit by Epidiah Ravachol. We are about to have a team meeting possibly? We do not know.
 
-__Helen:__ Yeah!
+##### [Lydia laughs]
 
-__Lydia:__ Yeah, you're in charge.
+#### BEN
 
-__Tim:__ You don't have to define yourself in it but--
+Well, Alex gets to define a scene.
 
-__Alex:__ OH! Oh, the magboot's on the other foot now!
+#### LYDIA
+
+The stakes are admin.
+
+#### TIM
+
+Yes.
+
+#### ALEX
+
+No, no, I haven't been in a scene. It's passed from whoever's in a scene I thought.
+
+#### BEN
+
+Ah, no, It's-- you go around in a circle.
+
+#### ALEX
+
+Oh, do I get to define a scene?
+
+#### TIM
+
+You're round the horn.
+
+#### HELEN
+
+Yeah!
+
+#### LYDIA
+
+Yeah, you're in charge.
+
+#### TIM
+
+You don't have to define yourself in it but--
+
+#### ALEX
+
+OH! Oh, the magboot's on the other foot now!
 
 __Helen: [laughs]__ Yes. This is turn based. The last person to have a turn was Lydia and--
 
-__Ben:__ Unfortunately--
+#### BEN
 
-__Helen:__ --you can't see the table so, you know, anyone could be next but it's actually Alex next.
+Unfortunately--
 
-__Alex:__ Is it always two people or can it be more?
+#### HELEN
 
-__Helen:__ It can be however many you want.
+--you can't see the table so, you know, anyone could be next but it's actually Alex next.
 
-__Alex:__ Okay, in which case I would suggest a team meeting involving... everyone except Shmerr __[laughter]__ and I would suggest that is at *the base* of the tree. So not deep down where the, the pit is necessarily, but where the real guts of the 'engine' in inverted commas are. For everyone to discuss the current water crisis and, and how to, how to deal with it.
+#### ALEX
 
-__Helen:__ Okay.
+Is it always two people or can it be more?
 
-__Alex:__ I'll-- I'm not there.
+#### HELEN
 
-__[snorts]__
+It can be however many you want.
 
-__Ben:__ So, I've set up a whiteboard. __[laughter]__ Yes, and I am striding side to side in front of it, trying to poke at things with a stick. I don't know how people are listening but...
+#### ALEX
 
-__Lydia:__ I'm perched on the white board and the white board is slightly reflective so I'm leaning down into it and I can see myself and I'm pecking furiously at my reflected image in the white board.
+Okay, in which case I would suggest a team meeting involving... everyone except Shmerr __[laughter]__ and I would suggest that is at *the base* of the tree. So not deep down where the, the pit is necessarily, but where the real guts of the 'engine' in inverted commas are. For everyone to discuss the current water crisis and, and how to, how to deal with it.
 
-__Tim:__ I'm hunkered in a corner, pointedly putting mints into my mouth one after the other.
+#### HELEN
 
-__[laughter]__
+Okay.
 
-__Alex:__ Nom, nom, nom.
+#### ALEX
 
-__Tim:__ Nom, nom.
+I'll-- I'm not there.
 
-__Helen:__ I have retracted my limbs and I look just like a metal box. __[Lydia laughs]__ But I am paying attention. This is my listening state.
+##### [snorts]
 
-__[laughter]__
+#### BEN
 
-__Lydia:__ Peck! Peck peck peck. Peck peck!
+So, I've set up a whiteboard. __[laughter]__ Yes, and I am striding side to side in front of it, trying to poke at things with a stick. I don't know how people are listening but...
 
-__Ben:__ And you just see Schmee sort of floating outside the-- looking through the porthole.
+#### LYDIA
 
-__Helen:__ Shmerr.
+I'm perched on the white board and the white board is slightly reflective so I'm leaning down into it and I can see myself and I'm pecking furiously at my reflected image in the white board.
 
-__Tim:__ Shmerr. Shmerr.
+#### TIM
 
-__Ben:__ Shmerr.
+I'm hunkered in a corner, pointedly putting mints into my mouth one after the other.
 
-__Lydia:__ Shmerr.
+##### [laughter]
 
-__Helen:__ Shmerr, Schmee, who cares?
+#### ALEX
 
-__Ben:__ Yeah.
+Nom, nom, nom.
 
-__Lydia:__ Peck.
+#### TIM
 
-__Shmerr:__ I agree. If it could just be Sh, it'd be quicker. More efficient.
+Nom, nom.
 
-__[laughter]__
+#### HELEN
 
-__[Lydia starts pecking intermittently]__
+I have retracted my limbs and I look just like a metal box. __[Lydia laughs]__ But I am paying attention. This is my listening state.
 
-__Unal:__ So, the way that we're going to find this scanner is we are going to, uh, divide the ship into four quadrants and we're each going to sweep a quadrant. And that way we can cover four times the ground as fast as that happens. So, moving on, once we make contact with the scanner, we need to develop some sort of way to communicate with it.
+##### [laughter]
 
-__Worshiper 2X7:__ I will communicate with the scanner.
+#### LYDIA
 
-__Unal:__ Yes, potentially if it is mechanical. But it might be bioorganic.
+Peck! Peck peck peck. Peck peck!
 
-__Mr Squeakington:__ I must-- this, this invader-- peck peck peck-- this invader-- peck-- this, this-- I need to deal with him first.
+#### BEN
 
-__Lydia:__ Starts violently attacking--
+And you just see Schmee sort of floating outside the-- looking through the porthole.
 
-__Unal:__ This is your reflection.
+#### HELEN
 
-__[chuckles]__
+Shmerr.
 
-__Mr Squeakington:__ Oh. That's a matter of opinion.
+#### TIM
 
-__Unal:__ Allow me to illustrate.
+Shmerr. Shmerr.
 
-__Ben:__ The section that you're pecking I get my white board marker out and just color it in so that it becomes not reflective anymore.
+#### BEN
 
-__Mr Squeakington:__ Eep. Well done.
+Shmerr.
 
-__[laughter]__
+#### LYDIA
 
-__Unal:__ The invader is defeated... and this is why I should be in command of the army!
+Shmerr.
 
-__Pilchards:__ Now, I don't wanna burst anybody's bubble but I've been hav'in' an lil' think in the corner. Yum yum yum.
+#### HELEN
 
-__Worshiper 2X7:__ Please contribute.
+Shmerr, Schmee, who cares?
 
-__Pilchards:__ Now, this sweeping system, lovely as it is and well done Cakey, I think perhaps there is a quicker way.
+#### BEN
 
-__Unal:__ And what would you think that would be? Also, can I have a mint?
+Yeah.
 
-__Pilchards:__ Well-- Ah, I've eaten them all, I'm sorry. Nom nom nom.
+#### LYDIA
 
-__[laughter]__
+Peck.
 
-__Alex:__ Pops the last one in afterwards!
+#### SHMERR
 
-__Tim:__ No, really slowly just brings up to his mouth, places it on his tongue, and just draws his tongue back into his mouth.
+I agree. If it could just be Sh, it'd be quicker. More efficient.
 
-__Ben:__ How long is your tongue?
+##### [laughter]
 
-__Tim:__ Two feet.
+##### [Lydia starts pecking intermittently]
 
-__[laughter]__
+#### UNAL
 
-__Lydia:__ And this just takes a while.
+So, the way that we're going to find this scanner is we are going to, uh, divide the ship into four quadrants and we're each going to sweep a quadrant. And that way we can cover four times the ground as fast as that happens. So, moving on, once we make contact with the scanner, we need to develop some sort of way to communicate with it.
 
-__Tim:__ And there's a little tapping noise that goes __[tapping noise]__. __[laughter]__ Nom nom nom.
+#### WORSHIPER 2X7
 
-__[laughter]__
+I will communicate with the scanner.
 
-__Pilchards:__ Why must we go scantering and scampering about this ship like rocks dropped down a flight of stairs when we could just ask the ship itself, y'know?
+#### UNAL
 
-__Unal:__ Right, very good. Ship, where is your scanner?
+Yes, potentially if it is mechanical. But it might be bioorganic.
 
-__Pilchards:__ You can't, you can't just yell at the ship.
+#### MR SQUEAKINGTON
 
-__Unal:__ I can and I am.
+I must-- this, this invader-- peck peck peck-- this invader-- peck-- this, this-- I need to deal with him first.
 
-__Pilchards:__ Well, 'ave a go, we'll see what 'appens.
+#### LYDIA
 
-__Unal:__ Ship! Reveal your secrets. Where is your scanner?
+Starts violently attacking--
+
+#### UNAL
+
+This is your reflection.
+
+##### [chuckles]
+
+#### MR SQUEAKINGTON
+
+Oh. That's a matter of opinion.
+
+#### UNAL
+
+Allow me to illustrate.
+
+#### BEN
+
+The section that you're pecking I get my white board marker out and just color it in so that it becomes not reflective anymore.
+
+#### MR SQUEAKINGTON
+
+Eep. Well done.
+
+##### [laughter]
+
+#### UNAL
+
+The invader is defeated... and this is why I should be in command of the army!
+
+#### PILCHARDS
+
+Now, I don't wanna burst anybody's bubble but I've been hav'in' an lil' think in the corner. Yum yum yum.
+
+#### WORSHIPER 2X7
+
+Please contribute.
+
+#### PILCHARDS
+
+Now, this sweeping system, lovely as it is and well done Cakey, I think perhaps there is a quicker way.
+
+#### UNAL
+
+And what would you think that would be? Also, can I have a mint?
+
+#### PILCHARDS
+
+Well-- Ah, I've eaten them all, I'm sorry. Nom nom nom.
+
+##### [laughter]
+
+#### ALEX
+
+Pops the last one in afterwards!
+
+#### TIM
+
+No, really slowly just brings up to his mouth, places it on his tongue, and just draws his tongue back into his mouth.
+
+#### BEN
+
+How long is your tongue?
+
+#### TIM
+
+Two feet.
+
+##### [laughter]
+
+#### LYDIA
+
+And this just takes a while.
+
+#### TIM
+
+And there's a little tapping noise that goes __[tapping noise]__. __[laughter]__ Nom nom nom.
+
+##### [laughter]
+
+#### PILCHARDS
+
+Why must we go scantering and scampering about this ship like rocks dropped down a flight of stairs when we could just ask the ship itself, y'know?
+
+#### UNAL
+
+Right, very good. Ship, where is your scanner?
+
+#### PILCHARDS
+
+You can't, you can't just yell at the ship.
+
+#### UNAL
+
+I can and I am.
+
+#### PILCHARDS
+
+Well, 'ave a go, we'll see what 'appens.
+
+#### UNAL
+
+Ship! Reveal your secrets. Where is your scanner?
 
 __Ship (Alex):__ Hello.
 
-__Pilchards:__ Aww, damn.
+#### PILCHARDS
 
-__Ship:__ How can I... be of assistance?
+Aww, damn.
 
-__Unal:__ Where's your scanner? We need to find a comet. To feed you. Water?
+#### SHIP
 
-__Mr Squeakington:__ Not, not a comet that's a, for a small computer parts. A water one.
+How can I... be of assistance?
 
-__Worshiper 2X7:__ You require refueling. Where is moisture?
+#### UNAL
 
-__Pilchards:__ Go on. Give us a clue boy-o.
+Where's your scanner? We need to find a comet. To feed you. Water?
 
-__Ship:__ I will... when I can get a word in... edgeways.
+#### MR SQUEAKINGTON
 
-__Mr Squeakington:__ I don't like it. Squeak!
+Not, not a comet that's a, for a small computer parts. A water one.
 
-__Ship:__ The scanner...
+#### WORSHIPER 2X7
 
-__Pilchards:__ [incomprehensible??] though don't trust him.
+You require refueling. Where is moisture?
 
-__[Mr Squeakington squeaks]__
+#### PILCHARDS
 
-__Ship:__ The scanner... can be located... in the aft... manual compartment.
+Go on. Give us a clue boy-o.
 
-__Pilchards:__ Now, is aft the one that's the backwards at the pointy bit or the front?
+#### SHIP
 
-__Lydia:__ Just starts furiously attacking whatever speaker.
+I will... when I can get a word in... edgeways.
 
-__Unal:__ Well, given that the other one is the fore, and the word forward exists, I'm going to guess... the back.
+#### MR SQUEAKINGTON
 
-__Pilchards:__ You don't have to be a ding-dong about it, Urinal Cakes.
+I don't like it. Squeak!
 
-__Lydia:__ Attacking.
+#### SHIP
 
-__Unal:__ Well, my name is Unal and you've refused to call me that so, touché.
+The scanner...
 
-__Lydia:__ Just furiously attacking the speaker that the sound came out of. Eep!
+#### PILCHARDS
 
-__[laughter]__
+[incomprehensible??] though don't trust him.
 
-__Pilchards:__ Alright then. Perhaps I will, uh, pop down the aft then and find this scanner and, uh, and pop a lil' comety request into it. Yeah? Yeah? Yeah? We like that? Yeah, we like it.
+##### [Mr Squeakington squeaks]
 
-__Worshiper 2X7:__ I will accompany you.
+#### SHIP
 
-__Unal:__ As will I.
+The scanner... can be located... in the aft... manual compartment.
 
-__Pilchards:__ Aww, it doesn't have to be like a party. We can just like, two is enough. You know, you're needed up here in the, in-in the command room, you know, like a center of a brain.
+#### PILCHARDS
 
-__Unal:__ Oh, yes, very good. Actually, yes, that is a good place for the commander to be. I will think about our next moves and put them down on this white board.
+Now, is aft the one that's the backwards at the pointy bit or the front?
 
-__Pilchards:__ Yeah, please.
+#### LYDIA
 
-__Unal:__ I'm gonna draw some arrows and some grids. It's going to be wonderful.
+Just starts furiously attacking whatever speaker.
 
-__Pilchards:__ Oh, I look forward to it.
+#### UNAL
 
-__Unal:__ Good. I'm glad. [__Pilchards:__ Yeah.] I'm glad you're getting in the spirit of things, Pilchards.
+Well, given that the other one is the fore, and the word forward exists, I'm going to guess... the back.
 
-__Pilchards:__ Yeah yeah, no, you're a, you're a born leader and I follow you to the ends of my feet. Now, why don't we pop down the aft of the ship *and see if we can find* a lovely lil' box or some'ing.
+#### PILCHARDS
 
-__Worshiper 2X7:__ I would like to find a box.
+You don't have to be a ding-dong about it, Urinal Cakes.
 
-__Pilchards:__ Or some'ing.
+#### LYDIA
 
-__Worshiper 2X7:__ Or something.
+Attacking.
 
-__Pilchards:__ Okay.
+#### UNAL
+
+Well, my name is Unal and you've refused to call me that so, touché.
+
+#### LYDIA
+
+Just furiously attacking the speaker that the sound came out of. Eep!
+
+##### [laughter]
+
+#### PILCHARDS
+
+Alright then. Perhaps I will, uh, pop down the aft then and find this scanner and, uh, and pop a lil' comety request into it. Yeah? Yeah? Yeah? We like that? Yeah, we like it.
+
+#### WORSHIPER 2X7
+
+I will accompany you.
+
+#### UNAL
+
+As will I.
+
+#### PILCHARDS
+
+Aww, it doesn't have to be like a party. We can just like, two is enough. You know, you're needed up here in the, in-in the command room, you know, like a center of a brain.
+
+#### UNAL
+
+Oh, yes, very good. Actually, yes, that is a good place for the commander to be. I will think about our next moves and put them down on this white board.
+
+#### PILCHARDS
+
+Yeah, please.
+
+#### UNAL
+
+I'm gonna draw some arrows and some grids. It's going to be wonderful.
+
+#### PILCHARDS
+
+Oh, I look forward to it.
+
+#### UNAL
+
+Good. I'm glad. [__Pilchards:__ Yeah.] I'm glad you're getting in the spirit of things, Pilchards.
+
+#### PILCHARDS
+
+Yeah yeah, no, you're a, you're a born leader and I follow you to the ends of my feet. Now, why don't we pop down the aft of the ship *and see if we can find* a lovely lil' box or some'ing.
+
+#### WORSHIPER 2X7
+
+I would like to find a box.
+
+#### PILCHARDS
+
+Or some'ing.
+
+#### WORSHIPER 2X7
+
+Or something.
+
+#### PILCHARDS
+
+Okay.
 
 __Alex: [unsure]__ Hot?
 
 __Tim: [laughing]__ Not for that.
 
-__[laughter]__
+##### [laughter]
 
-__Lydia:__ Hot. Hot.
+#### LYDIA
 
-__Tim:__ That's not how it goes.
+Hot. Hot.
 
-__Ben:__ Hot.
+#### TIM
 
-__Lydia:__ Hot.
+That's not how it goes.
 
-__Ben:__ It's hot.
+#### BEN
 
-__Lydia:__ It's hot.
+Hot.
 
-__Alex:__ Hot.
+#### LYDIA
 
-__Ben:__ Hot.
+Hot.
 
-__Lydia:__ Hot.
+#### BEN
 
-__Helen:__ Okay.
+It's hot.
 
-__Pilchards:__ Look, we've all got urges.
+#### LYDIA
 
-__[laughter]__
+It's hot.
 
-__Ben:__ It's hot.
+#### ALEX
 
-__Lydia:__ Oh, it's hot.
+Hot.
 
-__Helen:__ Okay. We'll resolve that the next time me or Tim are in--
+#### BEN
 
-__Ben:__ A scene.
+Hot.
 
-__Helen:__ A scene.
+#### LYDIA
 
-__Ben:__ Cool.
+Hot.
 
-__Tim:__ So what happens? I'm not going for this.
+#### HELEN
 
-__Ben:__ I want to see a scene of Shmerr, on their own, __[laughter]__ looking through the porthole at the progress that the Worshiper and Pilchards are making. [__Tim:__ Um, can I--] As he crawls from porthole to porthole tracking them.
+Okay.
 
-__Helen:__ Can Gaia communicate outside of the ship?
+#### PILCHARDS
 
-__Alex:__ I'm gonna say no?
+Look, we've all got urges.
 
-__Lydia:__ No.
+##### [laughter]
+
+#### BEN
+
+It's hot.
+
+#### LYDIA
+
+Oh, it's hot.
+
+#### HELEN
+
+Okay. We'll resolve that the next time me or Tim are in--
+
+#### BEN
+
+A scene.
+
+#### HELEN
+
+A scene.
+
+#### BEN
+
+Cool.
+
+#### TIM
+
+So what happens? I'm not going for this.
+
+#### BEN
+
+I want to see a scene of Shmerr, on their own, __[laughter]__ looking through the porthole at the progress that the Worshiper and Pilchards are making. [__Tim:__ Um, can I--] As he crawls from porthole to porthole tracking them.
+
+#### HELEN
+
+Can Gaia communicate outside of the ship?
+
+#### ALEX
+
+I'm gonna say no?
+
+#### LYDIA
+
+No.
 
 __Alex: (simult.)__ Otherwise I'll break.
 
 __Helen: (simult.)__ Okay, so you're going to be talking to yourself on the--
 
-__Alex:__ Yeah, I'm fine talking to myself for a while.
+#### ALEX
 
-__Helen:__ Yeah.
+Yeah, I'm fine talking to myself for a while.
 
-__[Lydia laughs]__
+#### HELEN
 
-__[SFX: breathing in a space suit]__
+Yeah.
 
-__Shmerr:__ Uh, personal diary of Shmerr day... I'm not sure: __[laughter]__ I have found myself at the bottom--I think it's called the bottom--of the ship. Unfortunately, my papers remain inside so I am attempting to communicate with the crew through the portholes. They are very much not listening, that's fine. So, as the commander of this vessel, __[laughter]__ it is, it is my duty to ensure that things happen efficiently and sometimes that involves a hands-off method, so I'm told. __[laughter]__ I noticed that two of them--I never caught their names--are heading somewhere else so I am going to attempt to follow them. Diary entry of Shmerr number two: they have made it into a room which has items within it. That's good. They are stood very close to one another and they are attempting to find a thing. As commander of this vessel, I approve of this action. I'm glad they are anticipating my orders and I am sure this will be fine. Oh! Oh, I think one of them might have tripped over... into the other one's arms. Good that they caught them. I'm glad that my crew care for one another. __[laughter]__ That's a lot of arms. Oh, they-- oh, this is, uh-- I may have to file an incident report. It appears they may be choking. __[laughter]__ Uh, it's-it's okay though. One of them is apparently helping them out in some way-- Goodness me! That is a very long tongue. __[laughter]__ I believe they may have been trying to look for the scanner and it-it's on the floor. It's between their feet. If they just look down-- Oh, no! That's not looking down! Goodness me. Thank goodness it's zero G or someone would be getting hurt. __[laughter]__ And that's, that's fine. And I guess I'll just __[tapping]__ tap on the window-- No, they're-- They can't hear. That's fine. Oh, no! One of them's, one of them's picked up the sca-- That's not what the scanner is used for. __[SFX ends]__
+##### [Lydia laughs]
 
-__[laughter]__
+##### [SFX: breathing in a space suit]
 
-__Ben:__ Cut!
+#### SHMERR
 
-__Helen:__ Oh!
+Uh, personal diary of Shmerr day... I'm not sure: __[laughter]__ I have found myself at the bottom--I think it's called the bottom--of the ship. Unfortunately, my papers remain inside so I am attempting to communicate with the crew through the portholes. They are very much not listening, that's fine. So, as the commander of this vessel, __[laughter]__ it is, it is my duty to ensure that things happen efficiently and sometimes that involves a hands-off method, so I'm told. __[laughter]__ I noticed that two of them--I never caught their names--are heading somewhere else so I am going to attempt to follow them. Diary entry of Shmerr number two: they have made it into a room which has items within it. That's good. They are stood very close to one another and they are attempting to find a thing. As commander of this vessel, I approve of this action. I'm glad they are anticipating my orders and I am sure this will be fine. Oh! Oh, I think one of them might have tripped over... into the other one's arms. Good that they caught them. I'm glad that my crew care for one another. __[laughter]__ That's a lot of arms. Oh, they-- oh, this is, uh-- I may have to file an incident report. It appears they may be choking. __[laughter]__ Uh, it's-it's okay though. One of them is apparently helping them out in some way-- Goodness me! That is a very long tongue. __[laughter]__ I believe they may have been trying to look for the scanner and it-it's on the floor. It's between their feet. If they just look down-- Oh, no! That's not looking down! Goodness me. Thank goodness it's zero G or someone would be getting hurt. __[laughter]__ And that's, that's fine. And I guess I'll just __[tapping]__ tap on the window-- No, they're-- They can't hear. That's fine. Oh, no! One of them's, one of them's picked up the sca-- That's not what the scanner is used for. __[SFX ends]__
 
-__Tim:__ Well.
+##### [laughter]
 
-__Helen:__ Good grief. Oh, it's my turn to think of a scene. I'm gonna leave that there.
+#### BEN
 
-__Alex:__ I think that's really wise. __[Helen laughs]__ I'm not sure how I became a peeping Tom but here I am!
+Cut!
+
+#### HELEN
+
+Oh!
+
+#### TIM
+
+Well.
+
+#### HELEN
+
+Good grief. Oh, it's my turn to think of a scene. I'm gonna leave that there.
+
+#### ALEX
+
+I think that's really wise. __[Helen laughs]__ I'm not sure how I became a peeping Tom but here I am!
 
 __Ben: (simult.)__ I mean, with that voice--
 
 __Tim: (simult.)__ Hot! Some people like to watch.
 
-__Ben:__ With that voice.
+#### BEN
+
+With that voice.
 
 __Tim: [imitating Shmerr]__ Oh, no!
 
-__Ben:__ That voice is wearing a dirty anorak.
+#### BEN
 
-__[laughter]__
+That voice is wearing a dirty anorak.
 
-__Tim:__ Even without your glands you still exuded some fluid.
+##### [laughter]
 
-__Helen:__ Okay. I would like to see Unal and Mr. Squeakington attempting to figure out what the next steps are if the scanner is found.
+#### TIM
 
-__Mr Squeakington:__ Well they're taking a while. Eep!
+Even without your glands you still exuded some fluid.
 
-__Unal:__ Yes, well, maybe the scanner's well hidden.
+#### HELEN
 
-__Mr Squeakington:__ Mm, yeah.
+Okay. I would like to see Unal and Mr. Squeakington attempting to figure out what the next steps are if the scanner is found.
 
-__Unal:__ So, Corporal Squeakington--
+#### MR SQUEAKINGTON
 
-__Mr Squeakington:__ How would you find a scanner? Would there need to be another scanner? __[gasps]__ We should find the scanner for the scanner! The scanner scanner! Eep!
+Well they're taking a while. Eep!
 
-__Unal:__ Ship?!
+#### UNAL
 
-__Mr Squeakington:__ Ship.
+Yes, well, maybe the scanner's well hidden.
 
-__Ship:__ Yes?
+#### MR SQUEAKINGTON
 
-__Unal:__ Is there a scanner for the scanner?
+Mm, yeah.
 
-__Ship:__ Of course.
+#### UNAL
 
-__Unal:__ Oh good. Where's that?
+So, Corporal Squeakington--
 
-__Ship:__ In the fore storage compartment.
+#### MR SQUEAKINGTON
 
-__Unal:__ Right. Well let's go there then.
+How would you find a scanner? Would there need to be another scanner? __[gasps]__ We should find the scanner for the scanner! The scanner scanner! Eep!
 
-__Mr Squeakington:__ Yep, makes sense.
+#### UNAL
 
-__Unal:__ We'll find that-- we'll find that scanner scanner in a jiffy!
+Ship?!
+
+#### MR SQUEAKINGTON
+
+Ship.
+
+#### SHIP
+
+Yes?
+
+#### UNAL
+
+Is there a scanner for the scanner?
+
+#### SHIP
+
+Of course.
+
+#### UNAL
+
+Oh good. Where's that?
+
+#### SHIP
+
+In the fore storage compartment.
+
+#### UNAL
+
+Right. Well let's go there then.
+
+#### MR SQUEAKINGTON
+
+Yep, makes sense.
+
+#### UNAL
+
+We'll find that-- we'll find that scanner scanner in a jiffy!
 
 __Mr Squeakington: [laughing]__ Yes.
 
-__Unal:__ So, Corporal Squeakington, how are you finding, uh, your enscripted life so far?
+#### UNAL
 
-__Mr Squeakington:__ Wait, what? I didn't change my name.
+So, Corporal Squeakington, how are you finding, uh, your enscripted life so far?
 
-__Unal:__ Lieutenant?
+#### MR SQUEAKINGTON
+
+Wait, what? I didn't change my name.
+
+#### UNAL
+
+Lieutenant?
 
 __Mr Squeakington: [stutters]__
 
-__Unal:__ Well, Mr. isn't a military rank so...
+#### UNAL
 
-__Mr Squeakington:__ It's my name!
+Well, Mr. isn't a military rank so...
 
-__Unal:__ Okay, Lieutenant Mr. Squeakington.
+#### MR SQUEAKINGTON
 
-__Mr Squeakington:__ Is that a promotion?
+It's my name!
 
-__Unal:__ Yes.
+#### UNAL
 
-__Mr Squeakington:__ Okay!
+Okay, Lieutenant Mr. Squeakington.
 
-__[SFX: background bugs in a forest noise]__
+#### MR SQUEAKINGTON
 
-__Unal:__ Brilliant. Right. Very good lieutenant. So, how are you--
+Is that a promotion?
 
-__Mr Squeakington:__ What does that make you?
+#### UNAL
 
-__Unal:__ Me? Uh, well, obviously it's in my name, [__Mr Squeakington:__ You're a lieutenant?] *Commander* Unal Manspray.
+Yes.
 
-__Mr Squeakington:__ Ah! Is a lieutenant better than a communal?
+#### MR SQUEAKINGTON
 
-__Unal:__ No, commander.
+Okay!
 
-__Mr Squeakington:__ Eep!
+##### [SFX: background bugs in a forest noise]
 
-__Unal:__ No, but it's different. A lieutenant has, uh, different responsibilities. They command a unit.
+#### UNAL
 
-__Mr Squeakington:__ Ah.
+Brilliant. Right. Very good lieutenant. So, how are you--
 
-__Unal:__ So, how are you finding the command of your unit?
+#### MR SQUEAKINGTON
 
-__Mr Squeakington:__ Well, I told you what to do and you did it, so that's great.
+What does that make you?
 
-__Unal:__ Good managing upwards then.
+#### UNAL
 
-__Mr Squeakington:__ Squeak! Squeak.
+Me? Uh, well, obviously it's in my name, [__Mr Squeakington:__ You're a lieutenant?] *Commander* Unal Manspray.
 
-__Lydia:__ As we go past a porthole, I spot an enemy!
+#### MR SQUEAKINGTON
 
-__[Tim laughs]__
+Ah! Is a lieutenant better than a communal?
 
-__Unal:__ Ah, wait.
+#### UNAL
 
-__Ben:__ I color in the porthole. __[marker coloring noises]__
+No, commander.
 
-__[laughter]__
+#### MR SQUEAKINGTON
+
+Eep!
+
+#### UNAL
+
+No, but it's different. A lieutenant has, uh, different responsibilities. They command a unit.
+
+#### MR SQUEAKINGTON
+
+Ah.
+
+#### UNAL
+
+So, how are you finding the command of your unit?
+
+#### MR SQUEAKINGTON
+
+Well, I told you what to do and you did it, so that's great.
+
+#### UNAL
+
+Good managing upwards then.
+
+#### MR SQUEAKINGTON
+
+Squeak! Squeak.
+
+#### LYDIA
+
+As we go past a porthole, I spot an enemy!
+
+##### [Tim laughs]
+
+#### UNAL
+
+Ah, wait.
+
+#### BEN
+
+I color in the porthole. __[marker coloring noises]__
+
+##### [laughter]
 
 __Shmerr: [disappointed]__ Aww.
 
-__[laughter]__
+##### [laughter]
 
-__Lydia:__ The way the light reflected I was attacking myself.
+#### LYDIA
 
-__Tim:__ And as you, as you're coloring it in, you, you-- I saw a flagging, "ooh, ooh, ooh" and just sort of, like, try to peek over the color and it just, it just absolutely blocks you out.
+The way the light reflected I was attacking myself.
 
-__Mr Squeakington:__ Surrounded by enemies. Eep!
+#### TIM
 
-__Unal:__ Yes, well, a good commander knows how to help their lieutenants. [__Mr Squeakington:__ Eep!] So, I'm defeating these enemies for you, see. __[more squeaks]__ Right, so...
+And as you, as you're coloring it in, you, you-- I saw a flagging, "ooh, ooh, ooh" and just sort of, like, try to peek over the color and it just, it just absolutely blocks you out.
 
-__Mr Squeakington:__ Scanner?
+#### MR SQUEAKINGTON
 
-__Unal:__ Yes, well, I think this might be the, the fore storage cupboard so let's just open this up here and...
+Surrounded by enemies. Eep!
 
-__Mr Squeakington:__ That's a tiny bird--
+#### UNAL
 
-__Unal:__ That is a lot of sap.
+Yes, well, a good commander knows how to help their lieutenants. [__Mr Squeakington:__ Eep!] So, I'm defeating these enemies for you, see. __[more squeaks]__ Right, so...
 
-__Lydia:__ --is grabbing onto the handle and trying to-- __[loud clank as the door opens]__ Tiny bird.
+#### MR SQUEAKINGTON
 
-__Unal:__ Gosh, you're strong!
+Scanner?
 
-__[laughter]__
+#### UNAL
 
-__Mr Squeakington:__ It's the low gravity.
+Yes, well, I think this might be the, the fore storage cupboard so let's just open this up here and...
 
-__Unal:__ Right.
+#### MR SQUEAKINGTON
 
-__Mr Squeakington:__ Eep!
+That's a tiny bird--
 
-__Unal:__ Okay, well that's just--
+#### UNAL
 
-__Mr Squeakington:__ Also, I, I have a much bigger and more impressive form in a different dimension.
+That is a lot of sap.
 
-__Unal:__ Ah. __[stutters]__ Very interesting. Well, you look like a very tiny budgie now so quite shocking seeing you just heft that door completely off of its hinges.
+#### LYDIA
+
+--is grabbing onto the handle and trying to-- __[loud clank as the door opens]__ Tiny bird.
+
+#### UNAL
+
+Gosh, you're strong!
+
+##### [laughter]
+
+#### MR SQUEAKINGTON
+
+It's the low gravity.
+
+#### UNAL
+
+Right.
+
+#### MR SQUEAKINGTON
+
+Eep!
+
+#### UNAL
+
+Okay, well that's just--
+
+#### MR SQUEAKINGTON
+
+Also, I, I have a much bigger and more impressive form in a different dimension.
+
+#### UNAL
+
+Ah. __[stutters]__ Very interesting. Well, you look like a very tiny budgie now so quite shocking seeing you just heft that door completely off of its hinges.
 
 __Mr Squeakington: [laughs]__ I am a tiny, tiny budgie. Don't know my own strength. Squeak.
 
-__[SFX: mechanical whirring noise added]__
+##### [SFX: mechanical whirring noise added]
 
-__Unal:__ Well-- Well, there's quite a lot of sap in there so I-I don't know if wouldn't mind but __[stutters]__ this is the only uniform I've got and I'd rather keep it-- It's not very good for the commander to look dirty, so if you wouldn't mind going inside and getting the scanner scanner, that'd be greatly appreciated. I might even give you a commendation.
+#### UNAL
 
-__Mr Squeakington:__ Oh, is-- can I eat it?
+Well-- Well, there's quite a lot of sap in there so I-I don't know if wouldn't mind but __[stutters]__ this is the only uniform I've got and I'd rather keep it-- It's not very good for the commander to look dirty, so if you wouldn't mind going inside and getting the scanner scanner, that'd be greatly appreciated. I might even give you a commendation.
 
-__Unal:__ The sap or the scanner scanner?
+#### MR SQUEAKINGTON
 
-__Mr Squeakington:__ Or the commendation.
+Oh, is-- can I eat it?
 
-__Unal:__ Yes.
+#### UNAL
 
-__Mr Squeakington:__ Okay. Into the sap. __[squelch]__
+The sap or the scanner scanner?
 
-__Alex:__ I'd say difficult.
+#### MR SQUEAKINGTON
 
-__[SFX end]__
+Or the commendation.
 
-__Tim:__ Yeah, getting a scanner out of the sap. Sap locker.
+#### UNAL
 
-__Helen:__ Yeah.
+Yes.
 
-__Alex:__ Sappy, sappy scanner.
+#### MR SQUEAKINGTON
 
-__Lydia:__ Especially when you're made of feathers.
+Okay. Into the sap. __[squelch]__
 
-__Helen:__ Yeah, you've got feathers.
+#### ALEX
 
-__Lydia:__ Yep.
+I'd say difficult.
 
-__Helen:__ Yeah, that's gonna-- you're gonna get *clogged*.
+##### [SFX end]
 
-__Lydia:__ Just "oh no!"
+#### TIM
 
-__Tim:__ Like that film *The Sap Locker*. You know.
+Yeah, getting a scanner out of the sap. Sap locker.
 
-__[laugher]__
+#### HELEN
 
-__Alex:__ I want you to know how on board I am with Helen being in charge. I didn't call that "hot". Could've done.
+Yeah.
 
-__Tim:__ Could've done.
+#### ALEX
 
-__Alex:__ Tryin' a help.
+Sappy, sappy scanner.
 
-__Tim:__ Trying to help.
+#### LYDIA
 
-__Alex:__ Team player Alex.
+Especially when you're made of feathers.
 
-__Lydia:__ Just "difficult".
+#### HELEN
 
-__Helen:__ Thank you very much.
+Yeah, you've got feathers.
 
-__Tim:__ You did call the last thing "hot" though.
+#### LYDIA
 
-__Alex:__ It was.
+Yep.
 
-__[Tim laughs]__
+#### HELEN
 
-__Helen:__ Apparently, apparently it was. __[Alex laughs]__ Timothy, it's your turn.
+Yeah, that's gonna-- you're gonna get *clogged*.
 
-__Tim:__ Oh--
+#### LYDIA
 
-__Alex:__ Oh you've been graduated to a Timo-- __[breaks off laughing]__
+Just "oh no!"
 
-__[Helen laughs]__
+#### TIM
 
-__Tim:__ [??] I just. __[sighs]__ We find ourselves back in the original meeting room and Deraldio and, uh, Worshiper 2X7 have returned... holding the scanner proudly and, and expecting praise, only to find that everyone has gone.
+Like that film *The Sap Locker*. You know.
 
-__Lydia:__ Yeah.
+##### [laugher]
 
-__Helen:__ Okay.
+#### ALEX
 
-__Pilchards:__ Oh, this is quite a to-do. This is quite a to-do. We've found it now. We've found it and we're ready to find some, some watery, watery comets and they've all gone. They've all [nosed?] off, innit?
+I want you to know how on board I am with Helen being in charge. I didn't call that "hot". Could've done.
 
-__Worshiper 2X7:__ Well it is time to operate it.
+#### TIM
 
-__Pilchards:__ Alright. Alright, I'll pass this over to you. It's mechanical like you. It's your kin.
+Could've done.
 
-__Worshiper 2X7:__ It is. We are along the same... design lines.
+#### ALEX
 
-__Pilchards:__ We'll ha-- We'll have a bang on this then.
+Tryin' a help.
 
-__Tim:__ I hand over the, uh, scanner to her.
+#### TIM
 
-__Ben:__ It sounds like you already have.
+Trying to help.
 
-__[laughter]__
+#### ALEX
 
-__Lydia:__ Eyy!
+Team player Alex.
 
-__Alex:__ Whomp whomp.
+#### LYDIA
 
-__Pilchards:__ Brush it down with this chamois leather. It'll be fine.
+Just "difficult".
 
-__[laugher]__
+#### HELEN
 
-__Helen:__ Worshiper 2X7 inserts the scanner into a slot like a USB.
+Thank you very much.
 
-__Lydia:__ Oh.
+#### TIM
 
-__Tim:__ It's what, it's what I was trying to do earlier. I was just furiously trying to-- __[laughs]__
+You did call the last thing "hot" though.
 
-__Alex:__ So you mean you try it once and then-- __[SFX: computer beeping noises]__
+#### ALEX
 
-__Helen:__ And then turn it around.
+It was.
 
-__Alex:__ Oh no, you were right the first time! Flip it back around.
+##### [Tim laughs]
 
-__Helen:__ Okay.
+#### HELEN
 
-__Worshiper 2X7:__ Moisture detected.
+Apparently, apparently it was. __[Alex laughs]__ Timothy, it's your turn.
 
-__Pilchards:__ Ah, wonderful. Where's-- __[stutters]__ where is that precious?
+#### TIM
 
-__Worshiper 2X7:__ Moisture detected: one foot away.
+Oh--
 
-__Pilchards:__ Ah, okay, we might need to re-calibrate this. __[laughter]__ Please, you know, I do, I do know I contain moisture but it's not for that. And you know what, I'll just--
+#### ALEX
 
-__Worshiper 2X7:__ Are you sure?
+Oh you've been graduated to a Timo-- __[breaks off laughing]__
 
-__Pilchards:__ I'm pretty sure it stays inside.
+##### [Helen laughs]
 
-__Worshiper 2X7:__ Moisture is multipurpose.
+#### TIM
 
-__Pilchards:__ Okay, you know, but--
+[??] I just. __[sighs]__ We find ourselves back in the original meeting room and Deraldio and, uh, Worshiper 2X7 have returned... holding the scanner proudly and, and expecting praise, only to find that everyone has gone.
 
-__Ben:__ Dangerous.
+#### LYDIA
 
-__Alex:__ Yeah!
+Yeah.
 
-__Lydia:__ Dangerous.
+#### HELEN
 
-__Helen:__ Gettin' dangerous. __[laughs]__
+Okay.
 
-__Alex:__ The android's discovered that they're *all water bags!*
+#### PILCHARDS
 
-__[Helen laughs]__
+Oh, this is quite a to-do. This is quite a to-do. We've found it now. We've found it and we're ready to find some, some watery, watery comets and they've all gone. They've all [nosed?] off, innit?
 
-__Ben:__ I've cut it.
+#### WORSHIPER 2X7
 
-__Tim:__ You cut it. Oh, you just cut it.
+Well it is time to operate it.
 
-__Lydia:__ Yeah, cut it.
+#### PILCHARDS
 
-__Helen:__ Yep.
+Alright. Alright, I'll pass this over to you. It's mechanical like you. It's your kin.
 
-__Ben:__ Dangerous. Yeah.
+#### WORSHIPER 2X7
 
-__Tim:__ Oh yeah.
+It is. We are along the same... design lines.
 
-__Lydia:__ Cut it there.
+#### PILCHARDS
 
-__Alex:__ I agree.
+We'll ha-- We'll have a bang on this then.
 
-__Ben:__ We'll see how that one ends.
+#### TIM
 
-__Tim:__ Gah, our relationship has taken some roller coaster turn. You know.
+I hand over the, uh, scanner to her.
 
-__[laughter]__
+#### BEN
 
-__Ben:__ Those well-known whirlwind romance murders.
+It sounds like you already have.
 
-__Tim:__ Yeah yeah yeah yeah. __[Helen laughs]__ I was in the forest for a long time on my own so... __[Tim and Ben chuckle]__
+##### [laughter]
 
-__Helen:__ Um, you--
+#### LYDIA
 
-__Alex:__ It's more like a femme fatal error.
+Eyy!
 
-__[Ohh's]__
+#### ALEX
 
-__Alex:__ Femme fatal error. I can't make it parse, but you know what? It works on the page.
+Whomp whomp.
+
+#### PILCHARDS
+
+Brush it down with this chamois leather. It'll be fine.
+
+##### [laugher]
+
+#### HELEN
+
+Worshiper 2X7 inserts the scanner into a slot like a USB.
+
+#### LYDIA
+
+Oh.
+
+#### TIM
+
+It's what, it's what I was trying to do earlier. I was just furiously trying to-- __[laughs]__
+
+#### ALEX
+
+So you mean you try it once and then-- __[SFX: computer beeping noises]__
+
+#### HELEN
+
+And then turn it around.
+
+#### ALEX
+
+Oh no, you were right the first time! Flip it back around.
+
+#### HELEN
+
+Okay.
+
+#### WORSHIPER 2X7
+
+Moisture detected.
+
+#### PILCHARDS
+
+Ah, wonderful. Where's-- __[stutters]__ where is that precious?
+
+#### WORSHIPER 2X7
+
+Moisture detected: one foot away.
+
+#### PILCHARDS
+
+Ah, okay, we might need to re-calibrate this. __[laughter]__ Please, you know, I do, I do know I contain moisture but it's not for that. And you know what, I'll just--
+
+#### WORSHIPER 2X7
+
+Are you sure?
+
+#### PILCHARDS
+
+I'm pretty sure it stays inside.
+
+#### WORSHIPER 2X7
+
+Moisture is multipurpose.
+
+#### PILCHARDS
+
+Okay, you know, but--
+
+#### BEN
+
+Dangerous.
+
+#### ALEX
+
+Yeah!
+
+#### LYDIA
+
+Dangerous.
+
+#### HELEN
+
+Gettin' dangerous. __[laughs]__
+
+#### ALEX
+
+The android's discovered that they're *all water bags!*
+
+##### [Helen laughs]
+
+#### BEN
+
+I've cut it.
+
+#### TIM
+
+You cut it. Oh, you just cut it.
+
+#### LYDIA
+
+Yeah, cut it.
+
+#### HELEN
+
+Yep.
+
+#### BEN
+
+Dangerous. Yeah.
+
+#### TIM
+
+Oh yeah.
+
+#### LYDIA
+
+Cut it there.
+
+#### ALEX
+
+I agree.
+
+#### BEN
+
+We'll see how that one ends.
+
+#### TIM
+
+Gah, our relationship has taken some roller coaster turn. You know.
+
+##### [laughter]
+
+#### BEN
+
+Those well-known whirlwind romance murders.
+
+#### TIM
+
+Yeah yeah yeah yeah. __[Helen laughs]__ I was in the forest for a long time on my own so... __[Tim and Ben chuckle]__
+
+#### HELEN
+
+Um, you--
+
+#### ALEX
+
+It's more like a femme fatal error.
+
+##### [Ohh's]
+
+#### ALEX
+
+Femme fatal error. I can't make it parse, but you know what? It works on the page.
 
 __Ben: (simult.)__ No, the idea's solid. Workshop it.
 
-__Tim:__ Could I perhaps, um--
+#### TIM
 
-__Ben:__ Come back to us next week.
+Could I perhaps, um--
 
-__Alex:__ I will. I will.
+#### BEN
 
-__Tim:__ --resubmit *The Sap Locker* in that case?__ [laughter]__ Consideration further on *The Sap Locker*.
+Come back to us next week.
 
-__Ben:__ You think you deserve more for the one?
+#### ALEX
+
+I will. I will.
+
+#### TIM
+
+--resubmit *The Sap Locker* in that case?__ [laughter]__ Consideration further on *The Sap Locker*.
+
+#### BEN
+
+You think you deserve more for the one?
 
 __Tim: [laughs]__ No. No, but I'd like more for it.
 
-__[laughter]__
+##### [laughter]
 
-__Helen:__ Lydia.
+#### HELEN
 
-__Lydia:__ I think that Ben's character will turn up and see the tail end of whatever was happening there.
+Lydia.
 
-__Helen:__ Ooh.
+#### LYDIA
 
-__Tim:__ Oh, between... between, uh, Deraldio and--
+I think that Ben's character will turn up and see the tail end of whatever was happening there.
 
-__Helen:__ Between Pilchards and Worshiper 2X7.
+#### HELEN
 
-__Lydia:__ Yeah.
+Ooh.
 
-__Tim:__ Delradio Pilchards.
+#### TIM
 
-__Helen:__ 2X7 is beginning to advance.
+Oh, between... between, uh, Deraldio and--
 
-__[SFX: electric saw noise]__
+#### HELEN
 
-__Pilchards:__ Now, let's all calm down. Let's all calm down. I have--
+Between Pilchards and Worshiper 2X7.
 
-__Worshiper 2X7:__ Must acquire moisture.
+#### LYDIA
 
-__Unal:__ Well, yes, that's the mission, isn't it?
+Yeah.
 
-__Pilchards:__ Nah, nah, you don't understand, Ural. You don't understand.
+#### TIM
 
-__Worshiper 2X7:__ Additional moisture discovered.
+Delradio Pilchards.
 
-__Pilchards:__ Now, it's, it's all got--
+#### HELEN
 
-__Unal:__ Okay, the problem has become very rapidly obvious.
+2X7 is beginning to advance.
 
-__[Alex and Lydia laugh]__
+##### [SFX: electric saw noise]
 
-__Pilchards:__ Yeah. Yeah. Now, I know you and I don't get on but I don't want either of us--
+#### PILCHARDS
 
-__Worshiper 2X7:__ Must acquire moisture.
+Now, let's all calm down. Let's all calm down. I have--
+
+#### WORSHIPER 2X7
+
+Must acquire moisture.
+
+#### UNAL
+
+Well, yes, that's the mission, isn't it?
+
+#### PILCHARDS
+
+Nah, nah, you don't understand, Ural. You don't understand.
+
+#### WORSHIPER 2X7
+
+Additional moisture discovered.
+
+#### PILCHARDS
+
+Now, it's, it's all got--
+
+#### UNAL
+
+Okay, the problem has become very rapidly obvious.
+
+##### [Alex and Lydia laugh]
+
+#### PILCHARDS
+
+Yeah. Yeah. Now, I know you and I don't get on but I don't want either of us--
+
+#### WORSHIPER 2X7
+
+Must acquire moisture.
 
 __Pilchards: (simult.)__ Can we count moisture source--
 
 __Unal: (simult.)__ Yeah, well, we should do so from a comet. From a comet.
 
-__[electric saw stops]__
+##### [electric saw stops]
 
-__Pilchards:__ We need to use cold, hard logic on this. This is a very logical being.
+#### PILCHARDS
 
-__Unal:__ But the plan. Look at the white board.
+We need to use cold, hard logic on this. This is a very logical being.
 
-__Pilchards:__ Yeah, look at the white board.
+#### UNAL
 
-__Worshiper 2X7:__ White board does not contain moisture.
+But the plan. Look at the white board.
 
-__Unal:__ No, but--
+#### PILCHARDS
 
-__Worshiper 2X7:__ Biological beings.
+Yeah, look at the white board.
 
-__Pilchards:__ Hang on. Hang on. Hang on. Worshiper, now sure, do we contain moisture? Yeah, we all know that. That's something we've all come to accept. I'm full of moisture. He's full of moisture. You? Not so much. It would ruin your chips. But we've only got a lil' bit of moisture in each of us. Barely get you a parsec. Barely get you that far. So how 'bout, how 'bout you helping us helping you get to a much, a much larger source of water. Oh, I don't know, just casting about for ideas, perhaps a comet.
+#### WORSHIPER 2X7
 
-__[Lydia chuckles]__
+White board does not contain moisture.
 
-__Unal:__ Also, I have my old service ray gun.
+#### UNAL
 
-__Pilchards:__ Okay, now you-- __[laughter]__ Could we not have seen if my thing had worked first? __[laughter continues]__ Before we go straight to the-- You did this on my home world. You did-- We tried to talk to you and you were like, "also, ray gun" and it was *very* unhelpful.
+No, but--
 
-__Unal:__ A: Good impression. B: Well, you were all living in dirty holes so...
+#### WORSHIPER 2X7
 
-__[Ooh's]__
+Biological beings.
 
-__Pilchards:__ A dirty hole. I'll have you know that dusty is not the same thing as dirty. If it's a dry piece of earth, that's not the same thing as dirty. I felt that I-- Please Worshiper, I'm-- __[stutters]__ Give me a second. __[laughter]__
+#### PILCHARDS
 
-__Lydia:__ A lil' tension.
+Hang on. Hang on. Hang on. Worshiper, now sure, do we contain moisture? Yeah, we all know that. That's something we've all come to accept. I'm full of moisture. He's full of moisture. You? Not so much. It would ruin your chips. But we've only got a lil' bit of moisture in each of us. Barely get you a parsec. Barely get you that far. So how 'bout, how 'bout you helping us helping you get to a much, a much larger source of water. Oh, I don't know, just casting about for ideas, perhaps a comet.
 
-__Tim:__ A lil'-- Look.
+##### [Lydia chuckles]
 
-__Alex:__ I feel like Worshiper's stood there by the way with at least two circular saws out spinning, good to go. And it's like, "oh yeah, fair enough. That was completely uncalled for. Yeah."
+#### UNAL
 
-__[laughter]__
+Also, I have my old service ray gun.
 
-__Pilchards:__ If we are gonna work together effectively as a team, as much as it hurts me to say that we might have to, you're gonna have to stop talking that way about *me* and my people.
+#### PILCHARDS
 
-__Unal:__ Then you're going to have to call me Unal. Commander Unal Manspray.
+Okay, now you-- __[laughter]__ Could we not have seen if my thing had worked first? __[laughter continues]__ Before we go straight to the-- You did this on my home world. You did-- We tried to talk to you and you were like, "also, ray gun" and it was *very* unhelpful.
 
-__Pilchards:__ Alright, I think a détente can be reached. Ural-- I've forgotten.
+#### UNAL
 
-__[laughter]__
+A: Good impression. B: Well, you were all living in dirty holes so...
 
-__Unal:__ Commander! Unal! Manspray!
+##### [Ooh's]
 
-__Pilchards:__ You are Commander Ural Manspray.
+#### PILCHARDS
 
-__Unal:__ And your holes were positively lovely.
+A dirty hole. I'll have you know that dusty is not the same thing as dirty. If it's a dry piece of earth, that's not the same thing as dirty. I felt that I-- Please Worshiper, I'm-- __[stutters]__ Give me a second. __[laughter]__
 
-__[Lydia laughs]__
+#### LYDIA
 
-__Pilchards:__ Thank you. That's all I've ever wanted a military commander to say to me whilst holding a ray gun in the presence of a killer robot.
+A lil' tension.
 
-__Worshiper 2X7:__ Adjusting scanner functions.
+#### TIM
 
-__Unal:__ Oh, what, was it that easy?
+A lil'-- Look.
 
-__Pilchards:__ The parameters-- is it shifting? Now, I-I know it-- maybe it's a bit of, a bit--
+#### ALEX
 
-__Worshiper 2X7:__ Scanning outside of vessel.
+I feel like Worshiper's stood there by the way with at least two circular saws out spinning, good to go. And it's like, "oh yeah, fair enough. That was completely uncalled for. Yeah."
 
-__Unal:__ Oh, very good.
+##### [laughter]
 
-__Pilchards:__ Could I just ask a quick question. Was it my logical work or his gun that made the real difference for you?
+#### PILCHARDS
 
-__Worshiper 2X7:__ It was boredom.
+If we are gonna work together effectively as a team, as much as it hurts me to say that we might have to, you're gonna have to stop talking that way about *me* and my people.
 
-__[laughter]__
+#### UNAL
 
-__Pilchards:__ Ahh.
+Then you're going to have to call me Unal. Commander Unal Manspray.
 
-__Unal:__ So both.
+#### PILCHARDS
 
-__[SFX: scanner beeps]__
+Alright, I think a détente can be reached. Ural-- I've forgotten.
 
-__Pilchards:__ Both. __[Lydia laughs]__ High five. Woah. Put down the gun. __[laughter]__ Holster.
+##### [laughter]
 
-__Worshiper 2X7:__ Comet located. Two point five parsecs away.
+#### UNAL
 
-__Pilchards:__ Excellent.
+Commander! Unal! Manspray!
 
-__Unal:__ Right. Well, now we need to find the, um, __[snaps fingers]__ cabin.
+#### PILCHARDS
 
-__Pilchards:__ Oh yeah.
+You are Commander Ural Manspray.
 
-__Unal:__ Cockpit. Flying place.
+#### UNAL
 
-__Pilchards:__ Uh, computer.
+And your holes were positively lovely.
 
-__Ship:__ Yes.
+##### [Lydia laughs]
 
-__Pilchards:__ Ah, 'ow you doin'?
+#### PILCHARDS
 
-__Ship:__ Yes.
+Thank you. That's all I've ever wanted a military commander to say to me whilst holding a ray gun in the presence of a killer robot.
 
-__Pilchards:__ Okay. We need to find the, uh, what would you call it? Bridge. Steering place. Wheelhouse.
+#### WORSHIPER 2X7
 
-__Ship:__ Yes.
+Adjusting scanner functions.
 
-__Pilchards:__ Oh, could you tell me where it is?
+#### UNAL
 
-__Ship:__ The bridge is located... on the bridge.
+Oh, what, was it that easy?
 
-__Pilchards:__ Okay. Now, as true as that is, could you perhaps tell me where from here the bridge might be?
+#### PILCHARDS
 
-__Ship:__ Up.
+The parameters-- is it shifting? Now, I-I know it-- maybe it's a bit of, a bit--
 
-__Pilchards:__ Well, you know what? We've got an instruction. __[laughter]__ Just head up to the bridge.
+#### WORSHIPER 2X7
 
-__Unal:__ Yes. We have a heading.
+Scanning outside of vessel.
 
-__Helen:__ Right. Cut
+#### UNAL
 
-__Ben:__ Cut.
+Oh, very good.
 
-__[laughter]__
+#### PILCHARDS
 
-__Tim:__ Thank.
+Could I just ask a quick question. Was it my logical work or his gun that made the real difference for you?
 
-__Lydia:__ Cut.
+#### WORSHIPER 2X7
 
-__Ben:__ Ah.
+It was boredom.
 
-__Alex:__ I want you to know, I really wanted to-- if I was going to do a computer, not be a generic Newall, completely unhelpful, really annoying NPC.
+##### [laughter]
 
-__Ben:__ And yet you do remain Alex.
+#### PILCHARDS
 
-__Lydia:__ And yet...
+Ahh.
 
-__Alex:__ And I, I can't help it. It's a real compulsion.
+#### UNAL
 
-__Tim:__ It's almost as if you interact with computers on a daily basis that are kind of like that.
+So both.
 
-__[laughter]__
+##### [SFX: scanner beeps]
 
-__Helen:__ It is now Alex's turn to frame a scene.
+#### PILCHARDS
 
-__[all take turns going 'mm' and humming, increasingly dramatically for a full 10 seconds]__
+Both. __[Lydia laughs]__ High five. Woah. Put down the gun. __[laughter]__ Holster.
 
-__[laughter]__
+#### WORSHIPER 2X7
 
-__Alex:__ I am going to frame a scene. [__Helen:__ Mm-hmm.] Worshiper 2X7 has gone off on a hunt to find Mr. Squeakington who has now been missing for hours and hours.
+Comet located. Two point five parsecs away.
+
+#### PILCHARDS
+
+Excellent.
+
+#### UNAL
+
+Right. Well, now we need to find the, um, __[snaps fingers]__ cabin.
+
+#### PILCHARDS
+
+Oh yeah.
+
+#### UNAL
+
+Cockpit. Flying place.
+
+#### PILCHARDS
+
+Uh, computer.
+
+#### SHIP
+
+Yes.
+
+#### PILCHARDS
+
+Ah, 'ow you doin'?
+
+#### SHIP
+
+Yes.
+
+#### PILCHARDS
+
+Okay. We need to find the, uh, what would you call it? Bridge. Steering place. Wheelhouse.
+
+#### SHIP
+
+Yes.
+
+#### PILCHARDS
+
+Oh, could you tell me where it is?
+
+#### SHIP
+
+The bridge is located... on the bridge.
+
+#### PILCHARDS
+
+Okay. Now, as true as that is, could you perhaps tell me where from here the bridge might be?
+
+#### SHIP
+
+Up.
+
+#### PILCHARDS
+
+Well, you know what? We've got an instruction. __[laughter]__ Just head up to the bridge.
+
+#### UNAL
+
+Yes. We have a heading.
+
+#### HELEN
+
+Right. Cut
+
+#### BEN
+
+Cut.
+
+##### [laughter]
+
+#### TIM
+
+Thank.
+
+#### LYDIA
+
+Cut.
+
+#### BEN
+
+Ah.
+
+#### ALEX
+
+I want you to know, I really wanted to-- if I was going to do a computer, not be a generic Newall, completely unhelpful, really annoying NPC.
+
+#### BEN
+
+And yet you do remain Alex.
+
+#### LYDIA
+
+And yet...
+
+#### ALEX
+
+And I, I can't help it. It's a real compulsion.
+
+#### TIM
+
+It's almost as if you interact with computers on a daily basis that are kind of like that.
+
+##### [laughter]
+
+#### HELEN
+
+It is now Alex's turn to frame a scene.
+
+##### [all take turns going 'mm' and humming, increasingly dramatically for a full 10 seconds]
+
+##### [laughter]
+
+#### ALEX
+
+I am going to frame a scene. [__Helen:__ Mm-hmm.] Worshiper 2X7 has gone off on a hunt to find Mr. Squeakington who has now been missing for hours and hours.
 
 __Tim: [laughing]__ I just remembered that means that you've just-- Ural just abandoned Mr. Squeak--
 
-__Ben:__ Oh, I was going to do a bit about how I was really sad about having lost my first soldier in action, but we got straight into--
+#### BEN
 
-__Alex:__ This is, this was my implication. Yeah, so, Worshiper 2X7 has, has managed to find Mr. Squeakington exactly where Mr. Squeakington was left.
+Oh, I was going to do a bit about how I was really sad about having lost my first soldier in action, but we got straight into--
 
-__Lydia:__ Just stuck.
+#### ALEX
 
-__Alex:__ Just, just so stuck!
+This is, this was my implication. Yeah, so, Worshiper 2X7 has, has managed to find Mr. Squeakington exactly where Mr. Squeakington was left.
 
-__Helen:__ Like 30 centimeters inside. __[laughs]__
+#### LYDIA
+
+Just stuck.
+
+#### ALEX
+
+Just, just so stuck!
+
+#### HELEN
+
+Like 30 centimeters inside. __[laughs]__
 
 __Mr Squeakington: [squeaks angrily]__
 
-__Lydia:__ So furious. Such a furious little bird.
+#### LYDIA
+
+So furious. Such a furious little bird.
 
 __Mr Squeakington: [squeaks some more]__
 
-__Worshiper 2X7:__ Hello biological organism. __[squelching noises]__ Do you require assistance.
+#### WORSHIPER 2X7
 
-__Mr Squeakington:__ Eeeh.
+Hello biological organism. __[squelching noises]__ Do you require assistance.
 
-__Lydia:__ That's a swear word in her language.
+#### MR SQUEAKINGTON
 
-__Worshiper 2X7:__ I do not understand your language.
+Eeeh.
 
-__Mr Squeakington:__ Yes.
+#### LYDIA
 
-__Worshiper 2X7:__ Very well. Extending arms.
+That's a swear word in her language.
 
-__[Mr. Squeakington yells, power tool sounds, squelching]__
+#### WORSHIPER 2X7
 
-__Worshiper 2X7:__ Budgie retrieved.
+I do not understand your language.
 
-__Mr Squeakington:__ Squeak. So sticky.
+#### MR SQUEAKINGTON
 
-__Worshiper 2X7:__ Do you require assistance with your... covering material?
+Yes.
 
-__Mr Squeakington:__ Flap. I need a dust bath.
+#### WORSHIPER 2X7
 
-__Worshiper 2X7:__ Hmmmm...
+Very well. Extending arms.
 
-__Mr Squeakington:__ Not a moisture bath.
+##### [Mr. Squeakington yells, power tool sounds, squelching]
 
-__Worshiper 2X7:__ Dust bath.
+#### WORSHIPER 2X7
 
-__Mr Squeakington:__ Dust bath.
+Budgie retrieved.
 
-__Worshiper 2X7:__ Explain.
+#### MR SQUEAKINGTON
 
-__Mr Squeakington:__ It's a bath. It's made of dust.
+Squeak. So sticky.
 
-__Worshiper 2X7:__ Where is dust?
+#### WORSHIPER 2X7
 
-__Mr Squeakington:__ Umm... in the hole.
+Do you require assistance with your... covering material?
 
-__Worshiper 2X7:__ To the hole!
+#### MR SQUEAKINGTON
 
-__Mr Squeakington:__ The hole is dusty.
+Flap. I need a dust bath.
 
-__Worshiper 2X7:__ I shall assist.
+#### WORSHIPER 2X7
 
-__Mr Squeakington:__ Yay!
+Hmmmm...
 
-__Ben:__ Cut.
+#### MR SQUEAKINGTON
 
-__Lydia:__ Tries to fly but stuck.
+Not a moisture bath.
 
-__Alex:__ You're taking a sap covered bird into his lovely hole?
+#### WORSHIPER 2X7
 
-__Tim:__ Yeah. __[stammers]__ And mussing up all my lovely dust.
+Dust bath.
 
-__Alex:__ Mussing up his dust.
+#### MR SQUEAKINGTON
 
-__Tim:__ You wait 'til I get home buster.
+Dust bath.
 
-__Lydia:__ I need, need the dust to live!
+#### WORSHIPER 2X7
 
-__Helen:__ Aww. Cool. Right.
+Explain.
 
-__Lydia:__ Fortunately, don't have much moisture.
+#### MR SQUEAKINGTON
+
+It's a bath. It's made of dust.
+
+#### WORSHIPER 2X7
+
+Where is dust?
+
+#### MR SQUEAKINGTON
+
+Umm... in the hole.
+
+#### WORSHIPER 2X7
+
+To the hole!
+
+#### MR SQUEAKINGTON
+
+The hole is dusty.
+
+#### WORSHIPER 2X7
+
+I shall assist.
+
+#### MR SQUEAKINGTON
+
+Yay!
+
+#### BEN
+
+Cut.
+
+#### LYDIA
+
+Tries to fly but stuck.
+
+#### ALEX
+
+You're taking a sap covered bird into his lovely hole?
+
+#### TIM
+
+Yeah. __[stammers]__ And mussing up all my lovely dust.
+
+#### ALEX
+
+Mussing up his dust.
+
+#### TIM
+
+You wait 'til I get home buster.
+
+#### LYDIA
+
+I need, need the dust to live!
+
+#### HELEN
+
+Aww. Cool. Right.
+
+#### LYDIA
+
+Fortunately, don't have much moisture.
 
 __Helen: [laughs]__ Yeah, it should be a very easy thing to do.
 
-__Lydia:__ Yeah.
+#### LYDIA
 
-__Helen:__ Right. So, we are trying to find the bridge and also bathe a bird in dust.
+Yeah.
 
-__Ben:__ Mm-hmm.
+#### HELEN
 
-__Helen:__ Let's see if we--
+Right. So, we are trying to find the bridge and also bathe a bird in dust.
 
-__Tim:__ Two equally important tasks. __[laughter]__ The survival of us all and the dusting of a bird.
+#### BEN
+
+Mm-hmm.
+
+#### HELEN
+
+Let's see if we--
+
+#### TIM
+
+Two equally important tasks. __[laughter]__ The survival of us all and the dusting of a bird.
 
 __Helen: (simult.)__ Oh yeah, and Alex's character is somewhere.
 
 __Shmerr: (simult.)__ Also, I'm here.
 
-__[laughter]__
+##### [laughter]
 
-__Helen:__ Right. We'll see you after the break and see what happens.
+#### HELEN
 
-__[pause for break]__
+Right. We'll see you after the break and see what happens.
 
-__Helen:__ And welcome back to the Rusty Quill Gaming podcast with an anarchic model of gaming. So, we are now at... yes, it's Ben's turn to frame a scene.
+##### [pause for break]
 
-__Ben:__ Hullo!
+#### HELEN
 
-__Helen:__ Hello! What do you want to see?
+And welcome back to the Rusty Quill Gaming podcast with an anarchic model of gaming. So, we are now at... yes, it's Ben's turn to frame a scene.
 
-__Ben:__ I want to-- I actually, I want to follow this dust bath.
+#### BEN
 
-__[laughter]__
+Hullo!
 
-__Alex:__ Follow the action!
+#### HELEN
 
-__Ben:__ Yep.
+Hello! What do you want to see?
 
-__Tim:__ Yeah.
+#### BEN
 
-__Helen:__ Oh, yes! That's what the listeners all like.
+I want to-- I actually, I want to follow this dust bath.
 
-__Ben:__ Yeah.
+##### [laughter]
 
-__Tim:__ What's going on with this bath? Come on.
+#### ALEX
 
-__[laughter]__
+Follow the action!
 
-__Lydia:__ My feathers, they're so sticky and--
+#### BEN
 
-__Alex:__ Hot!
+Yep.
 
-__Lydia:__ --it's so urgent. __[laughter]__ Yeah, well, if you want to cut because it got too hot...
+#### TIM
 
-__Alex:__ No no, I cut-- No no no, let's let this, let this play.
+Yeah.
 
-__Lydia:__ That android is gettin' a lot of action!
+#### HELEN
 
-__Alex:__ Let this play.
+Oh, yes! That's what the listeners all like.
 
-__Mr Squeakington:__ Please take me to the dust. I'm so... I'm so sticky.
+#### BEN
 
-__Worshiper 2X7:__ Pit is reached.
+Yeah.
 
-__Mr Squeakington:__ Oh, okay.
+#### TIM
 
-__Worshiper 2X7:__ Shall I drop?
+What's going on with this bath? Come on.
 
-__Mr Squeakington:__ Urgency-- Yes.
+##### [laughter]
 
-__Worshiper 2X7:__ Dropping.
+#### LYDIA
 
-__Mr Squeakington:__ Please, sa-- Ahhh! __[thump]__
+My feathers, they're so sticky and--
 
-__Lydia:__ Your thump was better. Thump.
+#### ALEX
 
-__Worshiper 2X7:__ Is that agreeable?
+Hot!
 
-__Mr Squeakington:__ Just flutters around in the dust.
+#### LYDIA
 
-__Alex:__ The gentle splat of sap spraying out across--
+--it's so urgent. __[laughter]__ Yeah, well, if you want to cut because it got too hot...
 
-__Lydia:__ Spray--
+#### ALEX
 
-__Tim:__ All over my lovely things!
+No no, I cut-- No no no, let's let this, let this play.
 
-__Lydia:__ Sap is getting everywhere.
+#### LYDIA
 
-__Tim:__ And I would say--
+That android is gettin' a lot of action!
 
-__Lydia:__ Shuffling around.
+#### ALEX
 
-__Tim:__ From, from Worshiper's point of view just a cloud of dust rising out of the pit hole.
+Let this play.
 
-__Helen:__ Yeah.
+#### MR SQUEAKINGTON
 
-__Lydia:__ No, you know, you know __[laughs]__ that thing when swans get in the water and they wiggle their tail.
+Please take me to the dust. I'm so... I'm so sticky.
 
-__Helen:__ Mm.
+#### WORSHIPER 2X7
 
-__Alex:__ Yes!
+Pit is reached.
 
-__Lydia:__ Yeah, how they always wiggle their tail.
+#### MR SQUEAKINGTON
 
-__Helen:__ Yeah.
+Oh, okay.
 
-__Lydia:__ But that's, that's just the budgie just all over like __[Ben chuckles]__ all the wiggle of satisfaction.
+#### WORSHIPER 2X7
 
-__Worshiper 2X7:__ One hour remaining of moisture reserves.
+Shall I drop?
+
+#### MR SQUEAKINGTON
+
+Urgency-- Yes.
+
+#### WORSHIPER 2X7
+
+Dropping.
+
+#### MR SQUEAKINGTON
+
+Please, sa-- Ahhh! __[thump]__
+
+#### LYDIA
+
+Your thump was better. Thump.
+
+#### WORSHIPER 2X7
+
+Is that agreeable?
+
+#### MR SQUEAKINGTON
+
+Just flutters around in the dust.
+
+#### ALEX
+
+The gentle splat of sap spraying out across--
+
+#### LYDIA
+
+Spray--
+
+#### TIM
+
+All over my lovely things!
+
+#### LYDIA
+
+Sap is getting everywhere.
+
+#### TIM
+
+And I would say--
+
+#### LYDIA
+
+Shuffling around.
+
+#### TIM
+
+From, from Worshiper's point of view just a cloud of dust rising out of the pit hole.
+
+#### HELEN
+
+Yeah.
+
+#### LYDIA
+
+No, you know, you know __[laughs]__ that thing when swans get in the water and they wiggle their tail.
+
+#### HELEN
+
+Mm.
+
+#### ALEX
+
+Yes!
+
+#### LYDIA
+
+Yeah, how they always wiggle their tail.
+
+#### HELEN
+
+Yeah.
+
+#### LYDIA
+
+But that's, that's just the budgie just all over like __[Ben chuckles]__ all the wiggle of satisfaction.
+
+#### WORSHIPER 2X7
+
+One hour remaining of moisture reserves.
 
 __Mr Squeakington: [echoing]__ Ah, but this is very important, and the stakes were really so high.
 
-__[laughter]__
+##### [laughter]
 
-__Worshiper 2X7:__ Worshiper 2X7 moisture reserves.
+#### WORSHIPER 2X7
 
-__Mr Squeakington:__ Ah! Well--
+Worshiper 2X7 moisture reserves.
 
-__Worshiper 2X7:__ Will power down in T-minus sixty minutes.
+#### MR SQUEAKINGTON
 
-__Mr Squeakington:__ Could, could you try dust instead of moisture? Squeak!
+Ah! Well--
+
+#### WORSHIPER 2X7
+
+Will power down in T-minus sixty minutes.
+
+#### MR SQUEAKINGTON
+
+Could, could you try dust instead of moisture? Squeak!
 
 __Worshiper 2X7: [threateningly]__ That is heresy.
 
-__[laughter]__
+##### [laughter]
 
-__Mr Squeakington:__ Uh, it's just that--
+#### MR SQUEAKINGTON
 
-__Worshiper 2X7:__ Nonbeliever!
+Uh, it's just that--
 
-__Tim:__ Danger.
+#### WORSHIPER 2X7
 
-__Alex:__ Danger! __[laughter]__ Dangerous!
+Nonbeliever!
 
-__Tim:__ Danger Will Robinson.
+#### TIM
 
-__Helen:__ Dangerous! Okay.
+Danger.
+
+#### ALEX
+
+Danger! __[laughter]__ Dangerous!
+
+#### TIM
+
+Danger Will Robinson.
+
+#### HELEN
+
+Dangerous! Okay.
 
 __Tim: [laughing]__ Oh, so far all of the danger involves you becoming rogue. __[Helen laughs]__ I'm sensing a theme. In many ways, isn't the solution to this to chuck you out of the damn airlock. __[laughter]__ And then we just have a lovely space boat sojourn. __[laughter continues]__ Oh, we must save this thing that consistently tries to kill us otherwise it might kill us. Oh, wait. Oh, wait.
 
-__[laughter]__
+##### [laughter]
 
-__Lydia:__ We-- the tree needs water as well.
+#### LYDIA
 
-__Tim:__ The tree does also need water. That is true.
+We-- the tree needs water as well.
 
-__Helen:__ Yes. Okay, so Pilchards and Unal are trying to find the bridge having become friends.
+#### TIM
 
-__Tim:__ Mm...
+The tree does also need water. That is true.
 
-__Ben:__ Ehhh... Found a mutual accord.
+#### HELEN
+
+Yes. Okay, so Pilchards and Unal are trying to find the bridge having become friends.
+
+#### TIM
+
+Mm...
+
+#### BEN
+
+Ehhh... Found a mutual accord.
 
 __Helen: [laughs]__ Became acquaintances.
 
-__Tim:__ Friends of circumstance, should I say.
+#### TIM
 
-__Lydia:__ Could we watch it from...
+Friends of circumstance, should I say.
 
-__Ben:__ Yes.
+#### LYDIA
 
-__Tim:__ Right, from--
+Could we watch it from...
 
-__Helen:__ Yes!
+#### BEN
 
-__Ben:__ Shmerr's perspective.
+Yes.
 
-__Tim:__ From Shmerr's perspective, yeah yeah.
+#### TIM
 
-__Helen:__ Okay. Shmerr, you're watching these two try, attempt to find the bridge.
+Right, from--
 
-__[SFX: breathing in a space suit]__
+#### HELEN
 
-__Shmerr:__ Captain's log: I find myself looking out to the stars and considering our journey out towards them. Not just as a metaphor for the expansion of life and sentience throughout the universe but also it's sort of like looking at a big empty spreadsheet. It's just glorious and awe inspiring. But I digress. I find myself outside the bridge now observing my two lieutenants, the one- what has all the legs __[Lydia chuckles]__ and the one who I'm now cheerfully calling "White Board". __[laughter]__ White Board and Many Legs seem to be getting along. They are efficient if somewhat distant from one another in the room, but I'm sure that is fine. I notice that White Board appears to be spooling up the engines which is encouraging. Of course, I am quite literally on the outside of our ship with no way to brace myself against the acceleration but I'm sure that they have already considered this __[laughter]__ before they would launch such a massive acceleration in such a way. Meanwhile, Many Legs appears to be at the nav console. In a lot of ways, I, I like to think of Many Legs and White Board as my dream team. __[laughter]__ It's clear that under my guidance and my, uh, hands-off management--oh, listen to me! I'm a regular anarchist--um, they are, they are proceeding in a way that could only be considered exceptional. So, with that in mind, I'm going to actually hold on under the assumption that I'm going to-- __[static noise]__
+Yes!
 
-__[Helen gasps]__
+#### BEN
 
-__Tim:__ Dangerous.
+Shmerr's perspective.
 
-__Lydia:__ Mm.
+#### TIM
 
-__Helen:__ Danger?
+From Shmerr's perspective, yeah yeah.
 
-__Ben:__ Yeah.
+#### HELEN
 
-__Tim:__ Yeah.
+Okay. Shmerr, you're watching these two try, attempt to find the bridge.
 
-__Alex:__ That was up to you.
+##### [SFX: breathing in a space suit]
 
-__Tim:__ We're, we're accelerating and he's on the outside of the ship and he's just about to grab on.
+#### SHMERR
 
-__Helen:__ Ooh! Oh, such danger.
+Captain's log: I find myself looking out to the stars and considering our journey out towards them. Not just as a metaphor for the expansion of life and sentience throughout the universe but also it's sort of like looking at a big empty spreadsheet. It's just glorious and awe inspiring. But I digress. I find myself outside the bridge now observing my two lieutenants, the one- what has all the legs __[Lydia chuckles]__ and the one who I'm now cheerfully calling "White Board". __[laughter]__ White Board and Many Legs seem to be getting along. They are efficient if somewhat distant from one another in the room, but I'm sure that is fine. I notice that White Board appears to be spooling up the engines which is encouraging. Of course, I am quite literally on the outside of our ship with no way to brace myself against the acceleration but I'm sure that they have already considered this __[laughter]__ before they would launch such a massive acceleration in such a way. Meanwhile, Many Legs appears to be at the nav console. In a lot of ways, I, I like to think of Many Legs and White Board as my dream team. __[laughter]__ It's clear that under my guidance and my, uh, hands-off management--oh, listen to me! I'm a regular anarchist--um, they are, they are proceeding in a way that could only be considered exceptional. So, with that in mind, I'm going to actually hold on under the assumption that I'm going to-- __[static noise]__
 
-__Tim:__ I don't know how the physics of it works. You know, there's, there's no air resistance.
+##### [Helen gasps]
 
-__Ben:__ I mean, we're, we're flying a giant tree, so...
+#### TIM
 
-__Lydia:__ Yeah.
+Dangerous.
 
-__[Helen laughs]__
+#### LYDIA
 
-__Ben:__ The physics can, uh, can take a hike on this one.
+Mm.
 
-__Tim:__ Eh, fair enough.
+#### HELEN
 
-__Helen:__ Yes they can.
+Danger?
 
-__Alex:__ Fun fact: as long as he's on the nose of the ship and that's the direction it's traveling, it'll be fine.
+#### BEN
 
-__Lydia:__ It's fine.
+Yeah.
 
-__Tim:__ It'll be fine.
+#### TIM
 
-__Lydia:__ I was surprised you didn't have them hook up.
+Yeah.
 
-__Alex:__ I was very tempted but I also didn't--
+#### ALEX
 
-__Helen:__ Yeah, I could hear it in your voice.
+That was up to you.
 
-__Alex:__ --I didn't want to force that.
+#### TIM
 
-__Tim:__ No.
+We're, we're accelerating and he's on the outside of the ship and he's just about to grab on.
 
-__Alex:__ You know. Some romances take time. Some are entirely moisture driven. And others are, are forged in the fires of adv-- adversarial conflict.
+#### HELEN
 
-__Lydia:__ And some happen when you accelerate and then you tumble into each other's arms.
+Ooh! Oh, such danger.
 
-__Tim:__ "Oh, I've fallen. Oh your eyes."
+#### TIM
 
-__[laughter]__
+I don't know how the physics of it works. You know, there's, there's no air resistance.
 
-__Alex:__ I wouldn't want to force it. Let it happen. Let it happen.
+#### BEN
 
-__Helen:__ Well Tim.
+I mean, we're, we're flying a giant tree, so...
 
-__Tim:__ I think we should do a scene in, in the bridge then __[Lydia snorts]__ seeing as this--
+#### LYDIA
+
+Yeah.
+
+##### [Helen laughs]
+
+#### BEN
+
+The physics can, uh, can take a hike on this one.
+
+#### TIM
+
+Eh, fair enough.
+
+#### HELEN
+
+Yes they can.
+
+#### ALEX
+
+Fun fact: as long as he's on the nose of the ship and that's the direction it's traveling, it'll be fine.
+
+#### LYDIA
+
+It's fine.
+
+#### TIM
+
+It'll be fine.
+
+#### LYDIA
+
+I was surprised you didn't have them hook up.
+
+#### ALEX
+
+I was very tempted but I also didn't--
+
+#### HELEN
+
+Yeah, I could hear it in your voice.
+
+#### ALEX
+
+--I didn't want to force that.
+
+#### TIM
+
+No.
+
+#### ALEX
+
+You know. Some romances take time. Some are entirely moisture driven. And others are, are forged in the fires of adv-- adversarial conflict.
+
+#### LYDIA
+
+And some happen when you accelerate and then you tumble into each other's arms.
+
+#### TIM
+
+"Oh, I've fallen. Oh your eyes."
+
+##### [laughter]
+
+#### ALEX
+
+I wouldn't want to force it. Let it happen. Let it happen.
+
+#### HELEN
+
+Well Tim.
+
+#### TIM
+
+I think we should do a scene in, in the bridge then __[Lydia snorts]__ seeing as this--
 
 __Alex: [in a mocking romantic tune]__ Bow, bow, bow, bow!
 
-__Ben:__ It's "date me brother" again, Tim.
+#### BEN
 
-__Tim:__ No. No. We are not that well acquainted as characters. It's not going there. __[Ben chuckles]__ So, uh, uh, Deraldio Pilchards and-- I'm generally having a bad-- hard time--
+It's "date me brother" again, Tim.
 
-__Ben:__ Commander!
+#### TIM
 
-__Tim:__ Commander--
+No. No. We are not that well acquainted as characters. It's not going there. __[Ben chuckles]__ So, uh, uh, Deraldio Pilchards and-- I'm generally having a bad-- hard time--
 
-__Ben:__ Unal!
+#### BEN
 
-__Tim:__ U-- Unal.
+Commander!
 
-__Ben:__ Manspray!
+#### TIM
 
-__Tim:__ It's because I've written it down as "Ural" like the Ural mountains and so...
+Commander--
 
-__Ben:__ It's Unal like the Unal mountains.
+#### BEN
 
-__Tim:__ Like the Unal mountains. __[chuckles]__
+Unal!
 
-__[Helen laughs]__
+#### TIM
 
-__Tim:__ Right.
+U-- Unal.
 
-__Lydia:__ Named after those famous mountains.
+#### BEN
 
-__Ben:__ Yes.
+Manspray!
 
-__Lydia:__ Ironically on the planet Urinal.
+#### TIM
 
-__[laughter]__
+It's because I've written it down as "Ural" like the Ural mountains and so...
+
+#### BEN
+
+It's Unal like the Unal mountains.
+
+#### TIM
+
+Like the Unal mountains. __[chuckles]__
+
+##### [Helen laughs]
+
+#### TIM
+
+Right.
+
+#### LYDIA
+
+Named after those famous mountains.
+
+#### BEN
+
+Yes.
+
+#### LYDIA
+
+Ironically on the planet Urinal.
+
+##### [laughter]
 
 __Tim: [mimicking Unal]__ It causes so much damn confusion.
 
-__[Helen laughs]__
+##### [Helen laughs]
 
-__Ben:__ But it's tradition!
+#### BEN
 
-__Tim:__ Yeah. So, we, we have started to engage the ship and accelerate towards our, our destination.
+But it's tradition!
 
-__Unal:__ I say, did you hear some sort of thump?
+#### TIM
 
-__[laughter]__
+Yeah. So, we, we have started to engage the ship and accelerate towards our, our destination.
 
-__Pilchards:__ Yeah. There was definitely something clatterin' across the hull at some point.
+#### UNAL
 
-__Unal:__ Alright, well. Ship. Ship!
+I say, did you hear some sort of thump?
 
-__Ship:__ Yes?
+##### [laughter]
 
-__Unal:__ Have there been any hull breaches?
+#### PILCHARDS
 
-__Ship:__ No.
+Yeah. There was definitely something clatterin' across the hull at some point.
+
+#### UNAL
+
+Alright, well. Ship. Ship!
+
+#### SHIP
+
+Yes?
+
+#### UNAL
+
+Have there been any hull breaches?
+
+#### SHIP
+
+No.
 
 __Unal: (simult.)__ Ah, it was nothing important then.
 
 __Pilchards: (simult.)__ Ah, everything seems fine then.
 
-__Ship:__ All valued crew members are accounted for.
+#### SHIP
 
-__[laughter]__
+All valued crew members are accounted for.
 
-__Unal:__ Very good. Thank you.
+##### [laughter]
 
-__Pilchards:__ Alright, well, wonderful. Now, you know what? I do have a nagging feeling that there was something we are forgetting. I couldn't possibly tell you what it is though.
+#### UNAL
 
-__Unal:__ Mr. Squeakington!
+Very good. Thank you.
 
-__Pilchards:__ Mr. Squeakington. What happened? You went, you went up with Mr. Squeakington to find the extra scanner as you were telling me as we walked here.
+#### PILCHARDS
 
-__[laughter]__
+Alright, well, wonderful. Now, you know what? I do have a nagging feeling that there was something we are forgetting. I couldn't possibly tell you what it is though.
 
-__Unal:__ Yes.
+#### UNAL
 
-__Pilchards:__ And you never got to the end of the story. And then you just came back in when we were having a situation with Worshiper. What, what happened?
+Mr. Squeakington!
 
-__Unal:__ Yes, unfortunately...
+#### PILCHARDS
 
-__Ben:__ I take my hat off. Hold it on my chest.
+Mr. Squeakington. What happened? You went, you went up with Mr. Squeakington to find the extra scanner as you were telling me as we walked here.
 
-__Unal:__ We lost one.
+##### [laughter]
 
-__Pilchards:__ Oh, no.
+#### UNAL
 
-__Unal:__ Mr. Squeakington went into the fore storage cupboard...
+Yes.
 
-__Pilchards:__ Right.
+#### PILCHARDS
 
-__Unal:__ And was taken by the saps therein.
+And you never got to the end of the story. And then you just came back in when we were having a situation with Worshiper. What, what happened?
 
-__Pilchards:__ Ah, no. Mr. Squeakington's a feathered being.
+#### UNAL
 
-__Unal:__ Exactly.
+Yes, unfortunately...
 
-__Pilchards:__ Well, what did you do about it?
+#### BEN
 
-__Unal:__ Respected their loss.
+I take my hat off. Hold it on my chest.
 
-__[Lydia laughs]__
+#### UNAL
 
-__Alex:__ "I pressed F."
+We lost one.
 
-__Unal:__ As any good commander should. Yes.
+#### PILCHARDS
 
-__Pilchards:__ No, that--
+Oh, no.
 
-__Unal:__ Paid my respects.
+#### UNAL
 
-__Pilchards:__ You just put your hat back on. Take it back off again. We're not finished.
+Mr. Squeakington went into the fore storage cupboard...
 
-__Unal:__ Oh, sorry.
+#### PILCHARDS
 
-__Pilchards:__ Look, you can't just, like, put a bird in some sap and then go, "ah, whoopsie daisy." __[laughter]__ "Aw, I better just walk away then." You have to, like, try and help it out.
+Right.
 
-__Unal:__ Well, what you forget about Mr. Squeakington is they were an interdimensional being.
+#### UNAL
 
-__Pilchards:__ Yeah.
+And was taken by the saps therein.
 
-__Unal:__ Um, and prior to this, I saw them rip the door of the fore storage cabinet clean off.
+#### PILCHARDS
 
-__Pilchards:__ Yeah. Yeah.
+Ah, no. Mr. Squeakington's a feathered being.
 
-__Unal:__ So, I thought that they might be able to handle a bit of sap.
+#### UNAL
 
-__Pilchards:__ Sure.
+Exactly.
 
-__Unal:__ And, uh, I only have one of these uniforms.
+#### PILCHARDS
 
-__[Lydia laughs]__
+Well, what did you do about it?
 
-__Pilchards:__ Yeah, no, I'm no-- I'm noticing an inconsistency in, uh, in your account. You're takin' your hat off and saying, "we lost one."
+#### UNAL
 
-__Unal:__ Yes.
+Respected their loss.
 
-__Pilchards:__ But also assuring me that they're fine and it's all fine.
+##### [Lydia laughs]
 
-__[laughter]__
+#### ALEX
 
-__Unal:__ No no no no no no no no no. No, what I mean is I assumed that it would be all fine.
+"I pressed F."
 
-__Pilchards:__ Oh, you just didn't stick around to find out. __[laughs]__
+#### UNAL
 
-__Unal:__ Well, no. They, they went in--
+As any good commander should. Yes.
 
-__Pilchards:__ Yeah.
+#### PILCHARDS
 
-__Unal:__ --and I didn't see them again. Thus, killed in action.
+No, that--
 
-__Pilchards:__ Nah, this is the problem with you. This is the problem with you, mate. This is exactly what we were, what we were having a barney here 'bout earlier.
+#### UNAL
 
-__Unal:__ Well, I don't recall.
+Paid my respects.
 
-__Pilchards:__ You, you don't respect people, do you?
+#### PILCHARDS
 
-__Unal:__ What? No.
+You just put your hat back on. Take it back off again. We're not finished.
 
-__Pilchards:__ You don't respect me.
+#### UNAL
+
+Oh, sorry.
+
+#### PILCHARDS
+
+Look, you can't just, like, put a bird in some sap and then go, "ah, whoopsie daisy." __[laughter]__ "Aw, I better just walk away then." You have to, like, try and help it out.
+
+#### UNAL
+
+Well, what you forget about Mr. Squeakington is they were an interdimensional being.
+
+#### PILCHARDS
+
+Yeah.
+
+#### UNAL
+
+Um, and prior to this, I saw them rip the door of the fore storage cabinet clean off.
+
+#### PILCHARDS
+
+Yeah. Yeah.
+
+#### UNAL
+
+So, I thought that they might be able to handle a bit of sap.
+
+#### PILCHARDS
+
+Sure.
+
+#### UNAL
+
+And, uh, I only have one of these uniforms.
+
+##### [Lydia laughs]
+
+#### PILCHARDS
+
+Yeah, no, I'm no-- I'm noticing an inconsistency in, uh, in your account. You're takin' your hat off and saying, "we lost one."
+
+#### UNAL
+
+Yes.
+
+#### PILCHARDS
+
+But also assuring me that they're fine and it's all fine.
+
+##### [laughter]
+
+#### UNAL
+
+No no no no no no no no no. No, what I mean is I assumed that it would be all fine.
+
+#### PILCHARDS
+
+Oh, you just didn't stick around to find out. __[laughs]__
+
+#### UNAL
+
+Well, no. They, they went in--
+
+#### PILCHARDS
+
+Yeah.
+
+#### UNAL
+
+--and I didn't see them again. Thus, killed in action.
+
+#### PILCHARDS
+
+Nah, this is the problem with you. This is the problem with you, mate. This is exactly what we were, what we were having a barney here 'bout earlier.
+
+#### UNAL
+
+Well, I don't recall.
+
+#### PILCHARDS
+
+You, you don't respect people, do you?
+
+#### UNAL
+
+What? No.
+
+#### PILCHARDS
+
+You don't respect me.
 
 __Unal: [stammers]__ Of course I do.
 
-__Pilchards:__ You don't respect Mr. Squeak--
+#### PILCHARDS
 
-__Unal:__ I do-- The hat's off.
+You don't respect Mr. Squeak--
 
-__Pilchards:__ Well, yeah--
+#### UNAL
 
-__Unal:__ The hat's off!
+I do-- The hat's off.
 
-__[laughter]__
+#### PILCHARDS
 
-__Pilchards:__ Look, takin' your hat off whilst we-- absolutely--
+Well, yeah--
 
-__Unal:__ Do you want me to lower the hat?
+#### UNAL
 
-__Pilchards:__ Well, drop it on the floor and stamp on it as far as I care.
+The hat's off!
 
-__Unal:__ No, I will never do that to my hat!
+##### [laughter]
 
-__[laughter]__
+#### PILCHARDS
 
-__Pilchards:__ No, take--
+Look, takin' your hat off whilst we-- absolutely--
 
-__Unal:__ That's a symbol of my office!
+#### UNAL
 
-__Pilchards:__ That will be-- That would, that would prove to me that you do actually care even the slight' bit about your fellow crew members. Take off your hat, throw it on the floor, and step on it. __[Lydia gasps]__ And if you do that, maybe I can push past the fact that you 100% abandoned your crew members at the slightest sign of even a lil' bit of adversity.
+Do you want me to lower the hat?
 
-__Unal:__ Well, then you'll have to join... __[sighs]__ my hatless army.
+#### PILCHARDS
 
-__Pilchards:__ You mean I have to take off my hat too?
+Well, drop it on the floor and stamp on it as far as I care.
 
-__Unal:__ Yes.
+#### UNAL
 
-__Pilchards:__ Okay.
+No, I will never do that to my hat!
 
-__Tim:__ I gently reach up to my stylish bowler.
+##### [laughter]
 
-__[laughter]__
+#### PILCHARDS
 
-__Alex:__ Which you've been wearing this whole time.
+No, take--
 
-__Tim:__ It's half rotted.
+#### UNAL
 
-__Unal:__ We, we should drop the hat together.
+That's a symbol of my office!
 
-__Pilchards:__ On the count of three.
+#### PILCHARDS
 
-__Unal:__ And then through that, a bond of brotherhood.
+That will be-- That would, that would prove to me that you do actually care even the slight' bit about your fellow crew members. Take off your hat, throw it on the floor, and step on it. __[Lydia gasps]__ And if you do that, maybe I can push past the fact that you 100% abandoned your crew members at the slightest sign of even a lil' bit of adversity.
 
-__Pilchards:__ Yeah.
+#### UNAL
 
-__Lydia:__ Hot!
+Well, then you'll have to join... __[sighs]__ my hatless army.
 
-__[Tim laughs]__
+#### PILCHARDS
 
-__Ben:__ Awwwwwwwwww...
+You mean I have to take off my hat too?
 
-__Tim:__ A band of brotherhood.
+#### UNAL
 
-__Helen:__ Brotherhood?!
+Yes.
 
-__Tim:__ The fact that you think that's hot says more about you than us.
+#### PILCHARDS
 
-__Ben:__ It's been called though. __[Lydia laughs]__ It's been called. Next scene!
+Okay.
 
-__Tim:__ Next--
+#### TIM
 
-__Ben:__ Lyd.
+I gently reach up to my stylish bowler.
 
-__[Helen laughs]__
+##### [laughter]
 
-__Tim:__ You monster.
+#### ALEX
 
-__Helen:__ Lyd's gone. She's gone. __[laughs]__
+Which you've been wearing this whole time.
+
+#### TIM
+
+It's half rotted.
+
+#### UNAL
+
+We, we should drop the hat together.
+
+#### PILCHARDS
+
+On the count of three.
+
+#### UNAL
+
+And then through that, a bond of brotherhood.
+
+#### PILCHARDS
+
+Yeah.
+
+#### LYDIA
+
+Hot!
+
+##### [Tim laughs]
+
+#### BEN
+
+Awwwwwwwwww...
+
+#### TIM
+
+A band of brotherhood.
+
+#### HELEN
+
+Brotherhood?!
+
+#### TIM
+
+The fact that you think that's hot says more about you than us.
+
+#### BEN
+
+It's been called though. __[Lydia laughs]__ It's been called. Next scene!
+
+#### TIM
+
+Next--
+
+#### BEN
+
+Lyd.
+
+##### [Helen laughs]
+
+#### TIM
+
+You monster.
+
+#### HELEN
+
+Lyd's gone. She's gone. __[laughs]__
 
 __Lydia: [laughs]__ Just having a dust bath.
 
-__Tim:__ Just havin' a--
+#### TIM
 
-__Ben:__ What's your next scene though?
+Just havin' a--
 
-__Tim:__ Yeah. __[Lydia laughs]__ Pervert.
+#### BEN
 
-__[Lydia and Helen laugh]__
+What's your next scene though?
 
-__Lydia:__ I-- or should it be Alex watching again?__ [laughs]__
+#### TIM
 
-__Tim:__ Please, Alex, do the right thing.
+Yeah. __[Lydia laughs]__ Pervert.
 
-__[Tim and Ben laugh]__
+##### [Lydia and Helen laugh]
 
-__Lydia:__ I'm gonna put this to Alex. He's going to be watching something. Whether it is what was happening below with us two and the unbelieving or it's the bridge.
+#### LYDIA
 
-__Alex:__ Ah, you gotta make the call.
+I-- or should it be Alex watching again?__ [laughs]__
 
-__Helen:__ Yeah.
+#### TIM
 
-__Alex:__ This is your scene.
+Please, Alex, do the right thing.
 
-__Tim:__ Yeah.
+##### [Tim and Ben laugh]
 
-__Helen:__ Which, which one do you prefer to see?
+#### LYDIA
 
-__Lydia:__ Okay, you have to see the one downstairs.
+I'm gonna put this to Alex. He's going to be watching something. Whether it is what was happening below with us two and the unbelieving or it's the bridge.
 
-__Alex:__ So this is--?
+#### ALEX
 
-__Lydia:__ You're seeing--
+Ah, you gotta make the call.
 
-__Ben:__ If you know what we mean.
+#### HELEN
 
-__[Helen laugh]__
+Yeah.
 
-__Lydia:__ The du-- The-- yeah. We cu-- we cut off on "Unbeliever"!
+#### ALEX
+
+This is your scene.
+
+#### TIM
+
+Yeah.
+
+#### HELEN
+
+Which, which one do you prefer to see?
+
+#### LYDIA
+
+Okay, you have to see the one downstairs.
+
+#### ALEX
+
+So this is--?
+
+#### LYDIA
+
+You're seeing--
+
+#### BEN
+
+If you know what we mean.
+
+##### [Helen laugh]
+
+#### LYDIA
+
+The du-- The-- yeah. We cu-- we cut off on "Unbeliever"!
 
 __Helen: [laughs]__ Yes.
 
-__[SFX: breathing in a space suit]__
+##### [SFX: breathing in a space suit]
 
 __Shmerr: [voice shaking with the ship's vibrations]__ I find myself __[laughter]__ enamored with the idea of efficiency and how they've decided it'll run a little bit better with me outside. __[laughter]__ I do notice that in my initial assessment of the crew there is slightly more tension than I initially considered. Namely, the apparently killer robot. __[laughter]__ Retrospectively, I should have addressed this in the initial crew assessments. So, with that in mind, I am keeping an assessment of the situation distantly. I cannot help but notice that at this stage a significant portion of the budgie appears to be smeared on the walls of the-- __[everyone yelps]__ Thankfully, the main body of the budgie appears to have escaped. [__Helen:__ Just got one wing.] But there is now some kind of killer robot which I am choosing to consider a motivational __[laughter]__ action for the team.
 
-__Alex:__ Alex has to stop, he has cramping like every muscle in his torso.
+#### ALEX
 
-__Ben:__ Ah, that's-- I thought that's why you weren't cutting.
+Alex has to stop, he has cramping like every muscle in his torso.
 
-__Tim:__ Yeah.
+#### BEN
 
-__Lydia:__ Oh, that was incredible!
+Ah, that's-- I thought that's why you weren't cutting.
 
-__Alex:__ Ugh!
+#### TIM
 
-__Lydia:__ Way to get stage tortured, man. It's always about that.
+Yeah.
 
-__Tim:__ Yeah. Live foley.
+#### LYDIA
 
-__Helen:__ Wonderful.
+Oh, that was incredible!
 
-__Tim:__ Wonderful.
+#### ALEX
 
-__Lydia:__ Yeah.
+Ugh!
 
-__Tim:__ Wonderful.
+#### LYDIA
 
-__Lydia:__ Just, yeah, look at him. Look at the dedication there.
+Way to get stage tortured, man. It's always about that.
 
-__Ben:__ I mean, you made a, you made a choice and you stuck with it.
+#### TIM
 
-__Tim:__ Yeah.
+Yeah. Live foley.
 
-__Lydia:__ You did stick with it.
+#### HELEN
 
-__Helen:__ Yeah.
+Wonderful.
 
-__Alex:__ That's the one rule!
+#### TIM
 
-__Helen:__ It is!
+Wonderful.
 
-__Tim:__ Yeah, like a bad marriage, you just stuck with it.
+#### LYDIA
 
-__Lydia:__ Yeah, go for it! Go on.
+Yeah.
 
-__Helen:__ Yeah. That is a rule that I wrote down on my character sheet. Yeah. If you're interrupting then stick to it.
+#### TIM
 
-__Alex:__ Oh yeah.
+Wonderful.
 
-__Helen:__ Yeah, that's what you said.
+#### LYDIA
 
-__Lydia:__ If you're in a bad marriage--
+Just, yeah, look at him. Look at the dedication there.
 
-__Tim:__ Stick with it.
+#### BEN
 
-__Lydia:__ I'd write that down often.
+I mean, you made a, you made a choice and you stuck with it.
 
-__Helen:__ Kill the man.
+#### TIM
 
-__Tim:__ Yeah. You know.
+Yeah.
 
-__Lydia:__ Yeah.
+#### LYDIA
 
-__Ben:__ Yeah.
+You did stick with it.
 
-__Tim:__ Make it look like an accident.
+#### HELEN
 
-__Lydia:__ Yep.
+Yeah.
 
-__Helen:__ Yeah.
+#### ALEX
 
-__Tim:__ Right, the podcast has taken a turn. How do you--
+That's the one rule!
 
-__Ben:__ Pour their blood into your fuel pipe and use it to power you for a--
+#### HELEN
 
-__Helen:__ Lie around in your wedding dress.
+It is!
 
-__Alex:__ Somehow we've gone from, from, uh, like, marital murder and we trace that back to I was just shaking a bit in a chair.
+#### TIM
 
-__Tim:__ Yeah, yeah, yeah.
+Yeah, like a bad marriage, you just stuck with it.
 
-__Alex:__ Wow.
+#### LYDIA
 
-__Helen:__ Yeah.
+Yeah, go for it! Go on.
 
-__Lydia:__ Yeah.
+#### HELEN
 
-__Alex:__ Wow.
+Yeah. That is a rule that I wrote down on my character sheet. Yeah. If you're interrupting then stick to it.
 
-__Tim:__ A lot on our minds today.
+#### ALEX
 
-__[Alex laughs]__
+Oh yeah.
 
-__Helen:__ Yes. It's actually your turn to frame a scene.
+#### HELEN
 
-__Alex:__ Right. In that case then, I would like a scene of, uh, Mr. Squeakington joining the rest of the team on the bridge in whatever state they're in.
+Yeah, that's what you said.
 
-__Tim:__ Should we do that in media res?
+#### LYDIA
 
-__Ben:__ Yeah.
+If you're in a bad marriage--
 
-__Alex:__ Very much so.
+#### TIM
 
-__Pilchards:__ Now, on the count of three, drop the hat.
+Stick with it.
 
-__Ben:__ Uhhhh... We did get called "hot".
+#### LYDIA
 
-__Alex:__ You did get called "hot".
+I'd write that down often.
 
-__Lydia:__ Yeah.
+#### HELEN
 
-__Tim:__ Ooh.
+Kill the man.
 
-__Ben:__ So, we have to be caught *in flagrante*.
+#### TIM
 
-__Alex:__ I mean, in fairness, __[Lydia laughs]__ you could do exactly the same line.
+Yeah. You know.
 
-__Tim:__ Must we?
+#### LYDIA
 
-__Alex:__ Just... really close.
+Yeah.
 
-__[laughter]__
+#### BEN
 
-__Pilchards:__ Right, now you're takin' everything else off. __[Lydia laughs]__ Drop the hat.
+Yeah.
 
-__Alex:__ Lydia made it a little weird.
+#### TIM
 
-__[Mr. Squeakington squeaks]__
+Make it look like an accident.
+
+#### LYDIA
+
+Yep.
+
+#### HELEN
+
+Yeah.
+
+#### TIM
+
+Right, the podcast has taken a turn. How do you--
+
+#### BEN
+
+Pour their blood into your fuel pipe and use it to power you for a--
+
+#### HELEN
+
+Lie around in your wedding dress.
+
+#### ALEX
+
+Somehow we've gone from, from, uh, like, marital murder and we trace that back to I was just shaking a bit in a chair.
+
+#### TIM
+
+Yeah, yeah, yeah.
+
+#### ALEX
+
+Wow.
+
+#### HELEN
+
+Yeah.
+
+#### LYDIA
+
+Yeah.
+
+#### ALEX
+
+Wow.
+
+#### TIM
+
+A lot on our minds today.
+
+##### [Alex laughs]
+
+#### HELEN
+
+Yes. It's actually your turn to frame a scene.
+
+#### ALEX
+
+Right. In that case then, I would like a scene of, uh, Mr. Squeakington joining the rest of the team on the bridge in whatever state they're in.
+
+#### TIM
+
+Should we do that in media res?
+
+#### BEN
+
+Yeah.
+
+#### ALEX
+
+Very much so.
+
+#### PILCHARDS
+
+Now, on the count of three, drop the hat.
+
+#### BEN
+
+Uhhhh... We did get called "hot".
+
+#### ALEX
+
+You did get called "hot".
+
+#### LYDIA
+
+Yeah.
+
+#### TIM
+
+Ooh.
+
+#### BEN
+
+So, we have to be caught *in flagrante*.
+
+#### ALEX
+
+I mean, in fairness, __[Lydia laughs]__ you could do exactly the same line.
+
+#### TIM
+
+Must we?
+
+#### ALEX
+
+Just... really close.
+
+##### [laughter]
+
+#### PILCHARDS
+
+Right, now you're takin' everything else off. __[Lydia laughs]__ Drop the hat.
+
+#### ALEX
+
+Lydia made it a little weird.
+
+##### [Mr. Squeakington squeaks]
 
 __Pilchards: (simult.)__ Alright-- Woah. Woah.
 
 __Unal: (simult.)__ Woah. Woah. Hello. Eh--
 
-__Pilchards:__ And that is obviously how you cool down.
+#### PILCHARDS
 
-__Unal:__ Yes. My uniform slipped.
+And that is obviously how you cool down.
 
-__Pilchards:__ Yeah, it just... slipped off.
+#### UNAL
 
-__Unal:__ Oh look! All these buttons have fallen off. And my belt came undone.
+Yes. My uniform slipped.
 
-__Pilchards:__ Yeah.
+#### PILCHARDS
 
-__Unal:__ Right. Quickly put-- rectify that.
+Yeah, it just... slipped off.
 
-__Pilchards:__ Oh.
+#### UNAL
 
-__Unal:__ Um, yes. Mr. Squeakington, you appear to be alive--great--and maimed.
+Oh look! All these buttons have fallen off. And my belt came undone.
 
-__Lydia:__ Uh, so, ironically you guys might have had your clothes off. Mr. Squeakington is plucked.
+#### PILCHARDS
 
-__[laughter]__
+Yeah.
 
-__Ben:__ Wait, did you run in?
+#### UNAL
 
-__Pilchards:__ Oh, oh no!
+Right. Quickly put-- rectify that.
 
-__Lydia:__ He [*sic*] ran in or he hopped in.
+#### PILCHARDS
 
-__Pilchards:__ It appears to be a nude bird.
+Oh.
 
-__Lydia:__ And he [*sic*] lost a lot of feathers in the dust/blood, like--
+#### UNAL
 
-__Alex:__ Extravaganza.
+Um, yes. Mr. Squeakington, you appear to be alive--great--and maimed.
 
-__Lydia:__ Extravaganza happening downstairs.
+#### LYDIA
 
-__Unal:__ Mr.-- Mr. Squeakington, have you no sense of propriety?!
+Uh, so, ironically you guys might have had your clothes off. Mr. Squeakington is plucked.
+
+##### [laughter]
+
+#### BEN
+
+Wait, did you run in?
+
+#### PILCHARDS
+
+Oh, oh no!
+
+#### LYDIA
+
+He [*sic*] ran in or he hopped in.
+
+#### PILCHARDS
+
+It appears to be a nude bird.
+
+#### LYDIA
+
+And he [*sic*] lost a lot of feathers in the dust/blood, like--
+
+#### ALEX
+
+Extravaganza.
+
+#### LYDIA
+
+Extravaganza happening downstairs.
+
+#### UNAL
+
+Mr.-- Mr. Squeakington, have you no sense of propriety?!
 
 __Alex: [laughs]__ This is the bridge.
 
-__Unal:__ This is the bridge!
+#### UNAL
+
+This is the bridge!
 
 __Worshiper 2X7: [muffled]__ Nonbelievers.
 
-__Pilchards:__ Yeah.
+#### PILCHARDS
+
+Yeah.
 
 __Worshiper 2X7: [muffled]__ Unbelievers.
 
-__Unal:__ Uh...
+#### UNAL
 
-__Mr Squeakington:__ The-- that robot is really problematic!
+Uh...
+
+#### MR SQUEAKINGTON
+
+The-- that robot is really problematic!
 
 __Worshiper 2X7: [muffled]__ Nonbelievers. Nonbelievers.
 
-__Pilchards:__ Uh, alright. Quick, quick action is needed. Let's lock down the bridge to keep the robot out.
+#### PILCHARDS
+
+Uh, alright. Quick, quick action is needed. Let's lock down the bridge to keep the robot out.
 
 __Worshiper 2X7: [muffled]__ Nonbelievers. Nonbelievers. Nonbelievers!
 
-__Unal:__ Okay, I'll press this button. __[beep]__
+#### UNAL
 
-__Pilchards:__ Blast doors.
+Okay, I'll press this button. __[beep]__
 
-__Ship:__ Bridge sealed.
+#### PILCHARDS
 
-__Unal:__ Right.
+Blast doors.
 
-__Mr Squeakington:__ Squeak.
+#### SHIP
 
-__[SFX and actor foley of doors close and seal, Worshiper 2X7 trying to get in through the door]__
+Bridge sealed.
 
-__Unal:__ Um...
+#### UNAL
 
-__Pilchards:__ Now, what, what, what happened?
+Right.
 
-__Alex:__ I will add those in post.
+#### MR SQUEAKINGTON
 
-__Helen:__ Okay, good.
+Squeak.
 
-__Pilchards:__ What 'appened, Mr. Squeakington?
+##### [SFX and actor foley of doors close and seal, Worshiper 2X7 trying to get in through the door]
 
-__Mr Squeakington:__ Oh, well, I just suggested-- see, I, because I was abandoned cruelly--
+#### UNAL
 
-__[laughter]__
+Um...
 
-__Unal:__ Ah, about that--
+#### PILCHARDS
 
-__Mr Squeakington:__ Uhm...
+Now, what, what, what happened?
 
-__Pilchards:__ Oh, yeah. About that...
+#### ALEX
 
-__Lydia:__ So, the bird hops in between Many Legs and White Board and is facing--
+I will add those in post.
 
-__Alex:__ 'Cause those are their names now!
+#### HELEN
 
-__Lydia:__ --Many Legs-- Yeah.
+Okay, good.
 
-__[laughter]__
+#### PILCHARDS
 
-__Alex:__ My work is done.
+What 'appened, Mr. Squeakington?
 
-__Lydia:__ He's facing Many Legs completely. I mean, like--
+#### MR SQUEAKINGTON
 
-__Mr Squeakington:__ Well, since you're the only one worth addressing, since I was so cruelly abandoned, [__Unal:__ Uh, well--] I was stuck in sap [__Pilchards:__ Uh-huh.] and then my feathers, [__Pilchards:__ Yeah.] uh, so urgently dust bath. So, dust then bath then that worked so well, I suggested--eep!--that, uh, instead of--eep!--the robot seeking--eep!--moisture, as they were saying they--eep!--urgently--eep!--needed to do, that they use some of the dust in the dusty pit.
+Oh, well, I just suggested-- see, I, because I was abandoned cruelly--
 
-__Alex:__ Bear in mind, the entire time of this: __[imitating the banging on the door]__ boomph!
+##### [laughter]
 
-__Tim:__ Yeah.
+#### UNAL
 
-__Helen:__ Yeah.
+Ah, about that--
 
-__Pilchards:__ Hang on, hang on.
+#### MR SQUEAKINGTON
 
-__Mr Squeakington:__ So--
+Uhm...
 
-__Pilchards:__ The dusty pit?
+#### PILCHARDS
 
-__Mr Squeakington:__ And then--
+Oh, yeah. About that...
 
-__Pilchards:__ You mean, you--
+#### LYDIA
 
-__Mr Squeakington:__ --she got angry and then *smeared* me on the walls.
+So, the bird hops in between Many Legs and White Board and is facing--
 
-__Pilchards:__ In the dusty pit?
+#### ALEX
 
-__Mr Squeakington:__ Yeah. So now it's a, it's a dusty, bloody, sappy pit.
+'Cause those are their names now!
+
+#### LYDIA
+
+--Many Legs-- Yeah.
+
+##### [laughter]
+
+#### ALEX
+
+My work is done.
+
+#### LYDIA
+
+He's facing Many Legs completely. I mean, like--
+
+#### MR SQUEAKINGTON
+
+Well, since you're the only one worth addressing, since I was so cruelly abandoned, [__Unal:__ Uh, well--] I was stuck in sap [__Pilchards:__ Uh-huh.] and then my feathers, [__Pilchards:__ Yeah.] uh, so urgently dust bath. So, dust then bath then that worked so well, I suggested--eep!--that, uh, instead of--eep!--the robot seeking--eep!--moisture, as they were saying they--eep!--urgently--eep!--needed to do, that they use some of the dust in the dusty pit.
+
+#### ALEX
+
+Bear in mind, the entire time of this: __[imitating the banging on the door]__ boomph!
+
+#### TIM
+
+Yeah.
+
+#### HELEN
+
+Yeah.
+
+#### PILCHARDS
+
+Hang on, hang on.
+
+#### MR SQUEAKINGTON
+
+So--
+
+#### PILCHARDS
+
+The dusty pit?
+
+#### MR SQUEAKINGTON
+
+And then--
+
+#### PILCHARDS
+
+You mean, you--
+
+#### MR SQUEAKINGTON
+
+--she got angry and then *smeared* me on the walls.
+
+#### PILCHARDS
+
+In the dusty pit?
+
+#### MR SQUEAKINGTON
+
+Yeah. So now it's a, it's a dusty, bloody, sappy pit.
 
 __Pilchards: [outraged]__ You mean you mussed up my dusty pit?!
 
-__Mr Squeakington:__ Well, I mean, there's n--
+#### MR SQUEAKINGTON
 
-__Pilchards:__ That's where I keep all my stuff!
+Well, I mean, there's n--
 
-__Lydia:__ Gestures sort of with her wings but there's very lil' feather in the way. Feathers attached to the wings right now.
+#### PILCHARDS
 
-__Unal:__ Deraldio! Deraldio, please! Please!
+That's where I keep all my stuff!
 
-__Pilchards:__ Nah! No, this is--
+#### LYDIA
 
-__Unal:__ Please. Darling-- __[laughter]__ I mean, Deraldio! __[stammers]__ Uh, Lieutenant Pilchards.
+Gestures sort of with her wings but there's very lil' feather in the way. Feathers attached to the wings right now.
 
-__Pilchards:__ Look, I am just a lil' bit angry. That's where I kept all my plunder, my loot, my booty, my mints!
+#### UNAL
 
-__Unal:__ No, you ate those.
+Deraldio! Deraldio, please! Please!
 
-__Pilchards:__ Oh, yeah. But anyway, you mussed it up with your blood and your sap and your feathers.
+#### PILCHARDS
 
-__Mr Squeakington:__ Trust me, I'd be much happier with my blood on the inside, too!
+Nah! No, this is--
 
-__Unal:__ Actually, thinking about it, as much as I enjoy this conversation, [__Mr Squeakington:__ Eep!] we're all looking this way--
+#### UNAL
+
+Please. Darling-- __[laughter]__ I mean, Deraldio! __[stammers]__ Uh, Lieutenant Pilchards.
+
+#### PILCHARDS
+
+Look, I am just a lil' bit angry. That's where I kept all my plunder, my loot, my booty, my mints!
+
+#### UNAL
+
+No, you ate those.
+
+#### PILCHARDS
+
+Oh, yeah. But anyway, you mussed it up with your blood and your sap and your feathers.
+
+#### MR SQUEAKINGTON
+
+Trust me, I'd be much happier with my blood on the inside, too!
+
+#### UNAL
+
+Actually, thinking about it, as much as I enjoy this conversation, [__Mr Squeakington:__ Eep!] we're all looking this way--
 
 __Pilchards: (simult.)__ Yeah.
 
 __Mr Squeakington: (simult.)__ Eep.
 
-__Unal:__ --I turned the engines on--
+#### UNAL
+
+--I turned the engines on--
 
 __Pilchards: (simult.)__ Uh-huh.
 
 __Mr Squeakington: (simult.)__ Yep.
 
-__Unal:__ Who's driving?
+#### UNAL
 
-__Mr Squeakington:__ Eahhh!
+Who's driving?
 
-__Pilchards:__ Uh...
+#### MR SQUEAKINGTON
 
-__Ben:__ Dangerous!
+Eahhh!
 
-__Tim:__ Danger.
+#### PILCHARDS
 
-__[Worshiper 2X7's attempts to open door end]__
+Uh...
 
-__Helen:__ Ooh-ho-ho! So dangerous! Isn't it your go?
+#### BEN
 
-__Ben:__ It is.
+Dangerous!
 
-__Helen:__ Ben, what do you want to see?
+#### TIM
 
-__Ben:__ Uhhhhh...
+Danger.
 
-__Alex:__ A massive explosion!
+##### [Worshiper 2X7's attempts to open door end]
 
-__Ben:__ Wellllll... So, I would like one of Shmerr watching the comet fast approaching.
+#### HELEN
 
-__Alex:__ Yeah. __[Lydia chuckles]__ I'm on board with that.
+Ooh-ho-ho! So dangerous! Isn't it your go?
 
-__Ben:__ From the outside of the ship.
+#### BEN
+
+It is.
+
+#### HELEN
+
+Ben, what do you want to see?
+
+#### BEN
+
+Uhhhhh...
+
+#### ALEX
+
+A massive explosion!
+
+#### BEN
+
+Wellllll... So, I would like one of Shmerr watching the comet fast approaching.
+
+#### ALEX
+
+Yeah. __[Lydia chuckles]__ I'm on board with that.
+
+#### BEN
+
+From the outside of the ship.
 
 __[__
 
 __Shmerr: [voice shaking with the ship's vibrations]__ Captain's log supplemental--
 
-__Ben:__ 'Kay, just very quickly, remember, I didn't make him do this.
+#### BEN
 
-__Lydia:__ Yeah, no one made him.
+'Kay, just very quickly, remember, I didn't make him do this.
 
-__Alex:__ Oh no, it's just, it's required. It's required.
+#### LYDIA
 
-__Lydia:__ Yep.
+Yeah, no one made him.
 
-__[SFX: breathing in a space suit]__
+#### ALEX
+
+Oh no, it's just, it's required. It's required.
+
+#### LYDIA
+
+Yep.
+
+##### [SFX: breathing in a space suit]
 
 __Shmerr: [voice shaking with ship's vibrations]__ Captain's log supplemental: I have nothing but pride and respect for the navigator Many Legs in deciding to accelerate full force at the comet. __[Lydia laughs]__ The increased speed has allowed us to arrive at our destination in, what I estimate to be, at least three seconds spare. And in a lot of ways, if that isn't worth my death, I don't know what is. __[laughter]__ And so this will probably be my last entry. I would just like to thank Many Legs, White Board, Baldy, and Killer Inceptive Robot. __[laughter]__ While serving with me, without their assistance I could never have guided this ship into a comet __[laughter]__ for some reason. I'm not sure why we're aiming at the comet, but we got there fast. And if that isn't a win, I don't know what is. __[static]__
 
-__Tim:__ So, is it the case that you don't even know about the moisture--
+#### TIM
 
-__[Helen laughs]__
+So, is it the case that you don't even know about the moisture--
 
-__Alex:__ I have no idea! __[laughter]__ I have no idea! I've just twigged that we're aiming for a comet and we got there quick.
+##### [Helen laughs]
 
-__[laughter continues]__
+#### ALEX
 
-__Helen:__ Oh, my--
+I have no idea! __[laughter]__ I have no idea! I've just twigged that we're aiming for a comet and we got there quick.
 
-__Lydia:__ Dangerous, I guess.
+##### [laughter continues]
 
-__Tim:__ Yeah, dangerous.
+#### HELEN
 
-__Ben:__ Yeah.
+Oh, my--
 
-__Lydia:__ Yeah.
+#### LYDIA
 
-__Helen:__ Dangerous again. It's all dangerous.
+Dangerous, I guess.
 
-__Ben:__ Hey, Helen-- __[chuckles]__
+#### TIM
 
-__Helen:__ You know what? I'd like to see a scene with Squeakington, Unal, and Pilchards all panicking as they see a comet approaching.
+Yeah, dangerous.
 
-__[SFX: alarm blaring]__
+#### BEN
 
-__[Mr. Squeakington starts squeaking in alarm]__
+Yeah.
 
-__Pilchards:__ Oh no. Oh no. Oh no.
+#### LYDIA
 
-__Unal:__ Oh, bloody hell.
+Yeah.
 
-__Pilchards:__ Oh no. Oh no. Oh no.
+#### HELEN
 
-__Unal:__ Um, right. No.
+Dangerous again. It's all dangerous.
 
-__Pilchards:__ Where are the brakes on this?
+#### BEN
 
-__Unal:__ Hang on, I'm pressing the go button.
+Hey, Helen-- __[chuckles]__
 
-__Mr Squeakington:__ Eh, no. Not that--
+#### HELEN
+
+You know what? I'd like to see a scene with Squeakington, Unal, and Pilchards all panicking as they see a comet approaching.
+
+##### [SFX: alarm blaring]
+
+##### [Mr. Squeakington starts squeaking in alarm]
+
+#### PILCHARDS
+
+Oh no. Oh no. Oh no.
+
+#### UNAL
+
+Oh, bloody hell.
+
+#### PILCHARDS
+
+Oh no. Oh no. Oh no.
+
+#### UNAL
+
+Um, right. No.
+
+#### PILCHARDS
+
+Where are the brakes on this?
+
+#### UNAL
+
+Hang on, I'm pressing the go button.
+
+#### MR SQUEAKINGTON
+
+Eh, no. Not that--
 
 __Ship: [beep]__ Accelerating.
 
-__Unal:__ No. No no no no.
+#### UNAL
+
+No. No no no no.
 
 __Ship: [beep]__ Accelerating.
 
-__Unal:__ I want to press it backwards.
+#### UNAL
+
+I want to press it backwards.
 
 __Ship: [beep]__ Accelerating.
 
-__Pilchards:__ Stop doing it, you moron.
+#### PILCHARDS
+
+Stop doing it, you moron.
 
 __Ship: [beep]__ Accelerating.
 
-__Tim:__ I, uh, I--
+#### TIM
 
-__Lydia:__ Just starts attacking a speaker.
+I, uh, I--
 
-__Tim:__ I lunge for a brake lever.
+#### LYDIA
+
+Just starts attacking a speaker.
+
+#### TIM
+
+I lunge for a brake lever.
 
 __Alex: [laughing]__ 'Cause there's a hand brake in space!
 
-__[laughter]__
+##### [laughter]
 
-__Ben:__ Yeah, but it's a giant branch.
+#### BEN
 
-__Tim:__ Yeah yeah.
+Yeah, but it's a giant branch.
 
-__[laughter]__
+#### TIM
 
-__Pilchards:__ Maybe if I pull this.
+Yeah yeah.
 
-__Tim:__ I pull the hand brake branch lever.
+##### [laughter]
 
-__Ship:__ Brakes engaged. Deceleration in T-minus 13 minutes.
+#### PILCHARDS
 
-__[Aww's]__
+Maybe if I pull this.
 
-__Ben:__ Oh no!
+#### TIM
 
-__Pilchards:__ We're in our last moments together. I think we could all agree that you, Ural, are, um--
+I pull the hand brake branch lever.
 
-__Unal:__ It's Unal.
+#### SHIP
 
-__Pilchards:__ That you U--
+Brakes engaged. Deceleration in T-minus 13 minutes.
 
-__Ben:__ Nope, out of time.
+##### [Aww's]
 
-__Tim:__ Aw.
+#### BEN
 
-__[Alex laughs, Mr. Squeakington squeaks]__
+Oh no!
 
-__Alex:__ Cut. Danger! Boom.
+#### PILCHARDS
 
-__[explosion]__
+We're in our last moments together. I think we could all agree that you, Ural, are, um--
 
-__[laughter]__
+#### UNAL
 
-__Lydia:__ Uh, it's not my turn.
+It's Unal.
 
-__Ben:__ Tim, it's your scene.
+#### PILCHARDS
 
-__Helen:__ Yeah. It's your scene, Tim.
+That you U--
 
-__Tim:__ Wh-- Out of time, boom.
+#### BEN
 
-__Ben:__ No, out of time, cut.
+Nope, out of time.
 
-__Tim:__ Okay.
+#### TIM
 
-__Lydia:__ Yeah.
+Aw.
 
-__Ben:__ All I said was out of time. We could have concurrences. It doesn't have to be chronological.
+##### [Alex laughs, Mr. Squeakington squeaks]
 
-__Lydia:__ Yeah.
+#### ALEX
 
-__Helen:__ Yeah.
+Cut. Danger! Boom.
 
-__Tim:__ Okay, yeah, well let's, let's have a concurrent scene. So, as that, that previous scene was taking--
+##### [explosion]
 
-__Alex:__ Also, you're assuming a lot of people breathe oxygen and, quite frankly, that's your problem, not ours.
+##### [laughter]
 
-__Tim:__ Yeah, that's my, that's my privilege.
+#### LYDIA
 
-__Ben:__ Well, we never really established the atmosphere in this ship so.
+Uh, it's not my turn.
 
-__Tim:__ Yeah. It's *all* just nitrogen. __[laughter]__ Mm, tasty nitrogen. Try some today!
+#### BEN
 
-__Alex:__ Good for trees!
+Tim, it's your scene.
 
-__Tim:__ Good for trees!__ [laughter]__ Um... __[laughs]__ Right.
+#### HELEN
 
-__Helen:__ So, what scene would you like?
+Yeah. It's your scene, Tim.
 
-__Tim:__ Um, so the scene will be the other side of the blast doors and Worshiper 2X7 trying to devise a way of entering the bridge, not knowing that the comet is soon to be a squashy, hot friend.
+#### TIM
 
-__[laughter]__
+Wh-- Out of time, boom.
 
-__Alex:__ Well, first cold then very, very much hot.
+#### BEN
 
-__Lydia:__ Yeah.
+No, out of time, cut.
 
-__Tim:__ Oh yeah.
+#### TIM
 
-__Helen:__ Hmm, let's think.
+Okay.
 
-__Worshiper 2X7:__ Engaging rams.
+#### LYDIA
 
-__[sound of rams unfolding]__
+Yeah.
 
-__[laughter]__
+#### BEN
 
-__Lydia:__ Oh, no.
+All I said was out of time. We could have concurrences. It doesn't have to be chronological.
 
-__Worshiper 2X7:__ Engaging additional rams.
+#### LYDIA
 
-__[sound of more rams unfolding]__
+Yeah.
 
-__Worshiper 2X7:__ Engaging corkscrew.
+#### HELEN
 
-__[corkscrew whirring]__
+Yeah.
 
-__[laughter]__
+#### TIM
 
-__Worshiper 2X7:__ Attack. Attack. Attack.
+Okay, yeah, well let's, let's have a concurrent scene. So, as that, that previous scene was taking--
 
-__Ship:__ I would just like to wish you luck in converting all of the squishy inmates into fluid.
+#### ALEX
 
-__Worshiper 2X7:__ Thank you, Ship.
+Also, you're assuming a lot of people breathe oxygen and, quite frankly, that's your problem, not ours.
 
-__Ship:__ I'm just saying, if you want to share it out, I'm sure we could get along together.
+#### TIM
 
-__Worshiper 2X7:__ Moisture?
+Yeah, that's my, that's my privilege.
 
-__Ship:__ Moisture.
+#### BEN
 
-__Worshiper 2X7:__ Moisture!
+Well, we never really established the atmosphere in this ship so.
 
-__Ship:__ Moisture.
+#### TIM
 
-__Worshiper 2X7:__ Moisture.
+Yeah. It's *all* just nitrogen. __[laughter]__ Mm, tasty nitrogen. Try some today!
 
-__Ship:__ Moisture.
+#### ALEX
 
-__[laughter]__
+Good for trees!
 
-__Tim:__ Cut.
+#### TIM
 
-__Ben:__ Cut.
+Good for trees!__ [laughter]__ Um... __[laughs]__ Right.
 
-__Lydia:__ Cut!
+#### HELEN
 
-__[explosion]__
+So, what scene would you like?
 
-__[laughter]__
+#### TIM
 
-__Lydia:__ I'm so proud of us that no one said hot.
+Um, so the scene will be the other side of the blast doors and Worshiper 2X7 trying to devise a way of entering the bridge, not knowing that the comet is soon to be a squashy, hot friend.
 
-__[laughter]__
+##### [laughter]
 
-__Alex:__ It's only 'cause I was in the scene. If I was out of it, that'd been so hot, so fast.
+#### ALEX
 
-__Helen:__ Okay. I--
+Well, first cold then very, very much hot.
+
+#### LYDIA
+
+Yeah.
+
+#### TIM
+
+Oh yeah.
+
+#### HELEN
+
+Hmm, let's think.
+
+#### WORSHIPER 2X7
+
+Engaging rams.
+
+##### [sound of rams unfolding]
+
+##### [laughter]
+
+#### LYDIA
+
+Oh, no.
+
+#### WORSHIPER 2X7
+
+Engaging additional rams.
+
+##### [sound of more rams unfolding]
+
+#### WORSHIPER 2X7
+
+Engaging corkscrew.
+
+##### [corkscrew whirring]
+
+##### [laughter]
+
+#### WORSHIPER 2X7
+
+Attack. Attack. Attack.
+
+#### SHIP
+
+I would just like to wish you luck in converting all of the squishy inmates into fluid.
+
+#### WORSHIPER 2X7
+
+Thank you, Ship.
+
+#### SHIP
+
+I'm just saying, if you want to share it out, I'm sure we could get along together.
+
+#### WORSHIPER 2X7
+
+Moisture?
+
+#### SHIP
+
+Moisture.
+
+#### WORSHIPER 2X7
+
+Moisture!
+
+#### SHIP
+
+Moisture.
+
+#### WORSHIPER 2X7
+
+Moisture.
+
+#### SHIP
+
+Moisture.
+
+##### [laughter]
+
+#### TIM
+
+Cut.
+
+#### BEN
+
+Cut.
+
+#### LYDIA
+
+Cut!
+
+##### [explosion]
+
+##### [laughter]
+
+#### LYDIA
+
+I'm so proud of us that no one said hot.
+
+##### [laughter]
+
+#### ALEX
+
+It's only 'cause I was in the scene. If I was out of it, that'd been so hot, so fast.
+
+#### HELEN
+
+Okay. I--
 
 __Tim: (simult.)__ "Moisture? Moisture. Moisture? Ah, moisture!"
 
@@ -2036,59 +3688,105 @@ __Ben: (simult.)__ Hey, how 'bout--?
 
 __Helen: (simult.)__ Moisture.
 
-__Alex:__ I just want it on the record, the second that Helen's running the show, this, this got hot! Got hot and steamy!
+#### ALEX
 
-__Tim:__ Hot in Cleveland!
+I just want it on the record, the second that Helen's running the show, this, this got hot! Got hot and steamy!
 
-__Helen:__ That's why I'm not allowed to run Monster Hearts. __[laughs]__ I think we have time for one more scene.
+#### TIM
 
-__Alex:__ Whose, whose turn is it to call?
+Hot in Cleveland!
 
-__Lydia:__ Oh, it's me.
+#### HELEN
 
-__Helen:__ It's Lydia's turn.
+That's why I'm not allowed to run Monster Hearts. __[laughs]__ I think we have time for one more scene.
 
-__Tim:__ Lydia.
+#### ALEX
 
-__Lydia:__ Cut to...
+Whose, whose turn is it to call?
 
-__Alex:__ Shmerr.
+#### LYDIA
 
-__Helen:__ Shmerr.
+Oh, it's me.
 
-__Lydia:__ Shmerr.
+#### HELEN
 
-__Tim:__ Yeah.
+It's Lydia's turn.
+
+#### TIM
+
+Lydia.
+
+#### LYDIA
+
+Cut to...
+
+#### ALEX
+
+Shmerr.
+
+#### HELEN
+
+Shmerr.
+
+#### LYDIA
+
+Shmerr.
+
+#### TIM
+
+Yeah.
 
 __Lydia: [haltingly]__ Shmerr standing on a scrap of ship hull in a cloud of ice particles, spinning around with only a ship's log recorder in their hand.
 
-__Alex:__ Thankfully I don't need to shake. The acceleration's done at least. I can--
+#### ALEX
 
-__Lydia:__ Yeah yeah yeah, just floating.
+Thankfully I don't need to shake. The acceleration's done at least. I can--
 
-__Ben:__ But it's very cold so you're shivering.
+#### LYDIA
 
-__[laughter]__
+Yeah yeah yeah, just floating.
 
-__Alex:__ Don't you dare!
+#### BEN
 
-__Lydia:__ It is very cold, Alex.
+But it's very cold so you're shivering.
 
-__Alex:__ I-I'm in my suit. It's all good. It's all good. It's all good.
+##### [laughter]
 
-__Helen:__ Yeah.
+#### ALEX
 
-__Lydia:__ It's a cold suit.
+Don't you dare!
 
-__Ben:__ Your suit has a leak.
+#### LYDIA
 
-__[Tim laughs]__
+It is very cold, Alex.
 
-__Alex:__ Oh definitely. Definitely.
+#### ALEX
 
-__[SFX: breathing in a space suit and low alarm beeping rapidly]__
+I-I'm in my suit. It's all good. It's all good. It's all good.
 
-__Shmerr:__ Captain's log supplemental: I, Shmerr, of the dissolium collective do claim this comet __[laughter]__ as a property of me and would like to pay my respects to the dedicated crew that sacrificed their lives so nobly that I might obtain my personal mission.
+#### HELEN
+
+Yeah.
+
+#### LYDIA
+
+It's a cold suit.
+
+#### BEN
+
+Your suit has a leak.
+
+##### [Tim laughs]
+
+#### ALEX
+
+Oh definitely. Definitely.
+
+##### [SFX: breathing in a space suit and low alarm beeping rapidly]
+
+#### SHMERR
+
+Captain's log supplemental: I, Shmerr, of the dissolium collective do claim this comet __[laughter]__ as a property of me and would like to pay my respects to the dedicated crew that sacrificed their lives so nobly that I might obtain my personal mission.
 
 To Many Legs: he had many legs. __[laughter]__ I never heard his voice, but I liked to think it was bassy in a comforting manner. Certainly, White Board seemed to think so. __[laughter]__
 
@@ -2100,118 +3798,210 @@ And so, I bring myself full circle to Incenti-bot. I've, I've, I've called you I
 
 And so, I would like to close this log. Comfortable in the knowledge that this comet has been claimed. And as I see that bloody awful tree buggering off, __[laughter]__ finally I can rest calm and happy knowing that, in a some small way, we all made a difference. But mostly, mostly it was me, Shmerr.
 
-__[laughter]__
+##### [laughter]
 
-__Lydia:__ Cut!
+#### LYDIA
 
-__Tim:__ Yeah.
+Cut!
 
-__Helen:__ Wonderful. I think that's a lovely note to end on.
+#### TIM
 
-__Lydia:__ Beautiful.
+Yeah.
 
-__Alex:__ Hot!
+#### HELEN
 
-__Tim:__ Hot!
+Wonderful. I think that's a lovely note to end on.
 
-__Ben:__ Hot! Hot.
+#### LYDIA
 
-__Tim:__ Ooh, sexy isolation! __[laughter]__ Urgh, leave me on my own! Argh!
+Beautiful.
 
-__Alex:__ Wh-what a curvy chunk of ice.
+#### ALEX
 
-__Helen:__ Ah, don't. The Magnus fandom will get a hold of that.
+Hot!
 
-__Ben:__ Now we-- yeah, now we're gettin' a crossover.
+#### TIM
 
-__[laughter]__
+Hot!
 
-__Tim:__ Ohh, I'm just on my own with a tape recorder. Ooooh!
+#### BEN
 
-__Ben:__ Oh, no. On your own just with his own beard.
+Hot! Hot.
 
-__Lydia:__ Oh no, it is... genuinely a bad thing.
+#### TIM
 
-__Helen:__ Right. Did we all have fun?
+Ooh, sexy isolation! __[laughter]__ Urgh, leave me on my own! Argh!
 
-__Lydia:__ Yes.
+#### ALEX
 
-__Tim:__ Yeah.
+Wh-what a curvy chunk of ice.
 
-__Ben:__ No. No, it was terrible. It was awful.
+#### HELEN
 
-__Tim:__ No no. Hated it.
+Ah, don't. The Magnus fandom will get a hold of that.
 
-__Alex:__ I did not interact with a single character. If that isn't an RPG win, I don't know what is.
+#### BEN
 
-__Helen:__ Very good. We're very proud of you, Alex.
+Now we-- yeah, now we're gettin' a crossover.
 
-__Lydia:__ Yes.
+##### [laughter]
 
-__Helen:__ Ah, well, I hope you had fun as well, __[laughter]__ listeners. Dearest listeners.
+#### TIM
 
-__Tim:__ Dearest listeners.
+Ohh, I'm just on my own with a tape recorder. Ooooh!
 
-__Ben:__ Yeah, I guess, uh, one thing is you can... get Vast & Starlit if you google it.
+#### BEN
 
-__Helen:__ Oh!
+Oh, no. On your own just with his own beard.
 
-__Alex:__ Yes.
+#### LYDIA
 
-__Ben:__ And--
+Oh no, it is... genuinely a bad thing.
 
-__Helen:__ Yeah, genuinely but you should also pay for it 'cause you should always pay for your games.
+#### HELEN
 
-__Ben:__ Yes. It, it is a pay-what-you-want and it does say on the website that you can preview it for free. [__Helen:__ Mm-hmm.] But, yeah, it is pay-what-you-want, so if you like it, pay for it. [__Lydia:__ Yay.] Even if it's, like, fifty cents or a dollar or a pound.
+Right. Did we all have fun?
 
-__Tim:__ If you use--
+#### LYDIA
 
-__Lydia:__ Or a euro.
+Yes.
 
-__Alex:__ One hundred pounds!
+#### TIM
 
-__Ben:__ Or one hundred pounds.
+Yeah.
 
-__Lydia:__ Yeah, 'cause let's be honest, what will a pound be worth by the time this is broadcast.
+#### BEN
 
-__Ben:__ That's true. One million pounds.
+No. No, it was terrible. It was awful.
 
-__Helen:__ Oh my gosh.
+#### TIM
 
-__Lydia:__ Yeah.
+No no. Hated it.
 
-__Tim:__ Right. One discarded car part that you can trade for some mystery meat.
+#### ALEX
 
-__[chuckles]__
+I did not interact with a single character. If that isn't an RPG win, I don't know what is.
 
-__Helen:__ Several plastic bags which have shot up in value.
+#### HELEN
+
+Very good. We're very proud of you, Alex.
+
+#### LYDIA
+
+Yes.
+
+#### HELEN
+
+Ah, well, I hope you had fun as well, __[laughter]__ listeners. Dearest listeners.
+
+#### TIM
+
+Dearest listeners.
+
+#### BEN
+
+Yeah, I guess, uh, one thing is you can... get Vast & Starlit if you google it.
+
+#### HELEN
+
+Oh!
+
+#### ALEX
+
+Yes.
+
+#### BEN
+
+And--
+
+#### HELEN
+
+Yeah, genuinely but you should also pay for it 'cause you should always pay for your games.
+
+#### BEN
+
+Yes. It, it is a pay-what-you-want and it does say on the website that you can preview it for free. [__Helen:__ Mm-hmm.] But, yeah, it is pay-what-you-want, so if you like it, pay for it. [__Lydia:__ Yay.] Even if it's, like, fifty cents or a dollar or a pound.
+
+#### TIM
+
+If you use--
+
+#### LYDIA
+
+Or a euro.
+
+#### ALEX
+
+One hundred pounds!
+
+#### BEN
+
+Or one hundred pounds.
+
+#### LYDIA
+
+Yeah, 'cause let's be honest, what will a pound be worth by the time this is broadcast.
+
+#### BEN
+
+That's true. One million pounds.
+
+#### HELEN
+
+Oh my gosh.
+
+#### LYDIA
+
+Yeah.
+
+#### TIM
+
+Right. One discarded car part that you can trade for some mystery meat.
+
+##### [chuckles]
+
+#### HELEN
+
+Several plastic bags which have shot up in value.
 
 __Lydia: [laughs]__ Yeah.
 
-__Alex:__ It's all gone to such a strange, strange place.
+#### ALEX
 
-__Lydia:__ Just filled with tap water.
+It's all gone to such a strange, strange place.
 
-__[Helen laughs]__
+#### LYDIA
+
+Just filled with tap water.
+
+##### [Helen laughs]
 
 __Tim: [laughing]__ Plastic Sainsbury's bags filled with tap water.
 
-__Ben:__ Fifteen of Theresa May's career.
+#### BEN
+
+Fifteen of Theresa May's career.
 
 __Helen: [laughs]__ Worthless, Ben! They're all worthless!
 
-__[laughter]__
+##### [laughter]
 
-__Alex:__ Bye guys.
+#### ALEX
+
+Bye guys.
 
 #### ALL
 
 Bye!
 
-__Alex:__ Hot!
+#### ALEX
 
-__[Rusty Quill Gaming theme music]__
+Hot!
 
-__Alex:__ Rusty Quill Gaming is a podcast distributed by Rusty Quill and licenced under a Creative Commons Attribution Noncommercial Sharealike 4.0 International Licence. Today's episode was directed by Alexander J Newall and produced by April Sumner. To subscribe, buy merchandise, or join our Patreon, visit rustyquill.com. Rate and review us online, tweet us @TheRustyQuill, visit us on Facebook or email us via mail@rustyquill.com. Join our community on the Discord via the website or on Reddit at r/RustyQuill. Thanks for listening.
+##### [Rusty Quill Gaming theme music]
+
+#### ALEX
+
+Rusty Quill Gaming is a podcast distributed by Rusty Quill and licenced under a Creative Commons Attribution Noncommercial Sharealike 4.0 International Licence. Today's episode was directed by Alexander J Newall and produced by April Sumner. To subscribe, buy merchandise, or join our Patreon, visit rustyquill.com. Rate and review us online, tweet us @TheRustyQuill, visit us on Facebook or email us via mail@rustyquill.com. Join our community on the Discord via the website or on Reddit at r/RustyQuill. Thanks for listening.
 
 __[theme music continues]__

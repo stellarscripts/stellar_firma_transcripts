@@ -10,24 +10,18 @@ content_warnings: []
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/enolasmanifesto
 summary: Enola’s Manifesto <br/><br/>Enola sets out her vision of a Geistman-free future for Stellar Firma.
-formats:
-#   PDF: 
-#   Google Doc: 
+formats: 
 sources:
   transcriber 1 name: homepage URL/email/whatever
   transcriber 2 name: homepage URL/email/whatever
 official: false
 ---
 
-#### SEASON TWO HIATUS BONUS
-
-# __Enola's Manifesto__
-
 Transcribed 8/29/20 via stellarscripts on tumblr
 
-__[shorter version of the show theme]__
+##### [shorter version of the show theme]
 
-__[cassette tape put in player, tape clicks on]__
+##### [cassette tape put in player, tape clicks on]
 
 #### ENOLA, somewhat fanatical but reverent when talking about the Board
 
@@ -55,9 +49,9 @@ And number six: we will be allowed to send a Happy Board Day card to the Board e
 
 We hold these demands to be self-evident and inalienable rights that will be granted us... if that__'s okay. [stammers] And if it's__ not too much of a bother. Um... Bye!
 
-__[tape player stops, cassette tape removed, trash lid squeaks open, tape tossed in trash, lid closes]__
+##### [tape player stops, cassette tape removed, trash lid squeaks open, tape tossed in trash, lid closes]
 
-__[short version of the outro theme]__
+##### [short version of the outro theme]
 
 #### TIM
 

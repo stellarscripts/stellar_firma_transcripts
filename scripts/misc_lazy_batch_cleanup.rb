@@ -22,6 +22,7 @@ def cleanup_one(fname=episode_fnames[4])
   }.each {|k,v| md.gsub!(k,v)}
 
   md = replace_misformatted_speaker_labels(md)
+  md = replace_misformatted_captions(md)
   md = trim_whitespace_from_lines(md)
 
   ep.md = md
@@ -32,11 +33,32 @@ end
 
 def replace_misformatted_speaker_labels(md)
   rx = /\n__([A-Z0-9 ]+)__:/
-
   while m = rx.match(md)
-    md.gsub!(m[0], "\n#### #{m[1]}\n\n")
+    md.gsub!(m[0], "\n#### #{m[1]}\n\n".upcase)
+  end
+  rx = /\n__([A-Z0-9 ]+):__/
+  while m = rx.match(md)
+    md.gsub!(m[0], "\n#### #{m[1]}\n\n".upcase)
   end
 
+  # # incl lowercase:
+  # rx = /\n__([A-Za-z0-9 ]+)__:/
+  # while m = rx.match(md)
+  #   md.gsub!(m[0], "\n#### #{m[1]}\n\n".upcase)
+  # end
+  # rx = /\n__([A-Za-z0-9 ]+):__/
+  # while m = rx.match(md)
+  #   md.gsub!(m[0], "\n#### #{m[1]}\n\n".upcase)
+  # end
+
+  return md
+end
+
+def replace_misformatted_captions(md)
+  rx = /\n__(\[[^\n\]\[]+\])__\n/
+  while m = rx.match(md)
+    md.gsub!(m[0], "\n##### #{m[1]}\n")
+  end
   return md
 end
 

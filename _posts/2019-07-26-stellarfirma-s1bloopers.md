@@ -18,10 +18,6 @@ sources:
 official: false
 ---
 
-#### SEASON ONE HIATUS BONUS
-
-# __ Bloopers__
-
 ## Transcribed 12/7/19 via stellarscripts on tumblr
 
 #### ALEX

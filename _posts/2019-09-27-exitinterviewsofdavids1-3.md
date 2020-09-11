@@ -10,17 +10,11 @@ content_warnings: []
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/exitinterviewsofdavids1-3-5f1d81a2
 summary: Quality control and behaviour regulation assessments for the clone assistants of Design Consultant Trexel Geistman. Batch 0432, David's 1-3
-formats:
-#   PDF: 
-#   Google Doc: 
+formats: 
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
-
-#### SEASON ONE HIATUS BONUS
-
-# __ Exit Interviews of Davids 1-3__
 
 ## Transcribed 11/28/19 via stellarscripts on tumblr
 
@@ -32,21 +26,21 @@ Hi everyone, Alex here. I'd just like to take a moment to thank some of our patr
 
 Hi everyone, Alex again. We hope you've enjoyed the special content we've been running during the season break for Stellar Firma. This is just a quick update to let you all know that Season 2 will be available to the public on December 6th, 2019. In the meantime, if you'd like to submit an episode suggestion, be sure to join our Patreon via the website or via the link in the show notes. For now, though, we're going to continue with the specials, and so with that in mind, we hope you enjoy today's: the first of the exit interviews.
 
-__[shorter version of the show theme]__
+##### [shorter version of the show theme]
 
-__[activation beep]__
+##### [activation beep]
 
 #### MALE ROBOT VOICE
 
 David 1.
 
-__[electronic activation sound]__
+##### [electronic activation sound]
 
 #### TREXEL
 
 So! David. __[pause]__ Not gone well. Not gone well at all. This is what, uh, we call... __[stutters]__ I suppose you'd call it like a liquidation chat? Or perhaps a "you're going to die" talk! Or an exit interview. Or-- or something of that major, and it's just an exercise for me, Trexel Geistman... your erstwhile manager... to find out what's gone wrong! Why-- why are we here?
 
-__[in contrast to David 7, David 1 speaks very clinically and emotionlessly.]__
+##### [in contrast to David 7, David 1 speaks very clinically and emotionlessly.]
 
 #### DAVID 1
 
@@ -76,21 +70,21 @@ Now I am the universe's greatest genius, and you did exactly what I told you to 
 
 I did exactly what you told me to do.
 
-__[long pause]__
+##### [long pause]
 
 #### TREXEL
 
 Interview terminated.
 
-__[electronic powering-down sound]__
+##### [electronic powering-down sound]
 
-__[activation beep]__
+##### [activation beep]
 
 #### MALE ROBOT VOICE
 
 David 2.
 
-__[electronic activation sound]__
+##### [electronic activation sound]
 
 #### TREXEL
 
@@ -136,15 +130,15 @@ It seems a normal consultant has a clone burn rate of about one in every eight y
 
 Well, okay, this is a supposition. Erm, and, I think you'll find that you can...Interview terminated.
 
-__[electronic powering-down sound]__
+##### [electronic powering-down sound]
 
-__[activation beep]__
+##### [activation beep]
 
 #### MALE ROBOT VOICE
 
 David 3.
 
-__[electronic activation sound]__
+##### [electronic activation sound]
 
 #### TREXEL [agitated]
 

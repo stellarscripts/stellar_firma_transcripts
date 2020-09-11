@@ -10,17 +10,11 @@ content_warnings: []
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/exitinterviewsofdavids4-5
 summary: Quality control and behaviour regulation assessments for the clone assistants of Design Consultant Trexel Geistman. Batch 0432, Davids 4-5.
-formats:
-#   PDF: 
-#   Google Doc: 
+formats: 
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
-
-#### SEASON ONE HIATUS BONUS
-
-# __ Exit Interviews of Davids 4-5__
 
 ## Transcribed 12/17/19 via stellarscripts on tumblr
 
@@ -28,15 +22,15 @@ official: false
 
 Hi everyone, Alex here. I'd just like to take a moment to thank some of our patrons: Michael, Erinn Triplett, Kaii's Creations, Hayley R, TheAceAce, Fennic Anteres, Lemmke, Evan, Hal, William Brandes Stoddard, el, Aaron Everett, Andee Williams, Zach Smith, Amber Armstrong, Milli Bayley, A. Hargreaves, Molly!, Cas Landman, PlotTwisted. Thank you all. We really appreciate your support. If you'd like to join them, go to www.patreon.com/rustyquill and take a look at our rewards.
 
-__[shorter version of the show theme]__
+##### [shorter version of the show theme]
 
-__[activation beep]__
+##### [activation beep]
 
 #### MALE ROBOT VOICE
 
 David 4.
 
-__[electronic activation sound]__
+##### [electronic activation sound]
 
 #### TREXEL
 
@@ -98,15 +92,15 @@ No. And also, I'm programmed just to do exactly what you say and write down your
 
 ...Interview terminated.
 
-__[electronic powering-down sound]__
+##### [electronic powering-down sound]
 
-__[activation beep]__
+##### [activation beep]
 
 #### MALE ROBOT VOICE
 
 David 5.
 
-__[electronic activation sound]__
+##### [electronic activation sound]
 
 #### TREXEL
 
@@ -160,19 +154,19 @@ Yes. Well, they always have more, so don't worry. What you need to do to remembe
 
 Oh, well, no, it's actually under your chair-- look, I'll show you.
 
-__[static buzz]__
+##### [static buzz]
 
 #### IMOGEN
 
 Recycling process: commencing!
 
-__[alarm begins buzzing, David 5 hums quizzically] [mechanical whirrs and hums commence]__
+##### [alarm begins buzzing, David 5 hums quizzically] [mechanical whirrs and hums commence]
 
 #### DAVID 5
 
 Ah! O-okay, then.
 
-__[a high-pitched whirring sound then a pause, muffled blending sounds followed by something liquid and heavy being dispensed and a distant thud.]__
+##### [a high-pitched whirring sound then a pause, muffled blending sounds followed by something liquid and heavy being dispensed and a distant thud.]
 
 #### TREXEL
 

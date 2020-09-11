@@ -10,19 +10,11 @@ content_warnings: []
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/executivequarterly-ep37q2fd-h.piltz-id63277482-
 summary: This week on Executive Quarterly With Sigmund Shankeray we sit down with Hartro Piltz (ID 63277482), a rising young executive and Line manager who could be destined for great things.
-formats:
-#   PDF: 
-#   Google Doc: 
+formats: 
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
-
-#### SEASON ONE HIATUS BONUS
-
-# 
-
-# __Executive Quarterly - Ep 37Q2FD, H. Piltz (ID 63277482)__ 
 
 Transcribed 12/14/19 via stellarscripts on tumblr
 
@@ -30,11 +22,11 @@ Transcribed 12/14/19 via stellarscripts on tumblr
 
 Hi everyone, Alex here. I'd just like to take a moment to thank some of our patrons: Jennifer Payton, Camilla Sutton, Charles Craig, Igor Nikolskiy, brianna, Kara Marten, lauren coleman, Wim, Shawna Bracken, Cally Shearer, Zalia Chimera, Christopher Nies, Maxwell Skrocki, Phillip Platt, Aurora B., johnny dangerously, Athena Frade, Lais Rojas, Iris, Kim Cuthbertson. Thank you all. We really appreciate your support. If you'd like to join them, go to www.patreon.com/rustyquill and take a look at our rewards.
 
-__[shorter version of the show theme]__
+##### [shorter version of the show theme]
 
-__[water dripping, light flickers audibly]__
+##### [water dripping, light flickers audibly]
 
-__[upbeat radio show intro music, the show sounds like it is being played on a radio in a corridor at first and then transitions into sounding clearer]__
+##### [upbeat radio show intro music, the show sounds like it is being played on a radio in a corridor at first and then transitions into sounding clearer]
 
 #### SIGMUND
 
@@ -168,7 +160,7 @@ Is it hot in here? Ha.
 
 It is a-- it is a little warm. I'll just turn it __[knob being turned]__ up a little. A line manager's job can be very hard and, and very taxing. [__HARTRO:__ No.] Does it ever get too much?
 
-__[heater fans blowing]__
+##### [heater fans blowing]
 
 #### HARTRO
 
@@ -250,7 +242,7 @@ Just that I'm a shapeshifter [__SIGMUND:__ You're a shapeshifter.] and I have a 
 
 Okay, a line drawing shapeshifter with no friends. That's Hartro Piltz. Okay, and would you ever defy the Board?
 
-__[sound of large and threatening gun unfolding, low tone beeping]__
+##### [sound of large and threatening gun unfolding, low tone beeping]
 
 #### SIGMUND
 
@@ -272,7 +264,7 @@ I-I don't think I've even heard the words "defy the Board" in the same sen-- I c
 
 In your role as shapeshifting line drawer, [__HARTRO:__ Yes.] you're drawing a line through defying the board?
 
-__[gun makes adjustments]__
+##### [gun makes adjustments]
 
 #### HARTRO
 
@@ -290,7 +282,7 @@ To say absolutely not. Absolutely not.
 
 Okay, wonderful.
 
-__[beeping stops, gun disassembles and retracts]__
+##### [beeping stops, gun disassembles and retracts]
 
 #### SIGMUND
 
@@ -344,7 +336,7 @@ Is-- Isn't that funny though. Isn't that funny. Uh... __[laughs]__ I just think,
 
 So, you specifically choose to engineer failure in part of your work to cast more glory onto the rest of it, is that what you're saying to me?
 
-__[sound of large and threatening gun unfolding, low tone beeping]__
+##### [sound of large and threatening gun unfolding, low tone beeping]
 
 #### HARTRO
 
@@ -378,7 +370,7 @@ Yes.
 
 Hail the Board.
 
-__[beeping stops, gun disassembles and retracts]__
+##### [beeping stops, gun disassembles and retracts]
 
 #### HARTRO
 
@@ -412,7 +404,7 @@ I will put on a facade of party if I must.
 
 Because, obviously the Board really encourages our line managers to sometimes, you know, get out there and let down their hair. So, you're saying that you, you buck against that enjoyment and you, and you push against the mandated parties of the Board?
 
-__[sound of large and threatening gun unfolding, low tone beeping]__
+##### [sound of large and threatening gun unfolding, low tone beeping]
 
 #### HARTRO
 
@@ -430,7 +422,7 @@ _[crosstalk]_ It's a little hot, Sigmund.
 
 _[crosstalk]_ I'll just turn it up.
 
-__[knob being turned, heater fans blowing]__
+##### [knob being turned, heater fans blowing]
 
 #### HARTRO
 
@@ -440,7 +432,7 @@ And you are, you are a very appealing looking man. __[nervous laugh]__ Uh-- Um--
 
 Hartro, we're, we're recording an interview so I don't think I'll take up the partying. But the fact that you offered is noted.
 
-__[beeping stops, gun disassembles and retracts]__
+##### [beeping stops, gun disassembles and retracts]
 
 #### SIGMUND
 
@@ -454,7 +446,7 @@ Well, Sigmund, I know you must also feel the responsibility in your job. As I've
 
 So, you would go against an execution order?
 
-__[sound of large and threatening gun unfolding, low tone beeping]__
+##### [sound of large and threatening gun unfolding, low tone beeping]
 
 #### HARTRO
 
@@ -480,7 +472,7 @@ _[crosstalk]_ If the Board has--
 
 In the night while they're sleeping? When their back is turned or eyes are closed? Let's say it's your oldest friend. __[gun makes adjustments]__ And you were called to a secret tribunal and were told they had to be removed and terminated and we handed you the gun and said, "do it now." Would you immediately walk to that person's pod, quietly open the door, creep up, pull back the covers, and take them out?
 
-__[gun makes adjustments]__
+##### [gun makes adjustments]
 
 #### HARTRO
 
@@ -502,7 +494,7 @@ And what would I do, Hartro?
 
 What would you do, Sigmund? How many times have you ever been asked a question?
 
-__[gun makes adjustments]__
+##### [gun makes adjustments]
 
 #### SIGMUND
 
@@ -524,7 +516,7 @@ And that is mine as well. That's what I was saying. Well done, us. __[Sigmund ex
 
 Would you ever defy the Board?
 
-__[gun makes adjustments]__
+##### [gun makes adjustments]
 
 #### HARTRO [quickly]
 
@@ -546,7 +538,7 @@ We just like to check.
 
 Okay.
 
-__[beeping stops, gun disassembles and retracts]__
+##### [beeping stops, gun disassembles and retracts]
 
 #### SIGMUND
 
@@ -576,20 +568,20 @@ Oh, really, only one more?
 
 Just the one. Would you ever defy the Board?
 
-__[sound of large and threatening gun unfolding, low tone beeping]__
+##### [sound of large and threatening gun unfolding, low tone beeping]
 
 #### HARTRO
 
 No.
 
-__[beeping stops, gun disassembles and retracts]__
+##### [beeping stops, gun disassembles and retracts]
 
 #### SIGMUND
 
 Hartro Piltz, thank you very much. And thanks to all of you for joining me, Sigmund Shankeray, __[the show sounds like it is being played on a radio in a corridor]__ on this edition of Executive Quarterly. I hope you'll join me next week where we're meeting Gamma Delt, the most compliant and obedient young executive I've met in many eons. Thank you.
 
-__[upbeat radio show music]__
+##### [upbeat radio show music]
 
-__[radio switches off, dripping water, light flickers audibly]__
+##### [radio switches off, dripping water, light flickers audibly]
 
 __[short version of the outro theme; there are no credits]__

@@ -10,21 +10,15 @@ content_warnings: []
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/tim-bendoscience2
 summary: Tim and Ben do SCIENCE Again! <br/><br/>Welcome to this bonus episode of Stellar Firma, where Bryn Monroe (Hamid on Rusty Quill Gaming) delves into the symphony of factual inaccuracy that is Season 2 to find out just how much Tim and Ben know about science…
-formats:
-#   PDF: 
-#   Google Doc: 
+formats: 
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
 
-#### SEASON TWO HIATUS BONUS
-
-# __ Ben and Tim do SCIENCE Again!__
-
 ## Transcribed 7/22/20 via stellarscripts on tumblr
 
-__[shorter version of the show theme]__
+##### [shorter version of the show theme]
 
 #### BRYN
 
@@ -38,7 +32,7 @@ Peering out of this big present __[mouth trumpet noise]__ is Bonus Ben!
 
 Walking incredibly slowly through a thin sheet of tin foil, it's Tim Meredith.
 
-__[Ben chuckles, Tim makes an explosion noise]__
+##### [Ben chuckles, Tim makes an explosion noise]
 
 #### BRYN
 
@@ -48,7 +42,7 @@ That's right. These guys have asked me back once again. Much like the interseaso
 
 I didn't ask. I thought we were doing episode one of season three but he's just here, so I guess we're doing this though.
 
-__[Bryn laughs]__
+##### [Bryn laughs]
 
 #### TIM
 
@@ -66,7 +60,7 @@ Um--
 
 Look, I've got an incomprehensible page of notes somewhere which should serve.
 
-__[Ben and Bryn chuckle]__
+##### [Ben and Bryn chuckle]
 
 #### BRYN
 
@@ -230,7 +224,7 @@ Now, they'll definitely come in and be like __[Bryn and Tim laugh]__ "this is a-
 
 I love it! Profits up!
 
-__[Ben chuckles]__
+##### [Ben chuckles]
 
 #### BRYN
 
@@ -308,7 +302,7 @@ __[simultaneously]__ Point one of science: can you smell through a microphone?
 
 __[simultaneously]__ Wait, was that a science? Did he do a science?
 
-__[Bryn laughs]__
+##### [Bryn laughs]
 
 #### TIM
 
@@ -318,7 +312,7 @@ The answer: maybe.
 
 Yeah.
 
-__[Tim and Ben chuckle]__
+##### [Tim and Ben chuckle]
 
 #### BRYN
 
@@ -416,13 +410,13 @@ I did it.
 
 __[laughs]__ I guess, __[Ben laughs]__ in this case, the points go to Ben. Are we doing points? We did points last time, right?
 
-__[Tim sighs]__
+##### [Tim sighs]
 
 #### BEN
 
 We're doing points because I just got the first one.
 
-__[Bryn laughs]__
+##### [Bryn laughs]
 
 #### TIM
 
@@ -468,7 +462,7 @@ Absolutely. Absolutely.
 
 I would say broadly the same thing, but I'm gonna say the word "variables" __[Tim laughs]__ and thus win it.
 
-__[Bryn laughs]__
+##### [Bryn laughs]
 
 #### TIM
 
@@ -646,7 +640,7 @@ I've got an idea as well. And I-- you know what, I might be wrong about this, bu
 
 It's certainly possible, isn't it? I have to confess I've never worked in a science lab. I couldn't tell you for certain.
 
-__[Tim sighs dramatically]__
+##### [Tim sighs dramatically]
 
 #### BEN
 
@@ -684,7 +678,7 @@ Think it through! Think it through!
 
 And you can't distill the numbers to drink the number juice!
 
-__[Tim and Bryn laugh]__
+##### [Tim and Bryn laugh]
 
 #### TIM
 
@@ -778,7 +772,7 @@ It's chemistry.
 
 Yeah, basically what you're just doing there is you're going to be studying chemicals. You're going to be studying-- and there's various different branches, you could be doing metallurgy. But it's wonderful that that was immediately where Trexel went when asked to create a scientific environment, [__TIM:__ Yeah.] because, to me, that shows that he's been brought up in the British school system of the late 20th century.
 
-__[Tim laughs]__
+##### [Tim laughs]
 
 #### TIM
 
@@ -788,7 +782,7 @@ Yeah, we're doing science which means just chemistry. __[laughs]__
 
 Hang on a minute, Bryn. Are you saying, *are you saying*__ [Bryn laughs]__[__TIM:__ Preach, Ben. Preach!] we draw on our own life experiences and don't subsume ourselves completely into the characters of these people who live in __[breaks off into incomprehensible mumbles, Tim joins in]__ the year of our Lord, Stellar Firma?
 
-__[Tim laughs]__
+##### [Tim laughs]
 
 #### BRYN
 
@@ -802,13 +796,13 @@ Oh, oh. That's good. Steal it.
 
 Ey? Ooh. Ben, you're fired. Bryn, you're on board.
 
-__[Bryn laughs]__
+##### [Bryn laughs]
 
 #### BEN
 
 Okay! See you later. How good's your nasal voice, Bryn?
 
-__[Bryn laughs]__
+##### [Bryn laughs]
 
 #### TIM
 
@@ -898,7 +892,7 @@ Especially with the delay. I have set this Skype call up so that I always have f
 
 You apparently won't be able to use the same tactic you used last time of just waiting for him to say something wrong and then coming in with the correct answer.
 
-__[Tim laughs, Ben makes a sound of resigned agreement]__
+##### [Tim laughs, Ben makes a sound of resigned agreement]
 
 #### TIM
 
@@ -920,7 +914,7 @@ Yes, point for that. So sterile is normally in reference to specifically microbe
 
 Yeah, I'd love to see a virus on a sword being like, "Nailed it. I made it."
 
-__[Tim laughs]__
+##### [Tim laughs]
 
 #### TIM
 
@@ -962,7 +956,7 @@ I mean, they won a Nobel prize for that, but sure, it wasn't what they were hopi
 
 I mean, it's technically not sterile but, uhh, good luck.
 
-__[Tim laughs]__
+##### [Tim laughs]
 
 #### BRYN
 
@@ -1028,7 +1022,7 @@ That is... yeah.
 
 Relative to us.
 
-__[Tim laughs]__
+##### [Tim laughs]
 
 #### BRYN
 
@@ -1118,7 +1112,7 @@ Yes! __[loud triumphant laugh]__
 
 Because it is almost exactly the same process. Yes.
 
-__[Ben laughs]__
+##### [Ben laughs]
 
 #### BEN
 
@@ -1156,7 +1150,7 @@ We're twenty minutes in. We've done the setup! Let's go!
 
 Obviously, here's a-- Yeah. That's me talking about *one* episode from this season.
 
-__[Tim laughs]__
+##### [Tim laughs]
 
 #### BEN
 
@@ -1186,7 +1180,7 @@ Yes.
 
 There's a certain... 30-second section during which I could *feel* you both looking at me __[Tim chuckles]__ with a very specific cheeky look in your eyes, which I have seen from both of you on several occasions.
 
-__[Ben and Tim gasp]__
+##### [Ben and Tim gasp]
 
 #### BEN
 
@@ -1200,7 +1194,7 @@ __[feigning surprise]__ Wh-what?! Us?! We?!
 
 Pray tell.
 
-__[Tim laughs]__
+##### [Tim laughs]
 
 #### BRYN
 
@@ -1330,7 +1324,7 @@ Just because *your* limited understanding of astrophysics __[Bryn laughs]__ [__T
 
 You get an equally dense pickaxe. Is it hard to pick up? Yes, it is, but 'like with like'... finished sentence.
 
-__[Ben laughs]__
+##### [Ben laughs]
 
 #### BRYN
 
@@ -1340,7 +1334,7 @@ So, I'm subtracting a point from Tim there--
 
 Oh no!
 
-__[Ben laughs loudly]__
+##### [Ben laughs loudly]
 
 #### BRYN
 
@@ -1506,7 +1500,7 @@ Atoms are drawn like solar systems because apparently people who draw diagrams o
 
 I would have preferred a cloud of-- Look, here is a globe. The atom is everywhere and nowhere all at the same time-- Again, if you'd have told me that and that dude's crazy-ass name, I'd have been much more interested in science!
 
-__[Bryn laughs]__
+##### [Bryn laughs]
 
 #### BEN
 
@@ -1536,7 +1530,7 @@ And a lot of science is lies, because what science really is is a *model* of the
 
 And so we stopped trying.
 
-__[Ben snorts]__
+##### [Ben snorts]
 
 #### BRYN
 
@@ -1558,7 +1552,7 @@ I was asked to. I can't claim that I ever did, but I was certainly asked to, Bry
 
 Probably. And at some point, I was asked about Boyle's law and shown a spring and I was like, "Ah, I ain't got __[mumbling]__ a clue. I don't know."
 
-__[Tim laughs]__
+##### [Tim laughs]
 
 #### BRYN
 
@@ -1644,7 +1638,7 @@ Oh! Okay.
 
 I'm not quibbling about terminology here.
 
-__[Ben laughs]__
+##### [Ben laughs]
 
 #### TIM
 
@@ -1654,7 +1648,7 @@ Where's our caldera, Bryn? Where's our caldera?
 
 Wait, hang on a minute! Also, Bryn, you're a physicist and you're not quibbling about terminology? I don't think you're a real physicist.
 
-__[Tim and Bryn laugh]__
+##### [Tim and Bryn laugh]
 
 #### TIM
 
@@ -1664,7 +1658,7 @@ You're a botanist in a lab coat!
 
 Aw, they're even worse!
 
-__[Tim laughs]__
+##### [Tim laughs]
 
 #### BRYN
 
@@ -1722,7 +1716,7 @@ I don't--
 
 Ah, remember, we are so very loose with the definition of human.
 
-__[Tim laughs]__
+##### [Tim laughs]
 
 #### BRYN
 
@@ -1744,7 +1738,7 @@ So, okay. Can I maybe say that perhaps, perhaps--
 
 Alright, yes. I'll answer the question in good faith, I suppose.
 
-__[Bryn laughs]__
+##### [Bryn laughs]
 
 #### TIM
 
@@ -1774,13 +1768,13 @@ Is it pyroclastic flow? __[laughs]__
 
 That's fine. I gave myself a million-billion points just then, so I'm all good.
 
-__[Bryn and Tim laugh]__
+##### [Bryn and Tim laugh]
 
 #### TIM
 
 Listeners, you can't see this, but he's actually just holding armfuls of points and __[Bryn laughs]__ nuzzling his face into them, laughing! Like an only-from-the-waist-up Scrooge McDuck.
 
-__[Ben laughs]__
+##### [Ben laughs]
 
 #### BRYN
 
@@ -1834,7 +1828,7 @@ Convection, radiation and... Ooh.
 
 I'm gonna say emanation, which I think is just radiation and I got my thesaurus out, but it's a, it's a big word.
 
-__[Bryn laughs]__
+##### [Bryn laughs]
 
 #### TIM
 
@@ -1912,7 +1906,7 @@ Uh, funny enough--
 
 __[crosstalk, urgently]__ Hang on a minute! What about the plum pudding? Please tell me that the plum pudding still stands!
 
-__[Bryn laughs]__
+##### [Bryn laughs]
 
 #### BEN
 
@@ -2010,7 +2004,7 @@ Wow. Hang on. Sorry--
 
 My room is now full of scales, because they've all fallen from my eyes. Sorry, let me just shift these away.
 
-__[Ben and Bryn laugh]__
+##### [Ben and Bryn laugh]
 
 #### BRYN
 
@@ -2132,7 +2126,7 @@ Yeah. For tricksyness, if nothing else.
 
 Got those big strong clone lungs.
 
-__[Tim laughs]__
+##### [Tim laughs]
 
 #### BRYN
 
@@ -2270,7 +2264,7 @@ Uh, six to a hundred!
 
 Oh my god.Okay, I know that's wrong.
 
-__[Tim chuckles]__
+##### [Tim chuckles]
 
 #### TIM
 
@@ -2348,7 +2342,7 @@ That is a really good question. And I think you're going to enjoy this answer ac
 
 Hang on, let me just pick up my drink __[voice sounds more distant as he presumably leans back]__ and lean back in my chair. *Do tell*.
 
-__[Ben chuckles]__
+##### [Ben chuckles]
 
 #### BRYN
 
@@ -2390,7 +2384,7 @@ I can't believe that you waited for us to confirm. "No, I don't know what a metr
 
 I just-- I worry when the audio is only me talking for too long.
 
-__[Tim and Ben laugh]__
+##### [Tim and Ben laugh]
 
 #### BEN
 
@@ -2400,7 +2394,7 @@ On this show, it's a blessing and a rarity.
 
 A problem I know you don't share Tim.
 
-__[Ben and Bryn laugh]__
+##### [Ben and Bryn laugh]
 
 #### TIM
 
@@ -2422,7 +2416,7 @@ Yeah.
 
 To be honest.
 
-__[Tim and Ben laugh]__
+##### [Tim and Ben laugh]
 
 #### BRYN
 
@@ -2452,7 +2446,7 @@ So, after kilometres you technically--and we don't use them--but you technically
 
 __[loudly]__ Megametres!
 
-__[Tim laughs]__
+##### [Tim laughs]
 
 #### BRYN
 
@@ -2488,7 +2482,7 @@ So, it's actually every-- every increment for the-- except centimetres, which do
 
 Oh, yes. Sorry for being the most human understandable measurement.
 
-__[Tim laughs loudly]__
+##### [Tim laughs loudly]
 
 #### BRYN
 
@@ -2554,7 +2548,7 @@ Oh! BraveSirFblthip.
 
 Length and frighteningness of message encouraged.
 
-__[Bryn laughs]__
+##### [Bryn laughs]
 
 #### BEN
 
@@ -2596,7 +2590,7 @@ I mean, Britain did for a long time too, but Britain eventually changed their mi
 
 Yeah, that's because we're America-lite.
 
-__[Bryn chuckles]__
+##### [Bryn chuckles]
 
 #### TIM
 
@@ -2750,7 +2744,7 @@ __[laughs]__ The looks. The looks, people.
 
 Zurich. Zurich is a singularity now!
 
-__[Tim laughs]__
+##### [Tim laughs]
 
 #### BRYN
 
@@ -2804,7 +2798,7 @@ And so that's where Elvis and Lord Lucan are hiding, correct?
 
 Presumably so.
 
-__[Ben snorts, then laughs]__
+##### [Ben snorts, then laughs]
 
 #### TIM
 
@@ -2818,7 +2812,7 @@ One can only assume. That's a good hypothesis. Devise scientific tests that test
 
 __[laughs]__ I've found the Elvis particle!
 
-__[Ben laughs]__
+##### [Ben laughs]
 
 #### BRYN
 
@@ -2828,7 +2822,7 @@ Uh, yeah. So, we've gone pretty deep there, and it takes a long time to explain 
 
 I'm telling you, this Bill Bryson book is paying dividends. __[Bryn and Ben laugh]__ I'm so glad I started with that one and not *Notes from a Small Island*.
 
-__[Ben laughs]__
+##### [Ben laughs]
 
 #### BRYN
 
@@ -2882,7 +2876,7 @@ Yes. You haven't got enough atoms to have eyes. [__BRYN:__ Basically.]__ [laughs
 
 Well, I think "Atoms for Eyes" is a Thom Yorke solo project, right?
 
-__[Bryn laughs]__
+##### [Bryn laughs]
 
 #### TIM
 
@@ -2908,7 +2902,7 @@ I like the idea that we're talking about supergroups and that one-- that supergr
 
 Yeah yeah yeah yeah. Sorry, yes.
 
-__[Ben laughs]__
+##### [Ben laughs]
 
 #### BRYN
 
@@ -2990,7 +2984,7 @@ __[chuckles]__ Sorry.
 
 He disappeared into his degree. Come back!
 
-__[Bryn laughs]__
+##### [Bryn laughs]
 
 #### BEN
 
@@ -3080,7 +3074,7 @@ Yes. The Halo ring is like they peeled a Dyson sphere and, like, took a stripe o
 
 Oh, like with an apple with a knife [__BEN:__ Yeah!] like you'd see a cool person do. Okay. Right. Alright. [__BRYN:__ Yeah.] Outburst retracted.
 
-__[Ben laughs]__
+##### [Ben laughs]
 
 #### BRYN
 
@@ -3254,7 +3248,7 @@ Gravity is actually the result of the curvature of space-time due to the presenc
 
 Imagine a rubber sheet [__BRYN:__ Exactly.] and an iron ball placed upon it. [__BRYN:__ Yep.] Well, guess what? It's not that. This another one of those lies we use.
 
-__[Ben and Bryn laugh]__
+##### [Ben and Bryn laugh]
 
 #### BRYN
 
@@ -3288,7 +3282,7 @@ We're talking about, you know, civilisations here like Stellar Firma which are p
 
 Uh, it's political will.
 
-__[Bryn laughs]__
+##### [Bryn laughs]
 
 #### TIM
 
@@ -3526,7 +3520,7 @@ Well, let's just say, even building that would encounter the same problem as bui
 
 __[getting louder]__ It was a funny joke, Bryn!
 
-__[Ben laughs]__
+##### [Ben laughs]
 
 #### BRYN
 
@@ -3552,7 +3546,7 @@ _[crosstalk]_ And that's one I tried to research.
 
 So, if you wanna know what grounded Bryn's gears so much, subscribe to Patreon.
 
-__[Bryn and Tim laugh]__
+##### [Bryn and Tim laugh]
 
 #### BRYN
 
@@ -3562,7 +3556,7 @@ So, sadly, there's always more we could discuss despite the much smaller presenc
 
 Well, as Tim said, we'll sit down and work it out.
 
-__[Tim laughs]__
+##### [Tim laughs]
 
 #### TIM
 
@@ -3584,7 +3578,7 @@ All hail the Board.
 
 All hail the Board. May it preserve and keep you!
 
-__[short version of the outro theme]__
+##### [short version of the outro theme]
 
 Stellar Firma is distributed under a Creative Commons Attribution Noncommercial Sharealike 4.0 International Licence.
 

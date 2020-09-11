@@ -11,12 +11,14 @@ voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/exitinterviewsofdavids4-5
 summary: Quality control and behaviour regulation assessments for the clone assistants of Design Consultant Trexel Geistman. Batch 0432, Davids 4-5.
 formats: 
+  HTML: https://stellarscripts.tumblr.com/transcripts/exit-interviews-2
+  Google Doc: https://docs.google.com/document/d/13lUIOakNAs5jCg0yTZrC0u2W4qwFiLBbrOJITFRcePM/edit
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
 
-## Transcribed 12/17/19 via stellarscripts on tumblr
+> Transcribed 12/17/19 via stellarscripts on tumblr
 
 #### ALEX
 
@@ -172,4 +174,4 @@ Ah! O-okay, then.
 
 __[shakily]__ Well... there goes another one. Well done, Geistman. There goes another clone, right into the blender! So, let's just... __[sighs]__ This can't go on. I can't keep... building myself up like this. Falling, failing, and... *feeling*. No, there'll be more Davids. There'll be a David 6, and then, who knows? Maybe even a David 7. But I'm not going to let them hurt me any more. This isn't *my* fault. This is theirs! It's *their* fault for failing, s-somehow, it's not important! __[pause]__ But I'll be strong. And I have a feeling that one day, everything will... come up Geistman. __[shaky breath]__ Interview terminated.
 
-__[electronic powering-down sound, fade into short version of the outro theme. There are no credits.]__
+##### [electronic powering-down sound, fade into short version of the outro theme. There are no credits.]

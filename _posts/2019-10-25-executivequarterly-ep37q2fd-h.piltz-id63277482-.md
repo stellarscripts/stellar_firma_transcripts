@@ -11,12 +11,14 @@ voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/executivequarterly-ep37q2fd-h.piltz-id63277482-
 summary: This week on Executive Quarterly With Sigmund Shankeray we sit down with Hartro Piltz (ID 63277482), a rising young executive and Line manager who could be destined for great things.
 formats: 
+  HTML: https://stellarscripts.tumblr.com/transcripts/hartro-interview
+  Google Doc: https://docs.google.com/document/d/1UNk-GLqymy76KO8dxKqddlguEOpLlR2e_6LCOq4fPq4/edit
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
 
-Transcribed 12/14/19 via stellarscripts on tumblr
+> Transcribed 12/14/19 via stellarscripts on tumblr
 
 #### ALEX
 
@@ -122,7 +124,7 @@ _[crosstalk]_ Oh, come now, nothing?
 
 #### HARTRO
 
-You jest. No really. No, it is a *joy* to work for Stellar Firma. I mean, bless the Board I have come to where I have come. You know, everyday as I smack my face on the floor of my cubicle and alight into action to come and deliver line managerial dictation and-- and* joy*. I just feel like I am the luckiest woman to serve the Board. I love my job!
+You jest. No really. No, it is a *joy* to work for Stellar Firma. I mean, bless the Board I have come to where I have come. You know, everyday as I smack my face on the floor of my cubicle and alight into action to come and deliver line managerial dictation and-- and *joy*. I just feel like I am the luckiest woman to serve the Board. I love my job!
 
 #### SIGMUND
 
@@ -584,4 +586,4 @@ Hartro Piltz, thank you very much. And thanks to all of you for joining me, Sigm
 
 ##### [radio switches off, dripping water, light flickers audibly]
 
-__[short version of the outro theme; there are no credits]__
+##### [short version of the outro theme; there are no credits]

@@ -11,12 +11,14 @@ voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/stellarfirma-spacepalsspecial2
 summary: Tim and Ben are joined by Rusty Quill Gaming regulars, Alex, Helen and Lydia, for the conclusion of our a special crossover! <br/><br/>This week Shmerr makes some observations and things get Hot as the crew tries to solve their fuel crisis.
 formats: 
+  HTML: https://stellarscripts.tumblr.com/transcripts/space-pals-2
+  Google Doc: https://docs.google.com/document/d/1YUIJJ4baK82fWszEmdBy8oF1qLFBiptbsLq55zfEliU/edit
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
 
-Transcribed 2/8/20 via stellarscripts on tumblr
+> Transcribed 2/8/20 via stellarscripts on tumblr
 
 #### ALEX
 
@@ -4004,4 +4006,4 @@ Hot!
 
 Rusty Quill Gaming is a podcast distributed by Rusty Quill and licenced under a Creative Commons Attribution Noncommercial Sharealike 4.0 International Licence. Today's episode was directed by Alexander J Newall and produced by April Sumner. To subscribe, buy merchandise, or join our Patreon, visit rustyquill.com. Rate and review us online, tweet us @TheRustyQuill, visit us on Facebook or email us via mail@rustyquill.com. Join our community on the Discord via the website or on Reddit at r/RustyQuill. Thanks for listening.
 
-__[theme music continues]__
+##### [theme music continues]

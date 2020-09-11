@@ -11,20 +11,16 @@ voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/season1teaser
 summary: 'Trailer <br/>Recycling <br/><br/>Citizen Employee T. Geistman (ID 362884) submits Bio Facsimile David 6 (ID 95847336) to summary slurriment and recycling. <br/><br/>Content Warning for: <br/> - Comedic violence <br/> - Emotional Abuse <br/><br/>If you''d like to support the show join th...'
 formats:
-#   PDF: 
-#   Google Doc: 
+  HTML: https://stellarscripts.tumblr.com/transcripts/s1-teaser
+  Google Doc: https://docs.google.com/document/d/1TV_lXqCZgYmJvqry2dKCcFnFl7-PmRSzMg3zljDE9KI/edit
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
 
-#### SEASON ONE BONUS
+> Transcribed 2/2/20 via stellarscripts on tumblr
 
-# __Season 1 Teaser__
-
-## Transcribed 2/2/20 via stellarscripts on tumblr
-
-__[door swooshes open]__
+#### [door swooshes open]
 
 #### TREXEL
 
@@ -70,7 +66,7 @@ __[upeat]__ Obviously.
 
 Recycling process... commencing!
 
-__[beeping starts, mechanical whirring]__
+#### [beeping starts, mechanical whirring]
 
 #### TREXEL
 
@@ -84,21 +80,21 @@ Well, goodbye Trexel. It was nice working with you.
 
 Was it, David? Was it?
 
-__[mechanical whirring continues, thump]__
+#### [mechanical whirring continues, thump]
 
 #### DAVID
 
 __[muffled]__ Oh. Well, this is strange.
 
-__[blender noise followed by something liquid and heavy being dispensed and a distant thud.]__
+#### [blender noise followed by something liquid and heavy being dispensed and a distant thud.]
 
 #### TREXEL
 
 Ah well, circle of life. Right. Just a quickie at the Cosmic Lounge and then we'll see about David 7. IMOGEN. __[beep]__ I'm tired and hungry. Look up "cocktail sandwich" for me. I want to see if it's a thing.
 
-__[door swooshes open]__
+#### [door swooshes open]
 
-__[shorter version of the show theme]__
+#### [shorter version of the show theme]
 
 #### TIM
 

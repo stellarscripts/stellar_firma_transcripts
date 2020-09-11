@@ -11,12 +11,14 @@ voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/themagnusarchives...inspaaaaace
 summary: The Magnus Archives... in SPAAAAACE <br/><br/>Statement of T. Geistman regarding the circumstances of his assignment to, and later dismissal from, the Sales Department of Stellar Firma Ltd.
 formats: 
+  HTML: https://stellarscripts.tumblr.com/transcripts/magnus-in-space
+  Google Doc: https://docs.google.com/document/
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
 
-## Transcribed 11/22/19 via stellarscripts on tumblr
+> Transcribed 11/22/19 via stellarscripts on tumblr
 
 #### ALEX
 

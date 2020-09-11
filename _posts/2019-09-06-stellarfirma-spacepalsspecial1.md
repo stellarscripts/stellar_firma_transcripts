@@ -11,12 +11,14 @@ voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/stellarfirma-spacepalsspecial1
 summary: It's time for a special crossover! Tim and Ben join Rusty Quill Gaming regulars, Alex, Helen and Lydia, in this exciting two-part space adventure!
 formats: 
+  HTML: https://stellarscripts.tumblr.com/transcripts/space-pals-1
+  Google Doc: https://docs.google.com/document/d/1_AqtwqL-FwJsNcr3Yt6afh2SH9aEEHHA0AZVQnlNkYo/edit
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
 
-Transcribed 1/20/20 via stellarscripts on tumblr
+> Transcribed 1/20/20 via stellarscripts on tumblr
 
 #### ALEX
 

@@ -11,12 +11,14 @@ voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/mandatorywinterholidayclientcommunique
 summary: Mandatory Winter Holiday Client Communiqué
 formats: 
+  HTML: https://stellarscripts.tumblr.com/transcripts/s2-holiday
+  Google Doc: https://docs.google.com/document/d/1fwN_yNLmwIVRku60ZUZfZevoJEQYoVAqC7xpw8PeBJU/edit
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
 
-## Transcribed 12/27/19 via stellarscripts on tumblr
+> Transcribed 12/27/19 via stellarscripts on tumblr
 
 #### ALEX
 
@@ -36,4 +38,4 @@ Dear valued client, holiday greetings from all of us here at Stellar Firma. We d
 
 ##### [dripping water, light buzzing]
 
-__[short version of the outro theme. There are no credits]__
+##### [short version of the outro theme. There are no credits]

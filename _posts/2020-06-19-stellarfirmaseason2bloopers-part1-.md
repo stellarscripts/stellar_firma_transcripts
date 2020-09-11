@@ -11,12 +11,14 @@ voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/stellarfirmaseason2bloopers-part1-
 summary: Season 2 Bloopers (part 1) <br/><br/>Whoopsies and OH-NOs <br/><br/>CLIENT - Perfect, got it in one!
 formats: 
+  HTML: https://stellarscripts.tumblr.com/transcripts/s2-bloopers1
+  Google Doc: https://docs.google.com/document/d/18P6Y6RNML17eit4XKsrpBdoNTzEzU1Q6mog5eDnzI3k/edit
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
 
-## Transcribed 6/22/20 via stellarscripts on tumblr
+> Transcribed 6/22/20 via stellarscripts on tumblr
 
 ##### [shorter version of the show theme]
 

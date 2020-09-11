@@ -11,12 +11,14 @@ voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/tim-bendoscience2
 summary: Tim and Ben do SCIENCE Again! <br/><br/>Welcome to this bonus episode of Stellar Firma, where Bryn Monroe (Hamid on Rusty Quill Gaming) delves into the symphony of factual inaccuracy that is Season 2 to find out just how much Tim and Ben know about science…
 formats: 
+  HTML: https://stellarscripts.tumblr.com/transcripts/stellar-science2
+  Google Doc: https://docs.google.com/document/d/1W7dU1_1rMZFUPHyhhwdIdmxx_nyki323B1cCQmbhSJE/edit
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
 
-## Transcribed 7/22/20 via stellarscripts on tumblr
+> Transcribed 7/22/20 via stellarscripts on tumblr
 
 ##### [shorter version of the show theme]
 

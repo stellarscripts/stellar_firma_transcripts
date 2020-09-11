@@ -10,21 +10,21 @@ content_warnings: []
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/stellarfirma-season1q-a
 summary: Stellar Firma - Season 1 Q&A <br/><br/>Welcome to another bonus episode of Stellar Firma, where Tim and Ben do their best to answer all of your questions!
-formats:
-#   PDF: 
-#   Google Doc: 
+formats: 
+  HTML: https://stellarscripts.tumblr.com/transcripts/s1-qa
+  Google Doc: https://docs.google.com/document/d/1dXGYQbKpkg7VLnUP3I3AVbuZkBX6a2LxQ6FmpA6ueKo/edit
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
 
-Transcribed 12/31/19 via stellarscripts on tumblr
+> Transcribed 12/31/19 via stellarscripts on tumblr
 
 #### ALEX
 
 Hi everyone, Alex here. I'd just like to take a moment to thank some of our patrons: Bruno Falcon, Brian Taulbee, Anastasia Keelor, William Diment, Abbegail Lovette, Ariel Young, Johnathan & Gillian Kastner, Jared Clark Levixn, Jack Cato and Jellybeam, Rob Core, oli, C Jason, Grace Brant, Dylan Harin, Rory A, Nicholas Schaefer, Harry Jones, Samantha Christine, AGVZ, BearyGoosey. Thank you all. We really appreciate your support. If you'd like to join them, go to www.patreon.com/rustyquill and take a look at our rewards.
 
-__[shorter version of the show theme]__
+##### [shorter version of the show theme]
 
 #### TIM
 
@@ -3016,4 +3016,4 @@ He doesn't like you all. Lovely. Thank you.
 
 #### BEN and TIM: Bye!
 
-__[short version of the outro theme; there are no credits]__
+##### [short version of the outro theme; there are no credits]

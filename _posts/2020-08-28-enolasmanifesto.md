@@ -11,13 +11,14 @@ voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/enolasmanifesto
 summary: Enola’s Manifesto <br/><br/>Enola sets out her vision of a Geistman-free future for Stellar Firma.
 formats: 
+  HTML: https://stellarscripts.tumblr.com/transcripts/enola-manifesto
+  Google Doc: https://docs.google.com/document/d/1BnY5JF78i9izYsM0P_N2Dq-1PFj0n-uArVZam7mJ3iQ/edit
 sources:
-  transcriber 1 name: homepage URL/email/whatever
-  transcriber 2 name: homepage URL/email/whatever
+  stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
 
-Transcribed 8/29/20 via stellarscripts on tumblr
+> Transcribed 8/29/20 via stellarscripts on tumblr
 
 ##### [shorter version of the show theme]
 

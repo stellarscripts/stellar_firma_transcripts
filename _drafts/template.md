@@ -19,13 +19,13 @@ official: false
 
 ## How to add a new episode:
 
-1. In GitHub, open this file in "Raw" mode (the "Raw" button is in the upper right corner). You'll know you're looking at the right version of the file because you'll be able to see a bunch of code-looking text in between two '---' bars. That's called the 'frontmatter,' and if you leave it out Jekyll will have trouble displaying the transcript, or won't display it at all.
+* In GitHub, open this file in "Raw" mode (the "Raw" button is in the upper right corner). You'll know you're looking at the right version of the file because you'll be able to see a bunch of code-looking text in between two '---' bars. That's called the 'frontmatter,' and if you leave it out Jekyll will have trouble displaying the transcript, or won't display it at all.
 
-1. In another window tab, also in GitHub, open [the page for the '\_posts' directory](https://github.com/stellarscripts/stellar_firma_transcripts/tree/master/_posts).
+* In another window tab, also in GitHub, open [the page for the '\_posts' directory](https://github.com/stellarscripts/stellar_firma_transcripts/tree/master/_posts).
 
-1. Click 'Add File', then 'Create new file'.
+* Click 'Add File', then 'Create new file'.
 
-1. For a normal episode, in the "Name your file..." field, you'd put something like
+* For a normal episode, in the "Name your file..." field, you'd put something like
 
 > 2019-02-15-001.md
 
@@ -35,13 +35,13 @@ For an episode without a number, you'd instead name it
 
 > 2019-02-15-episodetitle.md
 
-1. Copy and paste everything in here (INCLUDING the stuff between the two '---'s above) into the text field.
+* Copy and paste everything in here (INCLUDING the stuff between the two '---'s above) into the text field.
 
-1. Edit the lines in the text field to add the episode name, number, air date, Google Doc URLs, etc.
+* Edit the lines in the text field to add the episode name, number, air date, Google Doc URLs, etc.
 
-1. If the episode is a special, be sure to change 'categories: episode' to 'categories: special'.
+* If the episode is a special, be sure to change 'categories: episode' to 'categories: special'.
 
-1. Replace everything but the frontmatter with the actual transcript. When you're done, click 'Commit new file'.
+* Replace everything but the frontmatter with the actual transcript. When you're done, click 'Commit new file'.
 
 The formatting of the actual transcripts works like this: 
 

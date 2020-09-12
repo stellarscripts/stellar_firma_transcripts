@@ -17,7 +17,7 @@ sources:
 official: false
 ---
 
-How to add a new episode:
+## How to add a new episode:
 
 1. In GitHub, open this file in "Raw" mode (the "Raw" button is in the upper right corner). You'll know you're looking at the right version of the file because you'll be able to see a bunch of code-looking text in between two '---' bars
 

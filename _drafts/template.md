@@ -21,7 +21,7 @@ official: false
 
 1. In GitHub, open this file in "Raw" mode (the "Raw" button is in the upper right corner). You'll know you're looking at the right version of the file because you'll be able to see a bunch of code-looking text in between two '---' bars. That's called the 'frontmatter,' and if you leave it out Jekyll will have trouble displaying the transcript, or won't display it at all.
 
-1. In another window tab, also in GitHub, open (the page for the '\_posts' directory)[https://github.com/stellarscripts/stellar_firma_transcripts/tree/master/_posts].
+1. In another window tab, also in GitHub, open [the page for the '\_posts' directory](https://github.com/stellarscripts/stellar_firma_transcripts/tree/master/_posts).
 
 1. Click 'Add File', then 'Create new file'.
 

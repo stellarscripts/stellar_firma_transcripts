@@ -64,3 +64,5 @@ Like that.
 [Links look like this.](http://www.example.com/)
 
 <span style="color: red;">And you can also use just plain HTML if you want.</span>
+
+For 6 spaces using HTML it's -> |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|

@@ -19,7 +19,7 @@ official: false
 
 ## How to add a new episode:
 
-1. In GitHub, open this file in "Raw" mode (the "Raw" button is in the upper right corner). You'll know you're looking at the right version of the file because you'll be able to see a bunch of code-looking text in between two '---' bars
+1. In GitHub, open this file in "Raw" mode (the "Raw" button is in the upper right corner). You'll know you're looking at the right version of the file because you'll be able to see a bunch of code-looking text in between two '---' bars. That's called the 'frontmatter,' and if you leave it out Jekyll will have trouble displaying the transcript, or won't display it at all.
 
 1. In another window tab, also in GitHub, open (the page for the '\_posts' directory)[https://github.com/stellarscripts/stellar_firma_transcripts/tree/master/_posts].
 
@@ -40,6 +40,8 @@ For an episode without a number, you'd instead name it
 1. Edit the lines in the text field to add the episode name, number, air date, Google Doc URLs, etc.
 
 1. If the episode is a special, be sure to change 'categories: episode' to 'categories: special'.
+
+1. Replace everything but the frontmatter with the actual transcript. When you're done, click 'Commit new file'.
 
 The formatting of the actual transcripts works like this: 
 

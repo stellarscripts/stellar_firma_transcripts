@@ -2788,7 +2788,7 @@ Yes! Ha ha!
 
 #### BRYN
 
-A Planck length is *way* smaller than any of the ones we've discussed. So, under nanometres there's-- God, there's something like femtometres and attometres, and, when you get to this kind of scale of things, everything's expressed in powers of ten, so nanometres is ten to the minus nine (10-9). A Planck length is something like ten to the minus thirty-four (10-34) metres, so that's 0.000-- where you've got thirty-three zeros and then a one.
+A Planck length is *way* smaller than any of the ones we've discussed. So, under nanometres there's-- God, there's something like femtometres and attometres, and, when you get to this kind of scale of things, everything's expressed in powers of ten, so nanometres is ten to the minus nine (10^-9). A Planck length is something like ten to the minus thirty-four (10^-34) metres, so that's 0.000-- where you've got thirty-three zeros and then a one.
 
 #### BEN
 

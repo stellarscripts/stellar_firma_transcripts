@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trexel Geistman Solves Your Problems
-date: 2020-09-11 16:00:090000000000 +00:00
+date: 2020-09-11 15:00:00.000000000 +00:00
 categories: special
 episode_number:
 episode_title: Trexel Geistman Solves Your Problems

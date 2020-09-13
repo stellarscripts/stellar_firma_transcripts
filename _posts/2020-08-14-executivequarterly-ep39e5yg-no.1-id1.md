@@ -6,7 +6,7 @@ categories: special
 episode_number: 
 episode_title: Executive Quarterly - Ep 39E5YG, No. 1 (ID 1)
 tags: []
-content_warnings: []
+content_warnings: None
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/executivequarterly-ep39e5yg-no.1-id1-
 summary: Executive Quarterly - Ep 39E5YG, No. 1 (ID 1) <br/><br/>This week on Executive Quarterly With Sigmund Shankeray we have a surprise visit from No. 1, a great honour indeed and everyone was so grateful and honoured and grateful.
@@ -18,15 +18,19 @@ sources:
 official: false
 ---
 
-> Transcribed 8/14/20 via stellarscripts on tumblr
+##### Transcribed 8/14/20 via stellarscripts on tumblr
 
-##### [shorter version of the show theme]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[shorter version of the show theme]__
 
 #### SIGMUND
 
-These are some vocal pickups for the audio of Sigmund Shankeray. __[clears throat] [varying intonation]__ Sigmund Shankeray. Sigmund Shankeray. __[footsteps approach]__ Sigmund Shankeray.
+These are some vocal pickups for the audio of Sigmund Shankeray. __[clears throat]__ *(varying intonation)* Sigmund Shankeray. Sigmund Shankeray. 
 
-##### [doors swoosh open]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[footsteps approach]__ 
+
+Sigmund Shankeray.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[doors swoosh open]__
 
 #### NUMBER 1
 
@@ -50,7 +54,7 @@ That's the first time I've ever been asked that.
 
 #### SIGMUND
 
-__ [slight stammering]__ Oh, I-I do beg your pardon. If you could just tell me who you are that would be quite helpful.
+*(slight stammering)* Oh, I-I do beg your pardon. If you could just tell me who you are that would be quite helpful.
 
 #### NUMBER 1
 
@@ -58,7 +62,7 @@ Number... 1.
 
 #### SIGMUND
 
-__ [nervous]__ Ah. Of, um... of Standards.
+*(nervous)* Ah. Of, um... of Standards.
 
 #### NUMBER 1
 
@@ -66,7 +70,7 @@ I'm here to, um... test your character.
 
 #### SIGMUND
 
-__ [continues stammering]__ My, my, my character. What-- what, to see if I'm good at my job? To see if I'm, I'm worthy of continuing in my job as main interviewer and--
+*(continues stammering)* My, my, my character. What-- what, to see if I'm good at my job? To see if I'm, I'm worthy of continuing in my job as main interviewer and--
 
 #### NUMBER 1
 
@@ -84,7 +88,7 @@ Okay. Press the record. Let's go live.
 
 L-live? Not, not a test-- No. __[stammers]__ Okay. Going live.
 
-##### [turns radio switch on, upbeat radio show intro music]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[turns radio switch on, upbeat radio show intro music]__
 
 #### SIGMUND
 
@@ -98,15 +102,15 @@ Thank you, Sigmund. I am, of course, as always, fine.
 
 Hmm. Fine. May-- and may I say, very fine.
 
-##### [beat]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[beat]__
 
 #### NUMBER 1
 
 No, you may not.
 
-#### SIGMUND [nervous]
+#### SIGMUND
 
-Okay. Um, I want to, uh, start with the, the question which I__ [clears throat]__ am about to ask. Um, Number 1, what would you call your perfect day?
+*(nervous)* Okay. Um, I want to, uh, start with the, the question which I __[clears throat]__ am about to ask. Um, Number 1, what would you call your perfect day?
 
 #### NUMBER 1
 
@@ -122,7 +126,7 @@ Hail the...
 
 #### SIGMUND
 
-Hail the Board. Hail the Board. Of course, hail the Board. Hail the Board. Um, let, let me ask you another "not stupid" question. __[haltingly]__ How do you find yourself as Number 1, head of Standards, um, how do you find it to be yourself most as perfectly good as you are?
+Hail the Board. Hail the Board. Of course, hail the Board. Hail the Board. Um, let, let me ask you another "not stupid" question. *(haltingly)* How do you find yourself as Number 1, head of Standards, um, how do you find it to be yourself most as perfectly good as you are?
 
 #### NUMBER 1
 
@@ -138,7 +142,13 @@ Thrilling. I find that when one follows the standards as one is meant to [__SIGM
 
 #### SIGMUND
 
-Uh, I-I do. It's true.__ [shifts uncomfortably in seat]__ And one plus one is two. That-- that's nothing.__ [shifts some more]__
+Uh, I-I do. It's true. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[shifts uncomfortably in seat]__ 
+
+And one plus one is two. That-- that's nothing. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[shifts some more]__
 
 #### NUMBER 1
 
@@ -154,7 +164,11 @@ Maybe we should turn the temperature down in this... room.
 
 #### SIGMUND
 
-Um... Well, I-- You could-- __[Number 1 turns knob]__ Oh, there you go. Okay. Um... Yes. Well, well, how 'bout this? You're-- you're often, um, known to, to have a close relationship with, with, I believe, Number 48. Where's Number 48 at the moment? __[pause]__ Um... Are they... outside or...
+Um... Well, I-- You could-- 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Number 1 turns knob]__ 
+
+Oh, there you go. Okay. Um... Yes. Well, well, how 'bout this? You're-- you're often, um, known to, to have a close relationship with, with, I believe, Number 48. Where's Number 48 at the moment? __[pause]__ Um... Are they... outside or...
 
 #### NUMBER 1
 
@@ -170,15 +184,19 @@ You don't want to meet... Number 48 with their hammer, do you, Sigmund?
 
 #### SIGMUND
 
-No! No, I wouldn't-- I wouldn't like that. Not that I wouldn't like to meet a member of Standards, it's just the hammer... __[unnerved]__ the hammer. Oh, the hammer. Um...__ [shifts uncomfortably in seat]__ Okay.
+No! No, I wouldn't-- I wouldn't like that. Not that I wouldn't like to meet a member of Standards, it's just the hammer... *(unnerved)* the hammer. Oh, the hammer. Um... 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[shifts uncomfortably in seat]__ 
+
+Okay.
 
 #### NUMBER 1
 
 Do you think it's appropriate that Number 48 uses a hammer?
 
-#### SIGMUND [stammers]
+#### SIGMUND 
 
-Absolutely. Um, anything that Number 48 feels is appropriate in, in the pursuance of-- of their duty of, of kinetic vengeance is, is fine by me. Fine by me, Sigmund Sh-Shankeray. How 'bout-- how about I ask you another question? Um, if there was any one thing you could change about your job what would it be?
+__[stammers]__ Absolutely. Um, anything that Number 48 feels is appropriate in, in the pursuance of-- of their duty of, of kinetic vengeance is, is fine by me. Fine by me, Sigmund Sh-Shankeray. How 'bout-- how about I ask you another question? Um, if there was any one thing you could change about your job what would it be?
 
 #### NUMBER 1
 
@@ -226,7 +244,15 @@ Let me-- let me ask you, Mr. Shankeray. What would *you* change about *your* job
 
 #### SIGMUND
 
-Um... I would... __[shifts uncomfortably in seat]__ like... for there to be more hours in... the day __[shifts some more]__ for me to... work.
+Um... I would... 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[shifts uncomfortably in seat]__ 
+
+--like... for there to be more hours in... the day--
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[shifts some more]__ 
+
+--for me to... work.
 
 #### NUMBER 1
 
@@ -266,11 +292,23 @@ What do you believe... should be done... if a Standard were to break one of the 
 
 #### SIGMUND
 
-So if a member of Standards __[shifts uncomfortably in seat]__ was to knowingly break a-- __[shifts some more]__ they-- Okay. Let's, um--
+So if a member of Standards--
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[shifts uncomfortably in seat]__ 
+
+--was to knowingly break a-- 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[shifts some more]__ 
+
+--they-- Okay. Let's, um--
 
 #### NUMBER 1
 
-Let's turn the, uh, turn the heat down a little bit in here. __[turns knob]__ You're sweating still, Mr. Shankeray.
+Let's turn the, uh, turn the heat down a little bit in here. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[turns knob]__ 
+
+You're sweating still, Mr. Shankeray.
 
 #### SIGMUND
 
@@ -282,7 +320,7 @@ Of course, if it did happen, it would mean that *I*, as Number 1, had incorrectl
 
 #### SIGMUND
 
-__[quickly]__ Which is why it would never happen. It's why it would never happen.
+*(quickly)* Which is why it would never happen. It's why it would never happen.
 
 #### NUMBER 1
 
@@ -330,7 +368,15 @@ Strong enough that if I were to push... someone... into one of these flat walls 
 
 #### SIGMUND
 
-__[barely containing fear]__ I th-- I think you would be perfectly within your power to smear someone's face and neck into a thin paste that would, perhaps, plaster its, __[shifts uncomfortably in seat]__ plaster its way onto a wall and, and stay there until the replacement came and could see the previous occupants... p-physical leavings indicating their __[voice breaks]__ wrongdoing. __[shifts some more]__ Yes.
+*(barely containing fear)* I th-- I think you would be perfectly within your power to smear someone's face and neck into a thin paste that would, perhaps, plaster its, 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[shifts uncomfortably in seat]__ 
+
+--plaster its way onto a wall and, and stay there until the replacement came and could see the previous occupants... p-physical leavings indicating their *(voice breaks)* wrongdoing. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[shifts some more]__ 
+
+Yes.
 
 #### NUMBER 1
 
@@ -354,7 +400,7 @@ How sure is pretty?
 
 #### SIGMUND
 
-__[uncertain]__ Beautifully sure?
+*(uncertain)* Beautifully sure?
 
 #### NUMBER 1
 
@@ -362,7 +408,11 @@ Of course, if you had broken any of the standards... I would have already killed
 
 #### SIGMUND
 
-__[relieved sigh]__ Yes! Of course. __[shifts in seat]__ Yes, of course. Yeah, silly me. I would __[soft chuckle]__ already be dead. Well, that's-- that's a relief if, if nothing else. Well... Okay. Well, it's been wonderful to have you here, uh, at *Executive Quarterly* with Sigmund Shankeray, Number 1. Uh... Uh, next week we'll be doing something with someone at--
+__[relieved sigh]__ Yes! Of course. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  __[shifts in seat]__ 
+
+Yes, of course. Yeah, silly me. I would __[soft chuckle]__ already be dead. Well, that's-- that's a relief if, if nothing else. Well... Okay. Well, it's been wonderful to have you here, uh, at *Executive Quarterly* with Sigmund Shankeray, Number 1. Uh... Uh, next week we'll be doing something with someone at--
 
 #### NUMBER 1
 
@@ -370,7 +420,7 @@ Would you defy the Board?
 
 #### SIGMUND
 
-__[voice breaking]__ No! No. No. No, I would... I would never. I would never. I'd rather die. In fact, I would die. In fact, I'm dying right now. Well, I suppose we're all dying but you understand what I mean. I wouldn't do it.
+*(voice breaking)* No! No. No. No, I would... I would never. I would never. I'd rather die. In fact, I would die. In fact, I'm dying right now. Well, I suppose we're all dying but you understand what I mean. I wouldn't do it.
 
 #### NUMBER 1
 
@@ -418,21 +468,31 @@ Who?
 
 #### SIGMUND
 
-__[breathless]__ The Board. __[shifts uncomfortably in seat] [quiet nervous sigh]__ I hope you'll join us next time __[the show sounds like it is being played on a radio in a corridor]__ for anything else. Number 1, thank you.
+*(breathless)* The Board. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[shifts uncomfortably in seat]__ 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[soft nervous sigh]__ 
+
+I hope you'll join us next time __[the show sounds like it is being played on a radio in a corridor]__ for anything else. Number 1, thank you.
 
 #### NUMBER 1
 
-__[pleased]__ Thank you, Sigmund! This has been most... enlightening.
+*(pleased)* Thank you, Sigmund! This has been most... enlightening.
 
-##### [upbeat radio show music]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[upbeat radio show music]__
 
-##### [radio switches off, dripping water, light flickers audibly]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[radio switches off, dripping water, light flickers audibly]__
 
-##### [short version of the outro theme]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[short version of the outro theme]__
+
+------
 
 #### TIM
 
 Stellar Firma is distributed under a Creative Commons Attribution Noncommercial Sharealike 4.0 International Licence.
+
+------
 
 #### ALEX
 

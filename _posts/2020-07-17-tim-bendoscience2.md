@@ -220,7 +220,7 @@ Thank you.
 
 Sorry. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ____[Ben chuckles]__ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben chuckles]__ 
 
 And criticise that from a perspective of informed understanding. And--
 

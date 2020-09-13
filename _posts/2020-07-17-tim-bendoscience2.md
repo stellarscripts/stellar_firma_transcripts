@@ -702,7 +702,7 @@ Yeah.
 
 #### BRYN
 
-I'm pretty sure the white coats are PPE rather than equipment though. Bunsen burners and beakers though, I mean, this is very much the "British schoolboy" understanding __[Tim chuckles]__ of a science lab. What kind of science do you think you'd be doing if you in fact had Bunsen burners and beakers?
+I'm pretty sure the white coats are PPE rather than equipment though.<a id="footnote-1-ref" href="#footnote-1"><sup>[1]</sup></a> Bunsen burners and beakers though, I mean, this is very much the "British schoolboy" understanding __[Tim chuckles]__ of a science lab. What kind of science do you think you'd be doing if you in fact had Bunsen burners and beakers?
 
 #### BEN
 
@@ -736,7 +736,7 @@ Now we need to take a titration of the number six. And put it into a three mole 
 
 #### BEN
 
-It's the strength of acid.
+It's the strength of acid.<a id="footnote-2-ref" href="#footnote-2"><sup>[2]</sup></a>
 
 #### TIM
 
@@ -772,7 +772,7 @@ That was it.
 
 #### BRYN
 
-But a mole specifically is 6.023 times 10<sup>23</sup> (ten to the power of 23) atoms if I remember Avogadro's number correctly.
+But a mole specifically is 6.023 times 10<sup>23</sup> (ten to the power of 23) atoms if I remember Avogadro's number correctly.<a id="footnote-3-ref" href="#footnote-3"><sup>[3]</sup></a>
 
 #### BEN
 
@@ -856,7 +856,7 @@ Okay! See you later. How good's your nasal voice, Bryn?
 
 #### TIM
 
-I remember there was-- I'm just going be nicking things from the Bill Bryson book now, but there was a thing where there was a physicist and he said very unkindly--might've been Bertrand Russel, somebody fancy like that--and he said that "physics is science, everything else is stamp-collecting", and just dropped the mic and walked away. It-- ah!
+I remember there was-- I'm just going be nicking things from the Bill Bryson book now, but there was a thing where there was a physicist and he said very unkindly--might've been Bertrand Russel, somebody fancy like that<a id="footnote-4-ref" href="#footnote-4"><sup>[4]</sup></a>--and he said that "physics is science, everything else is stamp-collecting", and just dropped the mic and walked away. It-- ah!
 
 #### BEN
 
@@ -1610,7 +1610,7 @@ I would have preferred a cloud of-- Look, here is a globe. The atom is everywher
 
 #### BEN
 
-To be fair though, it would make it much more difficult to count the electrons when you were doing one of those puzzles about, like, we knock the electron out and which isotope does it become so you can-- *(simult.)* you have to count the actual to work it out.
+To be fair though, it would make it much more difficult to count the electrons when you were doing one of those puzzles about, like, we knock the electron out and which isotope<a id="footnote-5-ref" href="#footnote-5"><sup>[5]</sup></a> does it become so you can-- *(simult.)* you have to count the actual to work it out.
 
 #### TIM
 
@@ -1656,7 +1656,7 @@ I was asked to. I can't claim that I ever did, but I was certainly asked to, Bry
 
 #### BEN
 
-Probably. And at some point, I was asked about Boyle's law and shown a spring and I was like, "Ah, I ain't got *(mumbling)* a clue. I don't know."
+Probably. And at some point, I was asked about Boyle's law<a id="footnote-6-ref" href="#footnote-6"><sup>[6]</sup></a> and shown a spring and I was like, "Ah, I ain't got *(mumbling)* a clue. I don't know."
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__
 
@@ -2664,7 +2664,7 @@ It'd take too long.
 
 #### BRYN
 
-Yeah. Visible light is, if I remember correctly-- I really should have looked this up before the show, I believe it's from 340 nm to 790 nm, the wavelength of visible light.
+Yeah. Visible light is, if I remember correctly-- I really should have looked this up before the show, I believe it's from 340 nm to 790 nm, the wavelength of visible light.<a id="footnote-7-ref" href="#footnote-7"><sup>[7]</sup></a>
 
 #### BEN
 
@@ -2788,7 +2788,7 @@ Yes! Ha ha!
 
 #### BRYN
 
-A Planck length is *way* smaller than any of the ones we've discussed. So, under nanometres there's-- God, there's something like femtometres and attometres, and, when you get to this kind of scale of things, everything's expressed in powers of ten, so nanometres is ten to the minus nine (10<sup>-9</sup>). A Planck length is something like ten to the minus thirty-four (10<sup>-34</sup>) metres, so that's 0.000-- where you've got thirty-three zeros and then a one.
+A Planck length is *way* smaller than any of the ones we've discussed. So, under nanometres there's-- God, there's something like femtometres and attometres<a id="footnote-8-ref" href="#footnote-8"><sup>[8]</sup></a>, and, when you get to this kind of scale of things, everything's expressed in powers of ten, so nanometres is ten to the minus nine (10<sup>-9</sup>). A Planck length is something like ten to the minus thirty-four (10<sup>-34</sup>) metres<a id="footnote-9-ref" href="#footnote-9"><sup>[9]</sup></a>, so that's 0.000-- where you've got thirty-three zeros and then a one.
 
 #### BEN
 
@@ -3036,7 +3036,7 @@ Yes. You haven't got enough atoms to have eyes. [__BRYN:__ Basically.]__ [laughs
 
 #### BEN
 
-Well, I think "Atoms for Eyes" is a Thom Yorke solo project, right?
+Well, I think "Atoms for Eyes" is a Thom Yorke solo project<a id="footnote-10-ref" href="#footnote-10"><sup>[10]</sup></a>, right?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__
 
@@ -3797,3 +3797,36 @@ Stellar Firma is distributed under a Creative Commons Attribution Noncommercial 
 #### ALEX
 
 Hi everyone, Alex here. I'd just like to take a moment to thank some of our patrons: Kenna Malone, Meg Simmons, James, MEGAN GREEN, Talbot Elfgrunge, Julia Mejbaum, Chuck Lambing, Sarah Burke, eicas, Serena Jensen, veevox, Brinnanza, Darth Nexus, Tiny Demon Dragon, Avery Breakell, Philip Kelley, Darcy M, Maria Blowers, Kellen, Cats 2019 Was A Pretty Good Movie, Allegra Rosenberg, Rachel Berger, Eleanor Mae Langston, Wren Valadin, Sarah Poiani, Ashley Crutchfield, Space Arbys, Annie Nate Schindler, Lana Elise, Emily Rose, Rebecca B, Piper, trinity, Evan Lukas, elwids, June W, Kayleigh T, sarenraesbesthope, Erin Yost, corbett, Erebus Odora, Senna_Redtail, Î¦, Lorelei Millund, mathias elliot, Natazha Thomsen, Dr. Teatime, Mariana Bittermann, Sara Norris, Rachel Gould. Thank you all. We really appreciate your support. If you'd like to join them, go to www.patreon.com/rustyquill and take a look at our rewards.
+
+------
+
+<p id="footnote-1">
+   1. Personal protective equipment. Equipment is in the name, Bryn. Bryn’s response back was that he “was trying to draw a distinction between scientific equipment and protective equipment as two separate categories.” <a href="#footnote-1-ref">&#8617;</a> 
+</p>
+<p id="footnote-2">
+   2. This would be molarity (moles per volume). <a href="#footnote-2-ref">&#8617;</a>
+</p>
+<p id="footnote-3">
+  3. Avogadro’s number is 6.022x10<sup>23</sup> particles/mole. <a href="#footnote-3-ref">&#8617;</a>
+</p>
+<p id="footnote-4">
+   4. This adage is usually attributed to Ernest Rutherford. <a href="#footnote-4-ref">&#8617;</a>
+</p>
+<p id="footnote-5">
+   5. This would make an ion. An isotope is created by changing the number of neutrons in an atom. <a href="#footnote-5-ref">&#8617;</a>
+</p>
+<p id="footnote-6">
+   6. Boyle’s law is when an ideal gas is kept at a constant temperature, its pressure is inversely proportional to the volume. So, not related to a spring. That would be Hooke’s law. <a href="#footnote-6-ref">&#8617;</a>
+</p>
+<p id="footnote-7">
+   7. A typical human eye will respond to wavelengths from about 380 to 740 nanometers. <a href="#footnote-7-ref">&#8617;</a>
+</p>
+<p id="footnote-8">
+   8. Anil pointed out that picometre is between nanometre and femtometre. <a href="#footnote-8-ref">&#8617;</a>
+</p>
+<p id="footnote-9">
+   9. From the show notes- Correction: At one point Bryn makes a slight error and says that a Planck length is "10 to the -34 metres"; a Planck length is 1.6×10^−35 m. <a href="#footnote-9-ref">&#8617;</a>
+</p>
+<p id="footnote-10">
+   10. Thom Yorke has a song titled “Atoms for Peace” that has the word ‘eye’ in the lyrics, so it’s not too off. <a href="#footnote-10-ref">&#8617;</a>
+</p>

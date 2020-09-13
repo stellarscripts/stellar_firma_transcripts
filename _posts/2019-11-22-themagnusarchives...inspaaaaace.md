@@ -40,7 +40,7 @@ Hi. Tim here. Co-creator and Captain Bigtime of *Stellar Firma*. When I first de
 
 #### DAVID
 
-Oh! Oh, I just go back in here, do I? I-is there anything that happens... now? __[brief pause]__ Oh, Board help me, I'm alive! __[relieved sigh]__ Trexel saved me, in-in a way... __[sigh]__ *(under his breath)* Idiot... Oh! Oh, it's a package! __[tape being pulled from a box]__ M-maybe it's a "well done, I'm not being recycled" present! M-maybe it's a guide to getting out of here! __[paper rustling]__ And... __[stammering]__ Oh... it's, um... it's just some sort of... speaker box thingy...
+Oh! Oh, I just go back in here, do I? I-is there anything that happens... now? __[brief pause]__ Oh, Board help me, I'm alive! __[relieved sigh]__ Trexel saved me, in-in a way... __[sigh]__ *(under their breath)* Idiot... Oh! Oh, it's a package! __[tape being pulled from a box]__ M-maybe it's a "well done, I'm not being recycled" present! M-maybe it's a guide to getting out of here! __[paper rustling]__ And... __[stammering]__ Oh... it's, um... it's just some sort of... speaker box thingy...
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[brief pause of hesitation]__
 

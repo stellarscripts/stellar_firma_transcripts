@@ -9,7 +9,7 @@ tags: []
 content_warnings: []
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/tim-bendoscience2
-summary: Tim and Ben do SCIENCE Again! <br/><br/>Welcome to this bonus episode of Stellar Firma, where Bryn Monroe (Hamid on Rusty Quill Gaming) delves into the symphony of factual inaccuracy that is Season 2 to find out just how much Tim and Ben know about science… <br/><br/>Correction: At one point Bryn makes a slight error and says that a Planck length is "10 to the -34 metres"; a Planck length is 1.6×10^−35 m.
+summary: Tim and Ben do SCIENCE Again! <br/><br/>Welcome to this bonus episode of Stellar Firma, where Bryn Monroe (Hamid on Rusty Quill Gaming) delves into the symphony of factual inaccuracy that is Season 2 to find out just how much Tim and Ben know about science…
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/stellar-science2
   Google Doc: https://docs.google.com/document/d/1W7dU1_1rMZFUPHyhhwdIdmxx_nyki323B1cCQmbhSJE/edit

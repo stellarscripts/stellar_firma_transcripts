@@ -24,7 +24,7 @@ official: false
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[cassette tape put in player, tape clicks on]__
 
-#### ENOLA, 
+#### ENOLA
 
 *(somewhat fanatical but reverent when talking about the Board)* This is a declaration of strong, sound *and* resolute political intent... made in the face of... a-and as a *direct result* of, the growing issues that I see as corrupting the *(pouting)* previously perfect world of Stellar Firma *(normal)* and warping the intent of our benevolent and all-knowing Board. Hail the Board.
 

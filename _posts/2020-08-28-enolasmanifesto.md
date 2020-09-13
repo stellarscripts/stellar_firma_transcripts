@@ -34,7 +34,9 @@ But, like many of you, I became aware that there was... __[stammers]__ occasiona
 
 By who you ask? Well, I-I am not one to point the finger of blame, and it may well be the case that, that there are multiple sources of corruption, but I'm also pretty sure that it is Trexel Geistman. It is his fault and he must be stopped, maybe buried or... pushed in a pond! Or... burned or... have his mouth taken away!
 
-Whatever the source--Trexel Geistman--I felt compelled to escape my post in the Build Team after what I was forced to do there, namely build shoddy, unstable planets that directly lead to the deaths of countless numbers of our client citizens and, *worst of all*, call into question the good name of Stellar Firma and, by association, the Board. Hail the Board! That... cannot stand. And so, I propose a call to action! In--in-- in the, the form... of these... declarations. __[paper wobbles]__
+Whatever the source--Trexel Geistman--I felt compelled to escape my post in the Build Team after what I was forced to do there, namely build shoddy, unstable planets that directly lead to the deaths of countless numbers of our client citizens and, *worst of all*, call into question the good name of Stellar Firma and, by association, the Board. Hail the Board! That... cannot stand. And so, I propose a call to action! In--in-- in the, the form... of these... declarations. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[paper wobbles]__
 
 __[clears throat]__ One: we will no longer build any planet in which the design calls for any of the following -- Lava Slides, Knife Dogs, Blood-lubricated Mechanisms, Astral Makaira Maternity Facilities, *Trough Moons*, Ultra-powerful Sleep Deities, Exploding Raves, Superheated Accountants or Wrestle Mountains.
 

@@ -392,7 +392,9 @@ Are you sure?
 
 #### SIGMUND
 
-__[shifts uncomfortably in seat]__ Pretty sure. Pretty sure.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[shifts uncomfortably in seat]__ 
+
+Pretty sure. Pretty sure.
 
 #### NUMBER 1
 
@@ -474,7 +476,11 @@ Who?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[soft nervous sigh]__ 
 
-I hope you'll join us next time __[the show sounds like it is being played on a radio in a corridor]__ for anything else. Number 1, thank you.
+I hope you'll join us next time--
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[the show sounds like it is being played on a radio in a corridor]__ 
+
+--for anything else. Number 1, thank you.
 
 #### NUMBER 1
 

@@ -12,7 +12,7 @@ acast_url: https://play.acast.com/s/stellarfirma/trexelgeistmansolvesyourproblem
 summary: Trexel Geistman Solves Your Problems <br/><br/>By exclusive (court-)appointment, Trexel Geistman, designer extraordinaire, is here to help you, whether he wants to or not! Praise the Board in their infinite wisdom! 
 formats:
   HTML: https://stellarscripts.tumblr.com/transcripts/trexel-agony-aunt
-  Google Doc: https://docs.google.com/document/d/1DDNoHUupKNHn7kGvVNjhzbdCOwETF58k9SciMGfmg6c/edit?usp=sharing
+  Google Doc: https://docs.google.com/document/d/1DDNoHUupKNHn7kGvVNjhzbdCOwETF58k9SciMGfmg6c/edit
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

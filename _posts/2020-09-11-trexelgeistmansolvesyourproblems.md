@@ -24,7 +24,7 @@ __[shorter version of the show theme]__
 
 __[peppy jingle with clapping in the background]__
 
-####TREXEL 
+#### TREXEL 
 
 Um, hello there! This is Trexel Geistman speaking. Um… __[sigh]__ I find myself in a bit of a situation here. There has been some sort of disagreement over a shuttle and who owns it and who isn’t and is allowed to drive it and whether or not certain persons should have taken it for a joyride and dumped it into a gas giant. But! Nevertheless, I have been—oh, what’s the word—ordered by a court of justice that some punishment is in order, and so I have been selected to answer the company’s advice column this cycle. So, uh, consider me Trexel Geistman: Agony Aunt. Or perhaps Pain Uncle or some sort of Cousin of Suffering. Whatever works for you.  Got a load of suggestions here. I haven’t really looked through any of them, because that would have implied doing some sort of planning and work, but let’s have a look, shall we?
 
@@ -284,13 +284,13 @@ __[short version of the outro theme]__
 
 ------
 
-####TIM 
+#### TIM 
 
 Stellar Firma is distributed under a Creative Commons Attribution Noncommercial Sharealike 4.0 International Licence.
 
 ------
 
-####ALEX
+#### ALEX
 
 Hi everyone, Alex here. I’d just like to take a moment to thank some of our patrons: Alyssa Rozendaal, heroei, Alexandra DeCarlo, Ruu Weist, Halogen, Jill Flansburg, Peter Lukas’ life insurance policy, Taka, Inna Nytochka, Meg Allen, Kamilla Kavmark, Vortex Eclipse, winnfour, Sandra Roorda, Emily, Hila SketchCat Shats, Melanie, Sebrina McCoy, Bee Elderly, Adrian Serrano, evelina, Sloane, Alex James, Kit Lines, PineapplePrincess, a creature built of gears and silver, Callie L Tomlinson, Power Loader, Carolyn McKenna, Frankie Kavakich, Knighthawk, Lex Adams, Grey Aster, Dan Hayes, Jonathan Björklund, Chaotica, Tristan Tinder, Danni Jager, Sydney Bell, Jessica Mattiace, Maya Manzonelli, lionheart091 ., Murdo Homewood, AJ Waitkus, Eliza & Gray, erlkonigin, grippingTraverse, Kyra Marie Maginity, Finn Catterall, Sonja Hansen. Thank you all. We really appreciate your support. If you’d like to join them, go to www.patreon.com/rustyquill and take a look at our rewards.
 

@@ -18,7 +18,7 @@ sources:
 official: false
 ---
 
-> Transcribed 1/20/20 via stellarscripts on tumblr
+### Transcribed 1/20/20 via stellarscripts on tumblr
 
 #### ALEX
 

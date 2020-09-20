@@ -18,13 +18,15 @@ sources:
 official: false
 ---
 
-> Transcribed 6/22/20 via stellarscripts on tumblr
+### Transcribed 6/22/20 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 
 ##### [shorter version of the show theme]
 
 #### TIM
 
 Hello there! Welcome to the first part of the bloopers for Stellar Firma season 2, because, you know what, as polished as the show sounds __[chuckles]__ occasionally there's some *hilarious* mistakes and we've captured that shame and are now presenting it to you like a dog throwing up its breakfast. I hope you enjoy it!
+
+------
 
 ##### [transition beep]
 
@@ -2388,6 +2390,8 @@ David, save us!
 
 __[desperate]__ David! David, you have to end it with sound effects because we don't have anything at all! __[Ben laughs]__ And we built it so it's always very unsatisfying at the end!
 
+------
+
 ##### [transition beep]
 
 #### TIM
@@ -2396,7 +2400,13 @@ I hope you enjoyed the first part of the season 2 bloopers for Stellar Firma. Th
 
 ##### [short version of the outro theme]
 
+------
+
+#### TIM (cont.)
+
 Stellar Firma is distributed under a Creative Commons Attribution Noncommercial Sharealike 4.0 International Licence.
+
+------
 
 #### ALEX
 

@@ -18,17 +18,17 @@ sources:
 official: false
 ---
 
-##### Transcribed 9/15/20 via stellarscripts on tumblr
+### Transcribed 9/15/20 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[shorter version of the show theme]__
+##### __[shorter version of the show theme]__
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[peppy jingle with clapping in the background]__
+##### __[peppy jingle with clapping in the background]__
 
 #### TREXEL 
 
 Um, hello there! This is Trexel Geistman speaking. Um… __[sigh]__ I find myself in a bit of a situation here. There has been some sort of disagreement over a shuttle and who owns it and who isn’t and is allowed to drive it and whether or not *certain persons* should have taken it for a joyride and dumped it into a gas giant. But! Nevertheless, I have been—oh, what’s the word—ordered by a court of justice that some punishment is in order, and so I have been selected to answer the company’s advice column this cycle. So, uh, consider me Trexel Geistman: Agony Aunt. Or perhaps Pain Uncle or some sort of Cousin of Suffering. Whatever works for you.  Got a load of suggestions here. I haven’t really looked through any of them, because that would have implied doing some sort of planning and work, but let’s have a look, shall we?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[picks up paper]__
+##### __[picks up paper]__
 
 So, this first one is from Artemis Miller. They go by they/them.
 
@@ -36,7 +36,7 @@ So, this first one is from Artemis Miller. They go by they/them.
 
 Well, Artemis, the solution here is clear. You see, you’re losing control of the food the minute it enters a container in a communal space. Do not allow it to— That’s like sending a small, deer-like creature out into the savannah covered in some sort of honey-mustard glaze. It’s only gonna end in tears. So what you do is you cook up your food, and then you pour it immediately into your face without allowing it to cool, and don’t use utensils. Again, they are an… a risk factor that you don’t want to introduce. Just pour the boiling hot food into your face, and then if you survive, you’re a great cook!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 Okay, next one. This one’s from Corimander Apfelbucket, pronouns she/her.
 
@@ -44,7 +44,7 @@ Okay, next one. This one’s from Corimander Apfelbucket, pronouns she/her.
 
 Well, I think I’ve been clear, previously, in my certain knowledge that you can’t change people’s minds without some sort of smear campaign. So what you need to do is you need to establish yourself as a counterintelligence network badmouthing weekends. “Weekends are for losers”, you’ll say! You’ll print pamphlets saying “Weekends kill relationships!” You’ll hire some sort of neon space writer to write “Weekends? More like __[stammering, fumbling]__ s-stupid time! Don’t do it!” You know, some sort of clever marketing ploy like that, and all of a sudden, people won’t be talking about weekends, ‘cause if they do, people will be like “Oh, you still like weekends? I’m more into *freakends*”, which is the new holiday you’ve invented that’s very similar in many ways to weekends but doesn’t actually go counter to your philosophical beliefs. So, replace it and badmouth it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This one’s from Bobby Billinger Babson III. Lots of fun to say, but is it fun to read? Let’s find out together! Uh, He/him.
 
@@ -70,7 +70,7 @@ Oh, okay, I don’t care about that.
 
 Now, that seems drastic I’m sure, but consider this: if Jax is out of the picture, then they can’t take the credit! Sure, maybe they’re a friend. You don’t want to look them in the eye as the life is choked out of them in some way, but perhaps you could arrange for them to disappear. Perhaps you send them in to inspect an airlock that is unfortunately faulty, or perhaps to look at the underside of a heavy weight that you want to check for, I don’t know, mass. Whatever the way, if Jax is gone, it’s smooth sailing to credit town for Bobby Billinger Babson III!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This one is from Dubious Dave. Pronouns he/him.
 
@@ -78,7 +78,7 @@ This one is from Dubious Dave. Pronouns he/him.
 
 The short answer is yes. Without decisiveness, nobody wants to be around you. You know, let’s say you’re in some sort of, I don’t know, fire and you say, “What should we do?” and someone says “Oh, I’m not sure. Let’s wait and see.” Nobody hangs out with that person ‘cause that person’s turning into a crispy fry boi. What you want is somebody decisive. “This way!” they say. And people say “Are you sure? Do you know?” And you’re like “I don’t but it’s a way.” And everyone looks and goes “Mm, yeah, it is a way. To be fair, it’s a way.” And if you’re right, you get all the credit, and if you’re wrong, well, you’re all dead anyway, so you *are* doomed unless somehow you become super confident without any particular reason to become so. If not, doomed. Is that clear? Doomed is what I’m saying. You’re doomed.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This one is from Hue M. Pearson, but it says here that’s “subject to change”. M’kay. Pronouns: “Yes. I have those. Any are acceptable.” Okay, that’s fine. 
 
@@ -88,7 +88,7 @@ Well, this question comes up a lot. Now, I think all this talk of a ‘hypotheti
 
 Oh, and also, this was not real either because what is real? Yeah. Think about it. Think about it! Stop thinking about it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This one is from Frazma McDeagol, the 13th Deagol. Don’t know if I’m pronouncing Deagol right. I also do not care if I’m pronouncing Deagol right. Pronouns she/they. 
 
@@ -100,7 +100,7 @@ Ha ha ha! I’ve been there! It wasn’t a brother; it was a stranger that I’d
 
 Well, __[sighs]__ it’s tricky. Sometimes you’ve got to kill one of your own. Nobody likes it, unless you do, but you’ve just gotta shut your eyes and call in the hit. You know, maybe don’t do it yourself. This is similar to a previous one we’ve had here, you know. Nobody likes actually doing the killing, unless they do. You’ve just gotta distance yourself from it somehow. Make it some sort of accident or perhaps create a rich fiction in your head in which they’re not actually your brother and they’re not even a Deagol. They’re some sort of evil impostor, perhaps from Galactonium, come to steal your place *and you must kill them!* And it would only be right and good and patriotic! And then you can celebrate and maybe have a medal of some kind. Just do that.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This one is from Astoro Crelia, they/them. 
 
@@ -108,7 +108,7 @@ This one is from Astoro Crelia, they/them.
 
 Well, it says here that people say you’re quite gullible and that you’re a very fast reader, so all you need to do is read a very convincing book telling you that you do have a soul. Because, between you and me, lots of people seem to talk about this soul business, but I’ve never seen it. I’m pretty sure it’s just a ploy to stop you stealing things. So, convince yourself you’ve got a soul and that’s as good as having one! It’s intangible! And thing about intangible things? No tange. Got no tange, got no problem. That’s what I’ve always said since I said it just now.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This one’s from Sir Lord Basil Cleanington III. They go by they/them. 
 
@@ -124,7 +124,7 @@ And then you can climb the podium as a stair cleaning robot to present your spee
 
 Alternatively, give your speech from just left of the podium.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This one’s from the Reverend Ernest Milton, he/him. 
 
@@ -142,7 +142,7 @@ Well, when people around you start to question your beliefs, what you’ve got t
 
 And given that you’re such a— clearly a hard worker and someone committed to the job, you need to use powerful, powerful narcotics to relax you into a state almost unto death. In fact, get some narcotics... that put you into essentially a coma, the most relaxed state of all, and get yourself into this relaxed coma and lie *motionless* for the entire month being kept alive by various medical machines and then they’ll see! They’ll all see. Getting out of the coma? That’s your business.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This is from Dravlin Slott, pronouns they/them. 
 
@@ -150,7 +150,7 @@ This is from Dravlin Slott, pronouns they/them.
 
 Now, I have an immediate question. Do we think Dravlin Slott actually typed this or is this a message from a very, very clever goose? Here it says that they are very good at jumping and are very easily duped into pyramid schemes. And again, I know that geese are pretty gullible when it comes to economic scams and geese can fly—the highest jump. So I think we can happily assume that this is a naughty goose typing here, and we will ignore it post haste!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This is a question from Vis Tallon. They go by they/them. 
 
@@ -158,7 +158,7 @@ This is a question from Vis Tallon. They go by they/them.
 
 Now, I think I’ve recommended murder plenty of times so, if murder’s the way that you’re gonna go, see my previous answers and just follow them, because murder is murder at the end of the day. How can you deliver a poem without existential dread and ennui ruining it? Well, the key here is to make the poem about existential dread and ennui and its relation to love. For example:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[switches on melancholy piano music]__
+##### __[switches on melancholy piano music]__
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My dearest mine,
 
@@ -186,11 +186,11 @@ Now, I think I’ve recommended murder plenty of times so, if murder’s the way
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Doomed to die.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[switches off music]__
+##### __[switches off music]__
 
 You see? It’s about love but it’s also about being su-per du-per sad.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This is one from... Fomorian Realt. M’kay. Uh, their pronouns are he/him. 
 
@@ -208,7 +208,7 @@ Okay. Well, you’ve got down here that your strengths involve being punctual an
 
 So, if you’re super punctual and really tall, you can get to the office super-duper early in the morning, and being so tall you can easily lean over from your mandated desk into the workspace of a fellow employee— Now, I know that is a very, very serious offense, but you’re so tall your bum will never leave the relevant seat. You lean over and slip those forms maybe four down in the in-tray. You know, just about the time where people stop reading what they’re signing and just sign to get through the pile. “I can’t be bothered to read this paperwork! Sign. Sign. Sign.” It’s how I do all my paperwork __[chuckles]__ and I’ve signed up to a lot of mailing lists! And then Bob’s your uncle, you’ve turned out to have accidentally been signed together with this person, and as we know in Stellar Firma when it comes to paperwork, no takesies-backsies!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This one is from George Geode, [pronouns he/him].  
 
@@ -216,7 +216,7 @@ This one is from George Geode, [pronouns he/him].
 
 Now, I can barely understand why you are messaging me about this at all. This isn’t the job of an Agony Aunt. The answer is simple. You have to fight to the death for the rock using the rock as a weapon. Doctor Pebble will be bathed in the blood of the loser. Draw a circle in the sand, each one of you at one side, Doctor Pebble in the center duly sharpened. A gun is fired. You both rush towards the rock. Whoever gets hold of it first and bashes the brains out of the other, that’s the new rock parent. Simple as. And, ultimately, the rock belongs to Stellar Firma so really, I don’t know why you’re bothering at all.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This is one from Levorm Hartwell, pronouns she/her. 
 
@@ -226,7 +226,7 @@ Now, __[breathes in]__ Levorm— May I call you Levorm? ’Cause I’m gonna cal
 
 But, I wouldn’t worry too much about this dream because mice have been extinct for about 800 years, so unless somebody is secretly re-engineering the mouse to release it on to the station of Stellar Firma for it to eat you in some sort of ritualistic mouse manner, it seems relatively unlikely. But then again, you were right about me walking into that wall, so maybe there is some sort of evil, rogue rodent engineer creating mice to come attack you in the night. In which case, I can’t help you because I’m not a science-tist. No! Not a science-tist!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This one is from Dorothy Devine, pronouns she/her. 
 
@@ -240,7 +240,7 @@ Now, I didn’t read the middle of your message because it contained loads of qu
 
 But you have mentioned that you’ve got very, very big shirts. So, what I think you should do: when they come into the room you just grab your shirt, pounce on them, and engulf them in the shirt. Because, as you know, when two people enter a shirt, their argument must be resolved by exit of shirt lest they both be executed. It’s a high-risk gambit, but if you wanna keep your *(said in French accent)* *accoutrement* unnibbled, then it’s your only way.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This one is from Nettica Farmakon, pronouns they/them. 
 
@@ -248,7 +248,7 @@ This one is from Nettica Farmakon, pronouns they/them.
 
 Now, I think you are... looking on the negative side of goo life... rather than the positive side of goo life. Yes, sure, you’re a bit slidey. Yes, certainly, you flow into spaces and conform to their shapes, but have you thought about how much of an *excellent* party trick, and thus conversation opener, this could be. You know, it takes a while to get to the party because you’ve flowed down too many hallways wrong, but once you’re there you say, “Hey look at this jar!” and you get in the jar and you conform to its shape, and everyone’s like, “Whoa! I wanna have a long and loving relationship with this gooey, gooey thing” and then you’re in. So, I’d say stop being so *bloody negative!*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This one is from Reyna Kren, pronouns she/her. 
 
@@ -258,7 +258,7 @@ This one is from Reyna Kren, pronouns she/her.
 
 Now, you’ve mentioned here that you “take things very personally” and I think you should take this personally because, whether or not it was a scorpion or a rat, your so-called ‘roommate’--I say betrayer--has eaten your friend. Your one-and-only special friend, Stingy the scorpion. And the only way to resolve this is to cook and eat your roommate. Punish like with like. They eat your pet; you eat their face. Case closed.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 Here’s one from Mandefo DeFluffikins, pronouns they/them. 
 
@@ -266,7 +266,7 @@ Here’s one from Mandefo DeFluffikins, pronouns they/them.
 
 __[pause]__ I do— I don’t really see the problem.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This one is from Yetifi Gullah, pronouns she/her. 
 
@@ -274,7 +274,7 @@ This one is from Yetifi Gullah, pronouns she/her.
 
 Now, you’re clearly a wonderful judge of character because slurry is great, and we all love it. That’s why we eat it for every single meal. So, I’d just go up to your significant other, give ’em a good lick. If they are slurry, you’ll immediately get that tangy, burning taste that we all know and love. And if they’re not, you can say “don’t worry, it was a sex thing”.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 Here’s one from Pip Squiggins, [pronouns they/them]. 
 
@@ -284,7 +284,7 @@ Well, I’ve given advice to this effect before when somebody’s friends all be
 
 And after a while *their*, their harsh words will fall on deaf ears because you’ll be *all the way* down the other way of the hallway, wibbling away. And they’ll turn to each other and go “Hmm, maybe *we’re* the ones who are inanimate, if you really think about it”, which would be wrong because they are the inanimate ones, but you get what I mean. They’ll feel— they’ll be chagrined. They’ll be chagrinning.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This one is from Toby Arnotbee, pronouns he/him. 
 
@@ -292,7 +292,7 @@ This one is from Toby Arnotbee, pronouns he/him.
 
 Now, this is a tricky one, and it does require people to help you. You need to hire two or three, uh, let’s call them peons, maybe a clone or maybe somebody that is like a clone, which is to say, as low as trash, and get them to shout __[yells]__ *“You exist!”* every ten to eleven seconds. And that means that, even though you get very easily distracted with your many small hobbies such as twisting paper clips into little animal shapes or waving at blurry reflections in the hallway, you’ll suddenly be jolted back into realising “I’m a person! I’m a thing! I exist in the corporeal world”, and just keep doing that until the end of... I suppose, their lives and then shortly after the dissipating of yours.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This is from Parvus the tiny. Their pronouns are ‘any and all’. 
 
@@ -302,7 +302,7 @@ Okay. I’m gonna level with you here, Parvus. I’ve been to the Cosmic Lounge 
 
 You mentioned here that you have “wicked banjo skills”. Must be a tiny banjo or you don’t bring it, ’cause I’d hear it, ’cause I hate banjo music. All music should be played on shrill violins! That’s what I’ve always said! It’s what I campaigned on during the election cycle. __[breathes in]__ So, what I’m saying is I don’t know who you are or what you want or how I can help. Because you’re just so wee.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 This one is from Pa— __[sighs]__ *(quietly)* Oh my Board. *(normal but annoyed)* This one is from Paxt *“Bloody”* Scrum. Pronouns they/them. 
 
@@ -310,7 +310,7 @@ This one is from Pa— __[sighs]__ *(quietly)* Oh my Board. *(normal but annoyed
 
 Well, Paxt, the real *mindless* appliance here is you, so why don’t you climb up onto a wall, tuck yourself into a sconce and just start *lighting* things, because then, even as an inanimate lamp, you’ll be more use to the world than you are currently, Paxt *“Bloody”* Scrum!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something, picks up next paper]__
+##### __[paper being crumpled up and thrown against something, picks up next paper]__
 
 Okay, final one here. This is from Jacqueline Matou, pronouns they/them. 
 
@@ -324,13 +324,13 @@ Well, __[deep breath in]__ what’s happened here is you’ve endeavored on a fo
 
 You know what? Write a poem about me. Write a poem about how great *I am*. Abandon your biography of Bathin. You call them beautiful; I say gauche. Gauche Bathin, I say. Gauche Bathin. Write a book about terrific Trexel. And then everybody will love you and high-five you in the street and say, “Well done for that good biography. Good thing you didn’t write about stupid Bathin. That would’ve been embarrassing for everyone involved! Especially you. You idiot. But you didn’t do it! You wrote a good one about Trexel. It was great.”
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[paper being crumpled up and thrown against something]__
+##### __[paper being crumpled up and thrown against something]__
 
 That clears that up. Well, there are more here but I’ve __[peppy jingle with clapping begins]__ become deeply, deeply bored of the task, so I’ll leave it there and hopefully I’ll never do this again ’cause I won’t be caught next time. So, to all of you sad sacks and weirdos out there, deal with your own problems. And have a wonderful day. Trexel out.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[peppy jingle with clapping continues and then fades out]__
+##### __[peppy jingle with clapping continues and then fades out]__
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[short version of the outro theme]__
+##### __[short version of the outro theme]__
 
 ------
 

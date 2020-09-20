@@ -179,8 +179,7 @@ ul#search-results {
             }
             h5 { // CAPTION LABEL
                 font-size:      1rem; 
-                color:          $muted-text-color; 
-                text-transform: uppercase;
+                color:          $em-text-color; 
                 @include media-query($on-palm) { font-size: $small-font-size; }
             }
         }

@@ -6,10 +6,10 @@ categories: special
 episode_number: 
 episode_title: Season 1 Teaser
 tags: []
-content_warnings: []
+content_warnings: Comedic violence, Emotional Abuse
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/season1teaser
-summary: 'Trailer <br/>Recycling <br/><br/>Citizen Employee T. Geistman (ID 362884) submits Bio Facsimile David 6 (ID 95847336) to summary slurriment and recycling. <br/><br/>Content Warning for: <br/> - Comedic violence <br/> - Emotional Abuse <br/><br/>If you''d like to support the show join th...'
+summary: 'Trailer <br/>Recycling <br/><br/>Citizen Employee T. Geistman (ID 362884) submits Bio Facsimile David 6 (ID 95847336) to summary slurriment and recycling.'
 formats:
   HTML: https://stellarscripts.tumblr.com/transcripts/s1-teaser
   Google Doc: https://docs.google.com/document/d/1TV_lXqCZgYmJvqry2dKCcFnFl7-PmRSzMg3zljDE9KI/edit

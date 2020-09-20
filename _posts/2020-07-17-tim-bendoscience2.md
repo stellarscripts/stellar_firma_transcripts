@@ -18,9 +18,9 @@ sources:
 official: false
 ---
 
-##### Transcribed 7/22/20 via stellarscripts on tumblr
+### Transcribed 7/22/20 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[shorter version of the show theme]__
+##### __[shorter version of the show theme]__
 
 #### BRYN
 
@@ -34,7 +34,7 @@ Peering out of this big present __[mouth trumpet noise]__ is Bonus Ben!
 
 Walking incredibly slowly through a thin sheet of tin foil, it's Tim Meredith.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben chuckles, Tim makes an explosion noise]__
+##### __[Ben chuckles, Tim makes an explosion noise]__
 
 #### BRYN
 
@@ -44,7 +44,7 @@ That's right. These guys have asked me back once again. Much like the interseaso
 
 I didn't ask. I thought we were doing episode one of season three but he's just here, so I guess we're doing this though.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__
+##### __[Bryn laughs]__
 
 #### TIM
 
@@ -54,7 +54,7 @@ No. No. No. No. Mainly for the reasons we haven't plotted it yet, so I don't kno
 
 Sh-sh-shut up, Tim! 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__ 
+#####  __[Tim laughs]__ 
 
 Keep it behind the curtain. [__TIM:__ Eh.] It's like everyone-- no one knows we have no idea what we're doing.
 
@@ -66,7 +66,7 @@ Um--
 
 Look, I've got an incomprehensible page of notes somewhere which should serve.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben and Bryn chuckle]__
+#####  __[Ben and Bryn chuckle]__
 
 #### BRYN
 
@@ -218,11 +218,7 @@ Thank you.
 
 #### BRYN
 
-Sorry. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben chuckles]__ 
-
-And criticise that from a perspective of informed understanding. And--
+Sorry. __[Ben chuckles]__ And criticise that from a perspective of informed understanding. And--
 
 #### TIM
 
@@ -236,7 +232,7 @@ Now, they'll definitely come in and be like __[Bryn and Tim laugh]__ "this is a-
 
 I love it! Profits up!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben chuckles]__
+#####  __[Ben chuckles]__
 
 #### BRYN
 
@@ -292,9 +288,7 @@ Drink it. Drink it. Drink it.
 
 #### TIM
 
-Mm. Hang on, I'll just... 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[unscrews the moisturiser lid]__
+Mm. Hang on, I'll just... __[unscrews the moisturiser lid]__
 
 #### BEN
 
@@ -316,7 +310,7 @@ No... no, that's not how... these things work.
 
 *(simult.)* Wait, was that a science? Did he do a science?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__
+#####  __[Bryn laughs]__
 
 #### TIM
 
@@ -326,7 +320,7 @@ The answer: maybe.
 
 Yeah.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim and Ben chuckle]__
+#####  __[Tim and Ben chuckle]__
 
 #### BRYN
 
@@ -354,11 +348,7 @@ So, yes, our corporate masters have decreed that we continue a successful thing 
 
 #### BEN
 
-Stay at home. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn and Tim laugh]__ 
-
-Stop the virus. __[laughs]__
+Stay at home. __[Bryn and Tim laugh]__ Stop the virus. __[laughs]__
 
 #### TIM
 
@@ -390,11 +380,7 @@ A joke about current events, therefore, satire.
 
 #### TIM
 
-I've listened to *The Now Show*; I know how it works. For people outside of the UK, *The Now Show* is a moderate to poor satire show. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__ 
-
-So, the scientific method is you conduct exp-- When you're tryna find out about stuff, you don't just go "I saw a thing and, therefore, x equals y", you say, "okay, I've got an idea that a thing might be a thing, so I'm gonna go into a 'lab environment', which is some sort of controlled environment, and do tests and compare them and use controls and, therefore, through 'scientific means' work out what is likely and what is not." Maybe not what's true! Because what is truth? But have a rigorous controlled way of working things out that stands up to scrutiny. Science.
+I've listened to *The Now Show*; I know how it works. For people outside of the UK, *The Now Show* is a moderate to poor satire show. __[Ben laughs]__ So, the scientific method is you conduct exp-- When you're tryna find out about stuff, you don't just go "I saw a thing and, therefore, x equals y", you say, "okay, I've got an idea that a thing might be a thing, so I'm gonna go into a 'lab environment', which is some sort of controlled environment, and do tests and compare them and use controls and, therefore, through 'scientific means' work out what is likely and what is not." Maybe not what's true! Because what is truth? But have a rigorous controlled way of working things out that stands up to scrutiny. Science.
 
 #### BEN
 
@@ -432,13 +418,13 @@ I did it.
 
 __[laughs]__ I guess, __[Ben laughs]__ in this case, the points go to Ben. Are we doing points? We did points last time, right?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim sighs]__
+#####  __[Tim sighs]__
 
 #### BEN
 
 We're doing points because I just got the first one.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__
+#####  __[Bryn laughs]__
 
 #### TIM
 
@@ -458,11 +444,7 @@ I'm more intelligent than I sound.
 
 #### TIM
 
-I swear to you. *(laughing)* Please, believe me! 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__ 
-
-Buy my magic beans.
+I swear to you. *(laughing)* Please, believe me! __[Ben laughs]__ Buy my magic beans.
 
 #### BRYN
 
@@ -488,7 +470,7 @@ Absolutely. Absolutely.
 
 I would say broadly the same thing, but I'm gonna say the word "variables" __[Tim laughs]__ and thus win it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__
+#####  __[Bryn laughs]__
 
 #### TIM
 
@@ -536,15 +518,7 @@ It's so good! Yeah, yeah, yeah. It's real good, that.
 
 #### TIM
 
-Now, can I remember most of it? No, I can't. The main thing I remember is geology doesn't agree with any other part of geology. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__ 
-
-That's about where I've got to. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__ 
-
-And people, like, nicked each other's fossils loads.
+Now, can I remember most of it? No, I can't. The main thing I remember is geology doesn't agree with any other part of geology. __[Bryn laughs]__ That's about where I've got to. __[Ben laughs]__ And people, like, nicked each other's fossils loads.
 
 #### BRYN
 
@@ -564,11 +538,7 @@ __[laughs]__ Now you're gonna get two gravestones just so they can both be carve
 
 #### BRYN
 
-That's my grand plan. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__ 
-
-That's my grand plan.
+That's my grand plan. __[Ben laughs]__ That's my grand plan.
 
 #### TIM
 
@@ -612,11 +582,7 @@ Uh, a white coat.
 
 #### BRYN
 
-Point to Tim. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim cheers]__ 
-
-Yeah. Yeah. Apparently, Bunsen burners __[Tim laughs]__ are the one thing that makes something a science lab.
+Point to Tim. __[Tim cheers]__ Yeah. Yeah. Apparently, Bunsen burners __[Tim laughs]__ are the one thing that makes something a science lab.
 
 #### TIM
 
@@ -640,11 +606,7 @@ We can have a *Mighty Ducks 3*. Yeah.
 
 #### BEN
 
-Nah, we're gonna bring you back for-- you're gonna host "Tim and Ben do Poetry". 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__ 
-
-And then we'll get Anil to do "Tim and Ben do Specifically Physics".
+Nah, we're gonna bring you back for-- you're gonna host "Tim and Ben do Poetry". __[Bryn laughs]__ And then we'll get Anil to do "Tim and Ben do Specifically Physics".
 
 #### TIM
 
@@ -686,7 +648,7 @@ I've got an idea as well. And I-- you know what, I might be wrong about this, bu
 
 It's certainly possible, isn't it? I have to confess I've never worked in a science lab. I couldn't tell you for certain.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim sighs dramatically]__
+#####  __[Tim sighs dramatically]__
 
 #### BEN
 
@@ -710,11 +672,7 @@ Maths.
 
 #### TIM
 
-*(laughing)* Yeah, maths. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim and Bryn laugh]__ 
-
-Can't set fire to a book without a Bunsen burner, Bryn!
+*(laughing)* Yeah, maths. __[Tim and Bryn laugh]__ Can't set fire to a book without a Bunsen burner, Bryn!
 
 #### BEN
 
@@ -728,7 +686,7 @@ Think it through! Think it through!
 
 And you can't distill the numbers to drink the number juice!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim and Bryn laugh]__
+#####  __[Tim and Bryn laugh]__
 
 #### TIM
 
@@ -822,7 +780,7 @@ I can only imagine. But my question remains, what kind of science can you actual
 
 Yeah, basically what you're just doing there is you're going to be studying chemicals. You're going to be studying-- and there's various different branches, you could be doing metallurgy. But it's wonderful that that was immediately where Trexel went when asked to create a scientific environment, [__TIM:__ Yeah.] because, to me, that shows that he's been brought up in the British school system of the late 20th century.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__
+#####  __[Tim laughs]__
 
 #### TIM
 
@@ -832,7 +790,7 @@ Yeah, we're doing science which means just chemistry. __[laughs]__
 
 Hang on a minute, Bryn. Are you saying, *are you saying* __[Bryn laughs]__ [__TIM:__ Preach, Ben. Preach!] we draw on our own life experiences and don't subsume ourselves completely into the characters of these people who live in __[breaks off into incomprehensible mumbles, Tim joins in]__ the year of our Lord, Stellar Firma?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__
+#####  __[Tim laughs]__
 
 #### BRYN
 
@@ -846,13 +804,13 @@ The year of our *Board,* Stellar Firma.
 
 *(simult.)* Ey? Ooh. Ben, you're fired. Bryn, you're on board.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__
+#####  __[Bryn laughs]__
 
 #### BEN
 
 Okay! See you later. How good's your nasal voice, Bryn?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__
+#####  __[Bryn laughs]__
 
 #### TIM
 
@@ -882,7 +840,7 @@ He's put a crown on! He's put a crown on!
 
 And therefore, I'm entitled to a certain level of arrogance over any other person. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__
+#####  __[Ben laughs]__
 
 #### TIM
 
@@ -934,25 +892,17 @@ No, sorry. Yeah, this-- __[chuckles]__ the way we--
 
 #### BEN
 
-Do you know how difficult that is? 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim bursts out laughing, Bryn joins in]__ 
-
-Do you know how difficult that is, to speak before Tim does?
+Do you know how difficult that is? __[Tim bursts out laughing, Bryn joins in]__ Do you know how difficult that is, to speak before Tim does?
 
 #### TIM
 
-Especially with the delay. I have set this Skype call up so that I always have five seconds before you. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__ 
-
-Put an artificial delay on Ben. Sorry, Ben.
+Especially with the delay. I have set this Skype call up so that I always have five seconds before you. __[Ben laughs]__ Put an artificial delay on Ben. Sorry, Ben.
 
 #### BRYN
 
 You apparently won't be able to use the same tactic you used last time of just waiting for him to say something wrong and then coming in with the correct answer.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs, Ben makes a sound of resigned agreement]__
+#####  __[Tim laughs, Ben makes a sound of resigned agreement]__
 
 #### TIM
 
@@ -964,11 +914,7 @@ So how do we achieve a sterile environment?
 
 #### BEN
 
-There are many methods. __[small pause]__
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__ 
-
-I mean, genuinely. Boil it, microwave it, X-ray it, like, there's lots of ways. Do something what kills the pathogens.
+There are many methods. __[small pause]__ __[Tim laughs]__ I mean, genuinely. Boil it, microwave it, X-ray it, like, there's lots of ways. Do something what kills the pathogens.
 
 #### BRYN
 
@@ -978,7 +924,7 @@ Yes, point for that. So sterile is normally in reference to specifically microbe
 
 Yeah, I'd love to see a virus on a sword being like, "Nailed it. I made it."
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__
+#####  __[Tim laughs]__
 
 #### TIM
 
@@ -1006,11 +952,7 @@ Well, indeed. Indeed.But also, depending on exactly what you're testing, of cour
 
 #### TIM
 
-I was testing if bleach was in things, and I've covered everything in bleach! Ahh! 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben and Bryn chuckle]__ 
-
-So here's a question-- here's a genuine question, if say, like, the sterility and contamination is a relative thing, so you know when they did that thing where there was those two Bell radio lab technicians and they spent a year trying to, like, clean out the interference from some broadcast equipment and it turned out they'd accidentally discovered the background radiation from the Big Bang. [__BRYN:__ Yes.] Would that count as like, 'well, it's not a sterile environment'? 'Cause you've got all of this-- you know, what you're looking for can't be found, because the environment is causing interference in whatever *tests* you happen to be running?
+I was testing if bleach was in things, and I've covered everything in bleach! Ahh! __[Ben and Bryn chuckle]__ So here's a question-- here's a genuine question, if say, like, the sterility and contamination is a relative thing, so you know when they did that thing where there was those two Bell radio lab technicians and they spent a year trying to, like, clean out the interference from some broadcast equipment and it turned out they'd accidentally discovered the background radiation from the Big Bang. [__BRYN:__ Yes.] Would that count as like, 'well, it's not a sterile environment'? 'Cause you've got all of this-- you know, what you're looking for can't be found, because the environment is causing interference in whatever *tests* you happen to be running?
 
 #### BRYN
 
@@ -1024,7 +966,7 @@ I mean, they won a Nobel prize for that, but sure, it wasn't what they were hopi
 
 I mean, it's technically not sterile but, uhh, good luck.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__
+#####  __[Tim laughs]__
 
 #### BRYN
 
@@ -1052,11 +994,7 @@ Would it be a silent environment, or would it be a sterile? Or, like, uncontamin
 
 #### BRYN
 
-Yeah, I think uncontaminated is probably a broader term, because that covers, like, a sterile environment for certain types or a sil-- yeah, I guess a silent environment for different types of research. Now, uncontaminated is, you know, an ideal. There's an old joke about physicists solving problems. A physicist asks which comes first, the chicken or the egg. And they say, "Well, I've got a solution but it's only true for a spherical chicken in a vacuum." 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__ 
-
-A lot of physics is about answering questions in completely imaginary perfect conditions which you can't achieve in the real world, and that's a really good example of it. The radiation they discovered is referred to as the cosmic microwave background. It is indeed a bunch of radiation that is *literally everywhere in the universe* and was created, I believe, 300,000 years after the Big Bang, [__TIM:__ Well, how--] for reasons I won't go into.
+Yeah, I think uncontaminated is probably a broader term, because that covers, like, a sterile environment for certain types or a sil-- yeah, I guess a silent environment for different types of research. Now, uncontaminated is, you know, an ideal. There's an old joke about physicists solving problems. A physicist asks which comes first, the chicken or the egg. And they say, "Well, I've got a solution but it's only true for a spherical chicken in a vacuum." __[Tim laughs]__ A lot of physics is about answering questions in completely imaginary perfect conditions which you can't achieve in the real world, and that's a really good example of it. The radiation they discovered is referred to as the cosmic microwave background. It is indeed a bunch of radiation that is *literally everywhere in the universe* and was created, I believe, 300,000 years after the Big Bang, [__TIM:__ Well, how--] for reasons I won't go into.
 
 #### TIM
 
@@ -1094,13 +1032,13 @@ That is... yeah.
 
 Relative to us.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__
+#####  __[Tim laughs]__
 
 #### BRYN
 
 Certain key points after the Big Bang which, you know, like the important ones and I may be confusing which is which. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim gasps]__ 
+#####  __[Tim gasps]__ 
 
 The key point is is just after the Big Bang the universe is incredibly hot, and when it's that hot nothing can really exist. And the cosmic microwave background is created at a point where it reaches a certain level of coldness--or, well, not hotness, I guess, 'cause it's still really hot--for essentially photons to start existing in a meaningful way.
 
@@ -1126,9 +1064,7 @@ Photons.
 
 #### TIM
 
-Photon-- Shut up! Everybody shut up! I tried to say something smart and it backfired! 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[laughs, Ben joins in]__
+Photon-- Shut up! Everybody shut up! I tried to say something smart and it backfired! __[laughs, Ben joins in]__
 
 #### BRYN
 
@@ -1160,15 +1096,7 @@ Yes, I mean--
 
 #### TIM
 
-*(slightly laughing)* Under those situations. I'm a physicist. If you've got a flat earth, [__BRYN: [laughing]__ Yes.] and go with me here 'cause the phrase flat earth [__BEN:__ Oh, don't. Yeah, hang on.] carries *(laughing)* a lot of baggage! 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__ 
-
-A physicist gets up at a podium and says, "Now, before you go a bit cross, I'm gonna use the phrase 'flat earth' in this speech. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben chuckles]__ 
-
-But, but!..."
+*(slightly laughing)* Under those situations. I'm a physicist. If you've got a flat earth, [__BRYN: [laughing]__ Yes.] and go with me here 'cause the phrase flat earth [__BEN:__ Oh, don't. Yeah, hang on.] carries *(laughing)* a lot of baggage! __[Bryn laughs]__ A physicist gets up at a podium and says, "Now, before you go a bit cross, I'm gonna use the phrase 'flat earth' in this speech. __[Ben chuckles]__ But, but!..."
 
 #### BEN
 
@@ -1198,13 +1126,13 @@ Yes! __[loud triumphant laugh]__
 
 Because it is almost exactly the same process. Yes.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__
+#####  __[Ben laughs]__
 
 #### BEN
 
 Alright, if we're just playing [Calvinball](https://calvinandhobbes.fandom.com/wiki/Calvinball), fine. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn and Tim laugh]__ 
+#####  __[Bryn and Tim laugh]__ 
 
 I've lost all faith--
 
@@ -1240,7 +1168,7 @@ We're twenty minutes in. We've done the setup! Let's go!
 
 Obviously, here's a-- Yeah. That's me talking about *one* episode from this season.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__
+#####  __[Tim laughs]__
 
 #### BEN
 
@@ -1270,7 +1198,7 @@ Yes.
 
 There's a certain... 30-second section during which I could *feel* you both looking at me __[Tim chuckles]__ with a very specific cheeky look in your eyes, which I have seen from both of you on several occasions.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben and Tim gasp]__
+#####  __[Ben and Tim gasp]__
 
 #### BEN
 
@@ -1284,7 +1212,7 @@ There's a certain... 30-second section during which I could *feel* you both look
 
 Pray tell.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__
+#####  __[Tim laughs]__
 
 #### BRYN
 
@@ -1312,11 +1240,7 @@ Yes.
 
 #### BRYN
 
-Not as it says in the show notes "platinum" but "plutanium". 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim chuckles]__ 
-
-Plutanium is apparently a subject rarer and more dangerous than gold--
+Not as it says in the show notes "platinum" but "plutanium". __[Tim chuckles]__ Plutanium is apparently a subject rarer and more dangerous than gold--
 
 #### TIM
 
@@ -1324,11 +1248,7 @@ Yes.
 
 #### BRYN
 
---which is my first minor wince. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim chuckles]__ 
-
-And you state specifically, and you repeat this sentence--
+--which is my first minor wince. __[Tim chuckles]__ And you state specifically, and you repeat this sentence--
 
 #### BEN
 
@@ -1404,11 +1324,7 @@ That's how you do it.
 
 #### BRYN
 
-*(so much contempt)* Mined. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim chuckles]__ 
-
-From inside.
+*(so much contempt)* Mined. __[Tim chuckles]__ From inside.
 
 #### BEN
 
@@ -1426,7 +1342,7 @@ Just because *your* limited understanding of astrophysics __[Bryn laughs]__ [__T
 
 You get an equally dense pickaxe. Is it hard to pick up? Yes, it is, but 'like with like'... finished sentence.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__
+#####  __[Ben laughs]__
 
 #### BRYN
 
@@ -1436,15 +1352,11 @@ So, I'm subtracting a point from Tim there--
 
 Oh no!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs loudly]__
+#####  __[Ben laughs loudly]__
 
 #### BRYN
 
---because we covered this last time! 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__ 
-
-Anything that is equally dense to a black hole is what, Tim?
+--because we covered this last time! __[Tim laughs]__ Anything that is equally dense to a black hole is what, Tim?
 
 #### TIM
 
@@ -1606,7 +1518,7 @@ Atoms are drawn like solar systems because apparently people who draw diagrams o
 
 I would have preferred a cloud of-- Look, here is a globe. The atom is everywhere and nowhere all at the same time-- Again, if you'd have told me that and that dude's crazy-ass name, I'd have been much more interested in science!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__
+#####  __[Bryn laughs]__
 
 #### BEN
 
@@ -1636,7 +1548,7 @@ And a lot of science is lies, because what science really is is a *model* of the
 
 And so we stopped trying.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben snorts]__
+#####  __[Ben snorts]__
 
 #### BRYN
 
@@ -1658,7 +1570,7 @@ I was asked to. I can't claim that I ever did, but I was certainly asked to, Bry
 
 Probably. And at some point, I was asked about Boyle's law<a id="footnote-6-ref" href="#footnote-6"><sup>[6]</sup></a> and shown a spring and I was like, "Ah, I ain't got *(mumbling)* a clue. I don't know."
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__
+#####  __[Tim laughs]__
 
 #### BRYN
 
@@ -1674,11 +1586,7 @@ Spherical chickens in a vacuum. Absolutely. And it is-- it's an important joke i
 
 #### TIM
 
-There's potentially a lovely analogy, I think from-- I think it's from cartography, where they say the only true map is the exact size and shape of the thing you are trying to map, [__BRYN:__ Absolutely.] but best of luck taking that on a short camper-vanning holiday in the Cotswolds. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__ 
-
-So... we use the Ordnance Survey and we like it.
+There's potentially a lovely analogy, I think from-- I think it's from cartography, where they say the only true map is the exact size and shape of the thing you are trying to map, [__BRYN:__ Absolutely.] but best of luck taking that on a short camper-vanning holiday in the Cotswolds. __[Bryn laughs]__ So... we use the Ordnance Survey and we like it.
 
 #### BRYN
 
@@ -1730,11 +1638,7 @@ But I think we can--
 
 #### BEN
 
-Wait, hang on a minute! Hang on a minute. Is this-- No, hang on. I'm gonna preempt you. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__ 
-
-Is this because it's technically magma?
+Wait, hang on a minute! Hang on a minute. Is this-- No, hang on. I'm gonna preempt you. __[Tim laughs]__ Is this because it's technically magma?
 
 #### BRYN
 
@@ -1752,7 +1656,7 @@ Oh! Okay.
 
 I'm not quibbling about terminology here.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__
+#####  __[Ben laughs]__
 
 #### TIM
 
@@ -1762,7 +1666,7 @@ Where's our caldera, Bryn? Where's our caldera?
 
 Wait, hang on a minute! Also, Bryn, you're a physicist and you're not quibbling about terminology? I don't think you're a real physicist.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim and Bryn laugh]__
+#####  __[Tim and Bryn laugh]__
 
 #### TIM
 
@@ -1772,7 +1676,7 @@ You're a botanist in a lab coat!
 
 Aw, they're even worse!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__
+#####  __[Tim laughs]__
 
 #### BRYN
 
@@ -1830,7 +1734,7 @@ I don't--
 
 Ah, remember, we are so very loose with the definition of human.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__
+#####  __[Tim laughs]__
 
 #### BRYN
 
@@ -1842,11 +1746,7 @@ Is it going to mean--
 
 #### BEN
 
-Uh, uh-- Well, hang on a minute. Hang on a minute. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim chuckles]__ 
-
-I could get super strong without having any possible physical changes so... I mean, explain that one, physicist!
+Uh, uh-- Well, hang on a minute. Hang on a minute. __[Tim chuckles]__ I could get super strong without having any possible physical changes so... I mean, explain that one, physicist!
 
 #### TIM
 
@@ -1856,7 +1756,7 @@ So, okay. Can I maybe say that perhaps, perhaps--
 
 Alright, yes. I'll answer the question in good faith, I suppose.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__
+#####  __[Bryn laughs]__
 
 #### TIM
 
@@ -1886,13 +1786,13 @@ Is it [pyroclastic flow](https://en.wikipedia.org/wiki/Pyroclastic_flow)? __[lau
 
 That's fine. I gave myself a million-billion points just then, so I'm all good.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn and Tim laugh]__
+#####  __[Bryn and Tim laugh]__
 
 #### TIM
 
 Listeners, you can't see this, but he's actually just holding armfuls of points and __[Bryn laughs]__ nuzzling his face into them, laughing! Like an only-from-the-waist-up Scrooge McDuck.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__
+#####  __[Ben laughs]__
 
 #### BRYN
 
@@ -1912,11 +1812,7 @@ Do you mean *Indiana Jones* lied to me?
 
 #### BRYN
 
-Yes. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben gasps]__ 
-
-I'm afraid so. There are three ways by which heat travels. Do we know what they are?
+Yes.  __[Ben gasps]__ I'm afraid so. There are three ways by which heat travels. Do we know what they are?
 
 #### BEN
 
@@ -1950,13 +1846,13 @@ Convection, radiation and... Ooh.
 
 I'm gonna say emanation, which I think is just radiation and I got my thesaurus out, but it's a, it's a big word.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__
+#####  __[Bryn laughs]__
 
 #### TIM
 
 Convection, radiation-- Ugh! I feel like I know it, but I can't give you an answer, which normally means I don't know it. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben chuckles]__ 
+#####  __[Ben chuckles]__ 
 
 Bryn, what's the answer? __[chuckles]__
 
@@ -2032,7 +1928,7 @@ Uh, funny enough--
 
 *(crosstalk, urgently)* Hang on a minute! What about the plum pudding? Please tell me that the plum pudding still stands!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__
+#####  __[Bryn laughs]__
 
 #### BEN
 
@@ -2042,7 +1938,7 @@ But funnily enough, actually, that theory was *reproved* in, uh, 2050-- 2055 so.
 
 Yep. Sorry. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__ 
+#####  __[Bryn laughs]__ 
 
 Turns out there's secret black matter gas! __[laughs]__
 
@@ -2134,7 +2030,7 @@ Wow. Hang on. Sorry--
 
 My room is now full of scales, because they've all fallen from my eyes. Sorry, let me just shift these away.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben and Bryn laugh]__
+#####  __[Ben and Bryn laugh]__
 
 #### BRYN
 
@@ -2150,11 +2046,7 @@ Well, essentially, yes. If the slurry-- the hot slurry introduced to the room wa
 
 #### BEN
 
-I can't remember if we explicitly gave a reference to how hot it was. Like, it was definitely hot enough to kill you, [__TIM:__ Sure.] but boiling water would do that, like, would do a big number on you. [__BRYN:__ Yeah.] But I can't remember if we had the thing where like-- and it might've only been soundscaped but, like, you know, the bed legs catch fire as they touch them and stuff like that. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim chuckles]__ 
-
-'Cause obviously with boiling water, it would just be submerged, and all the [__BRYN:__ Yes.] objects would be sad but wouldn't be on fire.
+I can't remember if we explicitly gave a reference to how hot it was. Like, it was definitely hot enough to kill you, [__TIM:__ Sure.] but boiling water would do that, like, would do a big number on you. [__BRYN:__ Yeah.] But I can't remember if we had the thing where like-- and it might've only been soundscaped but, like, you know, the bed legs catch fire as they touch them and stuff like that. __[Tim chuckles]__ 'Cause obviously with boiling water, it would just be submerged, and all the [__BRYN:__ Yes.] objects would be sad but wouldn't be on fire.
 
 #### TIM
 
@@ -2236,7 +2128,7 @@ Yeah, but at that point are they called, like, cauldrons or something?
 
 Gah, that's just a fancy bucket with ideas above its station. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben snorts]__
+#####  __[Ben snorts]__
 
 #### BEN
 
@@ -2262,7 +2154,7 @@ Yeah. For tricksyness, if nothing else.
 
 Got those big strong clone lungs.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__
+#####  __[Tim laughs]__
 
 #### BRYN
 
@@ -2390,11 +2282,7 @@ We are able to divide the visible spectrum into certain wavelengths, and we know
 
 #### BEN
 
-Do you want us to give numbers of frequencies? Because I've-- no way. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__ 
-
-Absolutely not.
+Do you want us to give numbers of frequencies? Because I've-- no way. __[Bryn laughs]__ Absolutely not.
 
 #### TIM
 
@@ -2404,7 +2292,7 @@ Absolutely not.
 
 Oh my god.Okay, I know that's wrong.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim chuckles]__
+#####  __[Tim chuckles]__
 
 #### TIM
 
@@ -2482,7 +2370,7 @@ That is a really good question. And I think you're going to enjoy this answer ac
 
 Hang on, let me just pick up my drink *(voice sounds more distant as he presumably leans back)* and lean back in my chair. *Do tell*.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben chuckles]__
+#####  __[Ben chuckles]__
 
 #### BRYN
 
@@ -2494,11 +2382,7 @@ It is the distance between the peak of a wave and then the next peak of the wave
 
 #### BRYN
 
-Yeah. I'm going to give you a point for that. I like that. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[starts clapping]__ 
-
-Very clear, very concise, and very correct.
+Yeah. I'm going to give you a point for that. I like that. __[starts clapping]__ Very clear, very concise, and very correct.
 
 #### TIM
 
@@ -2528,7 +2412,7 @@ I can't believe that you waited for us to confirm. "No, I don't know what a metr
 
 I just-- I worry when the audio is only me talking for too long.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim and Ben laugh]__
+#####  __[Tim and Ben laugh]__
 
 #### BEN
 
@@ -2538,7 +2422,7 @@ On this show, it's a blessing and a rarity.
 
 A problem I know you don't share Tim.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben and Bryn laugh]__
+#####  __[Ben and Bryn laugh]__
 
 #### TIM
 
@@ -2560,7 +2444,7 @@ Yeah.
 
 To be honest.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim and Ben laugh]__
+#####  __[Tim and Ben laugh]__
 
 #### BRYN
 
@@ -2590,7 +2474,7 @@ So, after kilometres you technically--and we don't use them--but you technically
 
 *(loudly)* Megametres!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__
+#####  __[Tim laughs]__
 
 #### BRYN
 
@@ -2624,7 +2508,7 @@ The intervals with which they move are so irritatingly inconsistent. Like, 'caus
 
 So, it's actually every-- every increment for the-- except centimetres, which doesn't fit the pattern and is therefore, bad and wrong. We shouldn't really use. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim gasps]__ 
+#####  __[Tim gasps]__ 
 
 But, everything else--
 
@@ -2632,7 +2516,7 @@ But, everything else--
 
 *(sarcastic)* Oh, yes. Sorry for being the most human understandable measurement.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs loudly]__
+#####  __[Tim laughs loudly]__
 
 #### BRYN
 
@@ -2682,7 +2566,7 @@ Yep. Yep. Yep. Yep.
 
 He's, I think, @BraveSirRobin on Twitter. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__ 
+#####  __[Tim laughs]__ 
 
 Just let him know.
 
@@ -2702,7 +2586,7 @@ Oh! BraveSirFblthip.
 
 Length and frighteningness of message encouraged.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__
+#####  __[Bryn laughs]__
 
 #### BEN
 
@@ -2744,7 +2628,7 @@ I mean, Britain did for a long time too, but Britain eventually changed their mi
 
 Yeah, that's because we're America-lite.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn chuckles]__
+#####  __[Bryn chuckles]__
 
 #### TIM
 
@@ -2852,11 +2736,7 @@ I make an angry face!
 
 #### BEN
 
-I don't know why they ever got that. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim sighs]__ 
-
-Like, what were we gonna achieve with the Higgs boson. [__TIM:__ Yeah.] It's like, oh my god!
+I don't know why they ever got that. __[Tim sighs]__ Like, what were we gonna achieve with the Higgs boson. [__TIM:__ Yeah.] It's like, oh my god!
 
 #### TIM
 
@@ -2902,7 +2782,7 @@ __[laughs]__ The looks. The looks, people.
 
 Zurich. Zurich is a singularity now!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__
+#####  __[Tim laughs]__
 
 #### BRYN
 
@@ -2956,7 +2836,7 @@ And so that's where Elvis and Lord Lucan are hiding, correct?
 
 Presumably so.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben snorts, then laughs]__
+#####  __[Ben snorts, then laughs]__
 
 #### TIM
 
@@ -2970,7 +2850,7 @@ One can only assume. That's a good hypothesis. Devise scientific tests that test
 
 __[laughs]__ I've found the Elvis particle!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__
+#####  __[Ben laughs]__
 
 #### BRYN
 
@@ -2978,13 +2858,11 @@ Uh, yeah. So, we've gone pretty deep there, and it takes a long time to explain 
 
 #### TIM
 
-I'm telling you, this Bill Bryson book is paying dividends. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn and Ben laugh]__ 
+I'm telling you, this Bill Bryson book is paying dividends. __[Bryn and Ben laugh]__ 
 
 I'm so glad I started with that one and not *Notes from a Small Island*.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__
+#####  __[Ben laughs]__
 
 #### BRYN
 
@@ -3038,7 +2916,7 @@ Yes. You haven't got enough atoms to have eyes. [__BRYN:__ Basically.]__ [laughs
 
 Well, I think "Atoms for Eyes" is a Thom Yorke solo project<a id="footnote-10-ref" href="#footnote-10"><sup>[10]</sup></a>, right?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__
+##### __[Bryn laughs]__
 
 #### TIM
 
@@ -3050,11 +2928,7 @@ Wow, that was niche.
 
 #### TIM
 
-This ain't no "Them Crooked Vultures". 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__ 
-
-Which I think is another supergroup of some kind. __[laughs]__
+This ain't no "Them Crooked Vultures". __[Ben laughs]__ Which I think is another supergroup of some kind. __[laughs]__
 
 #### BRYN
 
@@ -3068,7 +2942,7 @@ I like the idea that we're talking about supergroups and that one-- that supergr
 
 Yeah yeah yeah yeah. Sorry, yes.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__
+#####  __[Ben laughs]__
 
 #### BRYN
 
@@ -3116,15 +2990,7 @@ Halo is a computer game of which I have heard.
 
 #### BEN
 
-It is. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__ 
-
-Oh, yes! You don't play computer games! 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim joins in laughing]__ 
-
-Um...
+It is. __[Bryn laughs]__ Oh, yes! You don't play computer games! __[Tim joins in laughing]__ Um...
 
 #### TIM
 
@@ -3144,11 +3010,7 @@ I know science, guys, but you're talking about pop culture here. I think I have 
 
 #### BEN
 
-Yeah. I mean, eh, actually, yeah. To be honest, Halo is a reasonably seminal work, I suppose. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__
-
-*(getting quieter, kind of speaking to himself)* And actually, probably quite influential in science fiction, despite being very derivative, but all science fiction is kind of derivative in certain ways.
+Yeah. I mean, eh, actually, yeah. To be honest, Halo is a reasonably seminal work, I suppose. __[Bryn laughs]__ *(getting quieter, kind of speaking to himself)* And actually, probably quite influential in science fiction, despite being very derivative, but all science fiction is kind of derivative in certain ways.
 
 #### TIM
 
@@ -3162,15 +3024,11 @@ __[chuckles]__ Sorry.
 
 He disappeared into his degree. Come back!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__
+#####  __[Bryn laughs]__
 
 #### BEN
 
-Oh! Ah! 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim chuckles]__ 
-
-My degree and my career interest.
+Oh! Ah! __[Tim chuckles]__ My degree and my career interest.
 
 #### BRYN
 
@@ -3256,7 +3114,7 @@ Yes. The Halo ring is like they peeled a Dyson sphere and, like, took a stripe o
 
 Oh, like with an apple with a knife [__BEN:__ Yeah!] like you'd see a cool person do. Okay. Right. Alright. [__BRYN:__ Yeah.] Outburst retracted.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__
+#####  __[Ben laughs]__
 
 #### BRYN
 
@@ -3430,7 +3288,7 @@ Gravity is actually the result of the curvature of space-time due to the presenc
 
 Imagine a rubber sheet [__BRYN:__ Exactly.] and an iron ball placed upon it. [__BRYN:__ Yep.] Well, guess what? It's not that. This another one of those lies we use.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben and Bryn laugh]__
+#####  __[Ben and Bryn laugh]__
 
 #### BRYN
 
@@ -3438,11 +3296,7 @@ Yep. Not lies, models. Helpful models.
 
 #### TIM
 
-*(sarcastic)* Sorry. Sorry. "Helpful models", brackets lies. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben and Bryn laugh]__ 
-
-It's a flat earth, I'm telling you!
+*(sarcastic)* Sorry. Sorry. "Helpful models", brackets lies. __[Ben and Bryn laugh]__ It's a flat earth, I'm telling you!
 
 #### BRYN
 
@@ -3468,23 +3322,15 @@ We're talking about, you know, civilisations here like Stellar Firma which are p
 
 Uh, it's political will.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn laughs]__
+#####  __[Bryn laughs]__
 
 #### TIM
 
-It's *(laughing)* political will. It's been locked up in Congress for decades! 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben chuckles]__ 
-
-The pork-barrelling, Bryn! The pork-barrelling... I'm gonna say it's you'd have to have so much stuff to ma-- the sheer mass that you're building you'd have to, like, go to another solar system, crush everything in it up into, what-- you know, base material, and then rebuild it some-- It would be a-- It would be really hard, Bryn! It'd be really difficult!
+It's *(laughing)* political will. It's been locked up in Congress for decades! __[Ben chuckles]__ The pork-barrelling, Bryn! The pork-barrelling... I'm gonna say it's you'd have to have so much stuff to ma-- the sheer mass that you're building you'd have to, like, go to another solar system, crush everything in it up into, what-- you know, base material, and then rebuild it some-- It would be a-- It would be really hard, Bryn! It'd be really difficult!
 
 #### BRYN
 
-Point to Tim. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__ 
-
-Yeah.
+Point to Tim. __[Ben laughs]__ Yeah.
 
 #### TIM
 
@@ -3564,11 +3410,7 @@ He was a weird dude. Anyway, Bryn, let's not talk about war criminals.
 
 #### BRYN
 
-But that's fine. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__ 
-
-So, theoretically, if we indeed had the power of Stellar Firma and we could just pump out planets willy-nilly because we felt like it, we would in theory also have the ability to create larger, more complex habitable objects. And in fact, a planet is a naturally occurring object, but it is not necessarily the best design.
+But that's fine. __[Tim laughs]__ So, theoretically, if we indeed had the power of Stellar Firma and we could just pump out planets willy-nilly because we felt like it, we would in theory also have the ability to create larger, more complex habitable objects. And in fact, a planet is a naturally occurring object, but it is not necessarily the best design.
 
 #### TIM
 
@@ -3640,11 +3482,7 @@ You're thinking about the orbital concept that I described where the ring is flo
 
 #### TIM
 
-It's-- yeah. Alright. Alright. Fine. I didn't solve a deep science problem with a half-assed thought __[Bryn chuckles]__ in a room in Brighton. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__ 
-
-Alright, fine.
+It's-- yeah. Alright. Alright. Fine. I didn't solve a deep science problem with a half-assed thought __[Bryn chuckles]__ in a room in Brighton. __[Ben laughs]__ Alright, fine.
 
 #### BRYN
 
@@ -3722,7 +3560,7 @@ Well, let's just say, even building that would encounter the same problem as bui
 
 *(getting louder)* It was a funny joke, Bryn!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__
+#####  __[Ben laughs]__
 
 #### BRYN
 
@@ -3734,11 +3572,7 @@ Well, let's just say, even building that would encounter the same problem as bui
 
 #### TIM
 
-It was a funny joke that people were supposed to enjoy! __[chuckles]__ To be fair, the whole point of that was they built it and it destroyed their society, because it made them crash into the sun. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Ben laughs]__ 
-
-So, to be fair--
+It was a funny joke that people were supposed to enjoy! __[chuckles]__ To be fair, the whole point of that was they built it and it destroyed their society, because it made them crash into the sun. __[Ben laughs]__ So, to be fair--
 
 #### BRYN
 
@@ -3752,7 +3586,7 @@ I could do an entire episode on just that three-minute segment alone, __[Tim lau
 
 So, if you wanna know what grounded Bryn's gears so much, subscribe to Patreon.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Bryn and Tim laugh]__
+#####  __[Bryn and Tim laugh]__
 
 #### BRYN
 
@@ -3762,7 +3596,7 @@ So, sadly, there's always more we could discuss despite the much smaller presenc
 
 Well, as Tim said, we'll sit down and work it out.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Tim laughs]__
+#####  __[Tim laughs]__
 
 #### TIM
 
@@ -3784,7 +3618,7 @@ All hail the Board.
 
 All hail the Board. May it preserve and keep you!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[short version of the outro theme]__
+#####  __[short version of the outro theme]__
 
 ------
 

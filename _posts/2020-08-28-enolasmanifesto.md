@@ -18,11 +18,11 @@ sources:
 official: false
 ---
 
-##### Transcribed 8/29/20 via stellarscripts on tumblr
+### Transcribed 8/29/20 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[shorter version of the show theme]__
+##### __[shorter version of the show theme]__
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[cassette tape put in player, tape clicks on]__
+##### __[cassette tape put in player, tape clicks on]__
 
 #### ENOLA
 
@@ -36,7 +36,7 @@ By who you ask? Well, I-I am not one to point the finger of blame, and it may we
 
 Whatever the source--Trexel Geistman--I felt compelled to escape my post in the Build Team after what I was forced to do there, namely build shoddy, unstable planets that directly lead to the deaths of countless numbers of our client citizens and, *worst of all*, call into question the good name of Stellar Firma and, by association, the Board. Hail the Board! That... cannot stand. And so, I propose a call to action! In--in-- in the, the form... of these... declarations. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[paper wobbles]__
+##### __[paper wobbles]__
 
 __[clears throat]__ One: we will no longer build any planet in which the design calls for any of the following -- Lava Slides, Knife Dogs, Blood-lubricated Mechanisms, Astral Makaira Maternity Facilities, *Trough Moons*, Ultra-powerful Sleep Deities, Exploding Raves, Superheated Accountants or Wrestle Mountains.
 
@@ -52,9 +52,9 @@ And number six: we will be allowed to send a Happy Board Day card to the Board e
 
 We hold these demands to be self-evident and inalienable rights that will be granted us... if that's okay. __[stammers]__ And if it's not too much of a bother. Um... Bye!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[tape player stops, cassette tape removed, trash lid squeaks open, tape tossed in trash, lid closes]__
+##### __[tape player stops, cassette tape removed, trash lid squeaks open, tape tossed in trash, lid closes]__
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[short version of the outro theme]__
+##### __[short version of the outro theme]__
 
 ------
 

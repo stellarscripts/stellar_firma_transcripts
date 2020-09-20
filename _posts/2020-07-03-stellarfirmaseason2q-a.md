@@ -18,7 +18,7 @@ sources:
 official: false
 ---
 
-> Transcribed 7/7/20 via stellarscripts on tumblr
+### Transcribed 7/7/20 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 
 ##### [shorter version of the show theme]
 
@@ -2064,7 +2064,13 @@ This is over now!
 
 ##### [short version of the outro theme]
 
+------
+
+#### TIM (cont.)
+
 Stellar Firma is distributed under a Creative Commons Attribution Noncommercial Sharealike 4.0 International Licence.
+
+------
 
 #### ALEX
 

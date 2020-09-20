@@ -1648,7 +1648,9 @@ He wouldn't-- It would be... Drexel.
 
 #### TIM
 
-Drexel Sevent. So yeah it sort of, sort of begged him from the start. From Bookofmac: "How do you warm up to sustain Trexel and David's voice while not straining your own?"
+Drexel Sevent. So yeah it sort of, sort of begged him from the start. From Bookofmac: 
+
+> "How do you warm up to sustain Trexel and David's voice while not straining your own?"
 
 #### BEN 
 
@@ -1750,7 +1752,9 @@ I don't regret it. It is difficult to maintain at times.
 
 #### BEN
 
-And then: "What does it sound like when Tim tries to do the David voice and Ben tries to do the Trexel voice?"
+And then: 
+
+> "What does it sound like when Tim tries to do the David voice and Ben tries to do the Trexel voice?"
 
 #### TIM
 
@@ -1888,7 +1892,7 @@ __[beep]__ Cardinal Fang!
 
 I don't know if it's my favourite, but it's definitely the most memorable and the fact that everyone picked up on __[Tim laughs]__ Tim just refusing to stop saying--
 
-#### TIM and BEN: 
+#### TIM and BEN
 
 _(simult.)_ Cardinal Fang!
 
@@ -1956,7 +1960,7 @@ It's a whole thing.
 
 It's a whole thing. Um, but mainly because it made Rach, my wife, completely lose it.
 
-#### TIM and BEN: 
+#### TIM and BEN
 
 _(in unison, singing out of key in David's voice)_ ♪ David's fact corner! ♫ 
 
@@ -2062,7 +2066,11 @@ Oh, it's every conver-- every conversation [__TIM:__ Well, I imagine--] when a u
 
 #### TIM
 
-There's no good-- There's no pot of gold at the end of that rainbow, [__BEN:__ No.] you know? I've-- After shows that have gone well, I'm not saying that I am a celebrity, but after shows when people come up and they're like, "I really enjoyed that thing!" It's lovely, and then the people that really know what they're doing are like, "I really enjoyed that thing. Thank you!" *and then they turn and walk away*, because what are we gonna do? Where does the conversation go from here? I'm English! I'm bad at taking compliments at the best of times! And there's no pot of gold. So, yes, I was on the wrong end of one of those interactions. __[Ben laughs]__ Uh, Calodette: "How much gets cut out of each episode?" __[Ben exhales]__ Um, it varies?
+There's no good-- There's no pot of gold at the end of that rainbow, [__BEN:__ No.] you know? I've-- After shows that have gone well, I'm not saying that I am a celebrity, but after shows when people come up and they're like, "I really enjoyed that thing!" It's lovely, and then the people that really know what they're doing are like, "I really enjoyed that thing. Thank you!" *and then they turn and walk away*, because what are we gonna do? Where does the conversation go from here? I'm English! I'm bad at taking compliments at the best of times! And there's no pot of gold. So, yes, I was on the wrong end of one of those interactions. __[Ben laughs]__ Uh, Calodette: 
+
+> "How much gets cut out of each episode?" 
+
+__[Ben exhales]__ Um, it varies?
 
 #### BEN
 
@@ -2238,7 +2246,11 @@ But, yeah. There-- We-- Yeah, we got bullet points about the world, um, but yeah
 
 #### BEN
 
-Uh, so this is from AGVZ, agvz, hello agvz: "How sentient is IMOGEN? Is her 'personality' programmed, or does she have something like free will? At first, I thought she was a standard corporate AI, but then she says things like 'Watch it, buster!' [__IMOGEN: [beep]__ Watch it, buster!] and happily joins in the chant of 'Cardinal Fang!' [__IMOGEN: [beep]__ Cardinal Fang!] I'm curious about her!" _(crosstalk)_ Well, you'll have to continue to be curious, won't you! _(gruff)_ Won't you! Won't you! Won't you!
+Uh, so this is from AGVZ, agvz, hello agvz: 
+
+> "How sentient is IMOGEN? Is her 'personality' programmed, or does she have something like free will? At first, I thought she was a standard corporate AI, but then she says things like 'Watch it, buster!' [__IMOGEN: [beep]__ Watch it, buster!] and happily joins in the chant of 'Cardinal Fang!' [__IMOGEN: [beep]__ Cardinal Fang!] I'm curious about her!" 
+
+_(crosstalk)_ Well, you'll have to continue to be curious, won't you! _(gruff)_ Won't you! Won't you! Won't you!
 
 #### TIM 
 
@@ -2658,7 +2670,15 @@ Uh, just, um, keep shouting at Anil [__TIM:__ Yeah!] and maybe it'll pop up as s
 
 #### TIM
 
-Come on! Ah, dear. Like, we, we do a lot of rehearsals where we get to the end of it and I heavily lobby for us to sit down and properly, like, flesh out a song, and, and-- but no one's, no one's interested apart from me __[Ben snorts]__ and there's Raven. Bittercape: "For Tim." This is a question for Tim. Hi Tim. "What is Trexel's relationship __[Ben laughs]__ with the fish? And: is it the same fish each episode? What does it smell like?" __[Ben snorts]__ Um, in answer to the first question: I'll tell you when you're older. __[Ben laughs]__ Um, the second part: it is the same fish. Um, weirdly for Trexel's personality, he is *very* traditional and monogamous, __[Ben chuckles]__ he doesn't care for poly... fish relationships. _(breaking into laughter)_ He's a real fundamentalist apparently! __[both laugh]__ Going to the end of this sentence. He's--
+Come on! Ah, dear. Like, we, we do a lot of rehearsals where we get to the end of it and I heavily lobby for us to sit down and properly, like, flesh out a song, and, and-- but no one's, no one's interested apart from me __[Ben snorts]__ and there's Raven. Bittercape: 
+
+> "For Tim." 
+
+This is a question for Tim. Hi Tim. 
+
+>"What is Trexel's relationship __[Ben laughs]__ with the fish? And: is it the same fish each episode? What does it smell like?" 
+
+__[Ben snorts]__ Um, in answer to the first question: I'll tell you when you're older. __[Ben laughs]__ Um, the second part: it is the same fish. Um, weirdly for Trexel's personality, he is *very* traditional and monogamous, __[Ben chuckles]__ he doesn't care for poly... fish relationships. _(breaking into laughter)_ He's a real fundamentalist apparently! __[both laugh]__ Going to the end of this sentence. He's--
 
 #### BEN
 
@@ -2928,7 +2948,9 @@ Ben, after what we said earlier, let's not get very demonstrative and, and speci
 
 #### BEN
 
-Cass&Jared: "Is all the food is made out of slurry, what are the drinks at the Cosmic Lounge made out of? Or, how are clones made?"
+Cass&Jared: 
+
+> "Is all the food is made out of slurry, what are the drinks at the Cosmic Lounge made out of? Or, how are clones made?"
 
 #### TIM
 
@@ -3084,7 +3106,7 @@ And final question, E. Forney: "CARDINAL FANG?"
 
 #### BEN and IMOGEN 
 
-__[beep]:__ Cardinal Fang!
+__[beep]__ Cardinal Fang!
 
 #### TIM
 
@@ -3126,7 +3148,7 @@ _(sarcastically)_ And a small thank you from Ben Meredith. Really, I don't appre
 
 He doesn't like you all. Lovely. Thank you.
 
-#### BEN and TIM: 
+#### BEN and TIM
 
 Bye!
 

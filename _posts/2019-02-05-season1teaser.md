@@ -18,15 +18,10 @@ sources:
 official: false
 ---
 
-##### Transcribed 2/2/20 via stellarscripts on tumblr
+> Transcribed 2/2/20 via stellarscripts on tumblr
 
-
-
-#### __[door swooshes open]__
 
 ##### [door swooshes open]
-
-
 
 #### TREXEL
 

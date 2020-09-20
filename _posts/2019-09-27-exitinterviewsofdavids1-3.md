@@ -18,15 +18,19 @@ sources:
 official: false
 ---
 
-> Transcribed 11/28/19 via stellarscripts on tumblr
+### Transcribed 11/28/19 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 
 #### ALEX
 
 Hi everyone, Alex here. I'd just like to take a moment to thank some of our patrons: Nathaniel M, El Addams, Ezra Beau, Lionel Ambrose, Taylor Levesque, Layla, fatal_drum, Alexis, NOLA Girl, kawm_, Jason Green, Xephyrix, Andrew Wilson, smiff, Bobby Brill, Gregory Craddock, Jonathan Basil, Ruth Jones, Nomen, Rhiannon Hundley. Thank you all. We really appreciate your support. If you'd like to join them, go to www.patreon.com/rustyquill and take a look at our rewards.
 
+------
+
 #### ALEX
 
 Hi everyone, Alex again. We hope you've enjoyed the special content we've been running during the season break for Stellar Firma. This is just a quick update to let you all know that Season 2 will be available to the public on December 6th, 2019. In the meantime, if you'd like to submit an episode suggestion, be sure to join our Patreon via the website or via the link in the show notes. For now, though, we're going to continue with the specials, and so with that in mind, we hope you enjoy today's: the first of the exit interviews.
+
+------
 
 ##### [shorter version of the show theme]
 

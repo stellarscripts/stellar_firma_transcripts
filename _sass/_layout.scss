@@ -169,6 +169,13 @@ ul#search-results {
         > .entry-content {
             @include media-query($on-palm) { font-size: $small-font-size; }
 
+                h3 { // TRANSCRIPTION DATE
+                font-size:      1rem; 
+                margin-top:     $spacing-unit; 
+                color:          $muted-text-color; 
+                text-transform: uppercase; 
+                @include media-query($on-palm) { font-size: $small-font-size; }
+            }
             h4 { // SPEAKER LABEL
                 font-size:   1rem; 
                 margin-top:  $spacing-unit; 

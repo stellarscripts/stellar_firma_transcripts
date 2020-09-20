@@ -18,11 +18,13 @@ sources:
 official: false
 ---
 
-> Transcribed 12/27/19 via stellarscripts on tumblr
+### Transcribed 12/27/19 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 
 #### ALEX
 
 Hi everyone, Alex here. I'd just like to take a moment to thank some of our patrons: Z Perkins, Evaschia, Robert Groom, Aysha U. Farah, Niamh Hemingway, Khyle, Joshua Grohman, Rachel Oney, Malcom Snipes, Alex Haidinyak, Michelle LaTorre, Oscar Marlowe, Glory Duda, Joe Smith, Alex Freeman, Cait May, Xanthe Bouma, Paul McHugh, Ciara McCabe, and January Garcia. Thank you all. We really appreciate your support. If you'd like to join them, go to www.patreon.com/rustyquill and take a look at our rewards.
+
+------
 
 ##### [shorter version of the show theme]
 

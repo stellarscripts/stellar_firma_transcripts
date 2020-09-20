@@ -20,7 +20,7 @@ official: false
 
 ##### Transcribed 2/2/20 via stellarscripts on tumblr
 
-__[door swooshes open]__
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[door swooshes open]__
 
 #### TREXEL
 
@@ -66,7 +66,7 @@ Because, David, one of us has to take the rap for this and it's not going to be 
 
 __[static hum]__ Recycling process... commencing!
 
-__[beeping starts, mechanical whirring]__
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[beeping starts, mechanical whirring]__
 
 #### TREXEL
 
@@ -80,21 +80,25 @@ Well, goodbye Trexel. It was nice working with you.
 
 Was it, David? Was it?
 
-__[mechanical whirring continues, thump]__
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[mechanical whirring continues, thump]__
 
 #### DAVID
 
 *(muffled)* Oh. Well, this is strange.
 
-__[blender noise followed by something liquid and heavy being dispensed and a distant thud]__
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[blender noise followed by something liquid and heavy being dispensed and a distant thud]__
 
 #### TREXEL
 
-Ah well, circle of life. Right. Just a quickie at the Cosmic Lounge and then we'll see about David 7. IMOGEN. __[beep]__ I'm tired and hungry. Look up "cocktail sandwich" for me. I want to see if it's a thing.
+Ah well, circle of life. Right. Just a quickie at the Cosmic Lounge and then we'll see about David 7. IMOGEN. 
 
-__[door swooshes open]__
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[beep]__ 
 
-__[shorter version of the show theme]__
+I'm tired and hungry. Look up "cocktail sandwich" for me. I want to see if it's a thing.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[door swooshes open]__
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[shorter version of the show theme]__
 
 ------
 

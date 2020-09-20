@@ -171,7 +171,8 @@ ul#search-results {
 
                 h3 { // TRANSCRIPTION DATE
                 font-size:      1rem; 
-                margin-top:     $spacing-unit; 
+                margin-top:     $spacing-unit;
+                text-align:     center;
                 color:          $muted-text-color; 
                 text-transform: uppercase; 
                 @include media-query($on-palm) { font-size: $small-font-size; }

@@ -18,11 +18,13 @@ sources:
 official: false
 ---
 
-> Transcribed 12/14/19 via stellarscripts on tumblr
+### Transcribed 12/14/19 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 
 #### ALEX
 
 Hi everyone, Alex here. I'd just like to take a moment to thank some of our patrons: Jennifer Payton, Camilla Sutton, Charles Craig, Igor Nikolskiy, brianna, Kara Marten, lauren coleman, Wim, Shawna Bracken, Cally Shearer, Zalia Chimera, Christopher Nies, Maxwell Skrocki, Phillip Platt, Aurora B., johnny dangerously, Athena Frade, Lais Rojas, Iris, Kim Cuthbertson. Thank you all. We really appreciate your support. If you'd like to join them, go to www.patreon.com/rustyquill and take a look at our rewards.
+
+------
 
 ##### [shorter version of the show theme]
 

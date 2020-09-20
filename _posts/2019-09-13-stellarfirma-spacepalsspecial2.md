@@ -18,11 +18,13 @@ sources:
 official: false
 ---
 
-> Transcribed 2/8/20 via stellarscripts on tumblr
+### Transcribed 2/8/20 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 
 #### ALEX
 
 Hi everyone, Alex here. I'd just like to take a moment to thank some of our patrons: Fast or Write, Capricious Cacti, C. X. Lu, Stick in Hand, Margaery Clare, Cora, aritchie, Brian Greenwald, Elita Grunde, majesticrhyhorn, Jon Williams, Sigma Bunny, Jack, Rainny Q, Charlotte Ballantyne, Kerry Cobey, Roseann White, Bennett Burns, Anna Veltkamp, Theora Rice. Thank you all. We really appreciate your support. If you'd like to join them, go to www.patreon.com/rustyquill and take a look at our rewards.
+
+------
 
 ##### [Rusty Quill Gaming podcast theme]
 

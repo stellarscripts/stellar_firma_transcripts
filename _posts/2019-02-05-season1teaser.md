@@ -18,9 +18,9 @@ sources:
 official: false
 ---
 
-> Transcribed 2/2/20 via stellarscripts on tumblr
+##### Transcribed 2/2/20 via stellarscripts on tumblr
 
-#### [door swooshes open]
+__[door swooshes open]__
 
 #### TREXEL
 
@@ -60,13 +60,13 @@ Because, David, one of us has to take the rap for this and it's not going to be 
 
 #### DAVID
 
-__[upeat]__ Obviously.
+*(upbeat)* Obviously.
 
-#### IMOGEN [static hum]
+#### IMOGEN 
 
-Recycling process... commencing!
+__[static hum]__ Recycling process... commencing!
 
-#### [beeping starts, mechanical whirring]
+__[beeping starts, mechanical whirring]__
 
 #### TREXEL
 
@@ -80,21 +80,23 @@ Well, goodbye Trexel. It was nice working with you.
 
 Was it, David? Was it?
 
-#### [mechanical whirring continues, thump]
+__[mechanical whirring continues, thump]__
 
 #### DAVID
 
-__[muffled]__ Oh. Well, this is strange.
+*(muffled)* Oh. Well, this is strange.
 
-#### [blender noise followed by something liquid and heavy being dispensed and a distant thud.]
+__[blender noise followed by something liquid and heavy being dispensed and a distant thud]__
 
 #### TREXEL
 
 Ah well, circle of life. Right. Just a quickie at the Cosmic Lounge and then we'll see about David 7. IMOGEN. __[beep]__ I'm tired and hungry. Look up "cocktail sandwich" for me. I want to see if it's a thing.
 
-#### [door swooshes open]
+__[door swooshes open]__
 
-#### [shorter version of the show theme]
+__[shorter version of the show theme]__
+
+------
 
 #### TIM
 

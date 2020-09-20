@@ -187,7 +187,6 @@ ul#search-results {
             }
             h5 { // CAPTION LABEL
                 font-size:      1rem; 
-                text-indent: 30px;
                 font-weight: bold; 
                 color:          $em-text-color; 
                 @include media-query($on-palm) { font-size: $small-font-size; }

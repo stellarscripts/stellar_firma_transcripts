@@ -18,7 +18,7 @@ sources:
 official: false
 ---
 
-##### Transcribed 11/22/19 via stellarscripts on tumblr
+### Transcribed 11/22/19 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 
 #### ALEX
 
@@ -31,22 +31,21 @@ Hi, everyone. Alex here. I'd just like to take a moment to thank some of our pat
 Hi. Tim here. Co-creator and Captain Bigtime of *Stellar Firma*. When I first decided to pay tribute to the wonderfully successful podcast *The Magnus Archives* with an episode of *our* humble show, I felt it was important to get the blessing of *The Magnus Archives'* creator, Jonathan Sims. When I asked him--and I will never forget this--he turned to me and said, "No. Under no circumstances will I allow you to do this, and I will never give you my permission. Now, leave me here in my haunted castle of screams." That's not what I wanted to hear, so I turned to angry bureaucrat and CEO of Rusty Quill, Alexander J. Newall. He said, "What's it worth to you?" whilst gesturing to a burlap sack with "swag" written across the side. At least, that's what I think he was saying through his mouthfuls of foie gras and swigs from a flask of orphans' tears. So, with the full support of *some* of the Rusty Quill family, I present to you the statement of T. Geistman, a tribute to *The Magnus Archives*.
 
 ------
+##### __[shorter version of the show theme]__
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[shorter version of the show theme]__
+##### __[atmospheric air noises of the space station]__
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[atmospheric air noises of the space station]__
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[pneumatic door opening]__
+##### __[pneumatic door opening]__
 
 #### DAVID
 
 Oh! Oh, I just go back in here, do I? I-is there anything that happens... now? __[brief pause]__ Oh, Board help me, I'm alive! __[relieved sigh]__ Trexel saved me, in-in a way... __[sigh]__ *(under their breath)* Idiot... Oh! Oh, it's a package! __[tape being pulled from a box]__ M-maybe it's a "well done, I'm not being recycled" present! M-maybe it's a guide to getting out of here! __[paper rustling]__ And... __[stammering]__ Oh... it's, um... it's just some sort of... speaker box thingy...
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[brief pause of hesitation]__
+##### __[brief pause of hesitation]__
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[tape recorder button press]__
+##### __[tape recorder button press]__
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[sounds of tape recorder playing, continuing in the background until recording ends]__
+##### __[sounds of tape recorder playing, continuing in the background until recording ends]__
 
 #### TREXEL
 *(from the tape recording)* Woah now! What's this doing? Why is the lighting so moody in here? Stop that! Stop that! You can't fool me, you swirling-eyed demon! Take that! __[sound of a hit from a blunt, wooden object on the tape recorder]__ And that! __[hit]__ And how about one of these?! __[hit, a slight scraping as the object is dropped]__
@@ -55,7 +54,7 @@ __[breathing heavily from exertion]__ You're a tough old thing, aren't you? Wh-w
 
 ...Oh wait there-there's more: __[paper rustling]__ "Make your statement; face your fear." Fear. Fear... __[paper rustling]__ Well, I-I don't have any fears! Nope! Not... not me! I've-I've never had a fear! Wh-what's fear? That's what I say! Old no-fear Geistman, that's what, uh... __[nervous swallowing]__ that's what they call me.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[brief pause of hesitation]__
+##### __[brief pause of hesitation]__
 
 Uh... Well there was one night... Uh, this was years ago, you understand, I was a young consultant, skin raw from the academic fluid of the private education tanks and just... so full of hopes and dreams for the future. I had it all back then: a freshly minted sales licence, a membership to all the executive clubs, and a liver you could bounce micro-asteroids off.
 
@@ -65,7 +64,7 @@ But, despite all of that, I knew that sales is where I wanted to be. The rush of
 
 So, after I arrived at my new office that evening, it was late, far later than work hours, but I just wanted to see where it was all going to happen! Where my germination would begin!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[spooky background music, the same from *The Magnus Archives*]__
+##### __[spooky background music, the same from *The Magnus Archives*]__
 
 The halls were <span style="color:#6F1111;">dark</span>. Just the dim lights of the instructional propaganda notice board glowing with the words "Don't even think about it, buddy!" There was the door. In bold letters, "T. Geistman: Sales Consultant." A tear crept to the <span style="color:#6F1111;">eye</span>. All mine! Finally, it's all mine! I pressed my tongue to the fluid identification panel: the taste of success! I pressed my <span style="color:#6F1111;">flesh</span> onto the print reader: the touch of victory! And I whispered into the sonic identificator *(whispers)* "Geistman": the sound of justice!
 
@@ -79,30 +78,30 @@ My vision was swimming; my chest, tight. I couldn't breathe! I felt like I was b
 
 I look back on that day now and think that maybe that was the first time things... maybe things weren't going to be smooth sailing for Old Trexel Geistman. Old Geisterino. The Geistenator! __[sighs]__ Things weren't going to be as easy as I thought...
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[brief pause]__
+##### __[brief pause]__
 
 Well, story ends, or statement, or whatever. What happens now? Oh! A trophy! Or a nice side table for my living quarters. Something in <span style="color:#6F1111;">dark</span> wood. Board, I could <span style="color:#6F1111;">slaughter</span> a Flaxen Whisk right now--
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[slow, heavy footsteps]__
+##### __[slow, heavy footsteps]__
 
 Wait... who is that? Who is there? Reveal yourself!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[slow, heavy footsteps continue]__
+##### __[slow, heavy footsteps continue]__
 
 Oh! David, is that you? Why are you looking at me like that? And what's that in your hand? Is that *my* length of pipe? What are you doing with my length of pipe!?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[tape recorder clicks off]__
+##### __[tape recorder clicks off]__
 
 #### DAVID
 
 Wh-wa-wait, me? With a-- with a pipe? I-I've never approached anyone threateningly with a pipe! That's not David! I'm David! Oh, ooh! It's made me feel all tingly! Oh, I don't like this audio whatsit at all! Maybe I should... Ooh! Ah! __[sounds of David's exertion to fight whatever compelling power this spooky speaker box has]__
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[watery splash-plop]__
+##### __[watery splash-plop]__
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[spooky background music comically dips in pitch and volume]__
+##### __[spooky background music comically dips in pitch and volume]__
 
 Ooh! Ah! There we go! Right into the chair hole with you! Bye-bye spooky speaker box!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[sound like a toilet flushing combined with a high-powered blender, gurgling plasticy destruction noises]__
+##### __[sound like a toilet flushing combined with a high-powered blender, gurgling plasticy destruction noises]__
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Shorter version of the outro theme. There are no credits.]__
+##### __[Shorter version of the outro theme. There are no credits.]__

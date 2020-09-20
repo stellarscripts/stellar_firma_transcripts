@@ -20,7 +20,17 @@ official: false
 
 ##### Transcribed 2/2/20 via stellarscripts on tumblr
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[door swooshes open]__
+#__[door swooshes open]__
+
+##__[door swooshes open]__
+
+###__[door swooshes open]__
+
+####__[door swooshes open]__
+
+#####__[door swooshes open]__
+
+######__[door swooshes open]__
 
 #### TREXEL
 

@@ -18,7 +18,7 @@ sources:
 official: false
 ---
 
-### Transcribed 2/2/20 via stellarscripts on tumblr
+### Transcribed 2/2/20 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 
 
 ##### [door swooshes open]

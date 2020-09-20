@@ -18,11 +18,13 @@ sources:
 official: false
 ---
 
-### Transcribed 1/20/20 via stellarscripts on tumblr
+### Transcribed 1/20/20 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 
 #### ALEX
 
 Hi everyone, Alex here. I'd just like to take a moment to thank some of our patrons: Sarah Schrader, Jeremy Wallace, Ellie M, Laurent, manywisps, Micah Epstein, Ezzoh, Anke Gladnick, Rhadja, ECD, Kelly O, Q, ivelostmyspectacles, Luna Zephyr, Pagan angel, Stormy Weather, 3 Eyed Mavens, Nadia Tudhope, E K, Vance Barnhill. Thank you all. We really appreciate your support. If you'd like to join them, go to www.patreon.com/rustyquill and take a look at our rewards.
+
+------
 
 ##### [Rusty Quill Gaming podcast theme]
 
@@ -36,11 +38,17 @@ Hello, and welcome to the Rusty Quill Gaming Podcast with me, Helen Gould, inste
 
 He's dead!
 
-__Helen: [laughs]__ We got rid of him in a coup.
+#### Helen:
 
-__Lydia: [laughing]__ The king is dead!
+__[laughs]__ We got rid of him in a coup.
 
-__Helen: [chuckles]__ Long live me. __[Lydia laughs]__ So, I will not be your GM today because today we are playing a GM-less game.
+#### Lydia: 
+
+__[laughing]__ The king is dead!
+
+#### Helen: 
+
+__[chuckles]__ Long live me. __[Lydia laughs]__ So, I will not be your GM today because today we are playing a GM-less game.
 
 ##### [Lydia cheers]
 
@@ -74,11 +82,17 @@ Yes, you are.
 
 What's-- what's your name?!
 
-__Tim: (simult.)__ What's your name?
+#### Tim: 
 
-__Lydia: (simult.)__ Now tell us your name!
+_(simult.)_ What's your name?
 
-__Alex: (simult.)__ Alex! Newall! I'm sorry.
+#### Lydia: 
+
+_(simult.)_ Now tell us your name!
+
+#### Alex: 
+
+_(simult.)_ Alex! Newall! I'm sorry.
 
 ##### [Helen laughs]
 
@@ -112,7 +126,7 @@ Now, Tim, you are new to the gaming podcast.
 
 #### ALEX
 
-Stranger!__ [screeches like an attacking bird]__
+Stranger! __[screeches like an attacking bird]__
 
 ##### [Helen laughs]
 
@@ -152,7 +166,9 @@ Boo!
 
 And we have together started another podcast on this delightful network of Rusty Quill, called--
 
-__Ben: [amused]__ You've probably never heard of it.
+#### Ben
+
+_(amused)_ You've probably never heard of it.
 
 #### TIM
 

@@ -18,11 +18,13 @@ sources:
 official: false
 ---
 
-> Transcribed 12/30/19 via stellarscripts on tumblr
+### Transcribed 12/30/19 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 
 #### ALEX
 
 Hi everyone, Alex here. I'd just like to take a moment to thank some of our patrons: Ben Hinder, Amanda!, Roar Granevang, Julia Duffy, Lynus T, Emma Steiner, Josh, Jill Kozo, Josh, Emily Goodrich, WrongCielo, Rowen Enjolradical, Paul Gregory, Alex Self, Zaiker, Panko, Alimartins, Kat, Sabrina owes, NeWorlDark. Thank you all. We really appreciate your support. If you'd like to join them, go to www.patreon.com/rustyquill and take a look at our rewards.
+
+------
 
 ##### [shorter version of the show theme]
 

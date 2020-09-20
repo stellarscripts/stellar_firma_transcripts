@@ -178,8 +178,8 @@ def html_str_to_markdown(txt)
     '<h1>'                       => '# ', 
     /<\/?h\d>/                   => "",
 
-    '__[crosstalk]__'            => '_[crosstalk]_', 
-    '__crosstalk]__'             => '_[crosstalk]_', 
+    '__[crosstalk]__'            => '_(crosstalk)_', 
+    '__crosstalk]__'             => '_(crosstalk)_', 
     
     '&nbsp;'                     => ' ', 
     /[[:blank:]]+/               => ' ', 

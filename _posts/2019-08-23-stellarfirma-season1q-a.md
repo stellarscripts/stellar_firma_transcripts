@@ -18,11 +18,13 @@ sources:
 official: false
 ---
 
-> Transcribed 12/31/19 via stellarscripts on tumblr
+### Transcribed 12/31/19 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 
 #### ALEX
 
 Hi everyone, Alex here. I'd just like to take a moment to thank some of our patrons: Bruno Falcon, Brian Taulbee, Anastasia Keelor, William Diment, Abbegail Lovette, Ariel Young, Johnathan & Gillian Kastner, Jared Clark Levixn, Jack Cato and Jellybeam, Rob Core, oli, C Jason, Grace Brant, Dylan Harin, Rory A, Nicholas Schaefer, Harry Jones, Samantha Christine, AGVZ, BearyGoosey. Thank you all. We really appreciate your support. If you'd like to join them, go to www.patreon.com/rustyquill and take a look at our rewards.
+
+------
 
 ##### [shorter version of the show theme]
 
@@ -92,7 +94,7 @@ Nailed it. Absolutely.
 
 #### TIM
 
-Pretty much. So we've got a lot of questions. Loads, loads of questions. Oh, more questions than we could possibly handle. Except we will. We've got a lot of questions here from-- from-- from the fans. From the fanbase. From the, uh, the screaming hordes that are outside the studio at all times.__ [Ben snorts]__ Very thick windows. You can't hear them, but they are there. Don't check. So let's-- let's push-- Should we...?
+Pretty much. So we've got a lot of questions. Loads, loads of questions. Oh, more questions than we could possibly handle. Except we will. We've got a lot of questions here from-- from-- from the fans. From the fanbase. From the, uh, the screaming hordes that are outside the studio at all times. __[Ben snorts]__ Very thick windows. You can't hear them, but they are there. Don't check. So let's-- let's push-- Should we...?
 
 #### BEN
 
@@ -120,7 +122,11 @@ It is me.
 
 #### BEN
 
-Okay. So we've got the first one. It is from Lunaticpoet who is asking, "who is more chaotic: Ben or Tim?" Well, since I asked the question, maybe you get the first answer.
+Okay. So we've got the first one. It is from Lunaticpoet who is asking: 
+
+>"Who is more chaotic: Ben or Tim?" 
+
+Well, since I asked the question, maybe you get the first answer.
 
 #### TIM
 
@@ -180,7 +186,7 @@ Shut everything down.
 
 #### TIM
 
-Shut everything down! But the thing is because I'm __[sultry voice]__ *such a seasoned improviser,* __[Ben makes a sound like he's catching onto Tim's point, Tim clears his throat loudly]__ I just enjoy-- It's fun to have that character 'cause you can say no whilst also being a yes as long as the other a person, sort of, you know--
+Shut everything down! But the thing is because I'm _(sultry voice)_ *such a seasoned improviser,* __[Ben makes a sound like he's catching onto Tim's point, Tim clears his throat loudly]__ I just enjoy-- It's fun to have that character 'cause you can say no whilst also being a yes as long as the other a person, sort of, you know--
 
 #### BEN
 
@@ -204,7 +210,9 @@ So, uh, in summation, we are a chaotic force the like of which the world has nev
 
 #### TIM
 
-Exactly. Noncommittal. Right, the next question is from E. Forney: "Especially for Ben--"
+Exactly. Noncommittal. Right, the next question is from E. Forney: 
+
+>"Especially for Ben--"
 
 #### BEN
 
@@ -212,15 +220,23 @@ Ha! That's me.
 
 #### TIM
 
-That's you. __[resumes reading]__ "--Since he's been on multiple Rusty Quill podcasts, [__BEN:__ I'm everywhere.] how does doing Stellar Firma (which is 'semi-improvised')"-- Semi-improvised in quotes there. Kind of a bit sarcastic, but okay-- __[resumes reading]__ "compared to Magnus Archives (mostly? all? scripted) and RQGaming (all/mostly improvised)"-- there's a lot of subclauses in that question, Ben.
+That's you.
+
+>"--Since he's been on multiple Rusty Quill podcasts, [__BEN:__ I'm everywhere.] how does doing Stellar Firma (which is 'semi-improvised')--" 
+
+Semi-improvised in quotes there. Kind of a bit sarcastic, but okay.
+
+>"--Compared to Magnus Archives (mostly? all? scripted) and RQGaming (all/mostly improvised)?"
+
+There's a lot of subclauses in that question, Ben.
 
 #### BEN
 
-Well, I mean, let's actually-- we can put some of these to bed. Stellar Firma is, except for the intros and outros, entirely improvised,[__TIM:__ Yes...] which is semi-improvised, and then Magnus Archives is all scripted. [__TIM:__ Yep.]As far as I know. Unless Jonny's riffing some fat beats of words. [__TIM:__ Riffing some cosmic Pura beats.]__ [stilted]__ Yep. And RQG Gaming is-- Yeah. Oh no, RQ Gaming, god we have such a bad n-- Alex is probably gonna edit that out, but genuinely __[Tim laughs]__ Rusty Quill Gaming Podcast is a terrible name. We didn't know what we were doing. It is all mostly improvised.
+Well, I mean, let's actually-- we can put some of these to bed. Stellar Firma is, except for the intros and outros, entirely improvised,[__TIM:__ Yes...] which is semi-improvised, and then Magnus Archives is all scripted. [__TIM:__ Yep.]As far as I know. Unless Jonny's riffing some fat beats of words. [__TIM:__ Riffing some cosmic Pura beats.] _(stilted)_ Yep. And RQG Gaming is-- Yeah. Oh no, RQ Gaming, god we have such a bad n-- Alex is probably gonna edit that out, but genuinely __[Tim laughs]__ Rusty Quill Gaming Podcast is a terrible name. We didn't know what we were doing. It is all mostly improvised.
 
-#### TIM [still laughing]
+#### TIM 
 
-It'll be David editing this, as well.
+__[still laughing]__ It'll be David editing this, as well.
 
 #### BEN
 
@@ -230,9 +246,9 @@ David, leave that in.
 
 Leave that in. __[laughs]__
 
-#### BEN [the audio gets fuzzy and staticky]
+#### BEN 
 
-Make it louder. [__TIM:__ Make it louder.] __[distortion stops]__ How does it differ? Um, it differs in the way that you said? It's, like, Magnus Archives I just turn up, I read the words, and then, um, Alex will tell me to read the words differently until he's happy with the way that I've read the words and then I go away. Rusty Quill Gaming and Stellar Firma are different because, although they are improvised, they have very very different objectives. Rusty Quill Gaming is slower, less frantic, and much more focused on pushing the story forward and developing the characters. __[Tim hums]__ Whereas, Stellar Firma is the kind of improvisation which is, y'know, it's more, sort of, short-form fundamentally, and at least compared to the 150 hours of __[TIM:__ Yes.] [Ben chuckles]__ RQ Gaming--
+*(the audio gets fuzzy and staticky)* Make it louder. [__TIM:__ Make it louder.] _(distortion stops)_ How does it differ? Um, it differs in the way that you said? It's, like, Magnus Archives I just turn up, I read the words, and then, um, Alex will tell me to read the words differently until he's happy with the way that I've read the words and then I go away. Rusty Quill Gaming and Stellar Firma are different because, although they are improvised, they have very very different objectives. Rusty Quill Gaming is slower, less frantic, and much more focused on pushing the story forward and developing the characters. __[Tim hums]__ Whereas, Stellar Firma is the kind of improvisation which is, y'know, it's more, sort of, short-form fundamentally, and at least compared to the 150 hours of [__TIM:__ Yes.] __[Ben chuckles]__ RQ Gaming--
 
 #### TIM
 
@@ -280,7 +296,9 @@ Bonjour planets!
 
 #### BEN
 
-"I was wondering, what got you guys into improv? Any tips for those who're interested but without any experience?" We chose this well. Tim, would you like to field this? [__TIM:__ Uhh--] No, actually, I can sum this up. How did I get into improv? Uh, Tim got me into it.
+> "I was wondering, what got you guys into improv? Any tips for those who're interested but without any experience?" 
+
+We chose this well. Tim, would you like to field this? [__TIM:__ Uhh--] No, actually, I can sum this up. How did I get into improv? Uh, Tim got me into it.
 
 #### TIM
 
@@ -308,7 +326,7 @@ One of whom was Alexander J Newall.
 
 #### TIM
 
-One of these shy idiots was Alexander J-est Newall. And my, my now other half was, uh, was-- taught me improv and claims to have taught me everything I knew. I, I don't think that's true but, you know, let's-- she'll never hear this. She doesn't listen. No, she's now on the show so she, she might. Okay, you know what? She's correct. So, I got into-- I got into it that way. "Any tips for those who're interested but without any experience?" It's gonna sound very trite but just start doing it. There's no entry requirement really other than don't be an ass. Um, and also, especially if you're in somewhere like London where there's lots of groups, don't be afraid to try a few. 'Cause I get the feeling people join an improv group and they're like, "ah, this is everything that improv can be." And improv is very, very different from group to group and you can get into it and think it's one thing. __[says quieter]__ *And, you know-- you know, don't tell anyone but you might join a group that turned out to be crap* __[normal]__ because that does sometimes happen. You know, there are improv groups out there that are fine, and you could probably do better in another one. So, you know, just-- just shop around. Be a mercenary. Have no friends or, or commitments and, uh, wait until you hop on a gravy train of some kind. My answer really got away from me there. Okay. __[laughs]__ So, so in short, just do it and if you don't like something, leave.
+One of these shy idiots was Alexander J-est Newall. And my, my now other half was, uh, was-- taught me improv and claims to have taught me everything I knew. I, I don't think that's true but, you know, let's-- she'll never hear this. She doesn't listen. No, she's now on the show so she, she might. Okay, you know what? She's correct. So, I got into-- I got into it that way. "Any tips for those who're interested but without any experience?" It's gonna sound very trite but just start doing it. There's no entry requirement really other than don't be an ass. Um, and also, especially if you're in somewhere like London where there's lots of groups, don't be afraid to try a few. 'Cause I get the feeling people join an improv group and they're like, "ah, this is everything that improv can be." And improv is very, very different from group to group and you can get into it and think it's one thing. _(says quieter)_ *And, you know-- you know, don't tell anyone but you might join a group that turned out to be crap* _(normal)_ because that does sometimes happen. You know, there are improv groups out there that are fine, and you could probably do better in another one. So, you know, just-- just shop around. Be a mercenary. Have no friends or, or commitments and, uh, wait until you hop on a gravy train of some kind. My answer really got away from me there. Okay. __[laughs]__ So, so in short, just do it and if you don't like something, leave.
 
 #### BEN
 
@@ -340,7 +358,7 @@ Shakespeare in the Park, yeah, but lots of professionals do Shakespeare in the P
 
 #### TIM
 
-__[sarcastic]__ No, only students.
+_(sarcastic)_ No, only students.
 
 #### BEN
 
@@ -348,7 +366,11 @@ Okay.
 
 #### TIM
 
-Um, next question. From Miri: "How much does the David 7/Trexel dynamic reflect your real-life sibling dynamic? Do you really want to put David in a vacuum tube?" Ben, what do you think?
+Um, next question. From Miri: 
+
+> "How much does the David 7/Trexel dynamic reflect your real-life sibling dynamic? Do you really want to put David in a vacuum tube?" 
+
+Ben, what do you think?
 
 #### BEN
 
@@ -400,15 +422,17 @@ An awful person. But, yeah, uh, like since you, since you went away and we, you 
 
 #### BEN
 
-__[old-person voice]__ "I came back from the university wars!"
+_(old-person voice)_ "I came back from the university wars!"
 
-#### TIM [laughs]
+#### TIM 
 
-You came back from the, the Sussex campus battle. Uh, yeah, so no. In short, no.
+__[laughs]__ You came back from the, the Sussex campus battle. Uh, yeah, so no. In short, no.
 
 #### BEN
 
-From Bittercape: "Have you ever met anyone in a professional setting who knows you from Stellar Firma?"
+From Bittercape: 
+
+> "Have you ever met anyone in a professional setting who knows you from Stellar Firma?"
 
 #### TIM
 
@@ -416,7 +440,7 @@ Uh, no. I have people in a professional setting that now know I do Stellar Firma
 
 #### BEN
 
-Yeah, well, that's the thing. Yeah, I-- I-- me neither, um, because I've been in my job I think basically as long as I've been doing Rusty Quill. So, you know, I-- I've not met anyone new who's been like, "Ah, you're that guy." Um, also, 'cause, you know __[whispers]__ *we're not that famous*.
+Yeah, well, that's the thing. Yeah, I-- I-- me neither, um, because I've been in my job I think basically as long as I've been doing Rusty Quill. So, you know, I-- I've not met anyone new who's been like, "Ah, you're that guy." Um, also, 'cause, you know _(whispers)_ *we're not that famous*.
 
 #### TIM
 
@@ -424,15 +448,15 @@ No. No.
 
 #### BEN
 
-__[whispers]__ In any-- any stretch of the imagination.
+_(whispers)_ In any-- any stretch of the imagination.
 
 #### TIM
 
 We-- we're pretty famous.
 
-#### BEN [whispers]
+#### BEN 
 
-We're not. We're not at all. We're not at all.
+_[whispers]_ We're not. We're not at all. We're not at all.
 
 #### TIM
 
@@ -440,7 +464,7 @@ Yeah, like we're, uh--
 
 #### BEN
 
-__[whispers]__ It's nice that you think we might be but we're not. __[Tim laughs]__ And that's why you have to tell more people [__TIM:__ You have to tell more people.] about our podcast and make us extremely famous.
+_(whispers)_ It's nice that you think we might be but we're not. __[Tim laughs]__ And that's why you have to tell more people [__TIM:__ You have to tell more people.] about our podcast and make us extremely famous.
 
 #### TIM
 
@@ -488,7 +512,9 @@ Um, yeah, no. I-- I'm still waiting for it 'cause I work in the games industry w
 
 #### BEN
 
-__[laughs]__ But not yet. From Calodette: "Who would you fight on the show, and why?"
+__[laughs]__ But not yet. From Calodette: 
+
+> "Who would you fight on the show, and why?"
 
 #### TIM
 
@@ -548,7 +574,7 @@ I mean, sure--
 
 #### TIM
 
-The thing is-- No, the thing is, I-- I-- I have had a fair bit of involvement in people who have gone through therapy and different things and dealing with disability and all those things, and one of the earliest lessons is "no matter how tragic and sad and understandable your backstory is, does you-- does not give you permission to be an ass." __[laughs]__ Like, you can be cross, you can be angry but the minute you start, you know, endangering other peoples' lives, doesn't matter. You-- you can go screw yourself.__ [laughs]__ Is that okay, "screw yourself"?
+The thing is-- No, the thing is, I-- I-- I have had a fair bit of involvement in people who have gone through therapy and different things and dealing with disability and all those things, and one of the earliest lessons is "no matter how tragic and sad and understandable your backstory is, does you-- does not give you permission to be an ass." __[laughs]__ Like, you can be cross, you can be angry but the minute you start, you know, endangering other peoples' lives, doesn't matter. You-- you can go screw yourself. __[laughs]__ Is that okay, "screw yourself"?
 
 #### BEN
 
@@ -588,7 +614,9 @@ How about this: I'm best boy; you're best *guy*.
 
 #### TIM
 
-Okay. __[chuckles]__ You're slightly older. Okay, so, from Bittercape: "What was the original pitch for Stellar Firma?"
+Okay. __[chuckles]__ You're slightly older. Okay, so, from Bittercape: 
+
+> "What was the original pitch for Stellar Firma?"
 
 #### BEN
 
@@ -608,7 +636,7 @@ Well, okay. There was two original pitches.
 
 #### BEN
 
-__[interrupts]__ World Builders!
+_(interrupts)_ World Builders!
 
 #### TIM
 
@@ -640,7 +668,7 @@ Yes, yes, we're marmalade sandwiches and--
 
 #### BEN
 
-__[English countryside accent]__ "We took our pic-i-nic and our lovely little dog Spotty Boy."
+_(English countryside accent)_ "We took our pic-i-nic and our lovely little dog Spotty Boy."
 
 #### TIM
 
@@ -796,11 +824,11 @@ No.
 
 #### TIM
 
-It was very much like, "Well, who would do this? Who would build worlds? Okay, it's Magrathea." _[crosstalk]_ Douglas Adams has done it. Yeah. Let's nick it.
+It was very much like, "Well, who would do this? Who would build worlds? Okay, it's Magrathea." _(crosstalk)_ Douglas Adams has done it. Yeah. Let's nick it.
 
 #### BEN
 
-_[crosstalk]_ Oh, yeah, Doug-- Douglas Adams has already done this idea, let's nick it.
+_(crosstalk)_ Oh, yeah, Doug-- Douglas Adams has already done this idea, let's nick it.
 
 #### TIM
 
@@ -822,9 +850,9 @@ Terry Gilliam's *Brazil*.
 
 --I suppose that's dys-- dystopian but a lot of the-- my sort of background in dystopia stuff other than the classic sci-fi stuff is either *Brazil* or... I do like the Lovecraft settings even though I am aware that Lovecraft is a-- He's a big, old racist.
 
-#### BEN [sighs]
+#### BEN 
 
-Well, no, that's-- Yeah, but also it's not dystopic. We're gonna have to get into a big--
+__[sighs]__ Well, no, that's-- Yeah, but also it's not dystopic. We're gonna have to get into a big--
 
 #### TIM
 
@@ -846,9 +874,9 @@ It's not a dystopia. __[exhales loudly]__
 
 I mean, it's not great?
 
-#### BEN [frustrated]
+#### BEN 
 
-Hey, but it's not-- __[muffled as though with head in hands]__ Okay...
+_(frustrated)_ Hey, but it's not-- _(muffled as though with head in hands)_ Okay...
 
 #### TIM
 
@@ -910,9 +938,9 @@ I don't know. This is completely off-topic. Anyways, that was the original pitch
 
 __[laughs]__ Aw, I could do the songs! I want to do more songs!
 
-#### BEN [emphatically]
+#### BEN 
 
-No! No more Lovecraft fiction. It's overdone and boring and I hate it.
+_(emphatically)_ No! No more Lovecraft fiction. It's overdone and boring and I hate it.
 
 #### TIM
 
@@ -920,7 +948,7 @@ Oh, okay yeah.
 
 #### BEN
 
-Controversial opinion time.__ [Tim laughs]__ Sod it all.[__TIM:__ Yeah.] It's so boring.
+Controversial opinion time. __[Tim laughs]__ Sod it all.[__TIM:__ Yeah.] It's so boring.
 
 #### TIM
 
@@ -928,7 +956,7 @@ So boring.
 
 #### BEN
 
-Stop putting tentacles on things and pretending it's good horror. __[Tim laughs]__ That can be edited out if you want or be kept because I'm spitting *home truths*. __[Tim laughs]__ I'm spitting home opinions. [__TIM:__ Home opinions.] This is very much my opinion, but, y'know. [__TIM:__ Yeah. Is, um--] Every time there's a blimming Lovecraft Kickstarter it's like __[robotic voice]__ "Funded in three seconds!" It's like __[groans]__ Oh no![__TIM:__ Yeah.]More of it!
+Stop putting tentacles on things and pretending it's good horror. __[Tim laughs]__ That can be edited out if you want or be kept because I'm spitting *home truths*. __[Tim laughs]__ I'm spitting home opinions. [__TIM:__ Home opinions.] This is very much my opinion, but, y'know. [__TIM:__ Yeah. Is, um--] Every time there's a blimming Lovecraft Kickstarter it's like _(robotic voice)_ "Funded in three seconds!" It's like __[groans]__ Oh no![__TIM:__ Yeah.] More of it!
 
 #### TIM
 
@@ -964,11 +992,11 @@ Don't even-- Yes! Yes, that's true. __[mumbles]__ I mean, I don't particularly l
 
 #### TIM
 
-__[sarcastic]__ I like his views. __[laughs]__ His racist, *racist* views.
+_(sarcastic)_ I like his views. __[laughs]__ His racist, *racist* views.
 
-#### BEN [sarcastic]
+#### BEN 
 
-Yeah, I'm really into, y'know, I don't like his fiction, but his personal life I'm just really supportive of.
+_(sarcastic)_ Yeah, I'm really into, y'know, I don't like his fiction, but his personal life I'm just really supportive of.
 
 #### TIM
 
@@ -976,7 +1004,7 @@ Yeah, yeah, yeah, yeah. How everything is secretly about how he doesn't like the
 
 #### BEN
 
-Yeah.__ [emphatically]__ *Or anyone.*
+Yeah. _(emphatically)_ *Or anyone.*
 
 #### TIM
 
@@ -992,7 +1020,9 @@ He was.
 
 #### BEN
 
-Anyway, Owen Shirrel asks: "How did you first come up with the idea for the show?"
+Anyway, Owen Shirrel asks: 
+
+> "How did you first come up with the idea for the show?"
 
 #### TIM
 
@@ -1002,13 +1032,15 @@ Asked and answered.
 
 Yes.
 
-#### TIM [laughing]
+#### TIM 
 
-Moving on!
+__[laughing]__ Moving on!
 
 #### BEN
 
-Wait, no no, wait. Hang on. General question basically asked in some form by lots of folks: "How much of the show is improvised, and how much is scripted, planned, or known in advance?"
+Wait, no no, wait. Hang on. General question basically asked in some form by lots of folks: 
+
+> "How much of the show is improvised, and how much is scripted, planned, or known in advance?"
 
 #### TIM
 
@@ -1044,7 +1076,7 @@ Because we do have the... the luxury of being a recorded medium, so if we tell a
 
 #### TIM
 
-It's very nice, 'cause I do a lot of *stage* improv, and in staged improv you can get away with a lot in a live setting because everybody has sort of entered the pact of "This is live. You might say something that isn't the best thing, but we all--" you know, everyone doesn't get up and go,__ [mumbles disagreeably]__ "I'm not sure about that." You know, it just-- It's the pact, whereas as soon as you record it and you start editing things and you start adding things, you may as well go, "I've done a line that I, y'know, flubbed the word, came across in a way that I didn't intend it too..." I think a lot of people have noted on the stuff that, like-- I think it happens a little bit less overall than it might come across in the bloopers, 'cause obviously, that's a collection of us doing things wrong, but we will do something and go, "Ah, you know what? Now I've said it out loud and it's outside my head, I feel like this might come across badly." __[laughs]__
+It's very nice, 'cause I do a lot of *stage* improv, and in staged improv you can get away with a lot in a live setting because everybody has sort of entered the pact of "This is live. You might say something that isn't the best thing, but we all--" you know, everyone doesn't get up and go, __[mumbles disagreeably]__ "I'm not sure about that." You know, it just-- It's the pact, whereas as soon as you record it and you start editing things and you start adding things, you may as well go, "I've done a line that I, y'know, flubbed the word, came across in a way that I didn't intend it too..." I think a lot of people have noted on the stuff that, like-- I think it happens a little bit less overall than it might come across in the bloopers, 'cause obviously, that's a collection of us doing things wrong, but we will do something and go, "Ah, you know what? Now I've said it out loud and it's outside my head, I feel like this might come across badly." __[laughs]__
 
 #### BEN
 
@@ -1188,15 +1220,17 @@ Yeah, it's not, it's not really fair. So, the fact that we got an opportunity to
 
 #### TIM
 
-It was all *entirely* Jenny's fault. I get a lot of flak for that but _[crosstalk]_ that-- all her. We just-- __[laughs]__
+It was all *entirely* Jenny's fault. I get a lot of flak for that but _(crosstalk)_ that-- all her. We just-- __[laughs]__
 
 #### BEN
 
-_[crosstalk]_ It's Jenny's fault but-- We just "yes and"-ed the feet.
+_(crosstalk)_ It's Jenny's fault but-- We just "yes and"-ed the feet.
 
 #### TIM
 
-Which is the drawback of "yes and". Eh, you just have to go with it. __[Ben laughs]__ So, this is a question from CMP: "Do Tim & Ben see the planets beforehand?"
+Which is the drawback of "yes and". Eh, you just have to go with it. __[Ben laughs]__ So, this is a question from CMP: 
+
+> "Do Tim & Ben see the planets beforehand?"
 
 #### BEN
 
@@ -1208,11 +1242,11 @@ We do.
 
 #### BEN
 
-We do __[mean voice]__ and we judge them!
+We do _(mean voice)_ and we judge them!
 
 #### TIM
 
-__[imitating Ben, sharply]__ "We judge them--" __[normal]__ So, I think there is, there is definitely a line between seeing the planets beforehand and planning the planets beforehand. Because we get a big list of suggestions. You, Ben, Ben who I'm talking to--
+_(imitating Ben, sharply)_ "We judge them--" _(normal)_ So, I think there is, there is definitely a line between seeing the planets beforehand and planning the planets beforehand. Because we get a big list of suggestions. You, Ben, Ben who I'm talking to--
 
 #### BEN
 
@@ -1284,11 +1318,13 @@ This is becoming very much like that *BoJack Horseman* episode.
 
 #### TIM
 
-__[sings]__ Consummé professionals. __[laughs]__
+_(sings)_ Consummé professionals. __[laughs]__
 
 #### BEN
 
-__[groans]__ Okay. Uh, moving swiftly on. Uh, so this is from Miss Clapp Trapp: "You've said this podcast has an overarching plot, so how do you make sure to hit the plot beats while improvising?"
+__[groans]__ Okay. Uh, moving swiftly on. Uh, so this is from Miss Clapp Trapp: 
+
+> "You've said this podcast has an overarching plot, so how do you make sure to hit the plot beats while improvising?"
 
 #### TIM
 
@@ -1328,11 +1364,11 @@ Uh, Owen Shirell. Oh, getting another question in.
 
 #### BEN
 
-_[crosstalk]_ Well, to be honest, Owen's last question was really a non-question. __[laughs]__
+_(crosstalk)_ Well, to be honest, Owen's last question was really a non-question. __[laughs]__
 
-#### TIM [crosstalk]
+#### TIM 
 
-Well done Owen. Uh, didn't get the last one. A mulligan. A mulligan for Owen.
+_(crosstalk)_ Well done Owen. Uh, didn't get the last one. A mulligan. A mulligan for Owen.
 
 #### BEN
 
@@ -1340,7 +1376,9 @@ Yep.
 
 #### TIM
 
-"What was the ratio of scripted to planned content to improvised content in Season 1, and will that ratio change in Season 2?" Like, 5% to 95% scripted to improvised.
+> "What was the ratio of scripted to planned content to improvised content in Season 1, and will that ratio change in Season 2?" 
+
+Like, 5% to 95% scripted to improvised.
 
 #### BEN
 
@@ -1424,7 +1462,9 @@ For it to crash and burn. __[laughs]__ The Hindenburg of podcasts they'll call i
 
 #### BEN
 
-Yep. Okay, so Hobbes asks: "Was it planned from the beginning that David would hijack things and make good planets for a bit, that the final episode would be a trial and Hartro's... unusual style of management?"
+Yep. Okay, so Hobbes asks: 
+
+> "Was it planned from the beginning that David would hijack things and make good planets for a bit, that the final episode would be a trial and Hartro's... unusual style of management?"
 
 #### TIM
 
@@ -1480,11 +1520,11 @@ Or killing Trexel. And like, both, both would be great ends if we were planning 
 
 #### BEN
 
-__[snorts]__ And, the final thing, "Hartro's unusual style of management", no, the feet was Jenny's. _[crosstalk]_ Jenny, Jenny brought the feet in. Um, we had to-- we ran with the feet. We ran on our feet. With the feet in our mouths.
+__[snorts]__ And, the final thing, "Hartro's unusual style of management", no, the feet was Jenny's. _(crosstalk)_ Jenny, Jenny brought the feet in. Um, we had to-- we ran with the feet. We ran on our feet. With the feet in our mouths.
 
 #### TIM
 
-_[crosstalk]_ Nope. Feet. Jenny Haufek. __[laughs]__ Yeah. In our mouths.
+_(crosstalk)_ Nope. Feet. Jenny Haufek. __[laughs]__ Yeah. In our mouths.
 
 #### BEN
 
@@ -1492,11 +1532,13 @@ And that occurred.
 
 #### TIM
 
-Yep, so, letters to Jennifer Haufek, 123 Foot in your Mouth Street, Brighton. Question from Nomen: "If Stellar Firma hadn't been renewed, would episode 25 [have] ended with David 7 getting recycled?"
+Yep, so, letters to Jennifer Haufek, 123 Foot in your Mouth Street, Brighton. Question from Nomen: 
 
-#### BEN [amused]
+> "If Stellar Firma hadn't been renewed, would episode 25 ended with David 7 getting recycled?"
 
-We're very good at preempting these questions.
+#### BEN 
+
+_(amused)_ We're very good at preempting these questions.
 
 #### TIM
 
@@ -1522,7 +1564,7 @@ But also we weren't really planning for it *not* to be renewed.
 
 #### TIM
 
-No. Even in the early stages. Call us- call us mad optimists, but we were planning for multiple seasons because if you plan for just one season and you wrap it all up completely nicely, there's kind of nothing left to do in season two. And I think there are shows that have, you know, suffered from being like, "Well, y'know what? We might not get renewed" and then they do and they're like __[frightened]__ "Oh, quickly! Write something new!"
+No. Even in the early stages. Call us- call us mad optimists, but we were planning for multiple seasons because if you plan for just one season and you wrap it all up completely nicely, there's kind of nothing left to do in season two. And I think there are shows that have, you know, suffered from being like, "Well, y'know what? We might not get renewed" and then they do and they're like _(frightened)_ "Oh, quickly! Write something new!"
 
 #### BEN
 
@@ -1574,7 +1616,11 @@ But there will be unanswered questions around sort of, you know, like, the whole
 
 #### BEN
 
-Yeah. Uh, so this is from ERK: "Did you always know who would play Trexel and who would play David 7, and if not, how did you decide?" No, we, we knew.
+Yeah. Uh, so this is from ERK: 
+
+> "Did you always know who would play Trexel and who would play David 7, and if not, how did you decide?" 
+
+No, we, we knew.
 
 #### TIM
 
@@ -1604,17 +1650,17 @@ He wouldn't-- It would be... Drexel.
 
 Drexel Sevent. So yeah it sort of, sort of begged him from the start. From Bookofmac: "How do you warm up to sustain Trexel and David's voice while not straining your own?"
 
-#### BEN [matter of factly]
+#### BEN 
 
-Of all the voices I do, David's is the easiest.
+_(matter of factly)_ Of all the voices I do, David's is the easiest.
 
 #### TIM
 
 Yes, 'cause it's yours but higher. __[chuckles]__
 
-#### BEN [as David]
+#### BEN 
 
-Well, no, it's me but more nasal.
+_(as David)_ Well, no, it's me but more nasal.
 
 #### TIM
 
@@ -1624,37 +1670,37 @@ Nasal.
 
 I just, I talk up into my-- up into my nose?
 
-#### TIM [as David but with an accent]
+#### TIM 
 
-And I think I can-- my accent isn't quite right, but in tone, I think I can[__BEN:__ Yeah.] pretty much match you.
+_(as David but with an accent)_ And I think I can-- my accent isn't quite right, but in tone, I think I can [__BEN:__ Yeah.] pretty much match you.
 
 #### BEN
 
-Well, yeah we can both do David, [__TIM:__ Yes.]__ [as Trexel]__ and we can both do Trexel.
+Well, yeah we can both do David, [__TIM:__ Yes.] _(as Trexel)_ and we can both do Trexel.
 
-#### TIM [as Trexel]
+#### TIM 
 
-Well, I think my Trexel is better.
+_(as Trexel)_ Well, I think my Trexel is better.
 
-#### BEN [as Trexel]
+#### BEN 
 
-Well, I think *my* Trexel is better.
+_(as Trexel)_ Well, I think *my* Trexel is better.
 
-#### TIM [as Trexel]
+#### TIM 
 
-Well, I think my Trexel is better.
+_(as Trexel)_ Well, I think my Trexel is better.
 
-#### BEN [as Trexel]
+#### BEN 
 
-No, I think *my* Trexel is better.
+_(as Trexel)_ No, I think *my* Trexel is better.
 
 #### TIM
 
 Very confusing for everyone.
 
-#### BEN [as Trexel]
+#### BEN 
 
-At this point, who's talking!? __[Tim laughs]__ We'll never know!
+_(as Trexel)_ At this point, who's talking!? __[Tim laughs]__ We'll never know!
 
 #### TIM
 
@@ -1694,7 +1740,9 @@ Yeah. Oh, so you do.
 
 #### BEN
 
-There is-- Okay, we've one from Bittercape for Tim: "Do you regret Trexel's voice? Is it difficult to maintain?"
+There is-- Okay, we've one from Bittercape for Tim: 
+
+> "Do you regret Trexel's voice? Is it difficult to maintain?"
 
 #### TIM
 
@@ -1712,17 +1760,17 @@ We're just-- We're just get ahead of ourselves--
 
 We just really get a-- Oh that's from hotsoup, sorry.
 
-#### TIM [crosstalk]
+#### TIM 
 
-Hey, hotsoup! Guess what? Your future crimes have already been handled!
+_(crosstalk)_ Hey, hotsoup! Guess what? Your future crimes have already been handled!
 
-#### BEN [crosstalk]
+#### BEN 
 
-Wait, we'll do a little-- we'll do a little-- let's do a little scene!
+_(crosstalk)_ Wait, we'll do a little-- we'll do a little-- let's do a little scene!
 
-#### IMOGEN [beep]
+#### IMOGEN 
 
-Roleplay holovision: initiated.
+__[beep]__ Roleplay holovision: initiated.
 
 __[electronic powering on sound]__
 
@@ -1758,45 +1806,45 @@ Trexel! Trexel, it's twenty minutes left! We've got to get the brief done!
 
 I've chopped off both of my legs.
 
-#### DAVID [whispers]
+#### DAVID 
 
-Trexel.
+_(whispers)_ Trexel.
 
 #### TREXEL
 
 I have forgotten who I am. Am I David 7? I don't know.
 
-#### DAVID [singsong]
+#### DAVID 
 
-I'm in the vents now!
+_(singsong)_ I'm in the vents now!
 
 #### TREXEL
 
 Am I-- I get in the vents.
 
-#### DAVID [crosstalk]
+#### DAVID 
 
-No, I'm in the vents.
+_(crosstalk)_ No, I'm in the vents.
 
-#### TREXEL [crosstalk]
+#### TREXEL 
 
-No, I'm the vent boy!
+_(crosstalk)_ No, I'm the vent boy!
 
-#### DAVID [crosstalk]
+#### DAVID 
 
-I'm in the vents!
+_(crosstalk)_ I'm in the vents!
 
-#### TREXEL [crosstalk]
+#### TREXEL 
 
-Get out of the vents! __[David yells]__ Right. Right, I'm in the vents now. Oh! Ooh! So soft. So soft in the vents. I like the vents. I've padded them with feathers __[Tim laughs, and keeps laughing throughout the rest of the roleplay]__ taken from a cosmic chicken! They're a thing. I've established cosmic chickens now, 'cause my tactic is just to take an animal and put 'cosmic' or 'space' in front of it. Now I'm just insulting Tim.
+_(crosstalk)_ Get out of the vents! __[David yells]__ Right. Right, I'm in the vents now. Oh! Ooh! So soft. So soft in the vents. I like the vents. I've padded them with feathers __[Tim laughs, and keeps laughing throughout the rest of the roleplay]__ taken from a cosmic chicken! They're a thing. I've established cosmic chickens now, 'cause my tactic is just to take an animal and put 'cosmic' or 'space' in front of it. Now I'm just insulting Tim.
 
-#### TIM [laughing]
+#### TIM 
 
-Your Trexel is a lot poppier than mine.
+_(laughing)_ Your Trexel is a lot poppier than mine.
 
-#### IMOGEN [beep]
+#### IMOGEN 
 
-Roleplay holovision terminated.
+__[beep]__ Roleplay holovision terminated.
 
 __[electronic powering off sound]__
 
@@ -1810,7 +1858,11 @@ Yeah. Who was speaking? Maybe it was just Tim and Ben, maybe we just, maybe we r
 
 #### TIM
 
-You've been rused! Um, Cas: "Is there a particular bit, song, or joke you are extra proud of, or really enjoyed recording? What was your fave part of the season?" Ben.
+You've been rused! Um, Cas: 
+
+> "Is there a particular bit, song, or joke you are extra proud of, or really enjoyed recording? What was your fave part of the season?" 
+
+Ben.
 
 #### BEN
 
@@ -1828,19 +1880,21 @@ Fave part of the season... I mean, I have to say the-- the Cardinal Fang episode
 
 Yes.
 
-#### IMOGEN [beep]
+#### IMOGEN 
 
-Cardinal Fang!
+__[beep]__ Cardinal Fang!
 
 #### BEN
 
 I don't know if it's my favourite, but it's definitely the most memorable and the fact that everyone picked up on __[Tim laughs]__ Tim just refusing to stop saying--
 
-__TIM and BEN: [simultaneously]__ Cardinal Fang!
+#### TIM and BEN: 
 
-#### IMOGEN [beep]
+_(simult.)_ Cardinal Fang!
 
-Cardinal Fang!
+#### IMOGEN 
+
+__[beep]__ Cardinal Fang!
 
 #### BEN
 
@@ -1858,9 +1912,9 @@ Yeah?
 
 The one that isn't-- the one that I think Terry Gilliam plays is, um, called Cardinal Fang.
 
-#### BEN [surprised]
+#### BEN 
 
-Oh really?
+_(surprised)_ Oh really?
 
 #### TIM
 
@@ -1878,21 +1932,21 @@ You've tricked us.
 
 Joke we're extra proud of... um, oh well I'm actually-- Oh, well I guess... I like the fact that I have established that David is very slimy.
 
-#### TIM [pleased]
+#### TIM 
 
-Yes!
+_(pleased)_ Yes!
 
 #### BEN
 
-I think that's just a really fun thing and it has developed the idea of David being able to__ [holding back laughter]__ slip and slide around the place.
+I think that's just a really fun thing and it has developed the idea of David being able to __[holding back laughter]__ slip and slide around the place.
 
 #### TIM
 
 There's a really good bit where you just get onto the floor and slither away. __[laughs]__
 
-#### BEN [laughing]
+#### BEN 
 
-Yeah, exactly! So I'm pleased of that. Uh, and song or joke-- Oh, this is it. It's me singing David's Fact Corner [__TIM:__ Yes.] even though it was, you know, it's a Patreon bonus-- that was a sneak preview, guys, the song's on Patreon. __[starts slurring]__ Come and join-- join us for the full episode some point-- __[continues slurring]__
+_(laughing)_ Yeah, exactly! So I'm pleased of that. Uh, and song or joke-- Oh, this is it. It's me singing David's Fact Corner [__TIM:__ Yes.] even though it was, you know, it's a Patreon bonus-- that was a sneak preview, guys, the song's on Patreon. _(starts slurring)_ Come and join-- join us for the full episode some point-- __[continues slurring]__
 
 #### TIM
 
@@ -1902,19 +1956,23 @@ It's a whole thing.
 
 It's a whole thing. Um, but mainly because it made Rach, my wife, completely lose it.
 
-__TIM and BEN: [in unison, singing out of key in David's voice]__ ♪ David's fact corner! ♫ __[both laugh]__
+#### TIM and BEN: 
+
+_(in unison, singing out of key in David's voice)_ ♪ David's fact corner! ♫ 
+
+__[both laugh]__
 
 #### TIM
 
-Uh, my favourite-- Well, you know, there's probably a joke that if I was reminded of I might like more, but I really enjoyed recording the bit where I kept on saying__ [as Trexel]__ "That's my point."
+Uh, my favourite-- Well, you know, there's probably a joke that if I was reminded of I might like more, but I really enjoyed recording the bit where I kept on saying _(as Trexel)_ "That's my point."
 
-#### BEN [gleefully]
+#### BEN 
 
-Ooh! Yes!
+_(gleefully)_ Ooh! Yes!
 
-#### TIM [as Trexel]
+#### TIM 
 
-Oh look! A point. Oh, I laid an egg. A point egg. __[normal voice]__ And I just really enjoyed-- __[starts laughing]__
+_(as Trexel)_ Oh look! A point. Oh, I laid an egg. A point egg. _(normal voice)_ And I just really enjoyed-- __[starts laughing]__
 
 #### BEN
 
@@ -1928,17 +1986,19 @@ I just enjoy interrupting you with different ways of saying I've made a point.
 
 I lost it so many bloomin' times.
 
-#### TIM [as Trexel]
+#### TIM 
 
-Oh, careful of that point-- Who's got that point?
+_(as Trexel)_ Oh, careful of that point-- Who's got that point?
 
-#### BEN [chuckle]
+#### BEN 
 
-Yeah... Oh, this is for me! It's from Definite Human Jess: "Were the scenes by guests in the finale (the testimonies & conversation between #1 and #48) improv or scripted?"
+__[chuckle]__ Yeah... Oh, this is for me! It's from Definite Human Jess: 
 
-#### TIM [posh]
+> "Were the scenes by guests in the finale (the testimonies & conversation between #1 and #48) improv or scripted?"
 
-A mixture! __[Ben 'Hrmms' in a posh way]__ So, we did a load in the studio, um...
+#### TIM 
+
+_(posh)_ A mixture! __[Ben 'Hrmms' in a posh way]__ So, we did a load in the studio, um...
 
 #### BEN
 
@@ -2002,7 +2062,7 @@ Oh, it's every conver-- every conversation [__TIM:__ Well, I imagine--] when a u
 
 #### TIM
 
-There's no good-- There's no pot of gold at the end of that rainbow, [__BEN:__ No.] you know? I've-- After shows that have gone well, I'm not saying that I am a celebrity, but after shows when people come up and they're like, "I really enjoyed that thing!" It's lovely, and then the people that really know what they're doing are like, "I really enjoyed that thing. Thank you!" *and then they turn and walk away*, because what are we gonna do? Where does the conversation go from here? I'm English! I'm bad at taking compliments at the best of times! And there's no pot of gold. So, yes, I was on the wrong end of one of those interactions.__ [Ben laughs]__ Uh, Calodette: "How much gets cut out of each episode?" __[Ben exhales]__ Um, it varies?
+There's no good-- There's no pot of gold at the end of that rainbow, [__BEN:__ No.] you know? I've-- After shows that have gone well, I'm not saying that I am a celebrity, but after shows when people come up and they're like, "I really enjoyed that thing!" It's lovely, and then the people that really know what they're doing are like, "I really enjoyed that thing. Thank you!" *and then they turn and walk away*, because what are we gonna do? Where does the conversation go from here? I'm English! I'm bad at taking compliments at the best of times! And there's no pot of gold. So, yes, I was on the wrong end of one of those interactions. __[Ben laughs]__ Uh, Calodette: "How much gets cut out of each episode?" __[Ben exhales]__ Um, it varies?
 
 #### BEN
 
@@ -2012,9 +2072,9 @@ I mean, *that*is an answer only God and David know.
 
 Exactly. I think... like, not as much as you-- I think-- Let's say a twenty-- a twenty-minute episode? Sometimes we might record twenty-five minutes--
 
-#### BEN [very quickly]
+#### BEN 
 
-Yeah, it takes anything from twenty-five minutes and an *hour.* __[laughs]__
+_(very quickly)_ Yeah, it takes anything from twenty-five minutes and an *hour.* __[laughs]__
 
 #### TIM
 
@@ -2034,11 +2094,13 @@ So, from Owen Shirrel--
 
 #### TIM
 
-Oh! Back again, Owen! Felt jilted at the first, and now you're back for a third sup of the cup. __[Ben snorts] [slower]__ Sup of the cup.
+Oh! Back again, Owen! Felt jilted at the first, and now you're back for a third sup of the cup. __[Ben snorts]__ *(slower)* Sup of the cup.
 
 #### BEN
 
-Horrible. "Which, if any, of the planets created in Season 1 would you want to live on?"
+Horrible. 
+
+> "Which, if any, of the planets created in Season 1 would you want to live on?"
 
 #### TIM
 
@@ -2052,9 +2114,9 @@ I think I would want to live on Harry's planet, because I can read books, [__TIM
 
 What was-- what was Harry's planet, by the way?
 
-#### BEN [laughs]
+#### BEN 
 
-Oh the-- basically, the living room.
+__[laughs]__ Oh the-- basically, the living room.
 
 #### TIM
 
@@ -2104,17 +2166,19 @@ I think basically all of the quote, unquote David designed planets are pretty, a
 
 Yeah. Oh! Or, uh, the one with the robot, er, golden robot gondoliers.
 
-#### TIM [crosstalk]
+#### TIM 
 
-Gondoliers. __[sings]__ ♪ Da da da, do do do. Golden robot gondoliers! Do ba dee, he is you! ♫
+_(crosstalk)_ Gondoliers. _(sings)_ ♪ Da da da, do do do. Golden robot gondoliers! Do ba dee, he is you! ♫
 
 #### BEN
 
-__[crosstalk, sings]__ ♪ Gondoliers! Da ba da, ho ha hah. ♫
+_(crosstalk, sings)_ ♪ Gondoliers! Da ba da, ho ha hah. ♫
 
 #### TIM
 
-Uh, yeah. Those ones. Uh, so this next one is from Miss Clapp Trapp: "How much of the world is the result of riffing off each other (Trexel's thing about fish, clone slurry, David's onesie, etc)?"
+Uh, yeah. Those ones. Uh, so this next one is from Miss Clapp Trapp: 
+
+> "How much of the world is the result of riffing off each other (Trexel's thing about fish, clone slurry, David's onesie, etc)?"
 
 #### BEN
 
@@ -2162,11 +2226,11 @@ Not the planets.
 
 #### TIM
 
-You'd have hoped so. But, yes. Yeah, so, yeah. What Ben said in terms of we got a few __[laughs]__ key-- I really had a real gear shift when-- _[crosstalk]_ record scratch in my brain as I realized I, I got the question wrong.
+You'd have hoped so. But, yes. Yeah, so, yeah. What Ben said in terms of we got a few __[laughs]__ key-- I really had a real gear shift when-- _(crosstalk)_ record scratch in my brain as I realized I, I got the question wrong.
 
 #### BEN
 
-__[crosstalk, laughs]__ Aaaaargh! What he said, yeah.
+*(crosstalk)* __[laughs]__ Aaaaargh! What he said, yeah.
 
 #### TIM
 
@@ -2174,11 +2238,11 @@ But, yeah. There-- We-- Yeah, we got bullet points about the world, um, but yeah
 
 #### BEN
 
-Uh, so this is from AGVZ, agvz, hello agvz: "How sentient is IMOGEN? Is her 'personality' programmed, or does she have something like free will? At first, I thought she was a standard corporate AI, but then she says things like 'Watch it, buster!' [__IMOGEN: [beep]__ Watch it, buster!] and happily joins in the chant of 'Cardinal Fang!' [__IMOGEN: [beep]__ Cardinal Fang!] I'm curious about her!" _[crosstalk]_ Well, you'll have to continue to be curious, won't you! __[gruff]__ Won't you! Won't you! Won't you!
+Uh, so this is from AGVZ, agvz, hello agvz: "How sentient is IMOGEN? Is her 'personality' programmed, or does she have something like free will? At first, I thought she was a standard corporate AI, but then she says things like 'Watch it, buster!' [__IMOGEN: [beep]__ Watch it, buster!] and happily joins in the chant of 'Cardinal Fang!' [__IMOGEN: [beep]__ Cardinal Fang!] I'm curious about her!" _(crosstalk)_ Well, you'll have to continue to be curious, won't you! _(gruff)_ Won't you! Won't you! Won't you!
 
-#### TIM [crosstalk]
+#### TIM 
 
-Well, well, well, well. Because answering this question is very heavily what the plot will be.
+_(crosstalk)_ Well, well, well, well. Because answering this question is very heavily what the plot will be.
 
 #### BEN
 
@@ -2192,13 +2256,17 @@ Yep.
 
 Stop! No!
 
-#### IMOGEN [beep]
+#### IMOGEN 
 
-Watch it, buster!
+__[beep]__ Watch it, buster!
 
 #### TIM
 
-E. Forney: "Are we going to see more of Harry?" Um, I believe so.
+E. Forney: 
+
+> "Are we going to see more of Harry?" 
+
+Um, I believe so.
 
 #### BEN
 
@@ -2240,9 +2308,9 @@ It doesn't go to the soul-sucking Fringe.
 
 --the Edinburgh Fringe is a long way away, you lose money, and it's, for the performers, sometimes *horrible*. Whereas the Brighton Fringe is eight seconds from my door.
 
-#### BEN [chuckles]
+#### BEN 
 
-And it's fine.
+__[chuckles]__ And it's fine.
 
 #### TIM
 
@@ -2250,7 +2318,11 @@ Uh, you still-- It's, it's pretty good! Uh, yeah, it's very nice. I, I-- In many
 
 #### BEN
 
-Molly: "Does David-7 have a mullet? I feel like he has a mullet." Well, [__TIM:__ Well.] if you feel like he has a mullet, he has a mullet. [__TIM:__ What do--] If you feel like he doesn't, then he doesn't.
+Molly: 
+
+> "Does David-7 have a mullet? I feel like he has a mullet." 
+
+Well, [__TIM:__ Well.] if you feel like he has a mullet, he has a mullet. [__TIM:__ What do--] If you feel like he doesn't, then he doesn't.
 
 #### TIM
 
@@ -2274,7 +2346,7 @@ Confection.
 
 #### BEN
 
-__[silly nasal voice]__ I like sweeties!
+_(silly nasal voice)_ I like sweeties!
 
 #### TIM
 
@@ -2306,7 +2378,7 @@ You know, there's-- it's much-- it's much more fun to have the fan community do 
 
 #### BEN
 
-Yeah, like, I, I really like the ones, like, that, that Raven does where he looks like __[laugh in his voice]__ a little sad Ernie. __[laughs]__ It's really fun!
+Yeah, like, I, I really like the ones, like, that, that Raven does where he looks like _(laugh in his voice)_ a little sad Ernie. __[laughs]__ It's really fun!
 
 #### TIM
 
@@ -2340,9 +2412,9 @@ Who knows?
 
 Who knows? Hoof knows?
 
-#### TIM [sings]
+#### TIM 
 
-♪ Hoof knows! ♫
+_(sings)_ ♪ Hoof knows! ♫
 
 #### BEN
 
@@ -2366,7 +2438,7 @@ Or... or the one that, like, jackalopearts does where you basically look like Hu
 
 #### TIM
 
-__[excited]__ Yeah! Yeah!
+_(excited)_ Yeah! Yeah!
 
 #### BEN
 
@@ -2374,11 +2446,15 @@ You're like-- __[makes weird noise with his mouth]__
 
 #### TIM
 
-Hair all over the place, loud jacket, big square glasses. Yeah. A lot of fun. Moss, again, asks: "Is the security department just plain told to ignore the security alerts from Trexel?" __[balking]__ Well. Well. Well. Plot.
+Hair all over the place, loud jacket, big square glasses. Yeah. A lot of fun. Moss, again, asks: 
+
+> "Is the security department just plain told to ignore the security alerts from Trexel?" 
+
+_(balking)_ Well. Well. Well. Plot.
 
 #### BEN
 
-__[crosstalk, also balking]__ Wh-ell. Wh-ell. Mm.
+_(crosstalk, also balking)_ Wh-ell. Wh-ell. Mm.
 
 #### TIM
 
@@ -2406,11 +2482,11 @@ You know, we don't know.
 
 #### TIM
 
-We don't know. The important thing is we don't know. [__BEN:__ Yeah.] Much like the team behind *Lost* and that worked out fine.__ [laughs]__
+We don't know. The important thing is we don't know. [__BEN:__ Yeah.] Much like the team behind *Lost* and that worked out fine. __[laughs]__
 
 #### BEN
 
-__[sarcastic]__ Oh, good. Yay. __[normal, chuckling]__ Hey, look, we've-- we actually know how our series ends.
+_(sarcastic)_ Oh, good. Yay. _(normal, chuckling)_ Hey, look, we've-- we actually know how our series ends.
 
 #### TIM
 
@@ -2418,11 +2494,13 @@ That's very true.
 
 #### BEN
 
-Um, Fatal drum asks: "Why does security never come when alerted?"
+Um, Fatal drum asks: 
 
-#### TIM [jokingly irritated]
+> "Why does security never come when alerted?"
 
-Look, we already told you-- Fatal drum--
+#### TIM 
+
+_(jokingly irritated)_ Look, we already told you-- Fatal drum--
 
 #### BEN
 
@@ -2430,7 +2508,11 @@ I feel like these questions __[Tim laughs]__ have been ordered in a way to catch
 
 #### TIM
 
-That is why, Fatal drum. Um, acdmcmstr07 [pronounced academic master oh seven]: "If Trexel is only working with the seventh iteration of the David clones, has Trexel only been working in planet design for about 3 months now? Or what did he do before having Davids around to help (and then get killed)?" Um, so, big assumption that clones [are] just called David. I might have been with Terrances 1 through 109, Garys 6 through 84, you know.
+That is why, Fatal drum. Um, acdmcmstr07 [pronounced academic master oh seven]: 
+
+> "If Trexel is only working with the seventh iteration of the David clones, has Trexel only been working in planet design for about 3 months now? Or what did he do before having Davids around to help (and then get killed)?" 
+
+Um, so, big assumption that clones [are] just called David. I might have been with Terrances 1 through 109, Garys 6 through 84, you know.
 
 #### BEN
 
@@ -2484,9 +2566,9 @@ __[snorts]__ Never plan!
 
 Yeah. Looking at you Jonny!
 
-#### TIM [muttered]
+#### TIM 
 
-Yeah, you Jon-- Yeah, it's clearly not worked for him.
+_(muttering)_ Yeah, you Jon-- Yeah, it's clearly not worked for him.
 
 #### BEN
 
@@ -2506,11 +2588,17 @@ Terrible.
 
 #### BEN
 
-It's gonna fail. Raven: "So when is Trexel releasing his new album? __[Ben chuckles]__ Particularly looking forward to Laser Friend."
+It's gonna fail. Raven: 
+
+> "So when is Trexel releasing his new album?"
+
+##### [Ben chuckles]
+
+> "Particularly looking forward to Laser Friend."
 
 #### TIM
 
-__[clapping hands between words, obviously grinning]__ I want to produce a proper album __[Ben sighs deeply]__ of songs.
+__[clapping hands between words]__ *(obviously grinning)* I want to produce a proper album __[Ben sighs deeply]__ of songs.
 
 #### BEN
 
@@ -2544,7 +2632,9 @@ Yeah.
 
 And, you know what? David's a man of many talents. I'm sure he can-- __[laughs]__
 
-#### IMOGEN [error buzz]
+#### IMOGEN 
+
+##### [error buzz]
 
 #### BEN
 
@@ -2568,7 +2658,7 @@ Uh, just, um, keep shouting at Anil [__TIM:__ Yeah!] and maybe it'll pop up as s
 
 #### TIM
 
-Come on! Ah, dear. Like, we, we do a lot of rehearsals where we get to the end of it and I heavily lobby for us to sit down and properly, like, flesh out a song, and, and-- but no one's, no one's interested apart from me __[Ben snorts]__ and there's Raven. Bittercape: "For Tim." This is a question for Tim. Hi Tim. "What is Trexel's relationship__ [Ben laughs]__ with the fish? And: is it the same fish each episode? What does it smell like?" __[Ben snorts]__ Um, in answer to the first question: I'll tell you when you're older. __[Ben laughs]__ Um, the second part: it is the same fish. Um, weirdly for Trexel's personality, he is *very* traditional and monogamous,__ [Ben chuckles]__ he doesn't care for poly... fish relationships. __[breaking into laughter]__ He's a real fundamentalist apparently! __[both laugh]__ Going to the end of this sentence. He's--
+Come on! Ah, dear. Like, we, we do a lot of rehearsals where we get to the end of it and I heavily lobby for us to sit down and properly, like, flesh out a song, and, and-- but no one's, no one's interested apart from me __[Ben snorts]__ and there's Raven. Bittercape: "For Tim." This is a question for Tim. Hi Tim. "What is Trexel's relationship __[Ben laughs]__ with the fish? And: is it the same fish each episode? What does it smell like?" __[Ben snorts]__ Um, in answer to the first question: I'll tell you when you're older. __[Ben laughs]__ Um, the second part: it is the same fish. Um, weirdly for Trexel's personality, he is *very* traditional and monogamous, __[Ben chuckles]__ he doesn't care for poly... fish relationships. _(breaking into laughter)_ He's a real fundamentalist apparently! __[both laugh]__ Going to the end of this sentence. He's--
 
 #### BEN
 
@@ -2576,7 +2666,7 @@ By the way, we are, we are recording this on Brighton Pride Day, as well, so... 
 
 #### TIM
 
-Ah, yeah. We're very, we're very inclusive. __[laughing, sarcastically]__ Why do you think we've sequestered ourselves away in a hot studio. __[continued laughing]__ Because we hate pride! This isn't going in.
+Ah, yeah. We're very, we're very inclusive. _(laughing, sarcastically)_ Why do you think we've sequestered ourselves away in a hot studio. _(continued laughing)_ Because we hate pride! This isn't going in.
 
 #### BEN
 
@@ -2626,11 +2716,11 @@ Not pride. The fish.
 
 #### TIM
 
-__[laughs]__ The p-- Sorry, the fish! __[both laugh]__ Well, you know what? _[crosstalk]_ In Brighton on a hot day, it does smell bad. __[laughs]__
+__[laughs]__ The p-- Sorry, the fish! __[both laugh]__ Well, you know what? _(crosstalk)_ In Brighton on a hot day, it does smell bad. __[laughs]__
 
 #### BEN
 
-_[crosstalk]_ Actually, no, yeah, no, pride is going to smell pretty bad.
+_(crosstalk)_ Actually, no, yeah, no, pride is going to smell pretty bad.
 
 #### TIM
 
@@ -2670,17 +2760,19 @@ It smells like piss. It's got uric acid in it.
 
 #### BEN
 
-__[yells]__ My armpits do not smell like urine! __[beep]__
+_(yells)_ My armpits do not smell like urine! __[bleep]__
 
 #### TIM
 
-__[referencing the editor]__ David, get rid of it, all of it. __[both laugh]__
+_(referencing the editor)_ David, get rid of it, all of it. __[both laugh]__
 
 __[beep]__
 
 #### BEN
 
-Uh, smalltownai asks, to dig us out of this *horrible* hole we've dug ourselves into... __[Tim chuckles]__ The things we do for all of you. "Do the ID numbers have any significance? Does it mean anything that Trexel's ID number is two numbers shorter than Hartro's and David's?"
+Uh, smalltownai asks, to dig us out of this *horrible* hole we've dug ourselves into... __[Tim chuckles]__ The things we do for all of you. 
+
+> "Do the ID numbers have any significance? Does it mean anything that Trexel's ID number is two numbers shorter than Hartro's and David's?"
 
 #### TIM
 
@@ -2704,11 +2796,11 @@ Let's have a quick look.
 
 #### BEN
 
-__[shouting]__ Improv! Improv!
+_(shouting_ Improv! Improv!
 
-#### TIM [distracted because he's looking up show notes]
+#### TIM 
 
-Improv.
+_(distracted because he's looking up show notes)_ Improv.
 
 #### BEN
 
@@ -2796,11 +2888,15 @@ There you go.
 
 #### TIM
 
-Digipup: "Does David actually have hooves?" Who can say?
+Digipup: 
+
+> "Does David actually have hooves?" 
+
+Who can say?
 
 #### BEN
 
-Who knows? If he has-- if he has hooves for you, [__TIM:__ Yeah.] he's just a hoofy, hoofy boy. [__TIM:__ Yeah.] If there's some nice, nice toesies, if you believe in toes, [__TIM:__ Yeah.] toes away.__ [Tim chuckles]__ How many? Fifteen toes? Three toes?
+Who knows? If he has-- if he has hooves for you, [__TIM:__ Yeah.] he's just a hoofy, hoofy boy. [__TIM:__ Yeah.] If there's some nice, nice toesies, if you believe in toes, [__TIM:__ Yeah.] toes away. __[Tim chuckles]__ How many? Fifteen toes? Three toes?
 
 #### TIM
 
@@ -2844,11 +2940,11 @@ Uh, it's, it's a, it's a classic sci-fi trope. I think that's how the Star Trek 
 
 #### TIM
 
-Yeah. You know, it-- it's-- well, to a certain extent, that's how everything works in that everything is made of atoms and then you do, [__BEN:__ Alright, mate.] you know, different arrangements of it _[crosstalk]_ and then it's just different things.
+Yeah. You know, it-- it's-- well, to a certain extent, that's how everything works in that everything is made of atoms and then you do, [__BEN:__ Alright, mate.] you know, different arrangements of it _(crosstalk)_ and then it's just different things.
 
 #### BEN
 
-__[crosstalk, making fun of Tim]__ Oh, yeah, sure. Everything's just atoms. Oh, yeah, get him over here.
+_(crosstalk, making fun of Tim)_ Oh, yeah, sure. Everything's just atoms. Oh, yeah, get him over here.
 
 #### TIM
 
@@ -2900,7 +2996,15 @@ And, yes, that.
 
 #### TIM
 
-Yeah, that one. Mars: "Whose idea was the foot thing?? __[Ben snorts]__ Why are the review episodes so kinky???" Jennifer Haufek.
+Yeah, that one. Mars: 
+
+> "Whose idea was the foot thing??"
+
+##### __[Ben snorts]__ 
+
+> "Why are the review episodes so kinky???" 
+
+Jennifer Haufek.
 
 #### BEN
 
@@ -2916,7 +3020,9 @@ Old kinky Haufek!
 
 #### TIM
 
-Old Haufek the kinkmeister. Yeah. So, yes. Sure, did we run with it? Okay. Is she responsible ultimately? Yes she is. __[Ben laughs]__ Letters to her. And a follow-up question from Mars: "Has Trexel been the only designer to have clones from the David line? Or is there another design consultant out there making planets with David-2 or something?"
+Old Haufek the kinkmeister. Yeah. So, yes. Sure, did we run with it? Okay. Is she responsible ultimately? Yes she is. __[Ben laughs]__ Letters to her. And a follow-up question from Mars: 
+
+> "Has Trexel been the only designer to have clones from the David line? Or is there another design consultant out there making planets with David-2 or something?"
 
 #### BEN
 
@@ -2936,7 +3042,7 @@ A.Y.T.B.C. Did I get that right?
 
 #### BEN
 
-__[proud of Tim but confused]__ You did.
+_(proud of Tim but confused)_ You did.
 
 #### TIM
 
@@ -2956,25 +3062,29 @@ A.Y.T.B.C. The old, well-known acronym.
 
 #### TIM
 
-__[pronouncing it as a word instead of an acronym]__ Aytbc.
+_(pronouncing it as a word instead of an acronym)_ Aytbc.
 
 #### BEN
 
-__[snorts]__ Uh, Miss Clapp Trapp asks: "Based on the finale... is Stellar Firma Ltd. actually financially sound?"
+__[snorts]__ Uh, Miss Clapp Trapp asks: 
+
+>"Based on the finale... is Stellar Firma Ltd. actually financially sound?"
 
 #### TIM
 
-_[crosstalk]_ Well. Well. Well. __[laughs]__
+_(crosstalk)_ Well. Well. Well. __[laughs]__
 
 #### BEN
 
-__[crosstalk, silly voice]__ Well, guess you're gonna __[starts slurring words, makes mouth warm-up sounds]__
+_(crosstalk, silly voice)_ Well, guess you're gonna... __[starts slurring words, makes mouth warm-up sounds]__
 
 #### TIM
 
 And final question, E. Forney: "CARDINAL FANG?"
 
-__BEN and IMOGEN [beep]:__ Cardinal Fang!
+#### BEN and IMOGEN 
+
+__[beep]:__ Cardinal Fang!
 
 #### TIM
 
@@ -2986,34 +3096,38 @@ CARDINAL FANG!
 
 #### TIM
 
-__[yelling at the top of his lungs]__ CARDINAL FANG!
+_(yelling at the top of his lungs)_ CARDINAL FANG!
 
-__IMOGEN [beep]:__ Cardinal Fang!
+#### IMOGEN 
+
+__[beep]__ Cardinal Fang!
 
 #### BEN
 
-__[crosstalk, whispering]__ Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang.
+_(crosstalk, whispering)_ Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang.
 
 #### TIM
 
-_[crosstalk]_ So, I hope you've enjoyed this, uh, this episode of the, uh, season-- It's not an episode. __[laughs]__ Card-- __[nervously]__ Ben. Ben, we have to finish now. It's very hot and we've been going for quite a while.
+_(crosstalk)_ So, I hope you've enjoyed this, uh, this episode of the, uh, season-- It's not an episode. __[laughs]__ Card-- _(nervously)_ Ben. Ben, we have to finish now. It's very hot and we've been going for quite a while.
 
 #### BEN
 
-Continue without me. I-- I'm fine over here. __[crosstalk, whispering]__ Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. The Side Winder. The Big Barber. Cardinal Fang. The Lake Wither. The Ham Throw.
+Continue without me. I-- I'm fine over here. _(crosstalk, whispering)_ Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. Cardinal Fang. The Side Winder. The Big Barber. Cardinal Fang. The Lake Wither. The Ham Throw.
 
 #### TIM
 
-Okay. _[crosstalk]_ Um, so I hope you've enjoyed this, uh, this season one Q&A, uh, of, of Stellar Firma with Tim and Ben. Uh, lot of fun. Um, so hopefully we'll be doing more of these in the future. Hopefully one at the end of season two but who knows? There might be some Patreon exclusive Q&As as well. Uh, so, it's a-- a big thank you from Tim Meredith.
+Okay. _(crosstalk)_ Um, so I hope you've enjoyed this, uh, this season one Q&A, uh, of, of Stellar Firma with Tim and Ben. Uh, lot of fun. Um, so hopefully we'll be doing more of these in the future. Hopefully one at the end of season two but who knows? There might be some Patreon exclusive Q&As as well. Uh, so, it's a-- a big thank you from Tim Meredith.
 
 #### BEN
 
-__[sarcastically]__ And a small thank you from Ben Meredith. Really, I don't appreciate this much.
+_(sarcastically)_ And a small thank you from Ben Meredith. Really, I don't appreciate this much.
 
 #### TIM
 
 He doesn't like you all. Lovely. Thank you.
 
-#### BEN and TIM: Bye!
+#### BEN and TIM: 
+
+Bye!
 
 ##### [short version of the outro theme; there are no credits]

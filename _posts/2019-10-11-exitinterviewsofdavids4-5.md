@@ -18,11 +18,13 @@ sources:
 official: false
 ---
 
-> Transcribed 12/17/19 via stellarscripts on tumblr
+### Transcribed 12/17/19 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 
 #### ALEX
 
 Hi everyone, Alex here. I'd just like to take a moment to thank some of our patrons: Michael, Erinn Triplett, Kaii's Creations, Hayley R, TheAceAce, Fennic Anteres, Lemmke, Evan, Hal, William Brandes Stoddard, el, Aaron Everett, Andee Williams, Zach Smith, Amber Armstrong, Milli Bayley, A. Hargreaves, Molly!, Cas Landman, PlotTwisted. Thank you all. We really appreciate your support. If you'd like to join them, go to www.patreon.com/rustyquill and take a look at our rewards.
+
+------
 
 ##### [shorter version of the show theme]
 

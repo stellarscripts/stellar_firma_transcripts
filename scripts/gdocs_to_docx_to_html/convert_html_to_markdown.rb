@@ -12,8 +12,6 @@ def cleanup
   convert_all_to_md
 end
 
-cleanup
-
 def cleanup_one(in_fname=raw_html_fnames().first, out_fname=nil)
   out_fname ||= File.join(@md_dir, File.basename(in_fname).sub('.html','.md'))
 
@@ -259,3 +257,6 @@ def append_frontmatter(md)
 end
 
 
+
+
+cleanup

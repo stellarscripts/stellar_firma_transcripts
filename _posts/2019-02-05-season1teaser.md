@@ -67,7 +67,7 @@ Because, David, one of us has to take the rap for this and it's not going to be 
 
 __[static hum]__ Recycling process... commencing!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[beeping starts, mechanical whirring]__
+##### __[beeping starts, mechanical whirring]__
 
 #### TREXEL
 
@@ -81,25 +81,21 @@ Well, goodbye Trexel. It was nice working with you.
 
 Was it, David? Was it?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[mechanical whirring continues, thump]__
+##### __[mechanical whirring continues, thump]__
 
 #### DAVID
 
 *(muffled)* Oh. Well, this is strange.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[blender noise followed by something liquid and heavy being dispensed and a distant thud]__
+##### __[blender noise followed by something liquid and heavy being dispensed and a distant thud]__
 
 #### TREXEL
 
-Ah well, circle of life. Right. Just a quickie at the Cosmic Lounge and then we'll see about David 7. IMOGEN. 
+Ah well, circle of life. Right. Just a quickie at the Cosmic Lounge and then we'll see about David 7. IMOGEN. __[beep]__ I'm tired and hungry. Look up "cocktail sandwich" for me. I want to see if it's a thing.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[beep]__ 
+##### __[door swooshes open]__
 
-I'm tired and hungry. Look up "cocktail sandwich" for me. I want to see if it's a thing.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[door swooshes open]__
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__[shorter version of the show theme]__
+##### __[shorter version of the show theme]__
 
 ------
 

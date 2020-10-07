@@ -6,7 +6,7 @@ categories: special
 episode_number:
 episode_title: Stellar Firma Season 2 Outtakes (Part 2)
 tags: []
-content_warnings: Overtly sexual noises, References to medical conditions and procedures
+content_warnings: []
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/stellarfirmaseason2outtakes-part2-
 summary: Season 2 Outtakes (Part 2) <br/><br/>Gosh darns and fiddlesticks <br/><br/>CLIENT - They can’t all be winners <br/><br/>Consultant recommendation: I’ll be in my trailer... also, can someone please buy me a trailer.

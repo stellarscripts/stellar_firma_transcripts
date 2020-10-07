@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Episode EPISODE NUMBER - EPISODE TITLE
-date: 2019-02-05 00:05:09.000000000 +00:00
+title: Stellar Firma Season 2 Outtakes (Part 2)
+date: 2020-09-25 15:00:00.000000000 +00:00
 categories: special
 episode_number:
 episode_title: Stellar Firma Season 2 Outtakes (Part 2)
-tags: 
-content_warnings: CONTENT WARNINGS LIST GOES HERE
+tags: []
+content_warnings: Overtly sexual noises, References to medical conditions and procedures
+voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/stellarfirmaseason2outtakes-part2-
-summary: Stellar Firma Season 2 Outtakes (Part 2) <br/><br/>Gosh darns and fiddlesticks <br/><br/>CLIENT - They can’t all be winners <br/><br/>Consultant recommendation: I’ll be in my trailer... also, can someone please buy me a trailer.
+summary: Season 2 Outtakes (Part 2) <br/><br/>Gosh darns and fiddlesticks <br/><br/>CLIENT - They can’t all be winners <br/><br/>Consultant recommendation: I’ll be in my trailer... also, can someone please buy me a trailer.
 formats:
   HTML: https://stellarscripts.tumblr.com/transcripts/s2-bloopers-part-2
   Google Doc: https://docs.google.com/document/d/1cpddVtCxCOucwBWEhVa-17ncVNtvQMUD5V4swJqCdEY/edit

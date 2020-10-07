@@ -9,7 +9,7 @@ tags: []
 content_warnings: Overtly sexual noises, References to medical conditions and procedures
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/stellarfirmaseason2outtakes-part2-
-summary: Season 2 Outtakes (Part 2) <br/><br/>Gosh darns and fiddlesticks <br/><br/>CLIENT - They can’t all be winners. Consultant recommendation: I’ll be in my trailer... also, can someone please buy me a trailer.
+summary: CLIENT - They can’t all be winners <br/><br/>Consultant recommendation: I’ll be in my trailer... also, can someone please buy me a trailer.
 formats:
   HTML: https://stellarscripts.tumblr.com/transcripts/s2-bloopers-part-2
   Google Doc: https://docs.google.com/document/d/1cpddVtCxCOucwBWEhVa-17ncVNtvQMUD5V4swJqCdEY/edit

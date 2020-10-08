@@ -26,6 +26,8 @@ official: false
 
 Hello, and welcome to part 2 of the Stellar Firma season 2 bloopers, because we know that if nothing else our fans are gluttons for the punishment that is our consistent and abject failure. Look, this feels negative. They're fun! They're bloopers! Supposed to be fun. Enjoy them! Don't cry. Stop crying!
 
+------
+
 ##### [transition beep]
 
 #### TIM
@@ -56,6 +58,8 @@ Didn't expect to go there! But it did.
 
 __[laughing]__ Okay. __[laughs]__
 
+------
+
 ##### [transition beep]
 
 #### TIM
@@ -85,6 +89,8 @@ __[sounding like Elvis]__ Well, hey there, chicken. __[chuckles]__
 #### TIM
 
 Sorry. Sorry.
+
+------
 
 ##### [transition beep]
 
@@ -196,6 +202,8 @@ __BEN and TIM:__ ♪ You want the foot. ♫
 
 ♪ You you you want the foot. ♫ __[Ben guffaws]__
 
+------
+
 ##### [transition beep]
 
 #### TIM
@@ -203,6 +211,8 @@ __BEN and TIM:__ ♪ You want the foot. ♫
 "Well, it was lovely to see you, Hartro, and I, I hope-- I hope we... do better next time. I don't f-__[bleep]__-ing know what I was-- __[all laugh]__ [incomprehensible] I hope you fall down a well. __[all laugh, Ben snorts and starts laughing again]__ Hartro, f-__[bleep]__ you!"
 
 ##### [Jenny and Ben laugh]
+
+------
 
 ##### [transition beep]
 
@@ -258,6 +268,8 @@ It made me uncomfortable.
 
 This is not gonna become poo play!
 
+------
+
 ##### [transition beep]
 
 #### TIM
@@ -271,6 +283,8 @@ I was almost gonna stop you and say, 'Why not put on an Out of Office?' __[laugh
 #### TIM
 
 Right. Okay. Cool. That's good. Um--
+
+------
 
 ##### [transition beep]
 
@@ -302,6 +316,8 @@ It says something about your character that I was like, 'This could absolutely b
 
 Okay. Give me a mo'. Right.
 
+------
+
 ##### [transition beep]
 
 ##### [hand clap marker]
@@ -321,6 +337,8 @@ Just-- Why do I clap?! I ca-- I haven't thought of anything yet! I was just like
 #### BEN
 
 Well, to be fair, it's the improv way.
+
+------
 
 ##### [transition beep]
 
@@ -375,6 +393,8 @@ Ay? Take that.
 #### BEN
 
 Also, might be Brandon Flowers's solo album.
+
+------
 
 ##### [transition beep]
 
@@ -442,6 +462,8 @@ Okay. Look--
 
 Okay. Okay. Okay.
 
+------
+
 ##### [transition beep]
 
 #### TIM
@@ -449,6 +471,8 @@ Okay. Okay. Okay.
 __[yelling]__ "And we were-- Oh, __[chuckling]__ hello Agent! Oh, I... Oh, ho ho! I hadn't thought of anything to say!"
 
 ##### [Ben laughs]
+
+------
 
 ##### [transition beep]
 
@@ -465,6 +489,8 @@ __[yelling]__ "And we were-- Oh, __[chuckling]__ hello Agent! Oh, I... Oh, ho ho
 "Do you like how we've walked? Because agril-- agra-- f-__[bleep]__! Caw caw! Ah!"
 
 ##### [Ben laughs]
+
+------
 
 ##### [transition beep]
 
@@ -492,6 +518,8 @@ Oh god, did you start?
 
 Oh, no.
 
+------
+
 ##### [transition beep]
 
 #### TIM
@@ -518,6 +546,8 @@ __[singing]__ ♪ Oh, everything has this tune! Have you noticed everything has 
 
 __[laughs]__ Well, you sell it well.
 
+------
+
 ##### [transition beep]
 
 #### BEN
@@ -540,6 +570,8 @@ No one's having fun.
 
 St-- Shut up. Stop moving, looking at me, or __[laughing]__ talking.
 
+------
+
 ##### [transition beep]
 
 #### TIM
@@ -558,11 +590,13 @@ Yeah. __[snickers]__ You've-- you've learned our format.
 
 Yeah.
 
+------
+
 ##### [transition beep]
 
 #### TIM
 
-...Meh.__ [Ben and Tim both break into snickers]__
+...Meh. __[Ben and Tim both break into snickers]__
 
 #### BEN
 
@@ -583,6 +617,8 @@ I didn't-- couldn't think of anything. __[Ben laughs]__ Oh, I'm tired. Wah. Wah.
 #### BEN [mockingly imitating]
 
 Wah.
+
+------
 
 ##### [transition beep]
 
@@ -610,9 +646,13 @@ Ah-ha-ha-ha! Callback.
 
 ##### [Ben continues laughing]
 
+------
+
 ##### [transition beep]
 
-__BEN and TIM: [together]__ "Ah! Paxt Scrum!"
+#### BEN and TIM
+
+__[together]__ "Ah! Paxt Scrum!"
 
 #### BEN
 
@@ -625,6 +665,8 @@ __BEN and TIM: [together]__ "Ah! Paxt Scrum!"
 #### BEN
 
 That's fine, I slightly forgot myself. __[Tim laughs]__ "I was-- I'm so glad to see you."
+
+------
 
 ##### [transition beep]
 
@@ -644,6 +686,8 @@ That's fine, I slightly forgot myself. __[Tim laughs]__ "I was-- I'm so glad to 
 
 Just definitely keep doing tens.
 
+------
+
 ##### [transition beep]
 
 #### TIM [slightly husky voice]
@@ -659,6 +703,8 @@ Just definitely keep doing tens.
 "That's okay." __[sings]__ ♪ Jokes and puppets. Toodledo!♫
 
 ##### [Ben chuckles]
+
+------
 
 ##### [transition beep]
 
@@ -678,6 +724,8 @@ Nailed it.
 
 ♪ Totoodle! It's the best status to be in. It's the status quo! Babedo-bawow. ♫
 
+------
+
 ##### [transition beep]
 
 #### TIM
@@ -696,6 +744,8 @@ I will push *my* face through this table.
 
 Push my face through your fac-- __[breaks into laughter]__
 
+------
+
 ##### [transition beep]
 
 #### TIM
@@ -707,6 +757,8 @@ Push my face through your fac-- __[breaks into laughter]__
 #### TIM
 
 "If you're a person who likes order, needless-- f-__[bleep]__ me."
+
+------
 
 ##### [transition beep]
 
@@ -721,6 +773,8 @@ Terribly sorry. __[coughs some more and sniffs]__
 #### TIM
 
 You see what we do for the art, David? Do you see what we've done to ourselves? __[Ben chuckles]__ Can you hear our voices? __[extra huskily]__ I'm so husky now.
+
+------
 
 ##### [transition beep]
 
@@ -764,6 +818,8 @@ No, this is genuine stuff. This is us f-__[bleep]__-ing about. This is--
 
 Although, there was that one-- Okay. Right, ready?
 
+------
+
 ##### [transition beep]
 
 ##### [Ben makes panicked David noises]
@@ -792,6 +848,8 @@ Okay, so you're going 'ooh', and then you-- and yeah, go ahead.
 
 I'm very sorry.
 
+------
+
 ##### [transition beep]
 
 #### BEN
@@ -812,6 +870,8 @@ Sorry! F-__[bleep]__.
 
 ##### [Jenny and Ben laugh]
 
+------
+
 ##### [transition beep]
 
 #### BEN
@@ -829,6 +889,8 @@ What on Earth...?
 #### TIM
 
 "I don't know." __[laughs]__
+
+------
 
 ##### [transition beep]
 
@@ -864,6 +926,8 @@ Well, rude.
 
 Very rude. Right, okay.
 
+------
+
 ##### [transition beep]
 
 #### TIM
@@ -896,6 +960,8 @@ Well, luckily these conditions are 'you're a prisoner, on a-- in space' so--
 
 ##### [Ben chuckles]
 
+------
+
 ##### [transition beep]
 
 #### TIM
@@ -917,6 +983,8 @@ Well, luckily these conditions are 'you're a prisoner, on a-- in space' so--
 #### TIM [Tim makes gnawing noises]
 
 "My thumb! My delicious thumb!"
+
+------
 
 ##### [transition beep]
 
@@ -958,7 +1026,7 @@ Whoa, hey. Subtext, buddy! __[laughs]__
 
 #### TIM
 
-See?__ [panicked yell]__
+See? __[panicked yell]__
 
 #### BEN
 
@@ -976,6 +1044,8 @@ No.
 
 Right. Right, right, right. Okay.
 
+------
+
 ##### [transition beep]
 
 #### TIM
@@ -989,6 +1059,8 @@ Right. Right, right, right. Okay.
 #### TIM
 
 "Threatled? Shut up." __[Ben chuckles]__
+
+------
 
 ##### [transition beep]
 
@@ -1007,6 +1079,8 @@ Damn it.
 #### TIM
 
 "It's a rifle. [__BEN:__ No, it's me.] No, it's a trifle! It's a terrible trifle! Yum yum yum! Oh, I've become sick because I'm allergic to dairy."
+
+------
 
 ##### [transition beep]
 
@@ -1035,6 +1109,8 @@ I'll speak the name again.
 #### BEN
 
 It's a funny name.
+
+------
 
 ##### [transition beep]
 
@@ -1102,7 +1178,7 @@ Mm-hmm.
 
 #### TIM [deep sultry voice]
 
-Hmm.__ [laughs] [normal voice]__ Right, okay.
+Hmm. __[laughs] [normal voice]__ Right, okay.
 
 #### BEN [laughs]
 
@@ -1128,6 +1204,8 @@ Just put it-- just put it on Patreon and put our f-__[bleep]__-ing crimes out th
 
 Yeah.
 
+------
+
 ##### [transition beep]
 
 #### BEN [as David as Dartro Diltz]
@@ -1149,6 +1227,8 @@ I'm so oh word ehh urgh! Uh...
 #### BEN
 
 'God, they're such good improv-ers! They just do it all in one take!'
+
+------
 
 ##### [transition beep]
 
@@ -1175,6 +1255,8 @@ I'm so oh word ehh urgh! Uh...
 #### TIM
 
 "...Personal... Idea person. ...I'd like another go at that, please. __[Ben giggles]__ What's funnier? He's a private investigator, but what's funnier than that?"
+
+------
 
 ##### [transition beep]
 
@@ -1206,21 +1288,33 @@ I'm a little baby!
 
 Okay. Where do you want to take that from?
 
+------
+
 ##### [transition beep]
 
-__BEN__: "Okay. Well, why don't you actually try?"
+#### BEN 
+
+"Okay. Well, why don't you actually try?"
 
 #### TIM [verge of tears]
 
 "Because trying is difficult! And I don't want to do it!"
 
-__BEN__: "...Uh huh. Okay, well, if you don't want to try, why don't you just sit there quietly, and I'll work it out?"
+#### BEN
 
-__TIM__: "Because that would make for a bad end to the podcast."
+"...Uh huh. Okay, well, if you don't want to try, why don't you just sit there quietly, and I'll work it out?"
+
+#### TIM
+
+"Because that would make for a bad end to the podcast."
+
+------
 
 ##### [transition beep]
 
-__ANNIE:__ I needed to fart and sneeze at the same time.
+#### ANNIE
+
+I needed to fart and sneeze at the same time.
 
 ##### [Tim and Ben burst into laughter]
 
@@ -1228,7 +1322,9 @@ __ANNIE:__ I needed to fart and sneeze at the same time.
 
 Now do both.
 
-__ANNIE__: I was like-- I was like... clench butt. Mhmgh.
+#### ANNIE
+
+I was like-- I was like... clench butt. Mhmgh.
 
 #### TIM
 
@@ -1252,9 +1348,13 @@ They've both been absorbed back into my body.
 
 'I killed them.'
 
-__ANNIE__: They'll just come out later.
+#### ANNIE 
 
-__TIM__: 'Now I can't p-__[bleep]__ for two days.'
+They'll just come out later.
+
+#### TIM
+
+'Now I can't p-__[bleep]__ for two days.'
 
 #### ANNIE [still laughing]
 
@@ -1300,27 +1400,39 @@ Let it be known.
 
 ##### [more laughter]
 
+------
+
 ##### [transition beep]
 
 #### BEN
 
 "Okay. The next case we've got is from--"
 
-__TIM__: "Case? That was last week, buddy."
+#### TIM
 
-__BEN__: "Shut up."
+"Case? That was last week, buddy."
 
-__TIM__: "Okay, let's take that one again."
+#### BEN
 
-__ANNIE__: I need to burp.
+"Shut up."
 
-__TIM__: "Hang on, Annie's gonna have a burp."
+#### TIM
+
+"Okay, let's take that one again."
+
+#### ANNIE
+
+I need to burp.
+
+#### TIM
+
+"Hang on, Annie's gonna have a burp."
 
 #### ANNIE [burps]
 
 Sorry.
 
-__TIM__: You angled it into the mic!
+#### TIM__: You angled it into the mic!
 
 #### BEN [crosstalk]
 
@@ -1342,23 +1454,39 @@ __TIM__: You angled it into the mic!
 
 Okay.
 
+------
+
 ##### [transition beep]
 
-__BEN__: "J'accuse!"
+#### BEN
 
-__TIM__: "J'abused! Is I! F-__[bleep]__-k you!"
+"J'accuse!"
+
+#### TIM
+
+"J'abused! Is I! F-__[bleep]__-k you!"
 
 ##### [everyone laughs]
 
-__ANNIE__: Stunning.
+#### ANNIE
 
-__BEN__: "Wow, that escalated!"
+Stunning.
 
-__TIM__: J'accuse me again.
+#### BEN
+
+"Wow, that escalated!"
+
+#### TIM
+
+J'accuse me again.
+
+------
 
 ##### [transition beep]
 
-__BEN__: "J'... bounce-off-me-and-- That was awful! I shouldn't--"
+#### BEN 
+
+"J'... bounce-off-me-and-- That was awful! I shouldn't--"
 
 #### TIM [crosstalk]
 
@@ -1368,17 +1496,27 @@ __BEN__: "J'... bounce-off-me-and-- That was awful! I shouldn't--"
 
 Shouldn't have tried. Shouldn't have tried. Shouldn't have tried.
 
-__ANNIE__: "Never try!"
+#### ANNIE
+
+"Never try!"
 
 #### TIM [laughing]
 
 Never try! Right, do it again.
 
-__BEN__: "Well, that's the Trexel Geistman way!"
+#### BEN
 
-__ANNIE__: "If you can't try, you can't fail!"
+"Well, that's the Trexel Geistman way!"
 
-__TIM__: J'accuse me again. J'accuse me again.
+#### ANNIE
+
+"If you can't try, you can't fail!"
+
+#### TIM
+
+J'accuse me again. J'accuse me again.
+
+------
 
 ##### [transition beep]
 
@@ -1390,13 +1528,17 @@ __TIM__: J'accuse me again. J'accuse me again.
 
 "Okay, we've had enough with these--"
 
-__TIM__: F*ck, I'm sorry, I'm sorry. __[Ben laughing]__ I wanna say the words properly! Okay.
+#### TIM
+
+F*ck, I'm sorry, I'm sorry. __[Ben laughing]__ I wanna say the words properly! Okay.
+
+------
 
 ##### [transition beep]
 
 #### BEN
 
-Well, anyway, I mean, broadly, it's--__ [trying not to laugh]__
+Well, anyway, I mean, broadly, it's-- __[trying not to laugh]__
 
 #### TIM [wheezing]
 
@@ -1450,43 +1592,77 @@ But we'll put it in, 'cause otherwise you'll get very tired as well.
 
 Yes.
 
+------
+
 ##### [transition beep]
 
 #### JENNY [chuckling]
 
 "Well, look what he's wearing."
 
-__TIM__: "Ooh."
+#### TIM
 
-__BEN__: "H-hang on a minute."
+"Ooh."
 
-__TIM__: "Oh snap."
+#### BEN
 
-__BEN__: "Wha--"
+"H-hang on a minute."
 
-__TIM__: "Take that. Throwing some shade."
+#### TIM
 
-__BEN__: "I didn't get a choice, this is just the--"
+"Oh snap."
 
-__TIM__: "Mmm, yas queen."
+#### BEN
 
-__BEN__: "--onesie I was given to--" __[breaks into laughter]__ Tim!
+"Wha--"
 
-__TIM__: I am going to say it!
+#### TIM
 
-__BEN__: You can't say 'yas queen!'
+"Take that. Throwing some shade."
 
-__TIM__: Ah, can't I? "Yas queen!"
+#### BEN
 
-__BEN__: Okay, you can, but you... shouldn't?
+"I didn't get a choice, this is just the--"
 
-__TIM__: Shouldn't I?
+#### TIM
 
-__BEN__: I don't know!
+"Mmm, yas queen."
 
-__TIM__: "Shouldn't I?"
+#### BEN
 
-__BEN__: Isn't that a little bit contemporary?
+"--onesie I was given to--" __[breaks into laughter]__ Tim!
+
+#### TIM
+
+I am going to say it!
+
+#### BEN
+
+You can't say 'yas queen!'
+
+#### TIM
+
+Ah, can't I? "Yas queen!"
+
+#### BEN
+
+Okay, you can, but you... shouldn't?
+
+#### TIM
+
+Shouldn't I?
+
+#### BEN
+
+I don't know!
+
+#### TIM
+
+"Shouldn't I?"
+
+#### BEN
+
+Isn't that a little bit contemporary?
 
 #### TIM
 
@@ -1507,6 +1683,8 @@ _(crosstalk)_ Alright. I'm gonna-- I'm gonna say 'throw shade' and I'm gonna say
 #### TIM
 
 But I'm not gonna-- Look, I watched RuPaul's Drag Race on an old holovid. __[chuckles]__
+
+------
 
 ##### [transition beep]
 
@@ -1558,6 +1736,8 @@ We've been doing this for 40 episodes now! __[laughs]__
 
 So you're in the expediting--
 
+------
+
 ##### [transition beep]
 
 #### BEN
@@ -1591,6 +1771,8 @@ A zinger but hurtful.
 #### TIM
 
 __[laughs]__ At least now I've got some distance. I'm out-- I'm out of swinging range, so you can't get me.
+
+------
 
 ##### [transition beep]
 
@@ -1629,6 +1811,8 @@ What, Fang High?
 #### TIM
 
 Fang High. __[laughs]__
+
+------
 
 ##### [transition beep]
 
@@ -1680,6 +1864,8 @@ Wait, no. Save it for the tape.
 
 They call me the urban goose. __[Ben laughs]__ Um, right.
 
+------
+
 ##### [transition beep]
 
 #### TREXEL
@@ -1697,6 +1883,8 @@ I-- I learned a lot just then.
 #### BEN
 
 With you shouting at me.
+
+------
 
 ##### [transition beep]
 
@@ -1739,6 +1927,8 @@ Editoring it. Editoring is a word.
 #### TIM
 
 _(crosstalk)_ Who's edit-- editorising it?
+
+------
 
 ##### [transition beep]
 
@@ -1786,6 +1976,8 @@ Yeah, yeah, yeah. __[mouth trumpet noise]__ Okay.
 
 Alright.
 
+------
+
 ##### [transition beep]
 
 #### AMY
@@ -1799,6 +1991,8 @@ Good. __[soft laughing in the background]__ Lovely. Wonderful.
 #### BEN
 
 Like a pantomime dame. __[Amy laughs]__ 'Please!'
+
+------
 
 ##### [transition beep]
 
@@ -1838,6 +2032,8 @@ Can't take-- can't take that and put it into bloopers, can we?
 
 Put that f-__[bleep]__-king sh-__[bleep]__-t in the bloopers. It's all beeps! __[Ben snorts]__ All beeps!
 
+------
+
 ##### [transition beep]
 
 #### TIM
@@ -1876,23 +2072,39 @@ For completely *no* context.
 
 Finally, the heat of the recording rooms has melted their brains. __[Ben laughs]__ Okay. Right.
 
+------
+
 ##### [transition beep]
 
 #### HELEN
 
 They say-- they say that it's like-- like, it's like a buttcrack, full of mildew.
 
-__TIM__: Wow. __[over Ben and Helen crying with laughter]__ Okay! Book me in. Sign me up. Wowee.
+#### TIM
 
-__BEN__: I think that might be the-- I mean, look, deliver the line again, [__TIM:__ Yeah yeah yeah.] we gotta do it without laughing. I think that is going to be the dirtiest that we've ever been on this podcast so--
+Wow. __[over Ben and Helen crying with laughter]__ Okay! Book me in. Sign me up. Wowee.
 
-__TIM__: Buttcrack filled with mildew.
+#### BEN
 
-__BEN__: F-__[bleep]__-in' filthy.
+I think that might be the-- I mean, look, deliver the line again, [__TIM:__ Yeah yeah yeah.] we gotta do it without laughing. I think that is going to be the dirtiest that we've ever been on this podcast so--
 
-__TIM__: That's awful.
+#### TIM
 
-__HELEN__: Okay.
+Buttcrack filled with mildew.
+
+#### BEN
+
+F-__[bleep]__-in' filthy.
+
+#### TIM
+
+That's awful.
+
+#### HELEN
+
+Okay.
+
+------
 
 ##### [transition beep]
 
@@ -1900,29 +2112,37 @@ __HELEN__: Okay.
 
 This is what we call a reference, or a call-back!
 
-__TIM__: "It's a reference! Guys, it's a reference!"
+#### TIM
+
+"It's a reference! Guys, it's a reference!"
 
 #### BEN [Trexel voice]
 
 We're building out the world to be a whole and real thing, instead of just a bunch of garbage we've made up.
 
-__TIM__: We don't have to do a joke, we could just do a reference! It's as good as!
+#### TIM
+
+We don't have to do a joke, we could just do a reference! It's as good as!
 
 #### BEN
 
 'Ha! I recognised that thing!'
 
-#### TIM [impersonating
+#### TIM 
 
-__a vine]__ 'Ha! I do that!' Right. Um...
+__[impersonating a vine]__ 'Ha! I do that!' Right. Um...
 
 #### BEN [laughing]
 
 What, have a knife put-- yeah, really-- really hashtag relatable content there.
 
-__TIM__: Yeah yeah yeah yeah yeah. Hey, them sweet vines. Right. Okay.
+#### TIM
+
+Yeah yeah yeah yeah yeah. Hey, them sweet vines. Right. Okay.
 
 ##### [Ben laughs]
+
+------
 
 ##### [transition beep]
 
@@ -1936,31 +2156,53 @@ What do you mean-- __[as if falling, but a bit half-heartedly]__ Wahhh!! __[laug
 
 ##### [Ben laughs]
 
+------
+
 ##### [transition beep]
 
-__TIM__: "Yes, yes, it is fun. It's fun to have mail paraphernalia on your feet."
+#### TIM
 
-__BEN__: "Yes."
+"Yes, yes, it is fun. It's fun to have mail paraphernalia on your feet."
 
-__TIM__: Hang on a minute. The phase 'mail paraphernalia'-- __[laughs]__
+#### BEN
 
-__BEN__: Oh yes! Oh *yes*.
+"Yes."
 
-__TIM__: Oh dear. Are we keeping that? Mail paraphernalia?
+#### TIM
 
-__BEN__: That is known as a __[French pronunciation]__ 'double entendre.'
+Hang on a minute. The phase 'mail paraphernalia'-- __[laughs]__
 
-__TIM__: Mh-hmhm! Whoopsie!
+#### BEN
 
-__BEN__: A double intender. And, I feel like, if Round the Horne could do something like that, we should be able to do something like that.
+Oh yes! Oh *yes*.
+
+#### TIM
+
+Oh dear. Are we keeping that? Mail paraphernalia?
+
+#### BEN
+
+That is known as a __[French pronunciation]__ 'double entendre.'
+
+#### TIM
+
+Mh-hmhm! Whoopsie!
+
+#### BEN
+
+A double intender. And, I feel like, if Round the Horne could do something like that, we should be able to do something like that.
 
 #### TIM [quietly]
 
 Yes.
 
-__BEN__: If we can get it past--
+#### BEN
 
-__TIM__: Are you going to say 'ooh 'er'?
+If we can get it past--
+
+#### TIM
+
+Are you going to say 'ooh 'er'?
 
 #### BEN [laughs]
 
@@ -1969,6 +2211,8 @@ Ooh 'er ducky.
 #### TIM
 
 Ooh 'er ducky.
+
+------
 
 ##### [transition beep]
 
@@ -2016,6 +2260,8 @@ I don't know what it is.
 
 I'm living-- __[whispers]__ Amateur.
 
+------
+
 ##### [transition beep]
 
 #### TIM
@@ -2047,6 +2293,8 @@ That was incredible.
 #### TIM
 
 It's okay.
+
+------
 
 ##### [transition beep]
 
@@ -2086,11 +2334,15 @@ Waaah.
 
 ##### [Rachel laughs]
 
+------
+
 ##### [transition beep]
 
 #### TIM
 
 I hope you enjoyed part 2 of the, uh, bloopers for season 2 of Stellar Firma. We will be returning next time with a special behind-the-scenes look at the inner workings of the production of Stellar Firma. Hot tip: it's mostly removing all of my shouting. __[shouts in Trexel's voice]__ "But they'll never get it all! Ha ha ha ha!"
+
+------
 
 ##### [short version of the outro theme]
 

@@ -18,7 +18,7 @@ sources:
 official: false
 ---
 
-## Transcribed 9/30/20 via stellarscripts on tumblr
+## Transcribed 9/30/20 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 
 ##### [shorter version of the show theme]
 

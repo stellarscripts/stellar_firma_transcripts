@@ -1530,7 +1530,7 @@ J'accuse me again. J'accuse me again.
 
 #### TIM
 
-F*ck, I'm sorry, I'm sorry. __[Ben laughing]__ I wanna say the words properly! Okay.
+F<span>&#42;</span>ck, I'm sorry, I'm sorry. __[Ben laughing]__ I wanna say the words properly! Okay.
 
 ------
 
@@ -2042,7 +2042,7 @@ I'm enjoying myself. Come on. P-__[bleep]__-ss Ben. __[Ben laughs loudly]__ Come
 
 #### BEN
 
-Oh, here come the p-__[bleep]__-ss men. __[quietly]__ F*cking hell.
+Oh, here come the p-__[bleep]__-ss men. __[quietly]__ F<span>&#42;</span>cking hell.
 
 #### TIM
 

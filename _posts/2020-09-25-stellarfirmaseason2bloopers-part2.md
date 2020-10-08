@@ -118,7 +118,7 @@ Just-- This is proof that it's-- the foot is not all me!
 
 #### BEN
 
-Wait! Sh-__[bleep]__! Tim, we've been rumbled!
+Wait! Sh-**[bleep]**! Tim, we've been rumbled!
 
 #### TIM
 
@@ -192,7 +192,9 @@ Some sort of musical remix.
 
 Yes. __[mimicking EDM style]__ ♪ You you-- ♫
 
-__BEN and TIM:__ ♪ You want the foot. ♫
+#### BEN and TIM
+
+♪ You want the foot. ♫
 
 #### BEN
 
@@ -208,7 +210,7 @@ __BEN and TIM:__ ♪ You want the foot. ♫
 
 #### TIM
 
-"Well, it was lovely to see you, Hartro, and I, I hope-- I hope we... do better next time. I don't f-__[bleep]__-ing know what I was-- __[all laugh]__ [incomprehensible] I hope you fall down a well. __[all laugh, Ben snorts and starts laughing again]__ Hartro, f-__[bleep]__ you!"
+"Well, it was lovely to see you, Hartro, and I, I hope-- I hope we... do better next time. I don't f-**[bleep]**-ing know what I was-- __[all laugh]__ [incomprehensible] I hope you fall down a well. __[all laugh, Ben snorts and starts laughing again]__ Hartro, f-**[bleep]** you!"
 
 ##### [Jenny and Ben laugh]
 
@@ -356,7 +358,7 @@ __[on the verge of having an existential crisis]__ "Am I human?"
 
 #### TIM
 
-"Is it-- Da, f-__[bleep]__ off."
+"Is it-- Da, f-**[bleep]** off."
 
 #### BEN
 
@@ -486,7 +488,7 @@ __[yelling]__ "And we were-- Oh, __[chuckling]__ hello Agent! Oh, I... Oh, ho ho
 
 #### TIM
 
-"Do you like how we've walked? Because agril-- agra-- f-__[bleep]__! Caw caw! Ah!"
+"Do you like how we've walked? Because agril-- agra-- f-**[bleep]**! Caw caw! Ah!"
 
 ##### [Ben laughs]
 
@@ -496,7 +498,7 @@ __[yelling]__ "And we were-- Oh, __[chuckling]__ hello Agent! Oh, I... Oh, ho ho
 
 #### TIM
 
-__[from farther away]__ "If you can't find a t-__[bleep]__-y bar, David, you make a t-__[bleep]__-y bar! __[Ben laughs]__ Yes, we are recording now. __[Ben continues to laugh]__ And that was to you, David!"
+__[from farther away]__ "If you can't find a t-**[bleep]**-y bar, David, you make a t-**[bleep]**-y bar! __[Ben laughs]__ Yes, we are recording now. __[Ben continues to laugh]__ And that was to you, David!"
 
 #### BEN
 
@@ -532,7 +534,7 @@ Lucy. Lucy. __[singing like Trexel]__ ♪ Graph friend. Lucy, the graph friend. 
 
 #### TIM
 
-__[sarcastic]__ Oh, yeah. And I'm a f-__[bleep]__-ing king.
+__[sarcastic]__ Oh, yeah. And I'm a f-**[bleep]**-ing king.
 
 #### BEN
 
@@ -680,7 +682,7 @@ That's fine, I slightly forgot myself. __[Tim laughs]__ "I was-- I'm so glad to 
 
 #### BEN
 
-"Kee--" F-__[bleep]__ me.__ [both laugh]__ I guess that is your name. But keep--
+"Kee--" F-**[bleep]** me. __[both laugh]__ I guess that is your name. But keep--
 
 #### TIM
 
@@ -756,7 +758,7 @@ Push my face through your fac-- __[breaks into laughter]__
 
 #### TIM
 
-"If you're a person who likes order, needless-- f-__[bleep]__ me."
+"If you're a person who likes order, needless-- f-**[bleep]** me."
 
 ------
 
@@ -792,7 +794,7 @@ I need to comment on the strange noises.
 
 #### JENNY
 
-"Sh-__[bleep].__ But just good morning anyway!"
+"Sh-**[bleep]**. But just good morning anyway!"
 
 #### TIM
 
@@ -812,7 +814,7 @@ Don't worry David.
 
 #### BEN
 
-No, this is genuine stuff. This is us f-__[bleep]__-ing about. This is--
+No, this is genuine stuff. This is us f-**[bleep]**-ing about. This is--
 
 #### TIM
 
@@ -830,7 +832,7 @@ Although, there was that one-- Okay. Right, ready?
 
 #### TIM
 
-"You will see a man kicking a desk."__ [Jenny laughs]__ A man kicking a desk.
+"You will see a man kicking a desk." __[Jenny laughs]__ A man kicking a desk.
 
 #### BEN
 
@@ -866,7 +868,7 @@ You called her Trexel.
 
 #### TIM
 
-Sorry! F-__[bleep]__.
+Sorry! F-**[bleep]**.
 
 ##### [Jenny and Ben laugh]
 
@@ -916,7 +918,7 @@ No, I think just Edinburgh and Glasgow are very good for it. [__TIM:__ Okay.] Bu
 
 #### TIM [laughing]
 
-I think that Edinburgh has sh-__[bleep]__ escape rooms. That's what I'm saying.
+I think that Edinburgh has sh-**[bleep]** escape rooms. That's what I'm saying.
 
 #### BEN
 
@@ -1198,7 +1200,7 @@ Sorry about-- __[realisation]__ Oh god, no! __[Ben laughs]__ Oh, I'm sorry! Ohh,
 
 #### BEN [crosstalk]
 
-Just put it-- just put it on Patreon and put our f-__[bleep]__-ing crimes out there for everyone to see.
+Just put it-- just put it on Patreon and put our f-**[bleep]**-ing crimes out there for everyone to see.
 
 #### TIM
 
@@ -1266,11 +1268,11 @@ I'm so oh word ehh urgh! Uh...
 
 #### BEN
 
-"You have loads! You have loads! You have your own office! You've got your name! You can go outside! You can go to the Astral Bar! You can do so many things, and you're just sad because now you're in a f-__[bleep]__-ing--"
+"You have loads! You have loads! You have your own office! You've got your name! You can go outside! You can go to the Astral Bar! You can do so many things, and you're just sad because now you're in a f-**[bleep]**-ing--"
 
 #### TIM
 
-__[Ben laughs loudly while Tim talks]__ Alright, alright, Jesus! Alright. F-__[bleep]__-in' hell. __[weird voice]__ A bit of the art has crept out in the character there.
+__[Ben laughs loudly while Tim talks]__ Alright, alright, Jesus! Alright. F-**[bleep]**-in' hell. __[weird voice]__ A bit of the art has crept out in the character there.
 
 #### BEN
 
@@ -1354,7 +1356,7 @@ They'll just come out later.
 
 #### TIM
 
-'Now I can't p-__[bleep]__ for two days.'
+'Now I can't p-**[bleep]** for two days.'
 
 #### ANNIE [still laughing]
 
@@ -1368,7 +1370,7 @@ What, so your colon was so inflated [__ANNIE__: Yeah!] that you couldn't see-- _
 
 #### ANNIE [still laughing]
 
-We went all the way to Haywards Heath to be told I had the farts. I was like, 'I f-__[bleep]__-ing know; you should smell my car!' __[Ben and Tim lose it]__ It's disgusting!
+We went all the way to Haywards Heath to be told I had the farts. I was like, 'I f-**[bleep]**-ing know; you should smell my car!' __[Ben and Tim lose it]__ It's disgusting!
 
 #### TIM [as her doctor]
 
@@ -1464,7 +1466,7 @@ Okay.
 
 #### TIM
 
-"J'abused! Is I! F-__[bleep]__-k you!"
+"J'abused! Is I! F-**[bleep]**-k you!"
 
 ##### [everyone laughs]
 
@@ -1582,7 +1584,7 @@ Look, I'm not here to tell people when they can or cannot--
 
 #### ANNIE
 
-It's my f-__[bleep]__-ing Sunday, alright, I wanna shake.__ [Tim laughs]__ Jesus Christ.
+It's my f-**[bleep]**-ing Sunday, alright, I wanna shake. __[Tim laughs]__ Jesus Christ.
 
 #### TIM
 
@@ -1870,7 +1872,7 @@ They call me the urban goose. __[Ben laughs]__ Um, right.
 
 #### TREXEL
 
-"Wha-- __[yelling]__ You can learn a lot about from some-- F-__[bleep]__ for f-__[bleep]__-k f-__[bleep]__-k f-__[bleep]__-k f-__[bleep]__-k! You can learn a lot about from fu-fum."
+"Wha-- __[yelling]__ You can learn a lot about from some-- F-**[bleep]** for f-**[bleep]**-k f-**[bleep]**-k f-**[bleep]**-k f-**[bleep]**-k! You can learn a lot about from fu-fum."
 
 #### BEN
 
@@ -2014,7 +2016,7 @@ I'm a considerate laugher.
 
 #### TIM
 
-You're a c-__[bleep]__-tsiderate laughter. That's right.
+You're a c-**[bleep]**-tsiderate laughter. That's right.
 
 #### BEN
 
@@ -2030,7 +2032,7 @@ Can't take-- can't take that and put it into bloopers, can we?
 
 #### TIM
 
-Put that f-__[bleep]__-king sh-__[bleep]__-t in the bloopers. It's all beeps! __[Ben snorts]__ All beeps!
+Put that f-**[bleep]**-king sh-**[bleep]**-t in the bloopers. It's all beeps! __[Ben snorts]__ All beeps!
 
 ------
 
@@ -2038,27 +2040,27 @@ Put that f-__[bleep]__-king sh-__[bleep]__-t in the bloopers. It's all beeps! __
 
 #### TIM
 
-I'm enjoying myself. Come on. P-__[bleep]__-ss Ben. __[Ben laughs loudly]__ Come on, you p-__[bleep]__-ss men. You both lanky pints of p-__[bleep]__-ss.
+I'm enjoying myself. Come on. P-**[bleep]**-ss Ben. __[Ben laughs loudly]__ Come on, you p-**[bleep]**-ss men. You both lanky pints of p-**[bleep]**-ss.
 
 #### BEN
 
-Oh, here come the p-__[bleep]__-ss men. __[quietly]__ F<span>&#42;</span>cking hell.
+Oh, here come the p-**[bleep]**-ss men. __[quietly]__ F<span>&#42;</span>cking hell.
 
 #### TIM
 
-Oh! Is that-- Sorry. What ho? Do I see the p-__[bleep]__-ss men afore me? __[Ben laughs] [sings]__ ♪ P-__[bleep]__-ss men. P-__[bleep]__-ss men. [incomprehensible] ♫
+Oh! Is that-- Sorry. What ho? Do I see the p-**[bleep]**-ss men afore me? __[Ben laughs] [sings]__ ♪ P-**[bleep]**-ss men. P-**[bleep]**-ss men. [incomprehensible] ♫
 
 #### BEN
 
-Didn't realise it was a p-__[bleep]__-ss man parade over here!
+Didn't realise it was a p-**[bleep]**-ss man parade over here!
 
 #### TIM
 
-__[laughs] [to the tune of "Stars and Stripes Forever"]__ ♪ Na na na-na na, the p-__[bleep]__-ss man parade! The p-__[bleep]__-ss-- ♫
+__[laughs] [to the tune of "Stars and Stripes Forever"]__ ♪ Na na na-na na, the p-**[bleep]**-ss man parade! The p-**[bleep]**-ss-- ♫
 
 #### BEN
 
-Best-- __[chuckles]__ best thing about this is obviously any of Helen's-- __[Tim laughs]__ Helen is not being recorded so we just tal-- started talking about p-__[bleep]__-ss men out of absolutely nowhere!
+Best-- __[chuckles]__ best thing about this is obviously any of Helen's-- __[Tim laughs]__ Helen is not being recorded so we just tal-- started talking about p-**[bleep]**-ss men out of absolutely nowhere!
 
 #### TIM
 
@@ -2094,7 +2096,7 @@ Buttcrack filled with mildew.
 
 #### BEN
 
-F-__[bleep]__-in' filthy.
+F-**[bleep]**-in' filthy.
 
 #### TIM
 

@@ -24,7 +24,7 @@ official: false
 
 #### TIM
 
-Hello, and welcome to part 2 of the Stellar Firma season 2 bloopers, because we know that if nothing else our fans are gluttons for the punishment that is our consistent and abject failure. Look, this feels negative. They're fun! They're bloopers! Supposed to be fun. Enjoy them! Don't cry. Stop crying!
+Hello, and welcome to part 2 of the Stellar Firma season 2 bloopers, because we know that if nothing else our fans are gluttons for the punishment that is our consistent and abject failure. Look, this feels negative. They're fun! They're bloopers! Supposed to be fun. Enjoy them! Don't cry. Stop crying! <a id="footnote-1-ref" href="#footnote-1"><sup>[1]</sup></a>
 
 ##### [transition beep]
 
@@ -350,7 +350,7 @@ I was gonna b-- I was about to have an existential moment and you made a Coldpla
 
 #### BEN
 
-Ha ha! It's The Killers.
+Ha ha! It's [The Killers](https://www.youtube.com/watch?v=RIZdjT1472Y&feature=youtu.be).
 
 #### TIM
 
@@ -1230,7 +1230,7 @@ __[verge of tears]__ "Because trying is difficult! And I don't want to do it!"
 
 ##### [transition beep]
 
-#### ERIN
+#### ERIN <a id="footnote-2-ref" href="#footnote-2"><sup>[2]</sup></a>
 
 I needed to fart and sneeze at the same time.
 
@@ -1282,7 +1282,7 @@ __[still laughing]__ I went for a scan at the hospital the other day, and I had 
 
 #### TIM
 
-What, so your colon was so inflated [__ERIN__: Yeah!] that you couldn't see-- __[as her doctor]__ 'We have literal X-rays that look through your body, and we cannot see-- We've got a magnetic resonance machine that costs millions of pounds, and your farts have defeated it.'
+What, so your colon was so inflated [__ERIN__: Yeah!] that you couldn't see-- __[as their doctor]__ 'We have literal X-rays that look through your body, and we cannot see-- We've got a magnetic resonance machine that costs millions of pounds, and your farts have defeated it.'
 
 #### ERIN 
 
@@ -1290,7 +1290,7 @@ __[still laughing]__ We went all the way to Haywards Heath to be told I had the 
 
 #### TIM 
 
-__[as her doctor]__ I'm afraid it's 'stink car.' It's terminal.
+__[as their doctor]__ I'm afraid it's 'stink car.' It's terminal.
 
 #### ERIN
 
@@ -2014,7 +2014,7 @@ We don't have to do a joke, we could just do a reference! It's as good as!
 
 #### TIM 
 
-__[impersonating a vine]__ 'Ha! I do that!' Right. Um...
+__[impersonating [a vine](https://www.youtube.com/watch?v=SvFM-M2q9D0)]__ 'Ha! I do that!' Right. Um...
 
 #### BEN 
 
@@ -2188,7 +2188,7 @@ Feels wrong not doing it as waaay!
 
 #### TIM
 
-Okay, you can do it as 'a way'. Let's do-- let's do another take but with the Marsha way.
+Okay, you can do it as 'a way'. Let's do-- let's do another take but with the [Marsha](https://www.youtube.com/watch?v=YRLAjR3-Ax4&ab_channel=sarcastor6) way.
 
 #### RACHEL
 
@@ -2221,3 +2221,10 @@ Stellar Firma is distributed under a Creative Commons Attribution Noncommercial 
 #### ALEX
 
 Hi everyone, Alex here. I'd just like to take a moment to thank some of our patrons: M.A.B., Bri Raymond, Olivia Peachley, GameStressor, Lucy Hall, Brittany Guy, H.D, Elfy Ibenbob, Maryam Trabelsi, LainieBarbarian, Steven Chlebek, Robert Espy, Full Featuritis, Silphius, gaminette, Nic Duhamel, Thor, Chris Halliday, ArcticMetal, Bob Hundertmark, FXKTN, sarahmeh, Alexis Arendt, Mickey, Greg Meyer, tracey van haaften, Beccameriel, Victoriano Vello, Imogen, BooksAndCats, Churlington Beesecoat, John Albert, Victorious Prime, ELooking, Overflight, Matthew Taylor, Bremen J. Savage, Lydia Kats, Cher Silver, Quill & Scale Designs, Teresa Wu, Scorna Lott, Rikki D, Ren, harmonybat, Cole Weber, andrew, GreyT, Tomas Nieboer, Rob Beckmann, Katie, Shaz, howdoyouwrite, ZoÃ« Mortensen, Monsters' Advocate, Enzy. Thank you all. We really appreciate your support. If you'd like to join them, go to www.patreon.com/rustyquill and take a look at our rewards.
+
+<p id="footnote-1">
+   1. Transcriber note: quotation marks indicate lines said in character <a href="#footnote-1-ref">&#8617;</a> 
+</p>
+<p id="footnote-2">
+   2. Erin Enfys (The Artist Formerly Known as Annie Harris) <a href="#footnote-2-ref">&#8617;</a>
+</p>

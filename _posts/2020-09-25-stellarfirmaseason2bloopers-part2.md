@@ -36,7 +36,7 @@ Hello, and welcome to part 2 of the Stellar Firma season 2 bloopers, because we 
 
 #### JENNY
 
-__[as Hartro as Ortrah]__ "Chauncey, you present your elaborate, uh, portrayal in front of Big John John and he falls over dead __[Ben snorts, Tim laughs]__ with surprise!"
+_(as Hartro as Ortrah)_ "Chauncey, you present your elaborate, uh, portrayal in front of Big John John and he falls over dead __[Ben snorts, Tim laughs]__ with surprise!"
 
 #### TIM
 
@@ -64,7 +64,7 @@ __[laughing]__ Okay. __[laughs]__
 
 #### TIM
 
-__[as Trexel as Chauncey]__ "I sidle up to her and say, 'Hey there, chicken. Want to dance?' What-- what skill do I use for that?"
+_(as Trexel as Chauncey)_ "I sidle up to her and say, 'Hey there, chicken. Want to dance?' What-- what skill do I use for that?"
 
 #### BEN
 
@@ -80,11 +80,11 @@ __[as Trexel as Chauncey]__ "I sidle up to her and say, 'Hey there, chicken. Wan
 
 #### TIM
 
-__[trying to do Trexel as Chauncey, interrupting]__ "Hey there, chicken." [__JENNY:__ Your--] "What? That's not the voice." __[laughs, Jenny chuckles]__
+_(trying to do Trexel as Chauncey, interrupting)_ "Hey there, chicken." [__JENNY:__ Your--] "What? That's not the voice." __[laughs, Jenny chuckles]__
 
 #### BEN
 
-__[sounding like Elvis]__ Well, hey there, chicken. __[chuckles]__
+_(sounding like Elvis)_ Well, hey there, chicken. __[chuckles]__
 
 #### TIM
 
@@ -190,9 +190,11 @@ Some sort of musical remix.
 
 #### TIM
 
-Yes. __[mimicking EDM style]__ ♪ You you-- ♫
+Yes. _(mimicking EDM style)_ ♪ You you-- ♫
 
-__BEN and TIM:__ ♪ You want the foot. ♫
+#### BEN and TIM
+
+♪ You want the foot. ♫
 
 #### BEN
 
@@ -274,7 +276,7 @@ This is not gonna become poo play!
 
 #### TIM
 
-I was almost gonna stop you and say, 'Why not put on an Out of Office?' __[laughs, Ben joins in] [sounding like a recording]__ "'I'm sorry, David 7 cannot be reached at this time!' __[Ben laughs loudly]__ Correct, David." __[Ben continues laughing]__
+I was almost gonna stop you and say, 'Why not put on an Out of Office?' __[laughs, Ben joins in]__ _(sounding like a recording)_ "'I'm sorry, David 7 cannot be reached at this time!' __[Ben laughs loudly]__ Correct, David." __[Ben continues laughing]__
 
 #### BEN
 
@@ -348,7 +350,7 @@ Well, to be fair, it's the improv way.
 
 #### TIM
 
-__[on the verge of having an existential crisis]__ "Am I human?"
+_(on the verge of having an existential crisis)_ "Am I human?"
 
 #### BEN
 
@@ -468,7 +470,7 @@ Okay. Okay. Okay.
 
 #### TIM
 
-__[yelling]__ "And we were-- Oh, __[chuckling]__ hello Agent! Oh, I... Oh, ho ho! I hadn't thought of anything to say!"
+_(yelling)_ "And we were-- Oh, __[chuckling]__ hello Agent! Oh, I... Oh, ho ho! I hadn't thought of anything to say!"
 
 ##### [Ben laughs]
 
@@ -496,7 +498,7 @@ __[yelling]__ "And we were-- Oh, __[chuckling]__ hello Agent! Oh, I... Oh, ho ho
 
 #### TIM
 
-__[from farther away]__ "If you can't find a t-**[bleep]**-y bar, David, you make a t-**[bleep]**-y bar! __[Ben laughs]__ Yes, we are recording now. __[Ben continues to laugh]__ And that was to you, David!"
+_(from farther away)_ "If you can't find a t-**[bleep]**-y bar, David, you make a t-**[bleep]**-y bar! __[Ben laughs]__ Yes, we are recording now. __[Ben continues to laugh]__ And that was to you, David!"
 
 #### BEN
 
@@ -528,11 +530,11 @@ Lucy. Alright.
 
 #### BEN
 
-Lucy. Lucy. __[singing like Trexel]__ ♪ Graph friend. Lucy, the graph friend. __[Tim mimics what Ben says]__ The better graph friend that you ever had. ♫ __[Tim laughs]__ I'm not very good at this.
+Lucy. Lucy. _(singing like Trexel)_ ♪ Graph friend. Lucy, the graph friend. __[Tim mimics what Ben says]__ The better graph friend that you ever had. ♫ __[Tim laughs]__ I'm not very good at this.
 
 #### TIM
 
-__[sarcastic]__ Oh, yeah. And I'm a f-**[bleep]**-ing king.
+_(sarcastic)_ Oh, yeah. And I'm a f-**[bleep]**-ing king.
 
 #### BEN
 
@@ -540,7 +542,7 @@ Well...
 
 #### TIM
 
-__[singing]__ ♪ Oh, everything has this tune! Have you noticed everything has this tune because iiii-it's the tune I like to do! ♫
+_(singing)_ ♪ Oh, everything has this tune! Have you noticed everything has this tune because iiii-it's the tune I like to do! ♫
 
 #### BEN
 
@@ -610,15 +612,15 @@ __[laughing]__ Don't ask me questions, give me suggestions.
 
 #### BEN 
 
-__[triumphantly]__ Oh?
+_(triumphantly)_ Oh?
 
 #### TIM 
 
-__[faux-crestfallen voice]__ I didn't-- couldn't think of anything. __[Ben laughs]__ Oh, I'm tired. Wah. Wah.
+_(faux-crestfallen voice)_ I didn't-- couldn't think of anything. __[Ben laughs]__ Oh, I'm tired. Wah. Wah.
 
 #### BEN 
 
-__[mockingly imitating]__ Wah.
+_(mockingly imitating)_ Wah.
 
 ##### [transition beep]
 
@@ -628,7 +630,7 @@ __[mockingly imitating]__ Wah.
 
 #### TIM 
 
-__[yelling urgently]__ "David, I need paper towels!"
+_(yelling urgently)_ "David, I need paper towels!"
 
 #### BEN "
 
@@ -654,7 +656,7 @@ __[laughing]__ Ah-ha-ha-ha! Callback.
 
 ### BEN and TIM
 
-__[together]__ "Ah! Paxt Scrum!"
+_(together)_ "Ah! Paxt Scrum!"
 
 #### BEN
 
@@ -694,11 +696,11 @@ Just definitely keep doing tens.
 
 #### TIM 
 
-__[slightly husky voice]__ "Hello and welcome to another edition of Jokes and Puppets. I'm joined by Johnathan Jokes."
+_(slightly husky voice)_ "Hello and welcome to another edition of Jokes and Puppets. I'm joined by Johnathan Jokes."
 
 #### BEN 
 
-__[slightly nasal commentator voice]__ "Thank you Stanley Puppets."
+_(slightly nasal commentator voice)_ "Thank you Stanley Puppets."
 
 #### TIM
 

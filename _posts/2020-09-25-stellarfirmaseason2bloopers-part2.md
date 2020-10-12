@@ -654,7 +654,7 @@ __[laughing]__ Ah-ha-ha-ha! Callback.
 
 ------
 
-### BEN and TIM
+#### BEN and TIM
 
 _(together)_ "Ah! Paxt Scrum!"
 
@@ -772,11 +772,11 @@ Push my face through your fac-- __[breaks into laughter]__
 
 #### BEN 
 
-__[hoarse]__ Terribly sorry. __[coughs some more and sniffs]__
+_(hoarse)_ Terribly sorry. __[coughs some more and sniffs]__
 
 #### TIM
 
-You see what we do for the art, David? Do you see what we've done to ourselves? __[Ben chuckles]__ Can you hear our voices? __[extra huskily]__ I'm so husky now.
+You see what we do for the art, David? Do you see what we've done to ourselves? __[Ben chuckles]__ Can you hear our voices? _(extra husky)_ I'm so husky now.
 
 ##### [transition beep]
 
@@ -788,7 +788,7 @@ You see what we do for the art, David? Do you see what we've done to ourselves? 
 
 #### JENNY
 
-"Good morning, David. __[afterthought]__ Seven."
+"Good morning, David. _(afterthought)_ Seven."
 
 #### BEN
 
@@ -884,7 +884,7 @@ Sorry! F-**[bleep]**.
 
 #### TIM
 
-"Well, we'll see, __[weird drawl-like accent]__ won't we, David? *Waun't we?*" __[hand clap marker, Jenny laughs]__
+"Well, we'll see, _(weird drawl-like accent)_ won't we, David? *Waun't we?*" __[hand clap marker, Jenny laughs]__
 
 #### BEN
 
@@ -978,7 +978,7 @@ Well, luckily these conditions are 'you're a prisoner, on a-- in space' so--
 
 #### TIM 
 
-__[speaking with a lisp]__ "Dathith, I doth proteth too muth."
+_(speaking with a lisp)_ "Dathith, I doth proteth too muth."
 
 #### BEN
 
@@ -1124,7 +1124,7 @@ Right, we're back in the room.
 
 #### BEN 
 
-__[deep sultry voice]__ Hello.
+_(deep sultry voice)_ Hello.
 
 #### TIM
 
@@ -1132,39 +1132,39 @@ Okay.
 
 #### BEN 
 
-__[deep sultry voice]__ Why couldn't I just have this voice? __[Tim laughs]__ Everything's so stressful when you're with--
+_(deep sultry voice)_ Why couldn't I just have this voice? __[Tim laughs]__ Everything's so stressful when you're with--
 
 #### TIM 
 
-__[deep sultry voice]__ We're two very soft characters.
+_(deep sultry voice)_ We're two very soft characters.
 
 #### BEN 
 
-__[deep sultry voice]__ I'm just going to have a very calm discussion about things.
+_(deep sultry voice)_ I'm just going to have a very calm discussion about things.
 
 #### TIM 
 
-__[deep sultry voice]__ This is a podcast about lemon tea. __[moaning]__ Mm. Lemon tea.
+_(deep sultry voice)_ This is a podcast about lemon tea. __[moaning]__ Mm. Lemon tea.
 
 #### BEN 
 
-__[deep sultry voice]__ Okay. That's-- he's made it weirdly sexual.
+_(deep sultry voice)_ Okay. That's-- he's made it weirdly sexual.
 
 #### TIM 
 
-__[deep sultry voice]__ Mm, I've drunk lemony-- __[Continues to make moaning noises while Ben talks]__
+_(deep sultry voice)_ Mm, I've drunk lemony-- __[Continues to make moaning noises while Ben talks]__
 
 #### BEN 
 
-__[deep sultry voice]__ Why would you ever say--
+_(deep sultry voice)_ Why would you ever say--
 
 #### TIM 
 
-__[deep sultry voice]__ Oh lord.
+_(deep sultry voice)_ Oh lord.
 
 #### BEN 
 
-__[deep sultry voice]__ Okay, you can never put-- mm.
+_(deep sultry voice)_ Okay, you can never put-- mm.
 
 ##### [Tim laughs]
 
@@ -1174,7 +1174,7 @@ See? See what I mean?
 
 #### TIM
 
-__[deep sultry voice]__ You mean to engage in wound management? Mm-hmm.
+_(deep sultry voice)_ You mean to engage in wound management? Mm-hmm.
 
 #### BEN
 
@@ -1182,7 +1182,7 @@ Mm-hmm.
 
 #### TIM 
 
-__[deep sultry voice]__ Hmm. __[laughs] [normal voice]__ Right, okay.
+_(deep sultry voice)_ Hmm. __[laughs]__ _(normal voice)_ Right, okay.
 
 #### BEN 
 
@@ -1198,7 +1198,7 @@ I am so sorry, Maddy.
 
 #### TIM
 
-Sorry about-- __[realisation]__ Oh god, no! __[Ben laughs]__ Oh, I'm sorry! Ohh, Maddy, I'm so sorry. We're sorry. Please contact HR for the crimes.
+Sorry about-- _(suddenly realisation)_ Oh god, no! __[Ben laughs]__ Oh, I'm sorry! Ohh, Maddy, I'm so sorry. We're sorry. Please contact HR for the crimes.
 
 #### BEN 
 
@@ -1214,7 +1214,7 @@ Yeah.
 
 #### BEN 
 
-__[as David as Dartro Diltz]__ "Oh, you should be getting on with the complaint!"
+_(as David as Dartro Diltz)_ "Oh, you should be getting on with the complaint!"
 
 #### TIM
 
@@ -1226,7 +1226,7 @@ __[laughs]__ Do you wanna take another swing at that? And then everyone can be l
 
 #### TIM 
 
-__[basically speaking gibberish]__ I'm so oh word ehh urgh! Uh...
+_(basically speaking gibberish)_ I'm so oh word ehh urgh! Uh...
 
 #### BEN
 
@@ -1274,7 +1274,7 @@ __[basically speaking gibberish]__ I'm so oh word ehh urgh! Uh...
 
 #### TIM
 
-__[Ben laughs loudly while Tim talks]__ Alright, alright, Jesus! Alright. F-**[bleep]**-in' hell. __[weird voice]__ A bit of the art has crept out in the character there.
+__[Ben laughs loudly while Tim talks]__ Alright, alright, Jesus! Alright. F-**[bleep]**-in' hell. _(weird voice)_ A bit of the art has crept out in the character there.
 
 #### BEN
 
@@ -1286,7 +1286,7 @@ Yeah! You're not allowed in! They're like 'sir, where's your ID?' and you're lik
 
 #### BEN 
 
-__[high squeaky voice]__ I'm a little baby!
+_(high squeaky voice)_ I'm a little baby!
 
 #### TIM
 
@@ -1302,7 +1302,7 @@ Okay. Where do you want to take that from?
 
 #### TIM 
 
-__[verge of tears]__ "Because trying is difficult! And I don't want to do it!"
+_(verge of tears)_ "Because trying is difficult! And I don't want to do it!"
 
 #### BEN
 
@@ -1368,7 +1368,7 @@ __[still laughing]__ I went for a scan at the hospital the other day, and I had 
 
 #### TIM
 
-What, so your colon was so inflated [__ERIN__: Yeah!] that you couldn't see-- __[as their doctor]__ 'We have literal X-rays that look through your body, and we cannot see-- We've got a magnetic resonance machine that costs millions of pounds, and your farts have defeated it.'
+What, so your colon was so inflated [__ERIN__: Yeah!] that you couldn't see-- _(as their doctor)_ 'We have literal X-rays that look through your body, and we cannot see-- We've got a magnetic resonance machine that costs millions of pounds, and your farts have defeated it.'
 
 #### ERIN 
 
@@ -1376,7 +1376,7 @@ __[still laughing]__ We went all the way to Haywards Heath to be told I had the 
 
 #### TIM 
 
-__[as their doctor]__ I'm afraid it's 'stink car.' It's terminal.
+_(as their doctor)_ I'm afraid it's 'stink car.' It's terminal.
 
 #### ERIN
 
@@ -1384,7 +1384,7 @@ We had to leave the car with all the doors open in the carpark.
 
 #### TIM
 
-We thought that-- you were like, I mean, nobody's stealing this. __[as a car robber]__ 'Ooh, car! Oh no!'
+We thought that-- you were like, I mean, nobody's stealing this. _(as a car robber)_ 'Ooh, car! Oh no!'
 
 #### BEN
 
@@ -1454,7 +1454,7 @@ _(crosstalk)_ "So sorry."
 
 #### BEN 
 
-__[quietly]__ "Burp break!"
+_(quietly)_ "Burp break!"
 
 #### TIM
 
@@ -1548,9 +1548,9 @@ Well, anyway, I mean, broadly, it's-- __[trying not to laugh]__
 
 #### TIM 
 
-__[wheezing]__ You can stop now.
+_(wheezing)_ You can stop now.
 
-##### [Ben __snorts, general undecipherable chaos and laughing]__
+##### [Ben snorts, general undecipherable chaos and laughing]
 
 #### ERIN
 
@@ -1558,7 +1558,7 @@ So sorry. Boobies everywhere. She's got--
 
 #### TIM 
 
-__[announcer voice]__ Unfortunately the audio artifacts from the boob shaking has caused interference on the recording.
+_(announcer voice)_ Unfortunately the audio artifacts from the boob shaking has caused interference on the recording.
 
 #### ERIN
 
@@ -1704,7 +1704,7 @@ What?
 
 #### TIM
 
-__[in the background]__ --so we have something like that. "David."
+_(in the background)_ --so we have something like that. "David."
 
 #### BEN
 
@@ -1804,7 +1804,7 @@ Trying to recap the magic that was __[laughs]__ Cardinal Fang, you see. __[laugh
 
 #### BEN
 
-__[raspy voice]__ You're always chasing that 'Fang' high.
+_(raspy voice)_ You're always chasing that 'Fang' high.
 
 #### TIM
 
@@ -1824,7 +1824,7 @@ Fang High. __[laughs]__
 
 #### TIM
 
-"I found what kind of god I am! I'm that one! I'm the tenet--" __[mouth noises]__ Flonk. Beep beep. __[operator voice]__ I'm sorry. The Trexel you were looking for is not currently available. __[chuckles]__
+"I found what kind of god I am! I'm that one! I'm the tenet--" __[mouth noises]__ Flonk. Beep beep. _(operator voice)_ I'm sorry. The Trexel you were looking for is not currently available. __[chuckles]__
 
 #### BEN
 
@@ -1876,7 +1876,7 @@ They call me the urban goose. __[Ben laughs]__ Um, right.
 
 #### TREXEL
 
-"Wha-- __[yelling]__ You can learn a lot about from some-- F-**[bleep]** for f-**[bleep]**-k f-**[bleep]**-k f-**[bleep]**-k f-**[bleep]**-k! You can learn a lot about from fu-fum."
+"Wha-- _(yelling)_ You can learn a lot about from some-- F-**[bleep]** for f-**[bleep]**-k f-**[bleep]**-k f-**[bleep]**-k f-**[bleep]**-k! You can learn a lot about from fu-fum."
 
 #### BEN
 
@@ -1908,7 +1908,7 @@ La la la la laa la loo-- __[mouth noises]__
 
 #### TIM
 
-__[quietly]__ Lovely.
+_(quietly)_ Lovely.
 
 #### AMY
 
@@ -2048,7 +2048,7 @@ I'm enjoying myself. Come on. P-**[bleep]**-ss Ben. __[Ben laughs loudly]__ Come
 
 #### BEN
 
-Oh, here come the p-**[bleep]**-ss men. __[quietly]__ F*cking hell.
+Oh, here come the p-**[bleep]**-ss men. _(quietly)_ F*cking hell.
 
 #### TIM
 
@@ -2116,7 +2116,7 @@ Okay.
 
 #### BEN 
 
-__[doing a Trexel voice]__ This is what we call a reference, or a call-back!
+_(doing a Trexel voice)_ This is what we call a reference, or a call-back!
 
 #### TIM
 
@@ -2124,7 +2124,7 @@ __[doing a Trexel voice]__ This is what we call a reference, or a call-back!
 
 #### BEN 
 
-__[Trexel voice]__ We're building out the world to be a whole and real thing, instead of just a bunch of garbage we've made up.
+_(Trexel voice)_ We're building out the world to be a whole and real thing, instead of just a bunch of garbage we've made up.
 
 #### TIM
 
@@ -2136,7 +2136,7 @@ We don't have to do a joke, we could just do a reference! It's as good as!
 
 #### TIM 
 
-__[impersonating [a vine](https://www.youtube.com/watch?v=SvFM-M2q9D0)]__ 'Ha! I do that!' Right. Um...
+_(impersonating [a vine](https://www.youtube.com/watch?v=SvFM-M2q9D0))_ 'Ha! I do that!' Right. Um...
 
 #### BEN 
 
@@ -2158,7 +2158,7 @@ Yeah yeah yeah yeah yeah. Hey, them sweet vines. Right. Okay.
 
 #### TIM
 
-What do you mean-- __[as if falling, but a bit half-heartedly]__ Wahhh!! __[laughter]__ Sorry, I forgot about that.
+What do you mean-- _([as if falling, but a bit half-heartedly)_ Wahhh!! __[laughter]__ Sorry, I forgot about that.
 
 ##### [Ben laughs]
 
@@ -2188,7 +2188,7 @@ Oh dear. Are we keeping that? Mail paraphernalia?
 
 #### BEN
 
-That is known as a __[French pronunciation]__ 'double entendre.'
+That is known as a _(French pronunciation)_ 'double entendre.'
 
 #### TIM
 
@@ -2200,7 +2200,7 @@ A double intender. And, I feel like, if Round the Horne could do something like 
 
 #### TIM 
 
-__[quietly]__ Yes.
+_(quietly)_ Yes.
 
 #### BEN
 
@@ -2264,7 +2264,7 @@ I don't know what it is.
 
 #### BEN
 
-I'm living-- __[whispers]__ Amateur.
+I'm living-- _(whispers)_ Amateur.
 
 ##### [transition beep]
 
@@ -2272,7 +2272,7 @@ I'm living-- __[whispers]__ Amateur.
 
 #### TIM
 
-__[like a warning]__ Jenny.
+_(like a warning)_ Jenny.
 
 ##### [Rachel laughs, Amy joins]
 
@@ -2316,11 +2316,11 @@ _(simultaneously)_ Wheeeee!
 
 #### RACHEL
 
-Feels wrong not doing it as waaay!
+Feels wrong not doing it as 'waaay'!
 
 #### TIM
 
-Okay, you can do it as 'a way'. Let's do-- let's do another take but with the [Marsha](https://www.youtube.com/watch?v=YRLAjR3-Ax4&ab_channel=sarcastor6) way.
+Okay, you can do it as a 'way'. Let's do-- let's do another take but with the [Marsha](https://www.youtube.com/watch?v=YRLAjR3-Ax4&ab_channel=sarcastor6) way.
 
 #### RACHEL
 
@@ -2346,7 +2346,7 @@ Waaah.
 
 #### TIM
 
-I hope you enjoyed part 2 of the, uh, bloopers for season 2 of Stellar Firma. We will be returning next time with a special behind-the-scenes look at the inner workings of the production of Stellar Firma. Hot tip: it's mostly removing all of my shouting. __[shouts in Trexel's voice]__ "But they'll never get it all! Ha ha ha ha!"
+I hope you enjoyed part 2 of the, uh, bloopers for season 2 of Stellar Firma. We will be returning next time with a special behind-the-scenes look at the inner workings of the production of Stellar Firma. Hot tip: it's mostly removing all of my shouting. _(shouting in Trexel's voice)_ "But they'll never get it all! Ha ha ha ha!"
 
 ------
 

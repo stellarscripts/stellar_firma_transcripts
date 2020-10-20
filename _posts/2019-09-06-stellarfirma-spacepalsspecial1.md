@@ -38,15 +38,15 @@ Hello, and welcome to the Rusty Quill Gaming Podcast with me, Helen Gould, inste
 
 He's dead!
 
-#### Helen:
+#### HELEN
 
 __[laughs]__ We got rid of him in a coup.
 
-#### Lydia: 
+#### LYDIA
 
-__[laughing]__ The king is dead!
+_(laughing)_ The king is dead!
 
-#### Helen: 
+#### HELEN
 
 __[chuckles]__ Long live me. __[Lydia laughs]__ So, I will not be your GM today because today we are playing a GM-less game.
 
@@ -82,15 +82,15 @@ Yes, you are.
 
 What's-- what's your name?!
 
-#### Tim: 
+#### TIM
 
 _(simult.)_ What's your name?
 
-#### Lydia: 
+#### LYDIA
 
 _(simult.)_ Now tell us your name!
 
-#### Alex: 
+#### ALEX
 
 _(simult.)_ Alex! Newall! I'm sorry.
 
@@ -174,9 +174,13 @@ _(amused)_ You've probably never heard of it.
 
 You've probably never heard of it. It probably hasn't come up in your feed or adverts or nothing.
 
-__Alex: (simult.) [frustrated]__ *Mention its name!* I'm getting a *twitch!*
+#### ALEX 
 
-__Tim: (simult.)__ Mention-- well it's called-- uh, what's it called?
+_(simult.)_ _(frustrated)_ *Mention its name!* I'm getting a *twitch!*
+
+#### TIM
+
+_(simult.)_ Mention-- well it's called-- uh, what's it called?
 
 #### BEN
 
@@ -190,15 +194,21 @@ Um, uh-- oh, um-- Stellar Firma is its name. Stellar Firma.
 
 ##### [Lydia and Helen chuckle, Alex sighs]
 
-__Tim: [advert announcer voice]__ An improvised sci-fi comedy podcast. Available now.
+#### TIM
+
+_(advert announcer voice)_ An improvised sci-fi comedy podcast. Available now.
 
 #### ALEX
 
 Better. I like it.
 
-__Ben: [advert announcer voice]__ From podcasts apps around the internet!
+#### BEN
 
-__Tim: [advert announcer voice]__ Excuse me if I just crawl into your ear for one mere moment to tell you about Stellar Firma. __[Alex snorts] [dramatic inhaled, huskily]__ Hello.
+_(advert announcer voice)_ From podcasts apps around the internet!
+
+#### TIM
+
+_(advert announcer voice)_ Excuse me if I just crawl into your ear for one mere moment to tell you about Stellar Firma. __[Alex snorts]__ _(dramatic inhaled, huskily)_ Hello.
 
 ##### [laughter]
 
@@ -254,9 +264,13 @@ Star boat.
 
 Space boat!
 
-__Lydia: (simult.)__ Space boat.
+#### LYDIA
 
-__Tim: (simult.)__ Space boat.
+_(simult.)_ Space boat.
+
+#### TIM
+
+_(simult.)_ Space boat.
 
 #### ALEX
 
@@ -268,7 +282,9 @@ Yes. We have commandeered a space boat.
 
 ##### [Tim chuckles]
 
-__Lydia: [laughing]__ Yeah!
+#### LYDIA
+
+_(laughing)_ Yeah!
 
 #### ALEX
 
@@ -276,7 +292,7 @@ Yep.
 
 #### HELEN
 
-And are on our way to __[Tim and Lydia laugh quietly]__ freedom, essentially. Usually the story that is given in advance of this is that our prison ship encountered the strange space boat [__Tim: [deadpan]__ My god, a space boat.] and sent us on there in case it killed us. But like, just to investigate. And then the-- we either--
+And are on our way to __[Tim and Lydia laugh quietly]__ freedom, essentially. Usually the story that is given in advance of this is that our prison ship encountered the strange space boat [__Tim:__ _(deadpan)_ My god, a space boat.] and sent us on there in case it killed us. But like, just to investigate. And then the-- we either--
 
 #### ALEX
 
@@ -294,9 +310,13 @@ Okay.
 
 So, we either hijack the space boat or it left without us doing anything, or it disappeared and now we're somewhere else. We can decide as we go along.
 
-__Lydia: (simult.)__ Right, okay.
+#### LYDIA
 
-__Alex: (simult.)__ Okay.
+_(simult.)_ Right, okay.
+
+#### ALEX
+
+_(simult.)_ Okay.
 
 #### HELEN
 
@@ -340,9 +360,13 @@ Tension! Tension!
 
 Oh, I'm so tense now.
 
-__Lydia: (simult.)__ Wooo! I am difficult.
+#### LYDIA
 
-__Helen: (simult.)__ Now, there are no dice in this system.
+_(simult.)_ Wooo! I am difficult.
+
+#### HELEN
+
+_(simult.)_ Now, there are no dice in this system.
 
 ##### [Ben chuckles]
 
@@ -354,9 +378,13 @@ There are no cards. There's not even like a coin to flip. Basically, we have to 
 
 Rules are fun!
 
-__Helen: (simult.)__ No they're not!
+#### HELEN
 
-__Alex: (simult.)__ The game is... kind of beside the point.
+_(simult.)_ No they're not!
+
+#### ALEX
+
+_(simult.)_ The game is... kind of beside the point.
 
 #### HELEN
 
@@ -386,9 +414,13 @@ It is a *better* way.
 
 I look forward to the terroring guillotinings of the sure-to-follow new regime.
 
-__Alex: (simult.)__ Tim, join me and together we will *rule* with... *subsystems!*
+#### ALEX
 
-__Ben: (simult.)__ Well, see, it's only Bryn and Alex. __[Tim chuckles]__ It's only Bryn and Alex and Bryn's not here, [__Lydia and Tim:__ Yeah.] so Alex is completely outnumbered.
+_(simult.)_ Tim, join me and together we will *rule* with... *subsystems!*
+
+#### BEN
+
+_(simult.)_ Well, see, it's only Bryn and Alex. __[Tim chuckles]__ It's only Bryn and Alex and Bryn's not here, [__Lydia and Tim:__ Yeah.] so Alex is completely outnumbered.
 
 #### TIM
 
@@ -412,7 +444,7 @@ Kill her.
 
 #### LYDIA
 
---I just plow through them__ [Helen laughs]__ in naive--
+--I just plow through them __[Helen laughs]__ in naive--
 
 #### BEN
 
@@ -484,7 +516,9 @@ My name is Mr. Squeakington, but I am female. The reason that there is this mix-
 
 Space budgie!
 
-__Lydia: [laughing]__ And my crime... was smuggling budgies. __[Tim laughs]__
+#### LYDIA
+
+_(laughing)_ And my crime... was smuggling budgies. __[Tim laughs]__
 
 #### BEN
 
@@ -500,9 +534,7 @@ Is that-- Is that for you-- Is that people trafficking for you?
 
 #### LYDIA
 
-Yes! __[Tim laughs]__ People-- Budgies were being kept [#### ALEX
-
-Dark. Dark.] against their will. [__Tim: [laughing]__ So much worse than I was--] I was sneaking the budgies to a better place.
+Yes! __[Tim laughs]__ People-- Budgies were being kept [__Alex:__ Dark. Dark.] against their will. [__Tim:__ *(laughing)* So much worse than I was--] I was sneaking the budgies to a better place.
 
 #### BEN
 
@@ -546,7 +578,7 @@ Fantastic.
 
 #### LYDIA
 
-But when I get excited __[abruptly high-pitched]__ *I do squeak*!
+But when I get excited _(abruptly high-pitched)_ *I do squeak*!
 
 #### HELEN
 
@@ -576,9 +608,13 @@ Yeah.
 
 Yeah! Alex. Tell us about your character.
 
-__Alex/Shmerr: [nasal monotone character voice]__ I'm Shmerr.
+#### Alex/Shmerr
 
-__Ben: [sighs]__ Oh, no, he's got-- __[Helen bursts out laughing, Lydia squeaks]__ he's got *that* voice out again!
+_(nasal monotone character voice)_ I'm Shmerr.
+
+#### Ben
+
+__[sighs]__ Oh, no, he's got-- __[Helen bursts out laughing, Lydia squeaks]__ he's got *that* voice out again!
 
 #### HELEN
 
@@ -598,9 +634,7 @@ The real Mr. Squee. __[chuckles]__
 
 #### SHMERR
 
-I'm Shmerr. We are-- [#### LYDIA
-
-Ah, squeak.] I am of the dissoliums and... we're-- we're very pro-administration.__ [soft groans]__ Although my crime was I did heist an ecosystem. It was interfering with processes, so. Just sort of got rid of that one.
+I'm Shmerr. We are-- [__Lydia:__ Ah, squeak.] I am of the dissoliums and... we're-- we're very pro-administration. __[soft groans]__ Although my crime was I did heist an ecosystem. It was interfering with processes, so. Just sort of got rid of that one.
 
 #### HELEN
 
@@ -628,9 +662,13 @@ That's fair enough.
 
 Ben?
 
-__Ben/Unal: [upper class military character voice]__ I am Commander Unal Manspray. __[Lydia laughs, then groans in realisation]__
+#### Ben/Unal
 
-__Helen: [strangled laugh]__ You actually did it.
+_(upper class military character voice)_ I am Commander Unal Manspray. __[Lydia laughs, then groans in realisation]__
+
+#### Helen
+
+__[strangled laugh]__ You actually did it.
 
 #### LYDIA
 
@@ -642,15 +680,15 @@ Fantastic.
 
 #### BEN
 
-Oh, this is an in-joke. So, to explain: Tim asked for some communal manspray [#### TIM
+Oh, this is an in-joke. So, to explain: Tim asked for some communal manspray [__Tim:__ Look--] because this room might be hot and stinky [__Tim:__ --when you're in--] so I wanted my name to be Communal Manspray.
 
-Look--] because this room might be hot and stinky [#### TIM
+#### Alex
 
---when you're in--] so I wanted my name to be Communal Manspray.
+_(simult.)_ His writer is *so* excessive!
 
-__Alex: (simult.)__ His writer is *so* excessive!
+#### Ben
 
-__Ben: (simult.)__ Commander Unal Manspray.
+_(simult.)_ Commander Unal Manspray.
 
 ##### [Helen chuckles]
 
@@ -666,9 +704,7 @@ Yeah, it is-- __[laughs]__ That's exactly what we're all doing!
 
 #### BEN
 
-I haven't calmed down in three and a half years, [#### TIM
-
-That's true. __[laughs]__] I'm not starting now.
+I haven't calmed down in three and a half years, [__Tim:__ That's true. __[laughs]__] I'm not starting now.
 
 #### ALEX
 
@@ -692,9 +728,7 @@ Of course!
 
 #### UNAL
 
-Everyone knows what one of those is [#### LYDIA
-
-Yeah yeah.] so we're moving swiftly on. __[Helen bursts out laughing]__ My crime was desertion. __[Lydia gasps]__
+Everyone knows what one of those is [__Lydia:__ Yeah yeah.] so we're moving swiftly on. __[Helen bursts out laughing]__ My crime was desertion. __[Lydia gasps]__
 
 #### HELEN
 
@@ -726,17 +760,19 @@ We're done. __[laughs]__
 
 #### HELEN
 
-And because I am also playing-- [#### LYDIA
+And because I am also playing-- [__Lydia:__ Yay!] I know! My name is Worshiper 2X7. My species is android, brackets "sentient", close brackets. [__Lydia:__ Mm-hmm.] My crime is desecrating the sacred ponds.
 
-Yay!] I know! My name is Worshiper 2X7. My species is android, brackets "sentient", close brackets. [#### LYDIA
+#### Lydia
 
-Mm-hmm.] My crime is desecrating the sacred ponds.
+__[bursts out laughing]__ Just the-- the idea that you must have been working with Commander Urinal for that. __[Helen laughs]__ No, it was Spray!
 
-__Lydia: [bursts out laughing]__ Just the-- the idea that you must have been working with Commander Urinal for that. __[Helen laughs]__ No, it was Spray!
+#### Ben
 
-__Ben: (simult.)__ Unal Manspray!
+_(simult.)_ Unal Manspray!
 
-__Tim: (simult.)__ It's *pronounced* Urinal-- __[laughs]__
+#### Tim
+
+_(simult.)_ It's *pronounced* Urinal-- __[laughs]__
 
 #### HELEN
 
@@ -748,7 +784,7 @@ How dare you.
 
 #### HELEN
 
-So. We've got the basics of our characters. The way that this character creation works is that we ask each other questions. These questions are leading questions that imply something about everyone else. So, for example, the example I gave before this is "how did you get that bizarre scar on your face?" A question I got before is "why did you abandon your son?" __[Lydia laughs, impressed]__ So, um,__ [laughs]__ it can range.
+So. We've got the basics of our characters. The way that this character creation works is that we ask each other questions. These questions are leading questions that imply something about everyone else. So, for example, the example I gave before this is "how did you get that bizarre scar on your face?" A question I got before is "why did you abandon your son?" __[Lydia laughs, impressed]__ So, um, __[laughs]__ it can range.
 
 #### TIM
 
@@ -762,7 +798,9 @@ Yeah! I mean, in that game we ended up finding my abandoned son on a different p
 
 ##### [Lydia gasps]
 
-__Alex: [excited]__ Did you abandon him again?! Did you abandon him again?!
+#### Alex
+
+_(excited)_ Did you abandon him again?! Did you abandon him again?!
 
 #### HELEN
 
@@ -782,7 +820,7 @@ Ah, yeah, really. Doesn't care about this son. __[laughs]__
 
 #### ALEX
 
-Also, I'm liking that we're __[laughing]__ pro-abandonment here for some reason today.
+Also, I'm liking that we're _(laughing)_ pro-abandonment here for some reason today.
 
 ##### [Helen laughs]
 
@@ -840,13 +878,17 @@ I thought that.
 
 And you must suffer.
 
-__Tim/Pilchards: [dark, cockney character voice]__ I can explore my character a little more.
+#### Tim/Pilchards
+
+_(dark, cockney character voice)_ I can explore my character a little more.
 
 #### HELEN
 
 Yeah, you can. So just--
 
-__Ben: [laughing]__ What are you-- are you one of the Kray twins?
+#### Ben
+
+_(laughing)_ What are you-- are you one of the Kray twins?
 
 ##### [loud laughter]
 
@@ -866,7 +908,7 @@ Are you a bandit? __[laughs]__
 
 #### PILCHARDS
 
-Go on.
+> Go on.
 
 ##### [Lydia laughs]
 
@@ -876,7 +918,7 @@ Right. I am going to ask you one of the mandatory questions.
 
 #### PILCHARDS
 
-Uh-huh.
+> Uh-huh.
 
 #### HELEN
 
@@ -884,7 +926,7 @@ What do we lose by not listening to you?
 
 #### PILCHARDS
 
-You lose a wealth of experience! I have killed people in many interesting ways, and I am willing to share my methods.
+> You lose a wealth of experience! I have killed people in many interesting ways, and I am willing to share my methods.
 
 ##### [Ben snorts]
 
@@ -892,15 +934,19 @@ You lose a wealth of experience! I have killed people in many interesting ways, 
 
 Good.
 
-__Alex: [imitating Pilchards]__ You're also rapidly turning into Michael Caine.
+#### Alex
+
+_(imitating Pilchards)_ You're also rapidly turning into Michael Caine.
 
 ##### [Helen laughs]
 
 #### PILCHARDS
 
-I only wanted to kill one of them, but they've all died now.
+> I only wanted to kill one of them, but they've all died now.
 
-__Alex: [laughing]__ Oh god!
+#### Alex
+
+_(laughing)_ Oh god!
 
 #### HELEN
 
@@ -908,7 +954,7 @@ Lovely!
 
 #### PILCHARDS
 
-What a shame.
+> What a shame.
 
 ##### [Alex and Ben chuckle quietly]
 
@@ -918,19 +964,23 @@ The floor is now open to the other players to ask you any questions we can think
 
 #### PILCHARDS
 
-Now, look. When you are running through the undergrowth, escaping the authorities, you have to look out for knotholes! 'Cause if you don't, you'll put your foot right in a little gindle or gully and it'll tear *right* off!
+> Now, look. When you are running through the undergrowth, escaping the authorities, you have to look out for knotholes! 'Cause if you don't, you'll put your foot right in a little gindle or gully and it'll tear *right* off!
 
-__Helen: [whispering]__ Good to know.
+#### Helen
 
-#### PILCHARDS
-
-Luckily, I have got four more so...
-
-__Helen: [chuckles]__ Okay, so I would note down four legs.
+_(whispering)_ Good to know.
 
 #### PILCHARDS
 
-Mark the four legs. Well, no, five original. Well, you know what? Let's say six, 'cause who would evolve like that? And I've lost two so far. Leaving me with a square four.
+> Luckily, I have got four more so...
+
+#### Helen
+
+__[chuckles]__ Okay, so I would note down four legs.
+
+#### PILCHARDS
+
+> Mark the four legs. Well, no, five original. Well, you know what? Let's say six, 'cause who would evolve like that? And I've lost two so far. Leaving me with a square four.
 
 #### HELEN
 
@@ -938,7 +988,7 @@ Good to know.
 
 #### PILCHARDS
 
-Six to begin. __[laughs]__
+> Six to begin. __[laughs]__
 
 #### BEN
 
@@ -948,7 +998,7 @@ How would you describe your idiosyncratic fashion sense?
 
 #### PILCHARDS
 
-Style is... in the eye of the beholder. And unfortunately I spend a lot of time on my own.__ [Lydia laughs]__ So, I've cobbled together from the various people I have bandited, which is to say stolen from, a menagerie of different styles. And, yeah, I just put it on my body and whatever doesn't rot off, you know, kind of, kind of becomes what I'm going for. I'm done.
+> Style is... in the eye of the beholder. And unfortunately I spend a lot of time on my own. __[Lydia laughs]__ So, I've cobbled together from the various people I have bandited, which is to say stolen from, a menagerie of different styles. And, yeah, I just put it on my body and whatever doesn't rot off, you know, kind of, kind of becomes what I'm going for. I'm done.
 
 #### HELEN
 
@@ -966,13 +1016,15 @@ What's the deal with all those machetes? It's the future.
 
 #### PILCHARDS
 
-Nah mate, you don't need to know.
+> Nah mate, you don't need to know.
 
-__Helen: [laughing]__ They're darn secretive.
+#### Helen
+
+_(laughing)_ They're darn secretive.
 
 #### PILCHARDS
 
-No, these, these are for my personal business, and if you want to find out, I'll show you, but you may not... exit.
+> No, these, these are for my personal business, and if you want to find out, I'll show you, but you may not... exit.
 
 #### HELEN
 
@@ -992,11 +1044,15 @@ Good one. That's much better than mine. Taking notes.
 
 #### PILCHARDS
 
-It's a lonely life, is banditry. You know, nobody to tell you, "Oi, that has rotted off in a way that makes it look unpleasant and not figure, not figure-forming or-or-or complementary to your square shape." __[Lydia bursts out laughing]__ And to fill the empty hours--
+> It's a lonely life, is banditry. You know, nobody to tell you, "Oi, that has rotted off in a way that makes it look unpleasant and not figure, not figure-forming or-or-or complementary to your square shape." __[Lydia bursts out laughing]__ And to fill the empty hours--
 
-__Alex: [laughing]__ Forgot you were square.
+#### Alex
 
-__Pilchards: [Lydia and Helen laugh intermittently throughout]__ I'm square and squat and *cross*! And I fill the empty hours between various passers-by falling into one of my bandit pits. You know, you just push up your nose whatever you find, and it turns out what *I* found... were crystals. Dunno their street name! I call 'em "fun crystals." They make me feel tingly in my bits. Wait. Is that too hot?
+_(laughing)_ Forgot you were square.
+
+#### Pilchards
+
+> __[Lydia and Helen laugh intermittently throughout]__ I'm square and squat and *cross*! And I fill the empty hours between various passers-by falling into one of my bandit pits. You know, you just push up your nose whatever you find, and it turns out what *I* found... were crystals. Dunno their street name! I call 'em "fun crystals." They make me feel tingly in my bits. Wait. Is that too hot?
 
 ##### [laughter]
 
@@ -1010,13 +1066,15 @@ We didn't say which bits!
 
 #### PILCHARDS
 
-Yeah. Fingers.
+> Yeah. Fingers.
 
 #### ALEX
 
 Corners.
 
-__Pilchards: [laughing]__ In my corners!
+#### Pilchards
+
+> _(laughing)_ In my corners!
 
 ##### [Lydia and Ben laugh]
 
@@ -1074,15 +1132,19 @@ What was your name again?
 
 #### PILCHARDS
 
-Deraldio Pilchards.
+> Deraldio Pilchards.
 
-__Alex: (simult.)__ Deraldio of the tingly corners. Pay attention
+#### Alex
 
-__Helen: (simult.)__ Okay, like Pilchards over here.
+_(simult.)_ Deraldio of the tingly corners. Pay attention
+
+#### Helen
+
+_(simult.)_ Okay, like Pilchards over here.
 
 #### PILCHARDS
 
-I'm full of right angles and ready to mingle!
+> I'm full of right angles and ready to mingle!
 
 ##### [laughter]
 
@@ -1090,7 +1152,9 @@ I'm full of right angles and ready to mingle!
 
 Lovely. Lydia, what are you willing to do to be captain?
 
-__Mr Squeakington: [high pitched squeaky character voice, random squeaks when talking]__ I'll gouge your eyes out. I've done it before! And I'll do it again! I've got little claws, so I take a while! They're small. See, in my dimension, we're bigger! But here we're too small! So I just have to scrabble around in your eye sockets! Eep!
+#### Mr Squeakington
+
+> _(high pitched squeaky character voice, random squeaks when talking)_ I'll gouge your eyes out. I've done it before! And I'll do it again! I've got little claws, so I take a while! They're small. See, in my dimension, we're bigger! But here we're too small! So I just have to scrabble around in your eye sockets! Eep!
 
 ##### [Ben and Tim laugh]
 

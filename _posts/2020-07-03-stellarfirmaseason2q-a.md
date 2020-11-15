@@ -6,7 +6,7 @@ categories: special
 episode_number: 
 episode_title: Stellar Firma Season 2 Q&A
 tags: []
-content_warnings: []
+content_warnings: None
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/stellarfirmaseason2q-a
 summary: Stellar Firma Season 2 Q&A <br/><br/>Tim and Ben answer some of the questions that have been sent in by the fan community.
@@ -17,6 +17,8 @@ sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
+
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/stellarfirmaseason2q-a" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
 ### Transcribed 7/7/20 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 

@@ -18,6 +18,8 @@ sources:
 official: false
 ---
 
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/trexelgeistmansolvesyourproblems" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
+
 ### Transcribed 9/15/20 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 
 ##### __[shorter version of the show theme]__

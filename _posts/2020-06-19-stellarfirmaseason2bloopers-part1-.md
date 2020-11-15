@@ -6,10 +6,10 @@ categories: special
 episode_number: 
 episode_title: Stellar Firma Season 2 Outtakes (Part 1)
 tags: []
-content_warnings: []
+content_warnings: Drug references, Explicit language, Sexual references, Alcoholism references
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/stellarfirmaseason2bloopers-part1-
-summary: Season 2 Bloopers (part 1) <br/><br/>Whoopsies and OH-NOs <br/><br/>CLIENT - Perfect, got it in one!
+summary: Season 2 Bloopers (part 1) <br/><br/>Whoopsies and OH-NOs <br/><br/>CLIENT - Perfect, got it in one! <br/><br/>Consultant recommendation- Alright, well you do it, then, if you think you're SO GREAT!
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/s2-bloopers1
   Google Doc: https://docs.google.com/document/d/18P6Y6RNML17eit4XKsrpBdoNTzEzU1Q6mog5eDnzI3k/edit
@@ -17,6 +17,8 @@ sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
+
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/stellarfirmaseason2bloopers-part1-" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
 ### Transcribed 6/22/20 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 

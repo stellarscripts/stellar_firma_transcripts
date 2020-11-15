@@ -9,7 +9,7 @@ tags: []
 content_warnings: None
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/executivequarterly-ep39e5yg-no.1-id1-
-summary: Executive Quarterly - Ep 39E5YG, No. 1 (ID 1) <br/><br/>This week on Executive Quarterly With Sigmund Shankeray we have a surprise visit from No. 1, a great honour indeed and everyone was so grateful and honoured and grateful.
+summary: Executive Quarterly - Ep 39E5YG, No. 1 (ID 1) <br/><br/>This week on Executive Quarterly With Sigmund Shankeray we have a surprise visit from No. 1, a great honour indeed and everyone was so grateful and honoured and grateful, thank you...thank you. <br/><br/>We find out why No. 1 is as great as they are, and they also, entirely rightly, put Sigmund through his paces on his loyalty and commitment to the board, it goes very well, so grateful and honoured. <br/><br/>EVERYTHING IS GREAT!
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/no1-interview
   Google Doc: https://docs.google.com/document/d/1lb5wajNUD0-aIG06WX4ZnXM4J9k57n42hYTxlq4QVqQ/edit
@@ -17,6 +17,8 @@ sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
+
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/executivequarterly-ep39e5yg-no.1-id1-" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
 ### Transcribed 8/14/20 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 

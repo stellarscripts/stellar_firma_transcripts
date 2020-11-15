@@ -9,7 +9,7 @@ tags: []
 content_warnings: None
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/enolasmanifesto
-summary: Enola’s Manifesto <br/><br/>Enola sets out her vision of a Geistman-free future for Stellar Firma.
+summary: Enola’s Manifesto <br/><br/>Enola sets out her vision of a Geistman-free future for Stellar Firma Ltd. Praise the Board... 
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/enola-manifesto
   Google Doc: https://docs.google.com/document/d/1BnY5JF78i9izYsM0P_N2Dq-1PFj0n-uArVZam7mJ3iQ/edit
@@ -17,6 +17,8 @@ sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
+
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/enolasmanifesto" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
 ### Transcribed 8/29/20 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 

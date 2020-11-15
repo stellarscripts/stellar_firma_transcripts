@@ -6,10 +6,10 @@ categories: special
 episode_number: 
 episode_title: Mandatory Winter Holiday Client Communiqué
 tags: []
-content_warnings: []
+content_warnings: None
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/mandatorywinterholidayclientcommunique
-summary: Mandatory Winter Holiday Client Communiqué
+summary: Mandatory Winter Holiday Client Communiqué <br/><br/>Incoming Message from Line Manager Hartro Piltz... Message reads- “So help me Trexel, if you don’t do this board forsaken message I will personally see to it that you spend the next year picking my toenails out of your soft pallet! RECORD A MESSAGE FOR YOUR CLIENTS!” <br/><br/>Response from Consultant Trexel Geistman- <br/><br/>*ERROR* MESSAGE UNREADABLE, APPEARS TO BE COMPRISED OF WAILING AND GNASHING OF TEETH <br/><br/>… <br/><br/>… <br/><br/>… <br/><br/>Audio attachment received from Consultant Trexel Geistman with following notation- <br/><br/>“Take your flesh and be gone incalcitrant star devil!”
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/s2-holiday
   Google Doc: https://docs.google.com/document/d/1fwN_yNLmwIVRku60ZUZfZevoJEQYoVAqC7xpw8PeBJU/edit
@@ -17,6 +17,8 @@ sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
+
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/mandatorywinterholidayclientcommunique" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
 ### Transcribed 12/27/19 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 

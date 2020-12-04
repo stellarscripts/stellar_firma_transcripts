@@ -6,7 +6,7 @@ categories: special
 episode_number: 
 episode_title: Exit Interviews of Davids 1-3
 tags: []
-content_warnings: []
+content_warnings: None
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/exitinterviewsofdavids1-3-5f1d81a2
 summary: Quality control and behaviour regulation assessments for the clone assistants of Design Consultant Trexel Geistman. Batch 0432, David's 1-3
@@ -17,6 +17,8 @@ sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
+
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/exitinterviewsofdavids1-3-5f1d81a2" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
 ### Transcribed 11/28/19 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 

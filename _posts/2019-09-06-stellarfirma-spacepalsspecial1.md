@@ -6,10 +6,10 @@ categories: special
 episode_number: 
 episode_title: Stellar Firma - Space Pals Special 1
 tags: []
-content_warnings: []
+content_warnings: None
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/stellarfirma-spacepalsspecial1
-summary: It's time for a special crossover! Tim and Ben join Rusty Quill Gaming regulars, Alex, Helen and Lydia, in this exciting two-part space adventure!
+summary: It's time for a special crossover! Tim and Ben join Rusty Quill Gaming regulars, Alex, Helen and Lydia, in this exciting two-part space adventure! <br/><br/>This week we meet Deraldio Pilchards, Mr. Squeakington [her/she], Shmerr, Commander Unal Manspray & Worshiper 2X7 as they navigate the perils of deep space.
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/space-pals-1
   Google Doc: https://docs.google.com/document/d/1_AqtwqL-FwJsNcr3Yt6afh2SH9aEEHHA0AZVQnlNkYo/edit
@@ -17,6 +17,8 @@ sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
+
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/stellarfirma-spacepalsspecial1" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
 ### Transcribed 1/20/20 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 

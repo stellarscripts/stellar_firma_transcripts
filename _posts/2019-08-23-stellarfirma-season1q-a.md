@@ -6,7 +6,7 @@ categories: special
 episode_number: 
 episode_title: Stellar Firma - Season 1 Q&A
 tags: []
-content_warnings: []
+content_warnings: None
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/stellarfirma-season1q-a
 summary: Stellar Firma - Season 1 Q&A <br/><br/>Welcome to another bonus episode of Stellar Firma, where Tim and Ben do their best to answer all of your questions!
@@ -17,6 +17,8 @@ sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
+
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/stellarfirma-season1q-a" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
 ### Transcribed 12/31/19 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 

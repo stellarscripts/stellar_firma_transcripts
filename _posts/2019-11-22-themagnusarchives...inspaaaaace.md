@@ -6,7 +6,7 @@ categories: special
 episode_number: 
 episode_title: The Magnus Archives... in SPAAAAACE
 tags: []
-content_warnings: []
+content_warnings: None
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/themagnusarchives...inspaaaaace
 summary: The Magnus Archives... in SPAAAAACE <br/><br/>Statement of T. Geistman regarding the circumstances of his assignment to, and later dismissal from, the Sales Department of Stellar Firma Ltd.
@@ -17,6 +17,8 @@ sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
+
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/themagnusarchives...inspaaaaace" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
 ### Transcribed 11/22/19 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 

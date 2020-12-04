@@ -6,7 +6,7 @@ categories: special
 episode_number: 
 episode_title: Stellar Firma - Tim & Ben do SCIENCE
 tags: []
-content_warnings: []
+content_warnings: None
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/untitledepisode
 summary: Stellar Firma - Tim & Ben do SCIENCE <br/><br/>Welcome to this bonus episode of Stellar Firma, where Bryn Monroe (Rusty Quill Gaming) probes the Meredith brothers to find out how much they really know about the science of Stellar Firma.
@@ -17,6 +17,8 @@ sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
+
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/untitledepisode" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
 ### Transcribed 12/30/19 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 

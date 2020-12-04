@@ -7,7 +7,7 @@ episode_number:
 episode_title: Stellar Firma - S1 Bloopers
 tags: []
 content_warnings: None
-voiced: David 7: Ben Meredith, Hartro Piltz: Jenny Haufek, Trexel Geistman: Tim Meredith, Harry: Simon Plotkin
+voiced: 'David 7: Ben Meredith, Hartro Piltz: Jenny Haufek, Trexel Geistman: Tim Meredith, Harry: Simon Plotkin'
 acast_url: https://play.acast.com/s/stellarfirma/stellarfirma-s1bloopers
 summary: 'Stellar Firma - S1 Bloopers <br/><br/>Boo-boos and Blunders <br/><br/>PLANET - Nailed it <br/><br/>Consultant recommendation: Go home, you''re drunk.'
 formats: 

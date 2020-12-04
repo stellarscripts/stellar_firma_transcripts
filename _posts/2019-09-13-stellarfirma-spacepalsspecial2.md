@@ -6,7 +6,7 @@ categories: special
 episode_number: 
 episode_title: Stellar Firma - Space Pals Special 2
 tags: []
-content_warnings: []
+content_warnings: None
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/stellarfirma-spacepalsspecial2
 summary: Tim and Ben are joined by Rusty Quill Gaming regulars, Alex, Helen and Lydia, for the conclusion of our a special crossover! <br/><br/>This week Shmerr makes some observations and things get Hot as the crew tries to solve their fuel crisis.
@@ -17,6 +17,8 @@ sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
+
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/stellarfirma-spacepalsspecial2" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
 ### Transcribed 2/8/20 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 

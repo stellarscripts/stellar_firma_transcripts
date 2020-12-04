@@ -6,10 +6,10 @@ categories: special
 episode_number: 
 episode_title: Executive Quarterly - Ep 37Q2FD, H. Piltz (ID 63277482)
 tags: []
-content_warnings: []
+content_warnings: None
 voiced: []
 acast_url: https://play.acast.com/s/stellarfirma/executivequarterly-ep37q2fd-h.piltz-id63277482-
-summary: This week on Executive Quarterly With Sigmund Shankeray we sit down with Hartro Piltz (ID 63277482), a rising young executive and Line manager who could be destined for great things.
+summary: This week on Executive Quarterly With Sigmund Shankeray we sit down with Hartro Piltz (ID 63277482), a rising young executive and Line manager who could be destined for great things. </br></br>We find out what makes her tick, what she attributes her success to, if she has considered betraying the board, and how she likes to let her hair down out of hours. </br></br>Will she survive? It’s Unclear! But rest assured we will have the truth from her come what may.
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/hartro-interview
   Google Doc: https://docs.google.com/document/d/1UNk-GLqymy76KO8dxKqddlguEOpLlR2e_6LCOq4fPq4/edit
@@ -17,6 +17,8 @@ sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
 ---
+
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/executivequarterly-ep37q2fd-h.piltz-id63277482-" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
 ### Transcribed 12/14/19 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 

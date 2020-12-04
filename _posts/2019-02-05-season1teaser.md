@@ -31,7 +31,7 @@ Ah, David 6, I'm glad you're here.
 
 #### DAVID
 
-I'm always here, Trexel. Welcome to your office. Shall we design a planet?
+I'm always here, Trexel! Welcome to your office. Shall we design a planet?
 
 #### TREXEL
 
@@ -43,7 +43,7 @@ Why, Trexel?
 
 #### TREXEL
 
-Because, David, our planets have been described as... __[searches for words]__ nightmarish hellscapes! Apart from that hell world we designed which unfortunately turned out to be rather pleasant.
+Because, David, our planets have been described as... _(searches for words)_ nightmarish hellscapes! Apart from that hell world we designed, which unfortunately turned out to be rather pleasant.
 
 #### DAVID
 
@@ -59,21 +59,21 @@ But why is this happening?
 
 #### TREXEL
 
-Because, David, one of us has to take the rap for this and it's not going to be me. My mother was a Senior Consultant here, and recycling me would be tantamount to admitting that Stellar Firma Ltd.'s bloodline-based management structure is in some way flawed, which is of course obviously ludicrous.
+Because, David, one of us has to take the rap for this and it's not going to be me! My mother was a Senior Consultant here, and recycling me would be tantamount to admitting that Stellar Firma Ltd.'s bloodline-based management structure is in some way flawed, which is, of course, obviously ludicrous.
 
 #### DAVID
 
-*(upbeat)* Obviously.
+_(upeat)_ Obviously.
 
 #### IMOGEN 
 
-__[static hum]__ Recycling process... commencing!
+__[static hum]__ Recycling process... commencing.
 
-##### __[beeping starts, mechanical whirring]__
+##### [beeping starts, mechanical whirring]
 
 #### TREXEL
 
-Well David, I suppose our time is up. I can tell because of that loud beeping noise.
+Well, David, I suppose our time is up. I can tell because of that loud beeping noise.
 
 #### DAVID
 
@@ -83,21 +83,21 @@ Well, goodbye Trexel. It was nice working with you.
 
 Was it, David? Was it?
 
-##### __[mechanical whirring continues, thump]__
+##### [mechanical whirring continues, thump]
 
 #### DAVID
 
-*(muffled)* Oh. Well, this is strange.
+_(muffled)_ Oh. Well, this is strange.
 
-##### __[blender noise followed by something liquid and heavy being dispensed and a distant thud]__
+##### [blender noise followed by something liquid and heavy being dispensed and a distant thud]
 
 #### TREXEL
 
 Ah well, circle of life. Right. Just a quickie at the Cosmic Lounge and then we'll see about David 7. IMOGEN. __[beep]__ I'm tired and hungry. Look up "cocktail sandwich" for me. I want to see if it's a thing.
 
-##### __[door swooshes open]__
+##### [door swooshes open]
 
-##### __[shorter version of the show theme]__
+##### [shorter version of the show theme]
 
 ------
 

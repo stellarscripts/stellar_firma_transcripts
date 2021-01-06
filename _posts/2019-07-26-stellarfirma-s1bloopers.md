@@ -918,7 +918,7 @@ __[laughs]__ 'The star-cock.' Okay, now I've got something.
 
 #### BEN
 
-"Okay, that's not an-- A: not an environment, B:I-- ca--" __[Tim laughs]__ I was going to go with 'Newton's not even a thing' but then that just-- ah, so many questions.
+"Okay, that's not an-- A: not an environment, B: I-- ca--" __[Tim laughs]__ I was going to go with 'Newton's not even a thing' but then that just-- ah, so many questions.
 
 #### TIM
 
@@ -1230,7 +1230,7 @@ _(immediately)_ "Shut up, David! Shut up, shut up, shut up!"
 
 #### BEN
 
---'cause __[laughing]__ I hadn't quite finished.
+--'cause _(laughing)_ I hadn't quite finished.
 
 ------
 
@@ -1346,9 +1346,9 @@ I just sort of need you to make a noise. I'm so used to--
 
 ##### [transition beep]
 
-#### TIM [burps, farts]
+#### TIM 
 
-...Okay.
+__[burps, farts]__ ...Okay.
 
 ##### [both laugh, Tim sighs]
 
@@ -1392,9 +1392,9 @@ You-- It was a well-timed burp and a fart and a go, so... __[sighs]__
 
 ##### [transition beep]
 
-#### BEN [laughing]
+#### BEN 
 
-Stop trying to make me laugh. __[Tim starts laughing]__ This is making it take longer.
+_(laughing)_ Stop trying to make me laugh. __[Tim starts laughing]__ This is making it take longer.
 
 ------
 
@@ -1422,9 +1422,9 @@ __[laughs]__ "Oh, bo!"
 
 ##### [beat]
 
-#### BEN [mouth noise, sort of like smacking lips]
+#### BEN 
 
-"Fair enough." I really killed that.
+__[mouth noise, sort of like smacking lips]__ "Fair enough." I really killed that.
 
 #### TIM
 
@@ -1586,7 +1586,7 @@ No, I just-- I really wa-- Okay, no. I like it; I just didn't expect it. It was 
 
 #### TIM
 
-__[screeches]__ "'Repent, Trexel Geistman! Repent!' And I'm like, 'No, thank you.' And I'm tryna close the door but their-- their foot's in the door. And I'm slamming it. And their foot's bleeding now. And then there's a-- there's a bit of a foot in my house! What am I gonna do with it then? What do I need-- I'm using it as a paperweight but it's starting to smell?"
+_(screeches)_ "'Repent, Trexel Geistman! Repent!' And I'm like, 'No, thank you.' And I'm tryna close the door but their-- their foot's in the door. And I'm slamming it. And their foot's bleeding now. And then there's a-- there's a bit of a foot in my house! What am I gonna do with it then? What do I need-- I'm using it as a paperweight but it's starting to smell?"
 
 ##### [pause then Ben laughs]
 
@@ -1614,9 +1614,9 @@ Nearly there. 18 minutes, 23 seconds.
 
 Just, again, did not expect you to go... there.
 
-#### TIM [laughs]
+#### TIM 
 
-I'm enjoying this.
+__[laughs]__ I'm enjoying this.
 
 #### BEN
 
@@ -1720,9 +1720,9 @@ Okay, okay, okay, we're so close to the end! We're so close to the end.
 
 ##### [pause]
 
-#### BEN [laughs]
+#### BEN 
 
-Christ!
+__[laughs]__ Christ!
 
 #### TIM
 
@@ -1732,11 +1732,11 @@ Let's give you another scream.
 
 #### TIM
 
-Fun one. __[shouting]__ "Oh, no!" __[laughs]__ Not that one.
+Fun one. _(shouting)_ "Oh, no!" __[laughs]__ Not that one.
 
 #### BEN
 
-__[laughing]__ That wasn't Trexel's voice.
+_(laughing)_ That wasn't Trexel's voice.
 
 ##### [beep]
 
@@ -1800,9 +1800,9 @@ I just-- I just went, "Well--"
 
 Well...
 
-#### BEN [imitating a flatline]
+#### BEN 
 
-BEEEEEEE--
+_(imitating a flatline)_ BEEEEEEE--
 
 #### TIM
 
@@ -1844,7 +1844,7 @@ _(crosstalk)_ "And meat."
 
 #### BEN
 
-__[sad]__ "Oh."
+_(sad)_ "Oh."
 
 ------
 
@@ -1902,7 +1902,7 @@ What, we'll go back to it.
 
 #### TIM
 
-You just-- you just-- you were just like __[chuckles]__.
+You just-- you just-- you were just like: __[chuckles]__
 
 #### BEN
 
@@ -1910,11 +1910,11 @@ I didn't even-- __[puts face in his hands]__ I didn't even realise.
 
 #### TIM
 
-__[imitating Ben]__ 'Oh, I enjoy this podcast!'
+_(imitating Ben)_ 'Oh, I enjoy this podcast!'
 
-#### BEN [in a similar voice]
+#### BEN 
 
-'This is great. You guys are really funny.'
+_(in a similar voice)_ 'This is great. You guys are really funny.'
 
 ------
 
@@ -1988,7 +1988,7 @@ Not for thinking!
 
 #### TIM
 
-Yep, absolutely. Dyslexia is all about thinking, ding-dong. Ha ha! __[screaming]__ "Ah ha! Finally! My victory is here!"
+Yep, absolutely. Dyslexia is all about thinking, ding-dong. Ha ha! _(screaming)_ "Ah ha! Finally! My victory is here!"
 
 #### BEN
 
@@ -1996,7 +1996,7 @@ Damn it.
 
 #### TIM
 
-__[screeching]__ "Avant Geistman!" __[Ben laughs]__ Um, yeah. Yeah. So, uh, hi Alex. I'm officially dyslexic, so, any mistakes I make--
+_(screeching)_ "Avant Geistman!" __[Ben laughs]__ Um, yeah. Yeah. So, uh, hi Alex. I'm officially dyslexic, so, any mistakes I make--
 
 #### BEN
 
@@ -2044,7 +2044,7 @@ I-- I think Alex might *also* be dyslexic, so we'll let him get back to you on t
 
 #### TIM
 
-Yeah, well, you know, he's one of the splitters.__ [Ben laughs]__ He's one of the intelligents. Uh--
+Yeah, well, you know, he's one of the splitters. __[Ben laughs]__ He's one of the intelligents. Uh--
 
 #### BEN
 
@@ -2068,7 +2068,7 @@ That you insult him for.
 
 #### TIM
 
-And then I insult him for. Um, but you know what? He's knows that it's from this, uh, these humble beginnings-- the pots of, uh, pots of-- of hot humour do, uh, do boil and froth over into the cups of the waiting, uh, __[hungrily]__ people below. This froth and--
+And then I insult him for. Um, but you know what? He's knows that it's from this, uh, these humble beginnings-- the pots of, uh, pots of-- of hot humour do, uh, do boil and froth over into the cups of the waiting, uh, _(hungrily)_ people below. This froth and--
 
 ------
 
@@ -2154,7 +2154,7 @@ And I'm like, 'uhh...'
 
 #### TIM
 
-__[singing]__ ♪ "The Cosmic Lounge, the Cosmic Lounge--" ♫
+_(singing)_ ♪ "The Cosmic Lounge, the Cosmic Lounge--" ♫
 
 #### SIMON
 
@@ -2194,11 +2194,11 @@ But, they're not me! __[chuckles]__ Okay. "Two, three, four--"
 
 #### SIMON
 
-__[simultaneous, singing]__ ♪ "The Cosmic Lounge--" ♫
+_(simultaneous, singing)_ ♪ "The Cosmic Lounge--" ♫
 
 #### TIM
 
-__[simultaneous, singing]__ ♪ "The staff won't berate you even-- ♫ Oh, f-**[bleep]** me!"
+_(simultaneous, singing)_ ♪ "The staff won't berate you even-- ♫ Oh, f-**[bleep]** me!"
 
 #### SIMON
 
@@ -2262,9 +2262,9 @@ It's a hard song. Right.
 
 "No."
 
-#### TIM [shouting]
+#### TIM 
 
-"Burn it all down!"
+_(shouting)_ "Burn it all down!"
 
 #### BEN
 
@@ -2306,9 +2306,9 @@ Tim died.
 
 "If you don't walk with a left, right, I will put your head into a chemical toilet."
 
-#### BEN [quiet]
+#### BEN 
 
-"Okay. I'll walk."
+_(quiet)_ "Okay. I'll walk."
 
 #### TIM
 
@@ -2362,11 +2362,11 @@ Yeah, yeah. Okay.
 
 #### IMOGEN HARRIS
 
-__[imitating IMOGEN]__ Wink detected.
+_(imitating IMOGEN)_ Wink detected.
 
-#### TIM [imitating IMOGEN]
+#### TIM 
 
-Bestiality detected.
+_(imitating IMOGEN)_ Bestiality detected.
 
 ------
 
@@ -2408,15 +2408,15 @@ Defrauded. Okay. Okay.
 
 #### TIM
 
-__[satirically]__ "The c-**[bleep]**. The liberal c-**[bleep]**. Who's gonna stand up for the c-**[bleep]**."
+_(satirically)_ "The c-**[bleep]**. The liberal c-**[bleep]**. Who's gonna stand up for the c-**[bleep]**."
 
-#### ALEX [laughing]
+#### ALEX 
 
-God.
+_(laughing)_ God.
 
-#### TIM [satirically]
+#### TIM 
 
-"The alt-right nazi; that guy needs help apparently." Right.
+_(satirically)_ "The alt-right nazi; that guy needs help apparently." Right.
 
 #### JENNY
 

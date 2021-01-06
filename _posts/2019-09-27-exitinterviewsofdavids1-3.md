@@ -28,27 +28,23 @@ Hi everyone, Alex here. I'd just like to take a moment to thank some of our patr
 
 ------
 
-#### ALEX
-
 Hi everyone, Alex again. We hope you've enjoyed the special content we've been running during the season break for Stellar Firma. This is just a quick update to let you all know that Season 2 will be available to the public on December 6th, 2019. In the meantime, if you'd like to submit an episode suggestion, be sure to join our Patreon via the website or via the link in the show notes. For now, though, we're going to continue with the specials, and so with that in mind, we hope you enjoy today's: the first of the exit interviews.
 
 ------
 
 ##### [shorter version of the show theme]
 
-##### [activation beep]
+#### MALE ROBOT VOICE 
 
-#### MALE ROBOT VOICE
+__[beep]__ David 1.
 
-David 1.
-
-##### [electronic activation sound]
+##### [electronic powering on sound]
 
 #### TREXEL
 
-So! David. __[pause]__ Not gone well. Not gone well at all. This is what, uh, we call... __[stutters]__ I suppose you'd call it like a liquidation chat? Or perhaps a "you're going to die" talk! Or an exit interview. Or-- or something of that major, and it's just an exercise for me, Trexel Geistman... your erstwhile manager... to find out what's gone wrong! Why-- why are we here?
+So! David. __[pause]__ Not gone well. Not gone well at all. This is what, uh, we call... I mean, I suppose you'd call it a-- like a liquidation chat? Or perhaps a "you're going to die" talk! Or an exit interview. Or-- or something of that nature, and it's just an exercise for-- for me, Trexel Geistman... your erstwhile manager... to find out what's gone wrong! Why-- why are we here?
 
-##### [in contrast to David 7, David 1 speaks very clinically and emotionlessly.]
+##### [in contrast to David 7, David 1 speaks very clinically and emotionlessly]
 
 #### DAVID 1
 
@@ -78,29 +74,29 @@ Now I am the universe's greatest genius, and you did exactly what I told you to 
 
 I did exactly what you told me to do.
 
-##### [long pause]
+##### [beat]
 
 #### TREXEL
 
 Interview terminated.
 
-##### [electronic powering-down sound]
+##### [electronic powering off sound]
 
-##### [activation beep]
+------
 
-#### MALE ROBOT VOICE
+#### MALE ROBOT VOICE 
 
-David 2.
+__[beep]__ David 2.
 
-##### [electronic activation sound]
+##### [electronic powering on sound]
 
 #### TREXEL
 
 Okay, David! Okay, okay. This is, um... this is... you won't know this, but this has happened before.
 
-#### DAVID 2 [interrupting
+#### DAVID 2 
 
-] Yes, with David 1.
+_(interrupting)_ Yes, with David 1.
 
 #### TREXEL
 
@@ -112,45 +108,45 @@ I'm called David 2, which implies that I'm the second David. Which means that Da
 
 #### TREXEL
 
-Ahh. Sharp as a tack as ever. Now, David, um... you are being recycled today! [__DAVID 2:__ Yes.] And I really, I just-- I just really need to needle down as to why. Because, well-- this is my running theory: it is *your* fault. Because __[laughs]__ I don't know if you know this, David, but I am-- I am *excellent* at my job. I'm better than any person who has been good at anything in all of recorded time and history and space. So, the *only* explanation, David, the *only* explanation... is there is something wrong with this clone batch, because __[laughs]__ I just as I say, this *can't* be my fault. __[unsure]__ Apart from... the fact that it's happened all these-- no, no, it can't-- it *cannot* be my fault.
+Ahh. Sharp as a tack as ever. Now, David, um... you are being recycled today! [__DAVID 2:__ Yes.] And I really, I just-- I just really need to needle-- needle down as-- as to why. Because, well-- this is my running theory: it is *your* fault. Because __[laughs]__ I don't know if you know this, David, but I-- I am-- I am *excellent* at my job. I'm better than any person who has been good at anything in all of recorded time and history and space. So, the *only* explanation, David, the *only* explanation is there is something wrong with this clone batch, because __[laughs]__ I just-- as I say, this *can't* be my fault. _(unsure)_ Apart from... the fact that it's happened all these-- no, no, it can't-- it *cannot* be my fault.
 
 #### DAVID 2
 
-I'm sorry, Trexel, but that's largely impossible. All clones are produced to Stellar Firma guidelines, which as you know, have been designed over thousands of years to be nigh-on perfect. If there were any problems, it would be picked up by one of the managerial staff, and that clone would be recycled before being given to a consultant. So, I am very sorry, Trexel, but your argument does not actually make any sense.
+I'm sorry, Trexel, but that's largely impossible. Um, all clones are produced to Stellar Firma guidelines, um, which as you know, have been designed over thousands of years to be nigh-on perfect. Um, if there were any problems, it would be picked up by one of the managerial staff, and that clone would be recycled before being given to a consultant. So, I am very sorry, Trexel, but your argument does not actually make any sense.
 
 #### TREXEL
 
-Okay, that sounds, uh-- a lot like you're *questioning* me, David, and as you know, clones and questioning don't... really mix. However, I--
+Okay, that sounds a-- a lot like you're *questioning* me, David, and as you know, clones and questioning don't... really mix. However, I--
 
 #### DAVID 2
 
-I'm sorry, Trexel, it sounds like you do not have all the information. If I can merely quote some statistics--
+I'm-- I'm sorry, Trexel, it sounds like you do not have all the information. If I can merely quote some statistics--
 
 #### TREXEL
 
 No, no, no, nope, no, no, I-- I--
 
-#### DAVID 2 [over Trexel's protests]
+#### DAVID 2 
 
-It seems a normal consultant has a clone burn rate of about one in every eight years. [__TREXEL:__ I don't think we need to go into this--] And usually, that is only to upgrade them. Now, I know I am not ready for an upgrade, and I was David 2, which means that David 1 was prematurely recycled.
+_(over Trexel's protests)_ It seems a normal consultant has a clone burn rate of about one in every eight years. [__TREXEL:__ I don't think we need to go into this--] And usually, that is only to upgrade them. Now, I know I am not ready for an upgrade, and I was David 2, which means that, um, David 1 was prematurely recycled.
 
 #### TREXEL
 
 Well, okay, this is a supposition. Erm, and, I think you'll find that you can...Interview terminated.
 
-##### [electronic powering-down sound]
+##### [electronic powering off sound]
 
-##### [activation beep]
+------
 
-#### MALE ROBOT VOICE
+#### MALE ROBOT VOICE 
 
-David 3.
+__[beep]__ David 3.
 
-##### [electronic activation sound]
+##### [electronic powering on sound]
 
-#### TREXEL [agitated]
+#### TREXEL 
 
-Okay, lock the doors. Lock the doors! Shut it down! Nobody gets out! I know it's only you and me here, __[growling]__ *David 3,* but there is something afoot. And you know what?! I think there's something *ahoof!* There's a *conspiracy* here! I am being *needled*, I am being *got at*, and I think I know what's going on... Who do you work for, David 3?
+_(agitated)_ Okay, lock the doors. Lock the doors! Shut it down! Nobody gets out! I know it's only you and me here, _(growling)_ *David 3,* but there is something afoot. And you know what?! I think there's something *ahoof!* There's a *conspiracy* here! I am being *needled*, I am being *got at*, and I think I know what's going on... Who do you work for, David 3?
 
 #### DAVID 3
 
@@ -194,10 +190,10 @@ Then tell me why I'm *failing*.
 
 #### DAVID 3
 
-I... __[halting]__ I-- I-- I'm sorry, Trexel, we're also programmed not to... directly... criticize the... consultant... so... I c-can't... t-tell. The order... is... no... can't.
+I... _(halting)_ I-- I-- I'm sorry, Trexel, um, we're also programmed not to... directly... criticise the... consultant... so... I c-can't... t-tell. The order... is... no... can't.
 
-#### TREXEL [whispered]
+#### TREXEL 
 
-Interview terminated.
+_(whispered)_ Interview terminated.
 
-##### [electronic powering-down sound, fade into short version of the outro theme. There are no credits.]
+##### [electronic powering off sound, fade into short version of the outro theme. There are no credits.]

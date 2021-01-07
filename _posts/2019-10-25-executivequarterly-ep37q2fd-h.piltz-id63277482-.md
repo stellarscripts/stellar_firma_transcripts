@@ -30,7 +30,7 @@ Hi everyone, Alex here. I'd just like to take a moment to thank some of our patr
 
 ##### [shorter version of the show theme]
 
-##### [water dripping, light flickers audibly]
+##### [water dripping, light flickers]
 
 ##### [upbeat radio show intro music, the show sounds like it is being played on a radio in a corridor at first and then transitions into sounding clearer]
 
@@ -40,7 +40,7 @@ Hello, and welcome to Executive Quarterly with me, Sigmund Shankeray. I'm joined
 
 #### HARTRO
 
-I am fantastic. [__SIGMUND:__ Hmm.] Thank you for having me, Sigmund. It is a real pleasure to be here today.
+I am fantastic. [__SIGMUND:__ Hmm.] Thank you for having me, Sigmund. It is a-- it is a real pleasure to be here today.
 
 #### SIGMUND
 
@@ -48,11 +48,11 @@ Well, it's an absolute pleasure for me as well, because, as I say, you really ar
 
 #### HARTRO
 
-Yes, that's true. That is true. And I like to think that I'm constantly trying to exceed myself and, and fly further into the galaxy of success so that, as not to burn out, but to continually become a larger star. [__SIGMUND:__ Yes.] Not-not to fade out, not to explode, but to succeed in becoming brighter [__SIGMUND:__ Mh-hmm.] as an emblem of other line managers.
+Yes, that's true. That's-- that is true. And I like to think that I'm constantly trying to exceed myself and-- and fly further into the galaxy of success so that, as not to burn out, but to continually become a larger star. [__SIGMUND:__ Yes.] Not-- not to fade out, not to explode, but to succeed in becoming brighter... [__SIGMUND:__ Mm-hmm.] as an emblem for other line managers.
 
 #### SIGMUND
 
-Okay, we're going to have a question now. Just going to ask you a series of questions to help really get to the bottom of what makes a line manager and rising executive such as yourself tick. Is that okay?
+Okay, we're going to have a question now. Um, just going to ask you a series of questions to help really get to the bottom of what makes a line manager and rising executive such as yourself tick. Is that okay?
 
 #### HARTRO
 
@@ -72,7 +72,7 @@ Do you have an electric alarm clock that tasers you as you wake up?
 
 #### HARTRO
 
-I've seen those! I've heard of those. I actually have one that's inserted into my bed and it flips the bed slightly.
+I've seen those! I've heard of those. I-- I actually have one that's inserted into my bed and it flips the bed slightly.
 
 #### SIGMUND
 
@@ -80,11 +80,11 @@ Interesting.
 
 #### HARTRO
 
-It's called The Shelling.
+It's-- it's-- it's, um, called The Shelling.
 
 #### SIGMUND
 
-Ah! And it, and it shells you out of your sleep [__HARTRO:__ Exactly.] into the wall of the-- onto the wall of your room?
+Ah! And it-- and it shells you out of your sleep [__HARTRO:__ Exactly.] into the wall of the-- onto the wall of your room?
 
 #### HARTRO
 
@@ -124,11 +124,11 @@ I-- no. No, really.
 
 #### SIGMUND
 
-_[crosstalk]_ Oh, come now, nothing?
+_(crosstalk)_ Oh, come now, nothing?
 
 #### HARTRO
 
-You jest. No really. No, it is a *joy* to work for Stellar Firma. I mean, bless the Board I have come to where I have come. You know, everyday as I smack my face on the floor of my cubicle and alight into action to come and deliver line managerial dictation and-- and *joy*. I just feel like I am the luckiest woman to serve the Board. I love my job!
+You-- you jest. No really. No, it is a *joy* to work for Stellar Firma. I mean, bless the Board I have come to where I have come. You know, everyday as I smack my face on the floor of my cubicle and alight into action to come and deliver line managerial dictation and-- and-- and* joy*. I just feel like I am the luckiest woman to serve the Board. I love my job!
 
 #### SIGMUND
 
@@ -152,7 +152,7 @@ Nothing?
 
 #### HARTRO
 
-In fact, I'd, I'd work longer. I'd work harder.
+In fact, I'd... I'd work longer. I'd work harder.
 
 #### SIGMUND
 
@@ -164,7 +164,7 @@ Is it hot in here? Ha.
 
 #### SIGMUND
 
-It is a-- it is a little warm. I'll just turn it __[knob being turned]__ up a little. A line manager's job can be very hard and, and very taxing. [__HARTRO:__ No.] Does it ever get too much?
+It is a-- it is a little warm. I'll just turn it __[knob being turned]__ up a little. A line manager's job can be very hard and-- and very taxing. [__HARTRO:__ No.] Does it ever get too much?
 
 ##### [heater fans blowing]
 
@@ -178,11 +178,11 @@ So, you fraternise? You fraternise with your employees?
 
 #### HARTRO
 
-Sigmund, now, come on, now. You know, from one professional to another, you want them to have a feeling of, you know, oh, they *could* fraternise with you. You know, they might think "oh, we could" but absolutely not. I mean, I know where the line is. _[crosstalk]_ I know where the line-- I know when to put my foot down!
+Sigmund, now, come on, now. You know, from one professional to another, you want them to have a feeling of, you know, oh, they *could* fraternise with you. You know, they might think "oh, we could" but absolutely not. I mean, I know where the line is. I know where the line-- I know when to put my foot down!
 
 #### SIGMUND
 
-_[crosstalk]_ Mm. You're-- you're the-- you're the line manager. You're the line manager so you would know where the line is.
+_(crosstalk)_ Mm. You're-- you're the-- you're the line manager. You're the line manager so you would know where the line is.
 
 #### HARTRO
 
@@ -242,17 +242,19 @@ Not unless there's anything you'd like to say on that topic.
 
 #### HARTRO
 
-Just that I'm a shapeshifter [__SIGMUND:__ You're a shapeshifter.] and I have a line that I draw. And it goes *through* friends.
+Just that I'm a shapeshifter--
 
 #### SIGMUND
 
-Okay, a line drawing shapeshifter with no friends. That's Hartro Piltz. Okay, and would you ever defy the Board?
+You're a shapeshifter.
 
-##### [sound of large and threatening gun unfolding, low tone beeping]
+#### HARTRO
+
+--and I have a line that I draw. And it goes *through* friends.
 
 #### SIGMUND
 
-Would you ever defy the Board?
+Okay, a line-drawing shapeshifter with no friends. That's Hartro Piltz. Okay, and would you ever defy the Board? __[sound of large and threatening gun unfolding, low tone beeping]__ Would you ever defy the Board?
 
 #### HARTRO
 
@@ -268,7 +270,7 @@ I-I don't think I've even heard the words "defy the Board" in the same sen-- I c
 
 #### SIGMUND
 
-In your role as shapeshifting line drawer, [__HARTRO:__ Yes.] you're drawing a line through defying the board?
+In your role as shapeshifting line-drawer, [__HARTRO:__ Yes.] you're-- you're drawing a line through defying the board?
 
 ##### [gun makes adjustments]
 
@@ -278,7 +280,7 @@ Through defying the Board, yes.
 
 #### SIGMUND
 
-To say "no, I would not."
+To say "no, I would not".
 
 #### HARTRO
 
@@ -286,13 +288,7 @@ To say absolutely not. Absolutely not.
 
 #### SIGMUND
 
-Okay, wonderful.
-
-##### [beeping stops, gun disassembles and retracts]
-
-#### SIGMUND
-
-Let's move on then. So, um--
+Okay, wonderful. __[beeping stops, gun disassembles and retracts]__ Let's move on then. So, um--
 
 #### HARTRO
 
@@ -304,11 +300,11 @@ I just--
 
 #### HARTRO
 
-I even sing-- I sing the Board song every morning. I didn't-- You didn't let me carry on. It's fine, no, I understand. I mean, you-- you're-- you're in charge here. [__SIGMUND:__ Mm-hmm.] Uh, but, in my, in my perfect day, I, after I, uh, get Shelled I also sing the Board anthem.
+I even sing-- I sing the Board song every morning. I didn't-- You didn't let me carry on. It's fine, no, I understand. I mean, you-- you're-- you're in charge here. [__SIGMUND:__ Mm-hmm.] Uh, but, in my-- in my perfect day, I-- after I, uh, get Shelled I also sing the Board anthem. I...
 
 #### SIGMUND
 
-So, you have an almost *exemplary* record of, of both planet delivery and customer satisfaction.
+So, you have an almost *exemplary* record of-- of both planet delivery and customer satisfaction.
 
 #### HARTRO
 
@@ -324,7 +320,15 @@ Exemplary, yes.
 
 #### SIGMUND
 
---of both planet delivery and customer satisfaction. So, how do you account for that [__HARTRO:__ Thank you. __[laughs]__] *almost* complete success?
+--of both planet delivery and customer satisfaction. So, how do you account for that--
+
+#### HARTRO
+
+Thank you. __[laughs]__
+
+#### SIGMUND
+
+--*almost* complete success?
 
 #### HARTRO
 
@@ -332,7 +336,7 @@ I-- Complete success. I-- every-- that's what I--
 
 #### SIGMUND
 
-Sorry, sorry, *almost* complete-- Sorry, I just want to make sure that point is held that you have an almost exemplary record.
+Sorry, sorry, *almost* complete-- Sorry, I just want to make sure that point is-- is held that you have an almost exemplary record.
 
 #### HARTRO
 
@@ -354,7 +358,7 @@ Ah. So, what *are* you saying, Hartro?
 
 #### HARTRO
 
-I'm-- what I'm saying-- what-- I'm glad you asked. I'm glad you asked. What I'm saying is that sometimes you get given a piece of mud when you're trying to make a marble statue. And, what do you do? You have to mold it along with-- I mean, I, I've been given my materials, haven't I, and one of my materials, we won't mention names, __[under breath]__ Trexel Geistman, is really difficult to work with and I, I'm not saying it's a problem. Board knows it is not a problem; it is just something that makes my, you know, skills develop even more. It's a blessing.
+I'm-- what I'm saying-- what-- __[nervous chuckle]__ I'm glad you asked. I'm glad you asked. What I'm saying is... that sometimes you get given a piece of mud when you're trying to make a marble statue. And, what do you do? You have to mold it along with-- I mean, I-- I've been given my materials, haven't I, and one of my materials, we won't mention names, _(under breath)_ *Trexel Geistman*, is really difficult to work with and I-- I'm not saying it's a problem. Board knows it is not a problem; it is just something that makes my, you know, skills develop even more. It's a blessing.
 
 #### SIGMUND
 
@@ -388,7 +392,7 @@ After a hard day [__HARTRO:__ Mm.] of managing your lines, how do you like to un
 
 #### HARTRO
 
-Well, funny-- funny Sigmund, uh, there's no such thing as a hard day. There just really isn't. I mean, I unwind like everyone else. Eh, you know, I have ion scrubs but that's just to, you know, keep my appearance sharp and shapely. You know, I've been known to unwind with a little bit of slurry in the evening, you know. Uh, like anyone, like anyone.
+Well, funny-- funny Sigmund, uh, uh, there's no such thing as a hard day. There just really isn't. I mean, I unwind like everyone else. Eh, you know, I, uh, I have ion scrubs but that's just to, you know, keep my appearance, uh, sharp and shapely. Uh, you know, I've-- I've been known to un-- unwind with a bit of slurry in the evening, you know. Uh, like anyone, like anyone.
 
 #### SIGMUND
 
@@ -396,7 +400,7 @@ We all love our slurry.
 
 #### HARTRO
 
-Ah. Yea-- But really, there's no need for it, it's just, I'm social. I'm a social animal. I'm so popular amongst the managers and the lines and the, and the parties, and... __[trails off]__
+Ah. Yea-- But really, there's no need for it, it's just, I'm social. I'm a social animal. I'm so popular amongst the managers and the lines and the-- and the parties, and... __[trails off]__
 
 #### SIGMUND
 
@@ -408,7 +412,7 @@ I will put on a facade of party if I must.
 
 #### SIGMUND
 
-Because, obviously the Board really encourages our line managers to sometimes, you know, get out there and let down their hair. So, you're saying that you, you buck against that enjoyment and you, and you push against the mandated parties of the Board?
+Because, obviously the Board really encourages our line managers to sometimes, you know, get out there and let down their hair. So, you're saying that you, you buck against that enjoyment and you-- and you push against the mandated parties of the Board?
 
 ##### [sound of large and threatening gun unfolding, low tone beeping]
 
@@ -418,35 +422,29 @@ I didn't understand that question the first time around. Isn't that funny? Um...
 
 #### SIGMUND
 
-_[crosstalk]_ Oh, is it-- is it a little hot in here for you?
+Oh, is it-- is it a little hot in here for you?
 
 #### HARTRO
 
-_[crosstalk]_ It's a little hot, Sigmund.
+_(crosstalk)_ It's a little hot, Sigmund.
 
 #### SIGMUND
 
-_[crosstalk]_ I'll just turn it up.
+_(crosstalk)_ I'll just turn it up.
 
 ##### [knob being turned, heater fans blowing]
 
 #### HARTRO
 
-And you are, you are a very appealing looking man. __[nervous laugh]__ Uh-- Um-- Um, I party! I love party-- Would you like to party? I think we should party.
+And you are-- you are a very appealing looking man. __[nervous laugh]__ Uh-- Um-- I party! I love party-- Would you like to party? I think we should party.
 
 #### SIGMUND
 
-Hartro, we're, we're recording an interview so I don't think I'll take up the partying. But the fact that you offered is noted.
-
-##### [beeping stops, gun disassembles and retracts]
-
-#### SIGMUND
-
-So, sometimes you have to make tough calls in your job. So, how do you feel it's best to tell a consultant that, unfortunately, their employment, and indeed their life, is going to be terminated?
+Hartro, we're-- we're recording an interview so I-- I don't think I'll-- I'll take up the partying. But the fact that you offered is-- is noted. __[beeping stops, gun disassembles and retracts]__ So, sometimes you have to make tough calls in your job. So, how do you feel it's best to tell a consultant that, unfortunately, their employment, and indeed their life, is going to be terminated?
 
 #### HARTRO
 
-Well, Sigmund, I know you must also feel the responsibility in your job. As I've been traveling up the different prestigious stages in Stellar Firma and I've now become a line manager, I know that there are some things I have to do and that can be hard but I signed up for the job. I can do it. I'm not afraid to really get into the minds of my disciples, ha, children, ha, colleagues, what have you. Uh, I tell it like it is. You know, I don't like to really mince words and I definitely don't want to torture anyone. Just really let them know as kindly as possible. You know, if there's a way to avoid it, I will.
+Well, Sigmund, uh, I know you must also feel the responsibility in your job. As I've been travelling up the different prestigious stages in Stellar Firma and I've now become a line manager, I know that there are some things I have to do and that can be hard but I signed up for the job. I can do it. I'm... I'm not afraid to really get into the minds of my disciples, ha, children, ha, colleagues, what have you. Uh, I tell it like it is. You know, I don't like to really mince words and I definitely don't want to torture anyone. Just really let them know as kindly as possible. You know, if there's a way to avoid it, I will.
 
 #### SIGMUND
 
@@ -456,7 +454,7 @@ So, you would go against an execution order?
 
 #### HARTRO
 
-We-- Oh, we were talking specifically dead-- Ah, no. Ah, n-no! No, no. If-- if there is an order to execute someone, I mean, give me the, give me the gun. I would be happy to. I mean, I would do that if I needed to. Uh, I don't even think you need to inform the person, just __[makes gun cocking noise]__.
+We-- Oh, we were talking specifically dead-- Ah, no. Ah, n-no! No, no. If-- if there is an order to execute someone, I mean, give me the-- give me the gun. I would be happy to. I mean, I would do that if I needed to. Uh, I don't even think you need to inform the person, just __[makes gun cocking noise]__.
 
 #### SIGMUND
 
@@ -464,25 +462,25 @@ Just out behind them and-- Hm.
 
 #### HARTRO
 
-I mean, if the, if the Board has--
-
-#### SIGMUND[crosstalk]
-
-In the night?
-
-#### HARTRO
-
-_[crosstalk]_ If the Board has--
+I mean, if the-- if the Board has--
 
 #### SIGMUND
 
-In the night while they're sleeping? When their back is turned or eyes are closed? Let's say it's your oldest friend. __[gun makes adjustments]__ And you were called to a secret tribunal and were told they had to be removed and terminated and we handed you the gun and said, "do it now." Would you immediately walk to that person's pod, quietly open the door, creep up, pull back the covers, and take them out?
+_(crosstalk)_ In the night?
+
+#### HARTRO
+
+_(crosstalk)_ If the Board has--
+
+#### SIGMUND
+
+In the night while they're sleeping? When their back is turned or eyes are closed? Let's say it's your oldest friend. __[gun makes adjustments]__ And-- and you were called to a-- a secret tribunal and-- and were told they had to be removed and terminated and we handed you the gun and said, "do it now". Would you immediately walk to that person's pod, quietly open the door, creep up, pull back the covers, and take them out?
 
 ##### [gun makes adjustments]
 
 #### HARTRO
 
-And this is-- this is an execution order by the Board? This is... __[gun makes adjustments]__ Well, Sigmund, it's funny that you are asking me this because we know the answer, don't we? Of course we do.
+And this is-- this is an execution order by the Board? This is... __[gun makes adjustments]__ Well, Sigmund, it's funny that you are asking me this because... we know the answer, don't we? Of course we do.
 
 #### SIGMUND
 
@@ -512,11 +510,11 @@ I mean, you're looking at me as if you've never been asked a question before in 
 
 #### SIGMUND
 
-Yes. Many times. And my answer has always been "yes."
+Yes. Many times. And my answer has always been "yes".
 
 #### HARTRO
 
-And that is mine as well. That's what I was saying. Well done, us. __[Sigmund exhales]__ I think, you know, we're very similar... __[sounding unsure]__ you and I. Very...
+And that is mine as well. That's what I was saying. Well done, us. __[Sigmund exhales]__ I think, you know, we're very similar... _(sounding unsure)_ you and I. Very...
 
 #### SIGMUND
 
@@ -524,9 +522,9 @@ Would you ever defy the Board?
 
 ##### [gun makes adjustments]
 
-#### HARTRO [quickly]
+#### HARTRO 
 
-No.
+_(quickly)_ No.
 
 #### SIGMUND
 
@@ -560,7 +558,7 @@ Almost exemplary.
 
 #### HARTRO
 
---With that exemplariness I just think they would want me to move forward and up and onwards and, the sky is the limit. Ha, I hate to, you know, use a cliché but, really, it is for me. Just work. Work, work, work.
+With that exemplariness, I just think they would want me to move forward and up and onwards and the sky is the limit. Ha, I hate to, you know, use a cliché but, really, it is for me. Just work. Work, work, work.
 
 #### SIGMUND
 
@@ -584,7 +582,7 @@ No.
 
 #### SIGMUND
 
-Hartro Piltz, thank you very much. And thanks to all of you for joining me, Sigmund Shankeray, __[the show sounds like it is being played on a radio in a corridor]__ on this edition of Executive Quarterly. I hope you'll join me next week where we're meeting Gamma Delt, the most compliant and obedient young executive I've met in many eons. Thank you.
+Hartro Piltz, thank you very much. And thanks to all of you for joining me, Sigmund Shankeray, _(the show sounds like it is being played on a radio in a corridor)_ on this edition of Executive Quarterly. I hope you'll join me next week where we're meeting Gamma Delt, the most compliant and obedient young executive I've met in many aeons. Thank you.
 
 ##### [upbeat radio show music]
 

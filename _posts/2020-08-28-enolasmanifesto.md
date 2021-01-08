@@ -22,41 +22,41 @@ official: false
 
 ### Transcribed 8/29/20 via [stellarscripts](https://stellarscripts.tumblr.com/) on tumblr
 
-##### __[shorter version of the show theme]__
+##### [shorter version of the show theme]
 
-##### __[cassette tape put in player, tape clicks on]__
+##### [cassette tape put in player, tape clicks on]
 
 #### ENOLA
 
-*(somewhat fanatical but reverent when talking about the Board)* This is a declaration of strong, sound *and* resolute political intent... made in the face of... a-and as a *direct result* of, the growing issues that I see as corrupting the *(pouting)* previously perfect world of Stellar Firma *(normal)* and warping the intent of our benevolent and all-knowing Board. Hail the Board.
+_(somewhat fanatical but reverent when talking about the Board)_ This is a declaration of strong, sound *and* resolute political intent... made in the face of... a-and as a *direct result* of, the growing issues that I see as corrupting the _(pouting)_ previously perfect world of Stellar Firma _(normal)_ and warping the intent of our benevolent and all-knowing Board. Hail the Board.
 
-I am Enola, and I was once like you, a loyal member of the Build Team. I-I-- I rose in the morning with-- with pride to work on the wonderful worlds that we have the privilege, and indeed, the duty... to build. I was proud of my contribution to the vision of the Board. *Proud* that I could do... my part.
+I am Enola, and I was once like you, a-- a loyal member of the Build Team. I-I-- I rose in the morning with-- with pride to work on the wonderful worlds that we have the privilege, and indeed, the duty... to build. I was proud of my contribution to the vision of the Board. *Proud* that I could do... my part.
 
-But, like many of you, I became aware that there was... __[stammers]__ occasionally... imperfections in, in that plan. *(quickly)* Not that I am suggesting that the Board is imperfect and-- __[stammers]__ no, no, um-- uh-- what-- what-- what-- what I am saying is that maybe... perhaps, at some point... the otherwise... entirely perfect plans that the Board has laid out have been... corrupted.
+But, like many of you, I became aware that there was... __[stammers]__ occasionally... imperfections in-- in that plan. _(quickly)_ Not that I am suggesting that the Board is imperfect and-- __[stammers]__ no, no, um-- uh-- what-- what-- what-- what I am saying is that maybe... perhaps, at some point... the otherwise... entirely perfect plans that the Board has laid out have been... corrupted.
 
-By who you ask? Well, I-I am not one to point the finger of blame, and it may well be the case that, that there are multiple sources of corruption, but I'm also pretty sure that it is Trexel Geistman. It is his fault and he must be stopped, maybe buried or... pushed in a pond! Or... burned or... have his mouth taken away!
+By who you ask? Well, I-I am not one to point the finger of blame, and it may well be the case that-- that there are multiple sources of corruption, but I'm also pretty sure that it is Trexel Geistman. It is his fault and he must be stopped, maybe buried or... pushed in a pond! Or... burned or... have his mouth taken away!
 
-Whatever the source--Trexel Geistman--I felt compelled to escape my post in the Build Team after what I was forced to do there, namely build shoddy, unstable planets that directly lead to the deaths of countless numbers of our client citizens and, *worst of all*, call into question the good name of Stellar Firma and, by association, the Board. Hail the Board! That... cannot stand. And so, I propose a call to action! In--in-- in the, the form... of these... declarations. 
+Whatever the source--Trexel Geistman--I felt compelled to escape my post in the Build Team after what I was forced to do there, namely build shoddy, unstable planets that directly lead to the deaths of countless numbers of our client citizens and, *worst of all*, call into question the good name of Stellar Firma and, by association, the Board. Hail the Board! That... cannot stand. And so, I propose a call to action! In-- in-- in the, the form... of these... declarations. __[paper wobbles]__
 
-##### __[paper wobbles]__
+__[clears throat]__
 
-__[clears throat]__ One: we will no longer build any planet in which the design calls for any of the following -- Lava Slides, Knife Dogs, Blood-lubricated Mechanisms, Astral Makaira Maternity Facilities, *Trough Moons*, Ultra-powerful Sleep Deities, Exploding Raves, Superheated Accountants or Wrestle Mountains.
+- One: we will no longer build any planet in which the design calls for any of the following -- Lava Slides, Knife Dogs, Blood-lubricated Mechanisms, Astral Makaira Maternity Facilities, *Trough Moons*, Ultra-powerful Sleep Deities, Exploding Raves, Superheated Accountants or Wrestle Mountains.
 
-Number two: no employee should be forced to listen to any recordings of design sessions with consultants that have either the first name Trexel or the last name Geistman.
+- Number two: no employee should be forced to listen to any recordings of design sessions with consultants that have either the first name Trexel or the last name Geistman.
 
-Number three: all middle management must promise that when they say we have to do something "because the Board said so" that the Board *actually said so!* And must further promise *not to lie* about promising. Or! Or about not lying about promising!
+- Number three: all middle management must promise that when they say we have to do something "because the Board said so" that the Board *actually said so!* And must further promise *not to lie* about promising. Or! Or about not lying about promising!
 
-Number four: the Build Team should have at least one safety helmet available per shift-- if that's okay. But-- but we understand if it's not. Uh--
+- Number four: the Build Team should have at least one safety helmet available per shift-- if that's okay. But-- but we understand if it's not. Uh--
 
-Five: should we complete a planet to the specified design that later collapses in on itself or explodes or falls into a sun or becomes a white dwarf... *or a red dwarf* or some kind of plutanium filled black hole, it will be at least considered that this may be a fault in the design *before* punishment squads are deployed and punitive ration limiting is instated. Um...
+- Five: should we complete a planet to the specified design that later collapses in on itself or explodes or falls into a sun or becomes a white dwarf... *or-- or a red dwarf* or some kind of plutanium filled black hole, it will be at least considered that this may be a fault in the design *before* punishment squads are deployed and punitive ration limiting is instated. Um...
 
-And number six: we will be allowed to send a Happy Board Day card to the Board each year! Hail the Board!!
+- And number six: we will be allowed to send a Happy Board Day card to the Board each year! Hail the Board!!
 
 We hold these demands to be self-evident and inalienable rights that will be granted us... if that's okay. __[stammers]__ And if it's not too much of a bother. Um... Bye!
 
-##### __[tape player stops, cassette tape removed, trash lid squeaks open, tape tossed in trash, lid closes]__
+##### [tape player stops, cassette tape removed, trash lid squeaks open, tape tossed in trash, lid closes]
 
-##### __[short version of the outro theme]__
+##### [short version of the outro theme]
 
 ------
 

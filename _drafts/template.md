@@ -12,6 +12,7 @@ summary: EPISODE SUMMARY GOES HERE
 formats:
   HTML: HTML ADDRESS GOES HERE
   Google Doc: GOOGLE DOC ADDRESS GOES HERE
+  PDF: PDF ADDRESS GOES HERE
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

@@ -32,7 +32,7 @@ and I close my eyes,
 
 I can see you there, 
 
-only one that doesn’t hate me.
+only one that doesn’t hate me.  
 
 
 
@@ -42,17 +42,17 @@ got your drawing on my wall,
 
 I just feel so calm 
 
-held by your arms.
+held by your arms.  
 
 
 
-Why are you so far away in Galactonium?
+Why are you so far away in Galactonium?  
 
 
 
 Hey, won’t you save me? Hold me? Maybe?  
 
-I just  want to be your little clone baby
+I just  want to be your little clone baby  
 
 
 

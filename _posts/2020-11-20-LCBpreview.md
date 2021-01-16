@@ -46,17 +46,17 @@ held by your arms.
 
 
 
-Why are you so far away in Galactonium?  
+<br><br>Why are you so far away in Galactonium?  
 
 
 
-Hey, won’t you save me? Hold me? Maybe?  
+<br><br>Hey, won’t you save me? Hold me? Maybe?  
 
 I just  want to be your little clone baby  
 
 
 
-Little clone baby
+<br><br>Little clone baby
 
 Little clone baby
 
@@ -66,7 +66,7 @@ I just wanna be
 
 
 
-Little clone baby
+<br><br>Little clone baby
 
 Little clone baby
 
@@ -76,6 +76,16 @@ I just wanna be
 
 
 
+<br><br>Little clone baby
+
+Little clone baby
+
+I just wanna be
+
+
+
+<br><br>Little clone baby
+
 Little clone baby
 
 Little clone baby
@@ -84,17 +94,7 @@ I just wanna be
 
 
 
-Little clone baby
-
-Little clone baby
-
-Little clone baby
-
-I just wanna be
-
-
-
-The days are hard, the nights are worse,
+<br><br>The days are hard, the nights are worse,
 
 so far from you across the universe.
 
@@ -104,11 +104,11 @@ It’s all just a matter of time.
 
 
 
-A matter of time
+<br><br>A matter of time
 
 
 
-At night I cry,
+<br><br>At night I cry,
 
 in the day I’m strong,
 
@@ -118,7 +118,7 @@ Just need to be calm.
 
 
 
-I can live
+<br><br>I can live
 
 with this space above
 
@@ -128,17 +128,17 @@ a piece of your love.
 
 
 
-You’re not so far away in Galactonium.
+<br><br>You’re not so far away in Galactonium.
 
 
 
-Hey, won’t you save me? Hold me? Maybe?  
+<br><br>Hey, won’t you save me? Hold me? Maybe?  
 
 I just  want to be your little clone baby
 
 
 
-Little clone baby
+<br><br>Little clone baby
 
 Little clone baby
 
@@ -148,7 +148,7 @@ I just wanna be
 
 
 
-Little clone baby
+<br><br>Little clone baby
 
 Little clone baby
 
@@ -158,7 +158,7 @@ I just wanna be
 
 
 
-Little clone baby
+<br><br>Little clone baby
 
 Little clone baby
 
@@ -168,7 +168,7 @@ I just wanna be
 
 
 
-Little clone baby
+<br><br>Little clone baby
 
 Little clone baby
 

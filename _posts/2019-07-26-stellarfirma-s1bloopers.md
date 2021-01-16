@@ -3,7 +3,7 @@ layout: post
 title: Stellar Firma - S1 Bloopers
 date: 2019-07-26 15:00:00.000000000 +00:00
 categories: special
-episode_number: 'stellarfirma-s1bloopers'
+episode_number: 
 episode_title: Stellar Firma - S1 Bloopers
 tags: []
 content_warnings: None

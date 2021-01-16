@@ -3,7 +3,7 @@ layout: post
 title: Season 1 Teaser
 date: 2019-02-05 00:05:09.000000000 +00:00
 categories: special
-episode_number: 
+episode_number: 'season1teaser'
 episode_title: Season 1 Teaser
 tags: []
 content_warnings: Comedic violence, Emotional Abuse

@@ -24,7 +24,7 @@ official: false
 
 Hi, uh, D-David here. Uh, 7. David 7. Um, I've got a... I-I've got a song, uh, that I’d— I'd, um, I'd quite like to... to sing. Um... So, uh— Oh! Uh, I-IMOGEN, could you... could you give me some of the... the wibbly-wobblies? Y'know, on my voice. The— the sort of the, like, __[beep]__ *(David’s voice has a vocoda applied)* La la la la la on the— Yeah. Oh, no, thank you! Thank you. Okay, so, um... a-and a one and a two and a—
 
-__[electronic dance music]__
+<br><br>__[electronic dance music]__
 
 ♪ When it’s dark at night
 
@@ -176,7 +176,7 @@ Little clone baby
 
 I just wanna be ♫
 
-__[short version of the outro theme]__
+<br><br>__[short version of the outro theme]__
 
 ------
 

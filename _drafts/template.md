@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Episode EPISODE NUMBER - EPISODE TITLE
-date: 2019-02-05 00:05:09.000000000 +00:00
+date: 2019-02-05 16:00:00.000000000 +00:00
 categories: episode
 episode_number: EPISODE NUMBER
 episode_title: EPISODE TITLE GOES HERE AGAIN

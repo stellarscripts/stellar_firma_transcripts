@@ -8,7 +8,7 @@ episode_title: Little Clone Baby (Stellar Firma album preview)
 tags: []
 content_warnings: None
 acast_url: https://play.acast.com/s/stellarfirma/littleclonebaby-stellarfirmaalbumpreview-
-summary: 'Little Clone Baby (Stellar Firma album preview) <br/>*Caution* Board sanctioned mandatory fun inbound. <br/><br/>Confidential preview. Cosmic Lounge employee cabaret night. <br/><br/>Unauthorised distribution of content will result in DMCA (Deadly Metal Claw Attack) takedown.'
+summary: 'Little Clone Baby (Stellar Firma album preview) <br/><br/>*Caution* Board sanctioned mandatory fun inbound. <br/><br/>Confidential preview. Cosmic Lounge employee cabaret night. <br/><br/>Unauthorised distribution of content will result in DMCA (Deadly Metal Claw Attack) takedown.'
 formats:
   HTML: https://docs.google.com/document/d/e/2PACX-1vSPEPpDC_9SV_z2B38j_hCtFu-a0I1RQjb3lS2JRW2gRgByETcfuWG3J8qmlr6EvLJMF40svURTu3eU/pub#_=_
   Google Doc: https://docs.google.com/document/d/1GhXwUQ2Xgg-IauGYp24Wzx0fUMA3Jr4y1ApRRaspYDI/edit?usp=sharing

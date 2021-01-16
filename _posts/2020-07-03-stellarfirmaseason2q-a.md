@@ -2128,7 +2128,7 @@ Well, I mean, they're dead.
 
 #### TIM
 
-I'm gonna do my own honourable mention and then my proper question. My honourable mention is from Silene. [__BEN:__ Oh, fine then.] I believe it's pronounced Sílene or Siléne: 
+I'm gonna do my own honourable mention and then my proper question. My honourable mention is from Silene. [__BEN:__ Oh, fine then.] I believe it's pronounced sih-len or sih-lon: 
 
 >"To the closest dozen. How many murders has Trexel committed?" 
 

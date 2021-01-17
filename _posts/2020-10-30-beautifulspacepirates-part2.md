@@ -2,7 +2,7 @@
 layout: post
 title: RQG/STL Halloween Crossover Special 2020 - Part 2
 date: 2020-10-30 16:00:00.000000000 +00:00
-categories: special
+categories: incomplete
 episode_number:
 episode_title: RQG/STL Halloween Crossover Special 2020 - Part 2
 tags: []

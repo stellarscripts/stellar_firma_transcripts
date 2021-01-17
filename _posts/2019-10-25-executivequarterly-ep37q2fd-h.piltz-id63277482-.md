@@ -13,6 +13,7 @@ summary: This week on Executive Quarterly With Sigmund Shankeray we sit down wit
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/hartro-interview
   Google Doc: https://docs.google.com/document/d/1UNk-GLqymy76KO8dxKqddlguEOpLlR2e_6LCOq4fPq4/edit
+  PDF: https://drive.google.com/file/d/1Y5dH7ykJRR0Ijj2-LPCYM7VrjaxtGEC6/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

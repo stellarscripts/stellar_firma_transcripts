@@ -13,6 +13,7 @@ summary: "Stellar Firma - S1 Bloopers <br/><br/>Boo-boos and Blunders <br/><br/>
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/s1-bloopers
   Google Doc: https://docs.google.com/document/d/1bQ8EOsnsq1JCP1vAFZiSkHq9nJyid30WRMGSMDLq3ZA/edit
+  PDF: https://drive.google.com/file/d/1oFhSN5KMlvPCHA0_aGHLo9QHiJBs-Fxz/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

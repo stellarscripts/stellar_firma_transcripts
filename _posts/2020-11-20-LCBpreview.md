@@ -12,7 +12,7 @@ summary: 'Little Clone Baby (Stellar Firma album preview) <br/><br/>*Caution* Bo
 formats:
   HTML: https://docs.google.com/document/d/e/2PACX-1vSPEPpDC_9SV_z2B38j_hCtFu-a0I1RQjb3lS2JRW2gRgByETcfuWG3J8qmlr6EvLJMF40svURTu3eU/pub#_=_
   Google Doc: https://docs.google.com/document/d/1GhXwUQ2Xgg-IauGYp24Wzx0fUMA3Jr4y1ApRRaspYDI/edit?usp=sharing
-  PDF: PDF ADDRESS GOES HERE
+  PDF: https://drive.google.com/file/d/1eJtUngK_kTzCJfk9O2_2xzZEEn5GGVV-/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

@@ -13,6 +13,7 @@ summary: Enola’s Manifesto <br/><br/>After one too many Build 'issues', Enola 
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/enola-manifesto
   Google Doc: https://docs.google.com/document/d/1BnY5JF78i9izYsM0P_N2Dq-1PFj0n-uArVZam7mJ3iQ/edit
+  PDF: https://drive.google.com/file/d/1aa3Rt34eQgLLfIH2IlCZtCTxfk1Ls1Ho/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

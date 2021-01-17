@@ -13,6 +13,7 @@ summary: Executive Quarterly - Ep 39E5YG, No. 1 (ID 1) <br/><br/>This week on Ex
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/no1-interview
   Google Doc: https://docs.google.com/document/d/1lb5wajNUD0-aIG06WX4ZnXM4J9k57n42hYTxlq4QVqQ/edit
+  PDF: https://drive.google.com/file/d/1x6RIz9ESTKjlrs-GjK2m8FWNmK6ApH5u/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

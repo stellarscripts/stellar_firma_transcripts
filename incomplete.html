@@ -2,39 +2,25 @@
 layout: page_default
 title: Incomplete Transcripts
 ---
-
+    
 <div class="table-of-contents">
 <div class="wrapper">
-    
- <ul>
-{% if site.data.incomplete.size > 0 %}
-  {% for episode in site.data.incomplete %}
-    <li>
-    {% if episode.url.size > 0 %}
-      <a href="{{episode.url}}">{{episode.number}} {{episode.title}}</a>
-    {% else %}
-      {{episode.number}} {{episode.title}}
-    {% endif %}
-    </li>
-  {% endfor %}
-{% else %}
-    <li>No incomplete transcripts found!</li>
-{% endif %}
+
+<ul>
 {% assign episodes = site.posts | where: "categories", "incomplete" | reverse %}
 {% for post in episodes %}
-   <li>
-     <div class='ep-left'>
-       <a class='ep-number' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_number | escape }}</a> 
-       <a class='ep-title' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_title | escape }}</a>
-     </div>
+  <li>
+    <div class='ep-left'>
+      <a class='ep-number' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_number | escape }}</a> 
+      <a class='ep-title' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_title | escape }}</a>
+    </div>
 
-     <div class='ep-right'>
-       <a class='ep-date' href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%Y-%m-%d" }}</a>
-     </div>
-   </li>
-     
- </ul>
+    <div class='ep-right'>
+      <a class='ep-date' href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%Y-%m-%d" }}</a>
+    </div>
+  </li>
+{% endfor %}
+</ul>
+
 </div>
 </div>
-
-

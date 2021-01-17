@@ -13,6 +13,7 @@ summary: Stellar Firma - Season 1 Q&A <br/><br/>Welcome to another bonus episode
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/s1-qa
   Google Doc: https://docs.google.com/document/d/1dXGYQbKpkg7VLnUP3I3AVbuZkBX6a2LxQ6FmpA6ueKo/edit
+  PDF: https://drive.google.com/file/d/1TDFjBhoJR2_2XX4VjR-iYf-q7RfRinef/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

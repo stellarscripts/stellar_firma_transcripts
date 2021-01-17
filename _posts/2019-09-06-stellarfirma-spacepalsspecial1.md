@@ -2,7 +2,7 @@
 layout: post
 title: Stellar Firma - Space Pals Special 1
 date: 2019-09-06 15:00:00.000000000 +00:00
-categories: special
+categories: incomplete
 episode_number: 
 episode_title: Stellar Firma - Space Pals Special 1
 tags: []

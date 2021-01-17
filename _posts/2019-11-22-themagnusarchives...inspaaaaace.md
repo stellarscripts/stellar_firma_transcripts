@@ -13,6 +13,7 @@ summary: The Magnus Archives... in SPAAAAACE <br/><br/>Statement of T. Geistman 
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/magnus-in-space
   Google Doc: https://docs.google.com/document/d/1DpeChM3Id81pz9Q2kkuUQrnf-t5iQHCpmk6foJHkuNI/edit?usp=sharing
+  PDF: https://drive.google.com/file/d/15z_EgsKWygFeiRFEI8nd3o_fRWiBX85_/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

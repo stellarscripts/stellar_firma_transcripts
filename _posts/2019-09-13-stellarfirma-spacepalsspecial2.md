@@ -13,7 +13,7 @@ summary: Tim and Ben are joined by Rusty Quill Gaming regulars, Alex, Helen and 
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/space-pals-2
   Google Doc: https://docs.google.com/document/d/1YUIJJ4baK82fWszEmdBy8oF1qLFBiptbsLq55zfEliU/edit
-  PDF: https://drive.google.com/file/d/12kO3yVX3I2Uylf6coLO6pJem-ylHmvYe/view?usp=sharing
+  PDF: https://drive.google.com/file/d/1cNsFshz3a6ceNMnphox5AZsU9eadxDAK/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

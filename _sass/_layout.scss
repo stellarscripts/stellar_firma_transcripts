@@ -225,6 +225,13 @@ ul#search-results {
             font-style:   italic; 
             font-size:    smaller;
         }
+            .post-content_warnings { 
+            font-family:  $font-family-monospace;
+            margin-top:   0; 
+            font-size:    $base-font-size;
+            color:        $grey-color-dark;
+            margin:       1.0rem auto;
+        }
         .post-links {
             margin: 1.0rem auto 0;
             @include media-query($on-palm) { font-size: $small-font-size; }

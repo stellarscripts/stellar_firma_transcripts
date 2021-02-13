@@ -1,0 +1,31 @@
+---
+layout: page_default
+title: 'List of Content Warnings'
+---
+
+{% include latest-news-bar.html %}
+
+<div class="table-of-contents">
+<div class="wrapper">
+
+<ul>
+<li class='ep-sort'><a href="{{ site.baseurl }}/content_warning.html">⇅</a> <a href="{{ site.baseurl }}/index.html">Reverse Sort</a> <a href="{{ site.baseurl }}/content_warning.html">⇅</a></li>
+
+{% assign episodes = site.posts | reverse %}
+{% for post in episodes %}
+  <li>
+    <div class='ep-left'>
+      <a class='ep-number' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_number | escape }}</a> 
+      <a class='ep-title' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_title | escape }}</a>
+    </div>
+
+    <div class='ep-right'>
+      <a class='ep-cw' href="{{ post.url | prepend: site.baseurl }}">{{ post.content_warnings | escape }}</a>
+    </div>
+  </li>
+{% endfor %}
+
+</ul>
+
+</div>
+</div>

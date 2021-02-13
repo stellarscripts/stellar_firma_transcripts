@@ -11,7 +11,40 @@ title: 'List of Content Warnings'
 <ul>
 <li class='ep-sort'><a href="{{ site.baseurl }}/index_reverse.html">⇅</a> <a href="{{ site.baseurl }}/index_reverse.html">Reverse Sort</a> <a href="{{ site.baseurl }}/index_reverse.html">⇅</a></li>
 
-{% assign episodes = site.posts | where: "categories", "episode" "incomplete" %}
+{% assign episodes = site.posts | where: "categories", "episode" %}
+{% for post in episodes %}
+  <li>
+    <div class='ep-left'>
+      <a class='ep-number' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_number | escape }}</a> 
+      <a class='ep-title' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_title | escape }}</a>
+    </div>
+
+    {%- if post.trailer %}
+
+    <div class='ep-center'>
+      <a class='ep-status ep-status-trailer' href="{{ post.url | prepend: site.baseurl }}">TRAILER</a> 
+    </div>
+    {%- endif %}
+    {%- if post.unfinished %}
+
+    <div class='ep-center'>
+      <a class='ep-status ep-status-incomplete' href="{{ post.url | prepend: site.baseurl }}">INCOMPLETE</a> 
+    </div>
+    {%- elsif post.unofficial %}
+
+    <div class='ep-center'>
+      <a class='ep-status ep-status-unofficial' href="{{ post.url | prepend: site.baseurl }}">UNOFFICIAL</a> 
+    </div>
+    {%- else -%}
+    {%- endif %}
+
+    <div class='ep-right'>
+      <a class='ep-cw' href="{{ post.url | prepend: site.baseurl }}">{{ post.content_warnings | escape }}</a>
+    </div>
+  </li>
+{% endfor %}
+  
+{% assign episodes = site.posts | where: "categories", "incomplete" %}
 {% for post in episodes %}
   <li>
     <div class='ep-left'>

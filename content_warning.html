@@ -11,7 +11,7 @@ title: 'List of Content Warnings'
 <ul>
 <li class='ep-sort'><a href="{{ site.baseurl }}/index_reverse.html">⇅</a> <a href="{{ site.baseurl }}/index_reverse.html">Reverse Sort</a> <a href="{{ site.baseurl }}/index_reverse.html">⇅</a></li>
 
-{% assign episodes = site.posts | where: "categories", "episode" | reverse %}
+{% assign episodes = site.posts | reverse %}
 {% for post in episodes %}
   <li>
     <div class='ep-left'>
@@ -24,43 +24,7 @@ title: 'List of Content Warnings'
     </div>
   </li>
 {% endfor %}
-  
-{% assign episodes = site.posts | where: "categories", "incomplete" | reverse %}
-{% for post in episodes %}
-  <li>
-    <div class='ep-left'>
-      <a class='ep-number' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_number | escape }}</a> 
-      <a class='ep-title' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_title | escape }}</a>
-    </div>
 
-    <div class='ep-right'>
-      <a class='ep-cw' href="{{ post.url | prepend: site.baseurl }}">{{ post.content_warnings | escape }}</a>
-    </div>
-  </li>
-{% endfor %}
-</ul>
-
-</div>
-</div>
-
-
-<div class="table-of-contents">
-<div class="wrapper">
-
-<ul>
-{% assign episodes = site.posts | where: "categories", "special" | reverse %}
-{% for post in episodes %}
-  <li>
-    <div class='ep-left'>
-      <a class='ep-number' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_number | escape }}</a> 
-      <a class='ep-title' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_title | escape }}</a>
-    </div>
-
-    <div class='ep-right'>
-      <a class='ep-cw' href="{{ post.url | prepend: site.baseurl }}">{{ post.content_warnings | escape }}</a>
-    </div>
-  </li>
-{% endfor %}
 </ul>
 
 </div>

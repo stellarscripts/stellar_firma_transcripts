@@ -11,6 +11,10 @@
   shortname: Incomplete
   path:      incomplete.html
   local:     true
+- name:      List of Content Warnings
+  shortname: Content Warnings
+  path:      content_warning.html
+  local:     true
 - name:      Site News
   shortname: News
   path:      news.html

@@ -14,13 +14,15 @@ title: 'List of Content Warnings (by date released)'
 {% assign episodes = site.posts | reverse %}
 {% for post in episodes %}
   <li>
-   <p>
-    <a class='ep-number' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_number | escape }}</a> 
-    <a class='ep-title' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_title | escape }}</a>
-   </p>
-   <p>
-    <a class='ep-cw' href="{{ post.url | prepend: site.baseurl }}">{{ post.content_warnings | escape }}</a>
-   </p>
+    <div class='ep-right'>
+      <a class='ep-date' href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%Y-%m-%d" }}</a>
+    </div>
+    
+    <div class='ep-left'>
+      <a class='ep-number' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_number | escape }}</a> 
+      <a class='ep-title' href="{{ post.url | prepend: site.baseurl }}">{{ post.episode_title | escape }}</a>
+      <br/><a class='ep-cw' href="{{ post.url | prepend: site.baseurl }}">{{ post.content_warnings | escape }}</a>
+    </div>
   </li>
 {% endfor %}
 

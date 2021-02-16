@@ -36,9 +36,9 @@
   <a class="acast-link" target="_blank" href="{{ page.acast_url }}">Listen on ACast</a>{% if page.wiki_url %} | <a href="{{page.wiki_url}}">View on Wiki</a>{% endif %}
 
 {%- if page.official -%}
-  <br/>Source: <a class="source-link source-homepage" target="_blank" href="https://rustyquill.com/">Official Transcript</a>
+  <br/>Source: <a class="source-link source-homepage" target="_blank" href="https://rustyquill.com/stellarfirma/">Official Transcript</a>
 {%- elsif page.sources and page.sources.size == 1 -%}
-  <br/>Source: {% for link in page.sources %}<a target="_blank" href="{{ link[1] }}">{{ link[0] }}</a>{% endfor %}
+  <br/>Source: {% for link in page.sources %}<a target="_blank" href="{{ link[1] }}">{{ link[0] }}</a>{% endfor %}<span class="unofficial-label">[UNOFFICIAL]</span>
 {%- elsif page.sources and page.sources.size > 1 -%}
   <br/>Sources: | {% for link in page.sources %}<a target="_blank" href="{{ link[1] }}">{{ link[0] }}</a> | {% endfor %}
 {%- endif -%}

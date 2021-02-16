@@ -2,7 +2,7 @@
 layout: post
 title: Season 1 Teaser
 date: 2019-02-05 00:05:09.000000000 +00:00
-categories: [trailer, special]
+categories: [trailer, episode]
 trailer: true
 episode_number:
 episode_title: Season 1 Teaser

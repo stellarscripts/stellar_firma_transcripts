@@ -17,6 +17,7 @@ formats:
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
+wiki_url: https://stellar-firma.fandom.com/wiki/Season_1_Teaser
 ---
 
 <iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/season1teaser" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>

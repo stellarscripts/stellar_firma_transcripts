@@ -17,6 +17,8 @@ formats:
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
+wiki_url: https://stellar-firma.fandom.com/wiki/Space_Pals_Special_1
+
 ---
 
 <iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/stellarfirma-spacepalsspecial1" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>

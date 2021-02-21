@@ -17,6 +17,8 @@ formats:
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
+wiki_url: https://stellar-firma.fandom.com/wiki/Exit_Interviews_of_Davids_1-3
+
 ---
 
 <iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/exitinterviewsofdavids1-3-5f1d81a2" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>

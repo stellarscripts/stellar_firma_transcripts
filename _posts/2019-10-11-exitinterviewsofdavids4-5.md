@@ -17,6 +17,8 @@ formats:
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
+wiki_url: https://stellar-firma.fandom.com/wiki/Exit_Interviews_of_Davids_4-5
+
 ---
 
 <iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/exitinterviewsofdavids4-5" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>

@@ -17,6 +17,8 @@ formats:
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
+wiki_url: https://stellar-firma.fandom.com/wiki/Executive_Quarterly_-_Ep_37Q2FD,_H._Piltz_(ID_63277482)
+
 ---
 
 <iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/executivequarterly-ep37q2fd-h.piltz-id63277482-" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>

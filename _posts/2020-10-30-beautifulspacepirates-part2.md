@@ -10,9 +10,9 @@ content_warnings: Sexual references, Spiders, Mild body horror, Gun violence (in
 acast_url: https://play.acast.com/s/stellarfirma/rqg-stlhalloweencrossoverspecial2020-part2
 summary: "RQG/STL Halloween Crossover Special 2020 - Part 2 <br/><br/>Join Helen, Ben, Lydia, Tim and Imogen as they explore a haunted space station in Grant Howitt's Beautiful Space Pirates. <br/><br/>This week Erogenous shoots a ceiling robot, the Countess finds a window, Bathin conquers a strange pyramid, and Spinglewald strikes a pose."
 formats:
-  HTML: 
-  Google Doc: 
-  PDF: 
+  
+  
+  
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

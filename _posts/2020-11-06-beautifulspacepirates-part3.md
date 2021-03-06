@@ -10,9 +10,9 @@ content_warnings: Sexual references, Spiders, Mild body horror, Gun violence (in
 acast_url: https://play.acast.com/s/stellarfirma/rqg-stlhalloweencrossoverspecial2020-part2-acast441755d2
 summary: "RQG/STL Halloween Crossover Special 2020 - Part 3 <br/><br/>Join Helen, Ben, Lydia, Tim and Imogen for the conclusion of their spooky adventure in Grant Howitt's Beautiful Space Pirates! <br/><br/>This week Countess Underscore over-varnishes, Bathin breaks up a standoff, Spinglewald glares, and Erogenous asks about beef."
 formats:
-  HTML: 
-  Google Doc: 
-  PDF: 
+  
+  
+  
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

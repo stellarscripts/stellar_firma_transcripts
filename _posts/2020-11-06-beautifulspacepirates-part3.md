@@ -16,6 +16,8 @@ formats:
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
+wiki_url: https://stellar-firma.fandom.com/wiki/RQG/STL_Halloween_Crossover_Special_2020_-_Part_3
+
 ---
 
 <iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/rqg-stlhalloweencrossoverspecial2020-part2-acast441755d2" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>

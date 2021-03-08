@@ -17,6 +17,8 @@ formats:
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false
+wiki_url: https://stellar-firma.fandom.com/wiki/Executive_Quarterly_-_Ep_39E5YG,_No._1_(ID_1)
+
 ---
 
 <iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/stellarfirma/executivequarterly-ep39e5yg-no.1-id1-" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>

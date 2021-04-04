@@ -1557,7 +1557,7 @@ Get thee behind me foul Stellar Firma. _(Alan Bennett type voice)_ Get thee behi
 
 #### BEN
 
-_(Alan Bennett voic)__ Why is Alan Bennett doing, uh...?
+_(Alan Bennett voice)_ Why is Alan Bennett doing, uh...?
 
 #### TIM 
 

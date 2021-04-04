@@ -131,7 +131,7 @@ _(crosstalk)_ Oh, come now, nothing?
 
 #### HARTRO
 
-You-- you jest. No really. No, it is a *joy* to work for Stellar Firma. I mean, bless the Board I have come to where I have come. You know, everyday as I smack my face on the floor of my cubicle and alight into action to come and deliver line managerial dictation and-- and-- and* joy*. I just feel like I am the luckiest woman to serve the Board. I love my job!
+You-- you jest. No really. No, it is a *joy* to work for Stellar Firma. I mean, bless the Board I have come to where I have come. You know, everyday as I smack my face on the floor of my cubicle and alight into action to come and deliver line managerial dictation and-- and-- and *joy*. I just feel like I am the luckiest woman to serve the Board. I love my job!
 
 #### SIGMUND
 

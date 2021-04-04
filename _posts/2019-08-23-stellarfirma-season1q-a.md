@@ -1745,7 +1745,7 @@ _(as David but with an accent)_ And I think I can-- my accent isn't quite right,
 
 #### BEN
 
-Well, yeah we can both do David, [__TIM:__ Yes.]__ _(as Trexel)_ and we can both do Trexel.
+Well, yeah we can both do David, [__TIM:__ Yes.] _(as Trexel)_ and we can both do Trexel.
 
 #### TIM 
 

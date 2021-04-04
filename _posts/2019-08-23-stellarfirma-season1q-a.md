@@ -633,7 +633,7 @@ Yeah, okay. We're moving onto questions that are more about the production side 
 
 #### BEN
 
-Oh, I thought you were talking about which one of us was the best 'cause* I am* the best boy.
+Oh, I thought you were talking about which one of us was the best 'cause *I am* the best boy.
 
 #### TIM
 
@@ -2653,7 +2653,7 @@ Yeah.
 
 #### BEN
 
-And we sort of sat down and went, "Ooh, hang on a minute." [__TIM:__ Yeah, I mean, you guys haven't guessed.] So, this is the reason we've come up with. Again, improv is great [__TIM:__ Improv!] 'cause you can just cover your ass whenever you want and shout* improv*!
+And we sort of sat down and went, "Ooh, hang on a minute." [__TIM:__ Yeah, I mean, you guys haven't guessed.] So, this is the reason we've come up with. Again, improv is great [__TIM:__ Improv!] 'cause you can just cover your ass whenever you want and shout *improv*!
 
 #### TIM
 

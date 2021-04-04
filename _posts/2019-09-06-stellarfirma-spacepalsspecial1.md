@@ -707,7 +707,7 @@ So I backed off of war crimes, but--
 
 #### LYDIA
 
-*No!* *I'm**...*
+*No! I'm*...
 
 #### BEN
 
@@ -4121,7 +4121,7 @@ You--no, what you do is you suddenly cut to a bunch of, like, 1950s stock footag
 
 #### LYDIA
 
-*(simult,* *Marvin* *Gaye's* *"Let's* *Get* *it* *On**")* Bowp-wowp-wowp-wowwwwwww!
+*(simult*, Marvin Gaye's *"Let's Get it On")* Bowp-wowp-wowp-wowwwwwww!
 
 #### ALEX
 

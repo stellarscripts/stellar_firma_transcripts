@@ -667,7 +667,7 @@ Well, how does it work, Mr. Science?
 
 #### TIM 
 
-_(indignant)_ Go on! So, okay, yeah, __[Bryn laughs]__ I've got a question for you, *Bryn*! Bryn, [__BRYN:__ Please, please.] Captain-- Captain *Maths*! So, okay, let's take orbit out of it, because I appreciate that the orbit is a lot of it. But let's just say you've got a planet in it's stationary--I know that that means it's not a planet, Bryn, __[Bryn laughs]__ but bear with me--so, let's say you've got a stationary, rogue astronomical body, and you've got it, and you've got it next to a, let's say, a regular-sized sun. And by regular-sized sun, I mean our sun, because I'm sun-ist. [__BRYN:__ Sure, sure.] So, you've got it there and that's, sort of, a regular gravity. So you take that rogue astronomical body, and you don't change anything about it other than it's now next to a much, much larger sun with, therefore, much higher gravity. So, whilst I appreciate that part of it will be that the planet will fall into it,* before* that, is it possible that it could, like, pull people off of it, out into space? Like, if you have a sudden, like, gravity-creating object--
+_(indignant)_ Go on! So, okay, yeah, __[Bryn laughs]__ I've got a question for you, *Bryn*! Bryn, [__BRYN:__ Please, please.] Captain-- Captain *Maths*! So, okay, let's take orbit out of it, because I appreciate that the orbit is a lot of it. But let's just say you've got a planet in it's stationary--I know that that means it's not a planet, Bryn, __[Bryn laughs]__ but bear with me--so, let's say you've got a stationary, rogue astronomical body, and you've got it, and you've got it next to a, let's say, a regular-sized sun. And by regular-sized sun, I mean our sun, because I'm sun-ist. [__BRYN:__ Sure, sure.] So, you've got it there and that's, sort of, a regular gravity. So you take that rogue astronomical body, and you don't change anything about it other than it's now next to a much, much larger sun with, therefore, much higher gravity. So, whilst I appreciate that part of it will be that the planet will fall into it, *before* that, is it possible that it could, like, pull people off of it, out into space? Like, if you have a sudden, like, gravity-creating object--
 
 #### BRYN
 
@@ -1049,7 +1049,7 @@ Pics or it didn't happen, Bryn! Pics or it didn't happen.
 
 #### BRYN
 
-Well, indeed. We have discovered as a species something in the order of four hundred to five hundred exoplanets outside our solar system, but we don't know enough about them to establish whether tidally locked planets actually exist, but orbital simulations indicate that being tidally locked is quite a common state for an orbital body. So it seems likely that there *are* planets out there [__TIM:__ Hm.] where, yeah, they essentially have a light side and a dark side, rather than a day-night cycle. *But,* it comes with its own host of problems because, as I said earlier, a sun is in charge of providing light and, much more importantly,* heat* to a planet. So what do you think happens when you've got a planet that is tidally locked to its sun wh-- and the key difference between the light side and the dark side?
+Well, indeed. We have discovered as a species something in the order of four hundred to five hundred exoplanets outside our solar system, but we don't know enough about them to establish whether tidally locked planets actually exist, but orbital simulations indicate that being tidally locked is quite a common state for an orbital body. So it seems likely that there *are* planets out there [__TIM:__ Hm.] where, yeah, they essentially have a light side and a dark side, rather than a day-night cycle. *But,* it comes with its own host of problems because, as I said earlier, a sun is in charge of providing light and, much more importantly, *heat* to a planet. So what do you think happens when you've got a planet that is tidally locked to its sun wh-- and the key difference between the light side and the dark side?
 
 #### BEN 
 
@@ -1251,7 +1251,7 @@ Yeah, yeah, they're regular--
 
 #### TIM
 
-They're regular accountant size. Let's say, five-foot eight? You know, they're not* really* tall, 'cause otherwise, they wouldn't have been accountants. So they're about five-foot eight-- Apologies to any accountants listening, you're very average in height. __[Bryn laughs]__ They're about five-foot eight-- Take that, you averagely-heighted people! So, they're about five-foot eight, a hundred and eighty pounds-- I don't know why I used pounds, I have no idea __[laughs]__ how heavy people are in pounds. Twelve and a half stone, let's say. Yeah! It's all regular accountants!
+They're regular accountant size. Let's say, five-foot eight? You know, they're not *really* tall, 'cause otherwise, they wouldn't have been accountants. So they're about five-foot eight-- Apologies to any accountants listening, you're very average in height. __[Bryn laughs]__ They're about five-foot eight-- Take that, you averagely-heighted people! So, they're about five-foot eight, a hundred and eighty pounds-- I don't know why I used pounds, I have no idea __[laughs]__ how heavy people are in pounds. Twelve and a half stone, let's say. Yeah! It's all regular accountants!
 
 #### BRYN
 
@@ -1315,7 +1315,7 @@ _(crosstalk)_ So how hot is each individual accountant?
 
 #### BEN
 
-Well, they're probably... I'd say, about a hundred and fifty degrees, but what we do is-- remember, they were there to make creeks, so what you do is you* group* accountants together at the source of a creek you wish to make and then you would place them at regular intervals just to keep the water flowing.
+Well, they're probably... I'd say, about a hundred and fifty degrees, but what we do is-- remember, they were there to make creeks, so what you do is you *group* accountants together at the source of a creek you wish to make and then you would place them at regular intervals just to keep the water flowing.
 
 #### TIM
 
@@ -1489,7 +1489,7 @@ That's fair. That's fair
 
 #### TIM
 
-Let's say it's the size of the Earth, you've got Lake Victoria, everything else is land. You know, it's a *lot* of water*,* but in comparison to the size of the planet, not that much.
+Let's say it's the size of the Earth, you've got Lake Victoria, everything else is land. You know, it's a *lot* of water, but in comparison to the size of the planet, not that much.
 
 #### BRYN
 
@@ -1501,7 +1501,7 @@ That's a true fact Tim stated there. A true, unequivocal fact.
 
 #### BRYN
 
-I can't disagree with you. I can't disagree with you. __[Tim laughs]__ Okay, so I think you've answered my questions about the polar bear planet. Now, one of your planets did have a* significant* amount of the surface covered in lava.
+I can't disagree with you. I can't disagree with you. __[Tim laughs]__ Okay, so I think you've answered my questions about the polar bear planet. Now, one of your planets did have a *significant* amount of the surface covered in lava.
 
 #### BEN
 
@@ -1521,7 +1521,7 @@ Yes.
 
 #### BRYN
 
-Now, early on in the life cycle of a rocky planet, we believe that they were indeed, mostly, a surface of lava. [__TIM:__ Mm-hm.] Do you guys have any, sort of, ballpark estimates of how hot *lava* is in general.
+Now, early on in the life cycle of a rocky planet, we believe that they were indeed, mostly, a surface of lava. [__TIM:__ Mm-hmm.] Do you guys have any, sort of, ballpark estimates of how hot *lava* is in general.
 
 #### TIM
 
@@ -1571,7 +1571,7 @@ _(in a sarcastic, know-it-all tone)_ Should we have said the temperature of magm
 
 #### BRYN
 
-So the temperature of magma, indeed, can be hotter than 1200°, in fact, and if the entire surface of your planet is lava then the lava is not hitting other things to cool down. So, in fact, an entirely lava-covered planet is likely to be a little bit hotter than lava on Earth. You'll notice that 1200°, if we're taking that as the temperature figure, which seems reasonable, is not* quite* within what we referred to earlier as the Goldilocks Zone.
+So the temperature of magma, indeed, can be hotter than 1200°, in fact, and if the entire surface of your planet is lava then the lava is not hitting other things to cool down. So, in fact, an entirely lava-covered planet is likely to be a little bit hotter than lava on Earth. You'll notice that 1200°, if we're taking that as the temperature figure, which seems reasonable, is not *quite* within what we referred to earlier as the Goldilocks Zone.
 
 #### TIM
 
@@ -1759,7 +1759,7 @@ It's gonna blow our goddamned mind.
 
 #### TIM
 
-__[laughs]__ I'm gonna redefine science for you. So, okay, so a sun is a large obj-- I don't think they have to be large-- Do you know, actually-- No, my first question to you, base question, is a sun defined by its... well, a sun is actually not a definition, as I understand it, it's a star. A sun is just what we call* our* star [__BRYN:__ Yes. Yes.] So a star, is it defined by its size?
+__[laughs]__ I'm gonna redefine science for you. So, okay, so a sun is a large obj-- I don't think they have to be large-- Do you know, actually-- No, my first question to you, base question, is a sun defined by its... well, a sun is actually not a definition, as I understand it, it's a star. A sun is just what we call *our* star [__BRYN:__ Yes. Yes.] So a star, is it defined by its size?
 
 #### BRYN
 

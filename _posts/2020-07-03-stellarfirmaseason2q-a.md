@@ -793,7 +793,7 @@ There you go! Asked and answered. Now, onto the second part about books and stuf
 
 #### BEN
 
-What is on my bookshelf? Just a lot of British white nerd sh-__[bleep]__. Genuinely, like it's one of those things where, through recent events, a lot of people will be like, "Hey, what's on my bookshelf?" and it turns out it's a bunch of white men on mine.
+What is on my bookshelf? Just a lot of British white nerd sh-**[bleep]**. Genuinely, like it's one of those things where, through recent events, a lot of people will be like, "Hey, what's on my bookshelf?" and it turns out it's a bunch of white men on mine.
 
 #### TIM
 

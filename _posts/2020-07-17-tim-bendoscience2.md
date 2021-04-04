@@ -1083,7 +1083,7 @@ The salt mine.
 
 #### TIM
 
-Unless you have a very* thin* but very *thickly* shielded pipe and a good line of sight and the earth isn't curved.
+Unless you have a very *thin* but very *thickly* shielded pipe and a good line of sight and the earth isn't curved.
 
 #### BRYN
 

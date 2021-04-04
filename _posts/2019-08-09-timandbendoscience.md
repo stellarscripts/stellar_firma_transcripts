@@ -1183,7 +1183,7 @@ Which we are!
 
 #### BEN
 
-Alright, TV*.*
+Alright, TV.
 
 #### BRYN
 

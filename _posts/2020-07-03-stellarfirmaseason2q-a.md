@@ -13,7 +13,7 @@ summary: Stellar Firma Season 2 Q&A <br/><br/>Tim and Ben answer some of the que
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/s2-qa
   Google Doc: https://docs.google.com/document/d/1ij8EhMwnOh6R_6B8E5ayQPb4neEHNftBKg_iUQsyqtg/edit
-  PDF: https://drive.google.com/file/d/15zXhqZjh_KEeWug-VQeCg7lI09WFQutv/view?usp=sharing
+  PDF: https://drive.google.com/file/d/1g9JTyP6S1ioUkV48v7egoOJIwUiNWpAo/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

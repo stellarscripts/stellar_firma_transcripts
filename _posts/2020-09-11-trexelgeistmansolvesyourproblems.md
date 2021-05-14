@@ -13,7 +13,7 @@ summary: Trexel Geistman Solves Your Problems <br/><br/>By exclusive (court-)app
 formats:
   HTML: https://stellarscripts.tumblr.com/transcripts/trexel-agony-aunt
   Google Doc: https://docs.google.com/document/d/1DDNoHUupKNHn7kGvVNjhzbdCOwETF58k9SciMGfmg6c/edit
-  PDF: https://drive.google.com/file/d/1EwTtSgHbG71uv-R2dvHtFMEhjHFX0Xjq/view?usp=sharing
+  PDF: https://drive.google.com/file/d/1VkAPEGq99VMiF1xt00sHBe8iRYhZ3QNS/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

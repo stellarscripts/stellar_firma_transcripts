@@ -12,7 +12,7 @@ summary: Tim chats with editor Maddy Searle and producer Katie Seaton about maki
 formats:
   HTML: https://docs.google.com/document/d/e/2PACX-1vSoIeTQ69Wbbl5YBbHlquFBHkmyjovNEn8t6hkXcxIfIl422yge8pitb0x6SvB0QPRd5g8dzjZ74LqR/pub
   Google Doc: https://docs.google.com/document/d/1bhsSKctAWnR4kRKJZXv2efqk3roIJbspK3DTRd9Jqps/
-  PDF: https://drive.google.com/file/d/1PGVI11UT5umfd_QLW6tisjoiA2kT6YuV/view?usp=sharing
+  PDF: https://drive.google.com/file/d/1SGDhRiixn4kOk9pzH5GcKxqkhsTYHAOW/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

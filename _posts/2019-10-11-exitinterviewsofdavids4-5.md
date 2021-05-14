@@ -13,7 +13,7 @@ summary: Quality control and behaviour regulation assessments for the clone assi
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/exit-interviews-2
   Google Doc: https://docs.google.com/document/d/13lUIOakNAs5jCg0yTZrC0u2W4qwFiLBbrOJITFRcePM/edit
-  PDF: https://drive.google.com/file/d/1ateWg5Z6bSC4ailNSQOg7GxO6IU5VJvq/view?usp=sharing
+  PDF: https://drive.google.com/file/d/1_p7G1dNtehA78D4YU-bysnXQqNk75faW/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

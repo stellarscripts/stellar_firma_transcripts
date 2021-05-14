@@ -13,7 +13,7 @@ summary: 'Tim and Ben do SCIENCE Again! <br/><br/>Welcome to this bonus episode 
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/stellar-science2
   Google Doc: https://docs.google.com/document/d/1W7dU1_1rMZFUPHyhhwdIdmxx_nyki323B1cCQmbhSJE/edit
-  PDF: https://drive.google.com/file/d/15zXhqZjh_KEeWug-VQeCg7lI09WFQutv/view?usp=sharing
+  PDF: https://drive.google.com/file/d/1ou1MOPbXbyQxCXCgm0ehh2okj7_eDqGw/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

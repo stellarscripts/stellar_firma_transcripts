@@ -13,7 +13,7 @@ summary: Stellar Firma - Tim & Ben do SCIENCE <br/><br/>Welcome to this bonus ep
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/stellar-science
   Google Doc: https://docs.google.com/document/d/1dKHXUMZ8mQwkQAZ9N8RaKbEUF16420FG8j0YyKAjQU8/edit
-  PDF: https://drive.google.com/file/d/1WFOYVHTBEx58QH8QjaC1JWI5lB1y6cKJ/view?usp=sharing
+  PDF: https://drive.google.com/file/d/1EKs6BUWxvLt_0U2igD4LdMsKcmjWTnB_/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

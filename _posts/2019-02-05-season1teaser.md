@@ -14,7 +14,7 @@ summary: 'Trailer <br/>Recycling <br/><br/>Citizen Employee T. Geistman (ID 3628
 formats:
   HTML: https://stellarscripts.tumblr.com/transcripts/s1-teaser
   Google Doc: https://docs.google.com/document/d/1TV_lXqCZgYmJvqry2dKCcFnFl7-PmRSzMg3zljDE9KI/edit
-  PDF: https://drive.google.com/file/d/1rnt7llTj3TDH6-8Q7JVfUEH0OpETWeZI/view?usp=sharing
+  PDF: https://drive.google.com/file/d/16hr0_HuIJnIPartZgJKgq2u5k4_Lh-Mr/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

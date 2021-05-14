@@ -13,7 +13,7 @@ summary: Season 2 Outtakes (Part 2) <br/><br/>Gosh darns and fiddlesticks <br/><
 formats:
   HTML: https://stellarscripts.tumblr.com/transcripts/s2-bloopers-part-2
   Google Doc: https://docs.google.com/document/d/1cpddVtCxCOucwBWEhVa-17ncVNtvQMUD5V4swJqCdEY/edit
-  PDF: https://drive.google.com/file/d/1xAp3arS_z94FAKQCptdwyyo53hxtfbgK/view?usp=sharing
+  PDF: https://drive.google.com/file/d/1JyPTjA4N9PE0l9IukUbNuSo0jbxOzO8b/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

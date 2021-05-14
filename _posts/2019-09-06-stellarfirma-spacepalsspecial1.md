@@ -13,7 +13,7 @@ summary: It's time for a special crossover! Tim and Ben join Rusty Quill Gaming 
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/space-pals-1
   Google Doc: https://docs.google.com/document/d/1_AqtwqL-FwJsNcr3Yt6afh2SH9aEEHHA0AZVQnlNkYo/edit
-  PDF: https://drive.google.com/file/d/1Scmt_HGTK0nNSbRFdL13P7a9viHEE8ua/view?usp=sharing
+  PDF: https://drive.google.com/file/d/14wuQfUjb31IeTHI0Twx8xcdpIgnL4cGJ/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

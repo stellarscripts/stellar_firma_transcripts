@@ -13,7 +13,7 @@ summary: Season 2 Bloopers (part 1) <br/><br/>Whoopsies and OH-NOs <br/><br/>CLI
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/s2-bloopers1
   Google Doc: https://docs.google.com/document/d/18P6Y6RNML17eit4XKsrpBdoNTzEzU1Q6mog5eDnzI3k/edit
-  PDF: https://drive.google.com/file/d/1plkPt3u43a8R05JIzCN0HnXtL0lb-Ke9/view?usp=sharing
+  PDF: https://drive.google.com/file/d/1oPICw6nYO1Ayg42U1N6bu0IfYuLVTW5u/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

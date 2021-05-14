@@ -13,7 +13,7 @@ summary: Mandatory Winter Holiday Client Communiqué <br/><br/>Incoming Message 
 formats: 
   HTML: https://stellarscripts.tumblr.com/transcripts/s2-holiday
   Google Doc: https://docs.google.com/document/d/1fwN_yNLmwIVRku60ZUZfZevoJEQYoVAqC7xpw8PeBJU/edit
-  PDF: https://drive.google.com/file/d/16-cD-yWbm9jIpkeUdgx6_VJBdW5yYeDo/view?usp=sharing
+  PDF: https://drive.google.com/file/d/15Ud8WhZIRMI9SGtKxmfnVOXu_7dzCegq/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: false

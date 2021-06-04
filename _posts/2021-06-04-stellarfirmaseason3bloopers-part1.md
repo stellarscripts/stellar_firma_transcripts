@@ -289,7 +289,7 @@ Sounds awful, like a plongeur with a bit of mechanicary-- Mechanicary?
 
 #### TIM
 
-Remember, __BEN:__ whenever you're confused, so is David, and you're just like, 'I d-- Okay.'
+Remember, Ben: whenever you're confused, so is David, and you're just like, 'I d-- Okay.'
 
 #### BEN
 

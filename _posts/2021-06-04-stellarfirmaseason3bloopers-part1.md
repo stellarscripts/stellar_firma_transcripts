@@ -17,7 +17,7 @@ formats:
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: true
-wiki_url: []
+wiki_url: https://stellar-firma.fandom.com/wiki/STL_Season_3_Outtakes_1
 
 ---
 

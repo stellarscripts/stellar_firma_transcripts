@@ -8,7 +8,7 @@ episode_title: Stellar Firma Season 3 Outtakes 1
 tags: []
 content_warnings: "Innuendo. Mentions of: fire, guns, food, alcohol & drugs, death. SFX: loud beeps throughout."
 voiced: []
-acast_url: []
+acast_url: https://play.acast.com/s/stellarfirma/stlseason3outtakes1
 summary: "STL Season 3 Outtakes 1 <br/><br/>What did we edit out of the first half of season 3? Listen and learn..."
 formats: 
   
@@ -21,7 +21,7 @@ wiki_url: []
 
 ---
 
-[]
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/9b621e90-6416-4c18-8fa7-f032c46c6f74/55bfe044-c297-49cf-8a3d-5da8112e721b" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
 #### TIM
 

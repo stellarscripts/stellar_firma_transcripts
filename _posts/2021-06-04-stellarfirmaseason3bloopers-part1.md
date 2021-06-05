@@ -49,11 +49,11 @@ Sorry. Plonge my own plates. There a m-- There was enough time, we can leave it.
 
 #### TIM
 
-Look: he can **[bleep]**whatever damn __[unintelligible]__ he wants--
+Look: he can **[bleep]** whatever damn __[unintelligible]__ he wants--
 
 #### BEN
 
-[laughing] Tim! __[Tim begins apologising in the background]__ You are loose today!
+_(laughing)_ Tim! __[Tim begins apologising in the background]__ You are loose today!
 
 #### TIM
 
@@ -515,7 +515,9 @@ Lucious Larry licks loads of liquids from Linda--
 
 Jesus Christ.
 
-EVERYONE: Lucious Larry licks loads of liquids from Linda.
+#### EVERYONE
+
+Lucious Larry licks loads of liquids from Linda.
 
 #### BEN
 
@@ -935,7 +937,7 @@ Sixty. Sixty!!
 
 #### TIM
 
-__Say it!__
+_Say it!_
 
 ------
 

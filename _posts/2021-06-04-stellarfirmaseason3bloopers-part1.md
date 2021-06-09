@@ -13,7 +13,7 @@ summary: "STL Season 3 Outtakes 1 <br/><br/>What did we edit out of the first ha
 formats: 
   
   Google Doc: https://drive.google.com/file/d/127UeG3s4w9JWq9q92i-ws5nqN4OTu9-X/view?usp=sharing
-  PDF: https://drive.google.com/file/d/1hTbSeQHYVI08Hmv8KWGI_-wyW5RbaQKz/view?usp=sharing
+  PDF: https://rustyquillcom.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?id=%2FShared%20Documents%2FRusty%20Quill%20Public%20Access%2FTranscripts%2FStellar%20Firma%2FSTL%20PDF%2FSTL%20S3%20Bloopers%201%2Epdf&parent=%2FShared%20Documents%2FRusty%20Quill%20Public%20Access%2FTranscripts%2FStellar%20Firma%2FSTL%20PDF&p=true&originalPath=aHR0cHM6Ly9ydXN0eXF1aWxsY29tLnNoYXJlcG9pbnQuY29tLzpiOi9nL0VVQTBNb2tYUXc1Rm5YblpHMURxbXBNQkU4T0RIWWpmTFcySEd4Z0dqSW1hR3c_cnRpbWU9MmkzWnpuVXIyVWc
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: true

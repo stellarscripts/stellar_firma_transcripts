@@ -8,7 +8,7 @@ episode_title: Tim And Ben Do SCIENCE A Third Time (part 1)
 tags: []
 content_warnings: "Innuendo & sexual references. Mentions of: death. SFX: loud beeps throughout, coughing, shouting & crosstalk"
 voiced: []
-acast_url: []
+acast_url: https://play.acast.com/s/stellarfirma/stl-timandbendoscienceathirdtime-part1-
 summary: "Welcome to this bonus episode of Stellar Firma, where, once again, Bryn Monroe (Hamid on Rusty Quill Gaming) finds out just how much Tim and Ben know about science… This is part one - enjoy!"
 formats: 
   
@@ -21,4 +21,4 @@ wiki_url: https://stellar-firma.fandom.com/wiki/Tim_And_Ben_Do_SCIENCE_A_Third_T
 
 ---
 
-[]
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/9b621e90-6416-4c18-8fa7-f032c46c6f74/91e78364-4d1f-4928-ab2c-aeeed7d587a8" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>

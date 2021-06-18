@@ -59,7 +59,7 @@ I... ate an apple?
 
 Uh huh. Kid, did you eat the core? Or did you discard that for safety reasons?
 
-#####[Ben begins repeating the word 'no']
+##### [Ben begins repeating the word 'no']
 
 #### BEN
 

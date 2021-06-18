@@ -6,10 +6,10 @@ categories: special
 episode_number: 
 episode_title: Stellar Firma Season 3 Q&A
 tags: []
-content_warnings: "Stellar Firma Season 3 Q&A </br></br>Spoilers for all of Stellar Firma. Discussions of: death (inc. mass death), food, smoking. Mentions of: guns, drugs & alcohol, canon-typical trauma, COVID-19 pandemic. SFX: occasional beeping"
+content_warnings: "Spoilers for all of Stellar Firma. Discussions of: death (inc. mass death), food, smoking. Mentions of: guns, drugs & alcohol, canon-typical trauma, COVID-19 pandemic. SFX: occasional beeping"
 voiced: []
-acast_url: []
-summary: "Tim and Ben answer some of the questions that have been sent in by the fan community."
+acast_url: https://play.acast.com/s/stellarfirma/stellarfirmaseason3q-a
+summary: "Stellar Firma Season 3 Q&A </br></br>Tim and Ben answer some of the questions that have been sent in by the fan community."
 formats: 
   
   Google Doc: https://drive.google.com/file/d/1Sj2GbKB68rjZ_Subcc9XkxIgEDP_Pr6q/view?usp=sharing
@@ -21,7 +21,7 @@ wiki_url: https://stellar-firma.fandom.com/wiki/Stellar_Firma_Season_3_Q%26A
 
 ---
 
-[]
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/9b621e90-6416-4c18-8fa7-f032c46c6f74/6f857ac4-7f4d-4387-b93a-f4debd70eaee" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
 #### TIM
 

@@ -12,8 +12,8 @@ acast_url: https://play.acast.com/s/stellarfirma/stl-timandbendoscienceathirdtim
 summary: "Welcome to this bonus episode of Stellar Firma, where, once again, Bryn Monroe (Hamid on Rusty Quill Gaming) finds out just how much Tim and Ben know about science… This is part one - enjoy!"
 formats: 
   
-  Google Doc: []
-  PDF: []
+  Google Doc: https://rustyquillcom.sharepoint.com/:w:/g/EQyQfU7IeiRNpToMlmQGB9QBEDcKeFzcjS5J-JeOGyw2rw?e=6hNsQX
+  PDF: https://rustyquillcom.sharepoint.com/:b:/g/EX4qV7E6T3pDvSKXJ_vU7esBcEcxohHQWBSQf8Rxmgoq6w?e=RokPaA
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
 official: true

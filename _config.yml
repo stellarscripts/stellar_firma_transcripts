@@ -24,7 +24,7 @@ description: Rusty Quill's Stellar Firma podcast transcripts in slightly-more-re
 # # (http://yourusername.github.io/repository-name)
 # # and NOT your User repository (http://yourusername.github.io)
 # # then add in the baseurl here, like this: "/repository-name"
-# baseurl: "/stellar_firma_transcripts"
+# baseurl: "/belle_sunmare"
 
 permalink: /:categories/:title:output_ext
 

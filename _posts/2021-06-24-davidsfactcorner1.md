@@ -23,7 +23,7 @@ wiki_url: []
 
 []
 
-## Transcribed via StellarScripts
+### Transcribed via StellarScripts
 
 ##### [shorter version of the show theme]
 

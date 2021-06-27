@@ -6,9 +6,9 @@ categories: special
 episode_number: 
 episode_title: David's Fact Corner #1
 tags: []
-content_warnings: "None"
+content_warnings: "Mentions of: mass death"
 voiced: []
-acast_url: []
+acast_url: https://play.acast.com/s/stellarfirma/davidsfactcorner
 summary: "A look at the number one David 7 audio blog! He's got the facts! </br></br>Today's Fact: the Universe's Tallest Structure. </br></br>Researched, written & narrated by David 7. Recorded by I.M.O.G.E.N."
 formats: 
   
@@ -16,12 +16,12 @@ formats:
   PDF: https://drive.google.com/file/d/1oKdiPeBMpSNuGEzhhtP7W5PeDf7czQAl/view?usp=sharing
 sources:
   stellarscripts: http://stellarscripts.tumblr.com/
-official: true
+official: false
 wiki_url: []
 
 ---
 
-[]
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/9b621e90-6416-4c18-8fa7-f032c46c6f74/8d783a96-9859-4f70-a7fc-657b428e3072" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
 ### Transcribed via StellarScripts
 
